@@ -1,4 +1,4 @@
-<ul>
+<ul >
 {% for node in site.navigation %}<li>
   {% if page.url == node.url %}
   	<a href="{{node.url | remove_first: 'index.html'}}" class="active">{{node.title}}</a>

@@ -2,14 +2,9 @@
 order_no: 1
 about: about
 contained: true
-title: Prepare for your last commit
+title: About
 ---
 
-Codefreeze is a unconference with very little structure.
-Actually, it's not a conference at all.
-CodeFreeze is a _time_ and _place_ for software craftspeople to meet.
-We would like to have likeminded people to gather in one place and have long conversations about craftsmanship over a beer.
-And to practice our coding skills.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Did we mention that this place is above the arctic circle? Which is pretty cool.
-Or _freezingly cold actually_.
+Lorem ipsum dolor sit amet, ...

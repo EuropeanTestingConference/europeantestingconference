@@ -18,10 +18,11 @@ $(document).ready(function() {
   if(window.location.hash && $(window.location.hash).length > 0) {
     var offset = $(window.location.hash).offset().top-60;
     
-    if($.browser.safari) bodyelem = $("body")
-    else bodyelem = $("html,body");
+//    if($.browser.safari) bodyelem = $("body")
+//    else bodyelem = $("html,body");
+bodyelem = $("html,body");
 
-    bodyelem.scrollTop(offset);
+//    bodyelem.scrollTop(offset);
   }
   
   

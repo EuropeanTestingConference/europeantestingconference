@@ -1,4 +1,4 @@
-{% assign participant=include.participant%}
+{% assign day=include.day%}
   <li>
     <img src="{{ participant.image }}" />
     <span class="name">{{ participant.name }}</span>

@@ -5,34 +5,26 @@ order_no: 7
 contained: true
 ---
 
-### Winter? Really?
+**European Testing Conference (ETC)** will see its first realization in February 2016 in the lovely city of Bucharest. It’s emerging from the need of putting practical testing from developer and testing perspectives together and from the ideas of Adi Bolboacă (Developer from Romania) and Maaret Pyhäjärvi (Tester from Finland). 
 
-Have you ever been coding under the northern lights? Or in a Lapp daylight? Early-mid February is one of the best times to see northern lights in action. And it also happens, that there's a full moon during the stay. We've done what we can - provide best possible time for some extraordinary experiences.
+The conference will:
 
-We know it might be rather cold. Temperatures down to -25 ºC are normal at the time of the year. For some clothing tips, visit [here](faq)
+ - Travel around Europe with a yearly cycle
+ - Balance practical lessons of testing as developers are learning to do them (checking, as artifact) and as testers are lea rning to do them (exploring, as performance) 
+ - Build on a dialogue culture instead of an argument culture 
+ - Focus on sharing actionable ideas, tools and techniques as talks and workshops in invited and open space setting
+ - Have content for newcomers as well as seasoned in all roles of software development: managers, analysts, designers, developers, testers and operations.  
 
-### Smoke sauna?
+The conference will be 1 day of training workshops (full and half-day) and 2 days of the actual conference, with 3 keynotes in the conference days. 
 
-Being in Lapland in the winter, and one of the most important things is to have a decent sauna. And we do. There's a big enough smoke sauna to have probably up to 30 programmers. And possibility for winter swimming on a relaxing little stream.
+Our mission is to build a practical conference that raises the bar in the testing world by bringing together the often separated perspectives to testing, in a spirit of dialogue and mutual learning. 
 
-### Want to relax a bit while coding?
+In long term, we also seek to raise the bar in how professional conferences are organized as in being fair for the professional speakers. We start with minimum of paying for travel and accommodation, and sharing profits with our speakers. For participants, we hope this means availability to the best possible content, as joining us would not be a financially viable option. 
 
-Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää provides daily trips to nearby fells guided by experienced nature guides. For example, there's a snow shoe trip on Wednesday morning.
+Organizers core group consists of Adi Bolboacă [adibolb](https://twitter.com/adibolb), Maaret Pyhäjärvi [@maaretp](https://twitter.com/maaretp), Llewellyn Falco [@LlewellynFalco](https://twitter.com/LlewellynFalco), Alina Ionescu [@al_innutza](https://twitter.com/al_innutza) and Aki Salmi [@rinkkasatiainen](https://twitter.com/rinkkasatiainen). 
 
+At this point, we’re looking for people to join us in the organizing in three roles:
 
-### And what does it cost?
-
-<strong>The price for the next CodeFreeze is yet to be determined.</strong>
-
-In 2015, the prices were as follows, including stay, breakfast, lunch, dinner and smoke sauna on Tuesday:
-
-* For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 82€ / day
-* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 58€ / day
-* For a [wilderness cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/wilderness-cabin-for-2-4-persons/) 86€-61€ (2-4 persons / cabin)
-* For a [log cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/log-cabin-for-2-2-person/) (very suitable for families): 125€ / day + 36€ / person / day, children 4-12 half price
-
-### Where?
-
-In Kiilopää, Inari, next to Urho Kekkonen National Park. In the middle of nowhere, quite practically - just see the map
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12063975.961110722!2d27.4800873!3d68.3397016!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8a4f8186f405e675!2zRmVsbCBDZW50cmUgS2lpbG9ww6TDpCwgSG90ZWxsaSBOaWlsYW5ww6TDpA!5e0!3m2!1sen!2sfi!4v1409072846085" width="400" height="300" frameborder="0" style="border:0"></iframe>
+ - **Advisory group members**. We seek for geographically dispersed group of people, volunteering to participate a few online discussions about the best possible contents for a conference like this. We will portray you on our website, and keep you updated on our progress, and welcome your help in finding next locations in the upcoming years. This is a great change of building something fun, together. 
+ - **On-site volunteers**. We will need people at the event, who volunteer to help us run the show. This role will get you a free entry, but will also keep you busy for some parts of the conference. 
+ - **Organizers**. We seek people who want to be in our group of organizers, actively putting an effort in making this conference happen. We meet at least bi-weekly online. In particular, we would love to see people with local presence in Bucharest join the group of organizers. 

@@ -35,7 +35,11 @@
 	      	bottom: auto;
 	      	border-width: 0 0 3px;
 			
-			ul { background: transparent; width: auto;}
+			ul { 
+				float: right;
+				background: transparent; 
+				width: auto;
+			}
 			
 			li a { padding: 0 15px; }
 	  	}

@@ -1,5 +1,6 @@
 ---
 layout: sub-page
+contained: true
 ---
 
 {% assign participants = site.participants  %}
