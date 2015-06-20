@@ -1,0 +1,183 @@
+---
+---
+
+#branding
+{
+	z-index: 2000;
+  	height: 130px;
+  	position: relative;
+	border-bottom: 6px solid #003141;
+	background-color: #fff;
+
+	#logo {
+		display: block;
+	  	margin-top: 40px;
+	}
+
+	.site-nav
+	{
+	    z-index: 2000;
+	    position: fixed;
+	    right: 0px;
+	    left: 0px;
+	    top: 0px;
+	    background-color: #FFF;
+	    border-bottom: 1px solid #717171;
+    
+	    @media all and (max-width: 768px)
+	    {
+	        position: relative;
+	        display: inline-block;
+	    }
+    
+
+	    .logo
+	    {
+	        float: left;        
+	    }
+    
+	    ul
+	    {
+	        list-style: none;
+	        float: left;
+	        margin: 0;
+	        padding: 0;
+	    }
+    
+	    li
+	    {
+	        float: left;
+        
+	        a
+	        {
+	            color: #202129;
+	            font-size: 1.2em;
+	            padding: 1em 1.35em;
+	            display: block;
+	            float: left;
+            
+	            &:hover
+	            {
+	                text-decoration: none;
+	                background-color: #152c46;
+	                color: #FFF;
+	            }
+	        }
+	    }
+	}
+}
+
+.site-header
+{
+    z-index: 1000;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    color: #FFF;
+    margin-bottom: 25px;
+    padding-top: 60px;
+    
+    h1
+    {
+        font-size: 4em;
+        font-weight: normal;
+        margin-bottom: 0;
+        margin-top: 0px;  
+    }
+
+    h2
+    {
+        font-weight: normal;
+        font-size: 1.4em;
+        margin: 5px 0 0;
+    }
+    h3
+    {
+        font-weight: normal;
+        margin: 0;
+    }
+    h4
+    {
+        font-weight: normal;
+    }
+
+    a
+    {
+      text-decoration: none;
+      color: inherit;
+    }
+}
+
+#branding {
+  height: 130px;
+  position: relative;
+  z-index: 10;
+  border-bottom: 6px solid #003141;
+}
+  .front #branding {
+    border-bottom: 0;
+  }
+  #branding #logo {
+    display: block;
+    margin-top: 40px;
+  }
+
+#navigation {
+  width: 100%;
+  background: #fff;
+  text-align: right;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: auto;
+  border: 0px solid #003141;
+  -webkit-transition: all 0.1s ease-out;  
+  -moz-transition: all 0.1s ease-out;  
+  -ms-transition: all 0.1s ease-out;  
+  -o-transition: all 0.1s ease-out;  
+  transition: all 0.1s ease-out;
+}
+  #navigation.fixed {
+    position: fixed;
+    top: 0;
+    bottom: auto;
+    border-width: 0 0 3px;
+  }
+  
+  #navigation #logo-mini {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    margin-top: -11px;
+    z-index: 1;
+  }
+  #navigation ul {
+    position: relative;
+    z-index: 2;
+    background: #fff;
+    display: inline-block;
+    width: 100%;
+  }
+    #navigation.fixed ul { background: transparent; width: auto;}
+    #navigation li { display: inline-block; }
+      
+      #navigation li a {
+        display: inline-block;
+        color: #003141;
+        text-decoration: none;
+        text-transform: uppercase;
+        padding: 0 25px;
+        line-height: 3;
+        font-size: 1.125em;
+        background: #fff;
+        
+        -webkit-transition: padding 0.1s linear;  
+        -moz-transition: padding 0.1s linear;  
+        -ms-transition: padding 0.1s linear;  
+        -o-transition: padding 0.1s linear;  
+        transition: padding 0.1s linear;
+      }
+      #navigation.fixed li a { padding: 0 15px; }
+      #navigation li:last-child a { padding-right: 0; }
+      #navigation li a.active { color: #f9921c; }
+      #navigation li a:hover { color: #5f5f5f; }

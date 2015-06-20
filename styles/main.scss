@@ -1,0 +1,598 @@
+---
+---
+
+/*
+ * HTML5 Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+
+/* =============================================================================
+   HTML5 element display
+   ========================================================================== */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
+audio[controls], canvas, video { display: inline-block; *display: inline; *zoom: 1; }
+
+
+/* =============================================================================
+   Base
+   ========================================================================== */
+
+html { font-size: 100%; overflow-y: scroll; -webkit-overflow-scrolling: touch; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+
+body { margin: 0; font-size: 16px; line-height: 1.5; }
+body, button, input, select, textarea { font-family: 'Kreon', serif; color: #555; text-shadow: 0 0 1px rgba(0,0,0,0.01); opacity: 0.9999; -webkit-text-stroke: 1px rgba(0,0,0,0);}
+
+::-moz-selection { background: #003141; color: #fff; text-shadow: none; }
+::selection { background: #003141; color: #fff; text-shadow: none; }
+
+
+/* =============================================================================
+   Links
+   ========================================================================== */
+
+a { color: #003141; text-decoration: none; cursor: pointer;}
+a:visited { color: #003141; }
+a:focus { outline: thin dotted; }
+a:hover, a:active { outline: 0; color: #f9921c; text-decoration: underline;}
+
+
+/* =============================================================================
+   Typography
+   ========================================================================== */
+abbr[title] { border-bottom: 1px dotted; }
+b, strong { font-weight: bold; }
+blockquote { margin: 1em 40px; }
+dfn { font-style: italic; }
+hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+ins { background: #ff9; color: #000; text-decoration: none; }
+mark { background: #ff0; color: #000; font-style: italic; font-weight: bold; }
+
+pre, code, kbd, samp { font-family: monospace, monospace; _font-family: 'courier new', monospace; font-size: 1em; }
+pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
+
+q { quotes: none; }
+q:before, q:after { content: ""; content: none; }
+
+small { font-size: 85%; }
+sub, sup { font-size: 60%; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+
+hgroup { margin: -0.5em 0 1em; }
+
+h1,h2,h3,h4 { color: #003141; font-weight: normal; }
+
+h1 { font-size: 3em; line-height: 1.15; }
+h2 { font-size: 2.25em; font-weight: bold; line-height: 1.25; margin: 0.7em 0 0.3em; }
+h3 { font-size: 1.5em; line-height: 1.25; margin: 0.7em 0 0.3em; }
+
+p {  margin: 0.5em 0; }
+
+/* =============================================================================
+   Lists
+   ========================================================================== */
+
+ul, ol { margin: 1em 0; padding: 0 0 0 30px; }
+dd { margin: 0 0 0 40px; }
+nav ul, nav ol { list-style: none; margin: 0; padding: 0; }
+
+
+/* =============================================================================
+   Embedded content
+   ========================================================================== */
+img { border: 0; -ms-interpolation-mode: bicubic; }
+svg:not(:root) { overflow: hidden; }
+
+/* =============================================================================
+   Figures
+   ========================================================================== */
+figure { margin: 0; }
+
+/* =============================================================================
+   Forms
+   ========================================================================== */
+
+form { margin: 0; }
+fieldset { border: 0; margin: 0; padding: 0; }
+
+legend { border: 0; *margin-left: -7px; padding: 0; }
+label { cursor: pointer; }
+
+button, input, select, textarea { font-size: 100%; margin: 0; vertical-align: baseline; *vertical-align: middle; }
+button, input { line-height: normal; *overflow: visible; }
+button, input[type="button"], input[type="reset"], input[type="submit"] { cursor: pointer; -webkit-appearance: button; }
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; }
+input[type="search"] { -moz-box-sizing: content-box; -webkit-box-sizing: content-box; box-sizing: content-box; }
+button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0; }
+
+textarea { overflow: auto; vertical-align: top; }
+input:valid, textarea:valid {  }
+input:invalid, textarea:invalid { background-color: #f0dddd; }
+
+
+/* =============================================================================
+   Tables
+   ========================================================================== */
+
+table { border-collapse: collapse; border-spacing: 0; }
+ table.data td, table.data th { border: 1px solid #aaa; padding: 2px 6px; }
+th { text-align: left; }
+
+/* =============================================================================
+   Primary styles
+   ========================================================================== */
+
+
+*, *:before, *:after 
+{
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+/* Clearfix */
+.cf {
+    *zoom: 1;
+}
+.cf:before, .cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+body 
+{
+    background: #1c1c1d;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #222222;
+    padding: 0;
+    margin: 0;
+}
+
+a
+{
+    cursor: pointer;
+    text-decoration: none;
+    
+    &:hover
+    {
+        text-decoration: underline;
+    }
+}
+
+p
+{
+    a
+    {
+        color: #1e5dd3;
+    }
+}
+
+.left
+{
+    float: left;
+}
+
+.right
+{
+    float: right;
+}
+
+.width-30
+{
+    width: 30%;
+}
+
+.width-40
+{
+    width: 40%;
+}
+
+.width-50
+{
+    width: 50%;
+}
+
+.width-60
+{
+    width: 60%;
+}
+
+.width-70
+{
+    width: 70%;
+}
+
+
+
+.vertical-center
+{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.container
+{
+    max-width: 1000px;
+    margin: 0 auto;
+
+    .info
+    {
+      max-width: 780px;
+      margin-left: 20px;
+    }
+
+}
+
+.full-width
+{
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.main-content
+{
+    padding: 2em;
+    background: rgba(255,255,255,0.7);
+    margin-bottom: 20px;
+    border-top: 5px solid #557fd0;
+    width: 100%;
+    float: left;
+    
+    h2
+    {
+        font-weight: 600;
+        font-size: 3em;
+        margin-top: 0;
+    }
+    
+    .tile
+    {
+        
+    }
+
+    ul
+    {
+      list-style: none;  
+    }
+}
+
+.tile
+{
+    float: left;
+    height: 230px;
+    text-align: center;
+    width: 25%;
+    position: relative;
+    
+    @media all and (max-width: 768px)
+    {
+        width: 100%;
+    }
+    
+    h3
+    {
+        font-weight: 600;
+        font-size: 30px;
+    }
+    
+    p
+    {
+        font-size: 17px;
+    }
+    
+    &.text-tile
+    {
+        background-color: #092f5f;
+        color: #FFF;
+        padding: 20px;
+    }
+    
+    &.image-tile
+    {
+        &.photo-1
+        {
+            background: url(../images/photo-1.jpg);
+            background-size: cover;
+        }
+        
+        &.photo-2
+        {
+            background: url(../images/photo-2.jpg);
+            background-size: cover;
+        }
+        
+        
+        &.photo-winter-swimming
+        {
+            background: url(../images/photo-winter-swimming.jpg);
+            background-size: cover;
+        }
+
+        &.photo-full-moon
+        {
+            background: url(../images/photo-full-moon.jpg);
+            background-size: cover;
+        }
+        
+        a
+        {
+            position: absolute;
+            bottom: 0px;
+            left: 0px;
+            width: 100%;
+            display: block;
+            background: rgba(0,0,0,0.3);
+            color: #FFF;
+            text-align: center;
+            text-decoration: none;
+            font-size: 13px;
+            padding: 3px 0;
+        }
+    }
+}
+
+hr 
+{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+p
+{
+    &.large
+    {
+        font-size: 1.4em;
+        line-height: 1.5;
+    }
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.text-line-through
+{
+    text-decoration: line-through;
+}
+
+
+.hero-unit
+{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    
+    &.frontpage
+    {
+        height: 1000px;
+		background: rgba(256,256,256,0.9);
+//        background-image: url(../images/revontulet.jpg);
+        background-size: cover;
+        z-index: -1;
+    }
+    
+    
+}
+
+.participants-list
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+    li
+    {
+        display: block;
+        float: left;
+        text-align: center;
+        margin: 0 15px 15px 0;
+        
+        img
+        {
+            max-width: 200px;
+            // TODO AkS: This does not really work - it makes it ugly
+            height: 200px;
+            border-radius: 30px;
+            display: block;
+        }
+        
+        .name
+        {
+            display: block;
+            font-size: 18px;
+            font-weight: 600;
+            margin: 5px 0 0 0;
+        }
+        
+        a
+        {
+            color: #195fc7;
+        }
+    }
+}
+
+.participant
+{
+    img
+    {
+        max-width: 200px;
+        border-radius: 30px;
+        display: block;
+    }
+}
+
+.push-left
+{
+  float: left;
+}
+
+
+/* =============================================================================
+   Non-semantic helper classes
+   Please define your styles before this section.
+   ========================================================================== */
+.ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
+.ir br { display: none; }
+.hidden { display: none; visibility: hidden; }
+.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
+.invisible { visibility: hidden; }
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+
+
+/* =============================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (max-width: 480px) {
+  /* mobile layout */
+  .inner { width: 100%; }
+  .column {
+    float: none;
+    width: 100% !important;
+    border-right: 0 !important;
+  }
+  
+  
+  #branding {
+    height: auto;
+    text-align: center;
+  }
+  
+  #branding #logo {
+    margin: 30px 0 10px;
+  }
+  
+  #navigation,
+  #navigation.fixed {
+    position: relative;
+    border-width: 0;
+  }
+  
+  #navigation #logo-mini {
+    display: none;
+  }
+  
+  #navigation.fixed ul {
+    width: 100%;
+  }
+  
+  #navigation li, #navigation.fixed li,
+  #navigation li a, #navigation.fixed li a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+  }
+  
+  #navigation a {
+    border-bottom: 1px solid #003141;
+  }
+  
+  #cites {
+    display: none;
+  }
+  
+  #main {
+    -webkit-box-sizing: border-box;
+	  -moz-box-sizing: border-box;
+  	box-sizing: border-box;
+    width: 100%;
+    padding: 0 15px;
+  }
+  
+  figure.speaker {
+    width: 16.6%;
+  }
+  
+  figure.speaker img {
+    width: 100%;
+  }
+  #speakers figure.first {
+    margin-left: 0;
+  }
+  
+  #speakers .call-to-action {
+    position: relative;
+    bottom: 0;
+    clear: both;
+  }
+  
+  #coffee img {
+    width: 100%;
+  }
+  
+  #colophon {
+    padding: 2em 15px;
+    text-align: center;
+  }
+  
+  #sponsor-groups,
+  #sponsor-groups li {
+    height: 330px;
+  }
+  
+  #sponsor-groups li {
+    top: -330px;
+  }
+    #sponsor-groups li.active { top: 0; }
+    #sponsor-groups li.next { top: 330px; }
+  
+  #sponsor-groups li .sponsor {
+    width: 42%;
+    margin: 0 3%;
+  }
+  
+  #sponsors .sponsor img {
+    width: 100%;
+  }
+  
+  .schedule .topic {
+    font-size: 0.6em;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  /* Style adjustments for viewports 768px and over go here */
+
+}
+
+
+/* =============================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+ 
+@media print {
+  * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; -webkit-text-stroke: 0 !important; } /* Black prints faster: sanbeiji.com/archives/953 */
+  body { opacity: 1 !important; }
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+  abbr[title]:after { content: " (" attr(title) ")"; }
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  /* Don't show links for images, or javascript/internal links */
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  thead { display: table-header-group; } /* css-discuss.incutio.com/wiki/Printing_Tables */
+  tr, img { page-break-inside: avoid; }
+  img { max-width: 100% !important; }
+  @page { margin: 0.5cm; }
+  p, h2, h3 { orphans: 3; widows: 3; }
+  h2, h3{ page-break-after: avoid; }
+  #colophon, #navigation, #cites { display: none; }
+}

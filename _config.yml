@@ -1,0 +1,46 @@
+highlighter: pygments
+permalink: none
+sass:
+    style: :compressed
+sections:
+- about
+- how-to-get-there
+collections:
+- sections
+- participants
+- kiilopaa
+- faq
+- y2015
+defaults:
+    -
+        scope:
+            path: "_participants"
+        values:
+            layout: "sub-page"
+    -
+        scope:
+            path: "2015/participants"
+        values:
+            layout: "sub-page"
+    -
+        scope:
+            path: "2015"
+        values:
+            layout: "index"
+navigation:
+  - title : "Home"
+    url   : "/index.html"
+  - title : "Schedule"
+    url   : "/schedule/index.html"
+  - title : "Topics"
+    url   : "/topics/index.html"
+  - title : "Speakers"
+    url   : "/speakers/index.html"
+  - title : "Venue"
+    url   : "/venue/index.html"
+  - title : "Sponsors"
+    url   : "/sponsors/index.html"
+  - title : "Past"
+    url   : "/past/index.html"
+  - title : "Register"
+    url   : "/register/index.html"
