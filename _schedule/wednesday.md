@@ -31,7 +31,7 @@ day_no: 3
           <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
           <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
         </td>
-        <td width="12%" class="topic">
+        <td width="12%" class="topic all-personas">
           <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
           <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
         </td>
