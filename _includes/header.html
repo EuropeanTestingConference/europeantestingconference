@@ -6,19 +6,18 @@
 
 	<title>{% if page.title %}{{ page.title }} | {% endif %}European Testing Conference 2016</title>
 
-	<meta name="author" content="Turku Agile Group">  
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}Turku Agile Day 2012" />
-  <meta property="og:site_name" content="Turku Agile Day 2012" />
-  <meta property="og:image" content="http://www.turkuagileday.fi/apple-touch-icon-precomposed.png" />
+	<meta name="author" content="European Testing Conference">  
+  	<meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}European Testing Conference" />
+  	<meta property="og:site_name" content="European Testing Conference" />
   
     <meta name="description" content=""/>
 	<meta name="viewport" content="width=device-width,maximum-scale=1">
   
 
-    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/styles/main.css">
-    <script src="../bower_components/modernizr/modernizr.js"></script>
+    <link rel="stylesheet" href="{{ site.url }}/styles/main.css">
+    <script src="{{ site.url }}/bower_components/modernizr/modernizr.js"></script>
 </head>
 
 <body class="{{ page.classes }}">
