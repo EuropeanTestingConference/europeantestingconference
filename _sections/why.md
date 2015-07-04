@@ -28,3 +28,5 @@ At this point, we’re looking for people to join us in the organizing in three 
  - **Advisory group members**. We seek for geographically dispersed group of people, volunteering to participate a few online discussions about the best possible contents for a conference like this. We will portray you on our website, and keep you updated on our progress, and welcome your help in finding next locations in the upcoming years. This is a great change of building something fun, together. 
  - **On-site volunteers**. We will need people at the event, who volunteer to help us run the show. This role will get you a free entry, but will also keep you busy for some parts of the conference. 
  - **Organizers**. We seek people who want to be in our group of organizers, actively putting an effort in making this conference happen. We meet at least bi-weekly online. In particular, we would love to see people with local presence in Bucharest join the group of organizers. 
+ 
+<span class="interested">Interested? <a href="http://eepurl.com/brb31f" class="menu-special-button">Join our mailing list! </a></span>
