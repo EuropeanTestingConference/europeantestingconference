@@ -40,6 +40,6 @@ title: "News"
        <span>hear what the bird says</span></h2>
      </hgroup>
  
-     <div id="tweets"><p style="text-align:center;"><img src="/img/ajax-loader.gif"></p></div>
-     <p class="call-to-action"><a href="http://twitter.com/#!/turkuagileday">Follow us</a></p>
+     <div id="tweets"><p style="text-align:center;"><img src="/images/ajax-loader.gif"></p></div>
+     <p class="call-to-action"><a href="http://twitter.com/#!/EuroTestingConf">Follow us</a></p>
    </div>

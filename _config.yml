@@ -1,5 +1,5 @@
 highlighter: pygments
-permalink: none
+permalink: /news/:title
 sass:
     style: :compressed
     sass_dir: styles/_snippets

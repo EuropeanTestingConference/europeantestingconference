@@ -1,6 +1,5 @@
 ---
 day_no: 3
-title: Schedule
 ---
 
 <article>

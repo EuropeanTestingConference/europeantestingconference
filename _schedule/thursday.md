@@ -1,9 +1,6 @@
 ---
 day_no: 4
-title: Schedule
 ---
-
-<h1>Schedule</h1>
 
 <article>
   <hgroup>
