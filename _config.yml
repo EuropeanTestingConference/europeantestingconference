@@ -2,10 +2,12 @@ highlighter: pygments
 permalink: none
 sass:
     style: :compressed
+    sass_dir: styles/_snippets
 collections:
 - sections
 - schedule
 - speakers
+- volunteers
 defaults:
     -
         scope:
