@@ -1,6 +1,6 @@
 highlighter: pygments
 permalink: /news/:title
-baseurl: /europeantestinconference
+baseurl: /europeantestingconference
 sass:
     style: :compressed
     sass_dir: styles/_snippets
