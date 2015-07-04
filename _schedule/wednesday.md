@@ -15,7 +15,7 @@ day_no: 3
       </tr>
       <tr>
         <td class="time">9:30</td>
-        <td width="20%" class="topic">
+        <td width="20%" class="topic persona-chris persona-tudor">
           <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
           <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
         </td>

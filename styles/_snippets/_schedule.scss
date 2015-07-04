@@ -2,6 +2,67 @@
    /schedule related styles
    ========================================================================== */
 
+
+#personas
+{
+	width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+    li
+    {
+        display: block;
+        float: left;
+        text-align: center;
+        margin: 0 0 15px 0;
+        
+        img
+        {
+            max-width: 50px;
+            border-radius: 30px;
+            display: block;
+        }
+        
+        .name
+        {
+            display: block;
+            font-size: 18px;
+            font-weight: 600;
+            margin: 5px 0 0 0;
+        }
+        
+        a
+        {
+            color: #195fc7;
+        }
+    }
+	
+	.selected {
+		// Here some fancy way to show that this is selected
+		background: #f1f101;
+	}
+	
+	
+}
+
+.participant
+{
+    img
+    {
+        max-width: 200px;
+        border-radius: 30px;
+        display: block;
+    }
+	
+	.info {
+		padding: 20px;
+		max-width: 680px;
+	}
+}
+
+
+
 #schedule {
 	
 	article {
@@ -11,5 +72,9 @@
 	
 	article:nth-child(odd) {
 		background: #f3f3f3; 
+	}
+	
+	td.valid {
+		background: #342d21;
 	}
 }

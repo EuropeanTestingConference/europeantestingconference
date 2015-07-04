@@ -1,46 +1,56 @@
 
-<div class="personas">
+<div id="personas" class="personas clearfix">
 	
 	<h2>Personas</h2>
 	
-	<div class="persona" id="persona-albert">
-		<p class="name">Albert</p>
-		<p class="position">Architect</p>
-	</div>
-
-	<div class="persona" id="persona-carol">
-		<p class="name">Carol</p>
-		<p class="position">CTO</p>
-	</div>
-
-	<div class="persona" id="persona-chris">
-		<p class="name">Chris</p>
-		<p class="position">Craftsman<br>Programmer</p>
-	</div>
-
-	<div class="persona" id="persona-christina">
-		<p class="name">Christina</p>
-		<p class="position">Technical<br>Co-Founder</p>
-	</div>
-
-	<div class="persona" id="persona-diana">
-		<p class="name">Diana</p>
-		<p class="position">DevOps</p>
-	</div>
-
-	<div class="persona" id="persona-megan">
-		<p class="name">Megan</p>
-		<p class="position">Manager</p>
-	</div>
-
-	<div class="persona" id="persona-tamara">
-		<p class="name">Tamara</p>
-		<p class="position">Team<br>Leader</p>
-	</div>
+  <li class="persona one-eight" id="persona-albert">
+    <img src="{{ site.baseurl }}/images/persona/user-add.jpg" />
+    <span class="name">Albert</span>
+    <span class="position">Architect</span>
+  </li>
 	
-	<div class="persona" id="persona-tudor">
-		<p class="name">Tudor</p>
-		<p class="position">Tester</p>
-	</div>
+  <li class="persona  one-eight" id="persona-carol">
+    <img src="{{ site.baseurl }}/images/persona/user-add.jpg" />
+    <span class="name">Carol</span>
+    <span class="position">CTO</span>
+  </li>
+	
+  <li class="persona one-eight" id="persona-christina">
+    <img src="{{ site.baseurl }}/images/persona/user-add.jpg" />
+    <span class="name">Christina</span>
+    <span class="position">Craftsperson</span>
+  </li>
+	
+  <li class="persona one-eight" id="persona-chris">
+    <img src="{{ site.baseurl }}/images/persona/user-add.jpg" />
+    <span class="name">Chris</span>
+    <span class="position">Technical<br>Co-Founder</span>
+  </li>
+	
+  <li class="persona one-eight" id="persona-dian">
+    <img src="{{ site.baseurl }}/images/persona/user-add.jpg" />
+    <span class="name">Diana</span>
+    <span class="position">DevOps</span>
+  </li>
+	
+  <li class="persona one-eight" id="persona-megan">
+    <img src="{{ site.baseurl }}/images/persona/user-add.jpg" />
+    <span class="name">Megan</span>
+    <span class="position">Manager</span>
+  </li>
+	
+  <li class="persona one-eight" id="persona-tamara">
+    <img src="{{ site.baseurl }}/images/persona/user-add.jpg" />
+    <span class="name">Tamara</span>
+    <span class="position">Team Lead</span>
+  </li>
+	
+  <li class="persona one-eight" id="persona-tudor">
+    <img src="{{ site.baseurl }}/images/persona/user-add.jpg" />
+    <span class="name">Tudor</span>
+    <span class="position">Tester</span>
+  </li>
 	
 </div>
+
+<div class="clearfix">
