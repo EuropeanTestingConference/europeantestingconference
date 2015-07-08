@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Site is open
-author: Aki
+author: Maaret Pyhäjärvi
 ---
 
-Site will be published today.
+Our new web pages are live. You can <a href="mailto:contact@europeantestingconference.eu">contact the organizers for any feedback or ideas</a>, or to let us know you'd like to contribute as a volunteer. 
