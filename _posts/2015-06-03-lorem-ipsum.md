@@ -1,11 +1,11 @@
 ---
 layout: news
 title: Lorem ipsum
-author: Aki
+author: Maaret Pyhäjärvi
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Would you like to help in organizing this conference? We are seeking volunteers in three roles: advisors (we ask for your advice on the contents), on-site volunteers (we need your help to run the conference day) and organizers (you want to go through all the motions of organizing with us).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Call for volunteers into advisor group and organizer group is open until August 9th. First online meeting for advisors takes place August 12th.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+For more details on the volunteer roles and expectations, see <a href="https://docs.google.com/document/d/1_iCo-xVO339GoIbkRAQHNCn8-xwSi5i92gpTOJRvIhg/edit?usp=sharing">our description on Google Docs</a>. 
