@@ -9,7 +9,7 @@ title: "News"
 
      <hgroup>
        <h2>News<br>
-*--   <span>the latest buzz</span></h2> --*
+   <span></span></h2> 
      </hgroup>
 
 
@@ -37,7 +37,7 @@ title: "News"
 <div class="column half">
      <hgroup>
        <h2>Tweets<br>
-      *-- <span>hear what the bird says</span>--*
+       <span></span>
       </h2>
      </hgroup>
 
