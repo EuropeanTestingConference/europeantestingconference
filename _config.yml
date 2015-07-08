@@ -8,7 +8,7 @@ collections:
 - sections
 - schedule
 - speakers
-- volunteers
+- organizers
 - topics
 defaults:
     -
@@ -19,9 +19,9 @@ defaults:
 navigation:
   - title : "Home"
     url   : "/index.html"
-  - title : "Schedule"
-    url   : "/#schedule"
-  - title : "Speakers"
-    url   : "/speakers/index.html"
-  - title : "Call for speakers"
-    url   : "/"
+#  - title : "Schedule"
+#    url   : "/#schedule"
+#  - title : "Speakers"
+#    url   : "/speakers/index.html"
+#  - title : "Call for speakers"
+#    url   : "/"
