@@ -7,7 +7,7 @@ title: "When and Where"
 
 <div class="tile text-tile">
   <h3>When?</h3>
-  <p>In February 2016 in lovely city of Bucharest, Romania.</p>
+  <p>In February 2016 (exact date to be announced)</p>
 </div>
 <div class="tile image-tile photo-1">
 </div>
@@ -17,5 +17,3 @@ title: "When and Where"
 </div>
 <div class="tile image-tile photo-2">
 </div>
-
-
