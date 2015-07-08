@@ -2,7 +2,7 @@
 order_no: 6
 about: "volunteers"
 contained: true
-title: "Volunteers"
+title: "Organizers"
 ---
 
 <ol class="volunteers-list">
