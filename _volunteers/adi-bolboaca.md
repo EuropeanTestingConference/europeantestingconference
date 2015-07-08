@@ -1,5 +1,5 @@
 ---
-name: Adi Bolboaca
+name: Adi Bolboacă
 title: Organizer
 location: Romania
 id: adi-bolboaca
