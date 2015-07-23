@@ -31,7 +31,7 @@ title: "News"
        </article>
      {% endfor %}
 
-     <p class="call-to-action"><a href="/news/">View archive</a></p>
+     <p class="call-to-action"><a href="{{ site.baseurl }}/news/">View archive</a></p>
 </div>
 
 <div class="column half">
