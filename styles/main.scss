@@ -1,5 +1,43 @@
 ---
 ---
+//main colors
+$marsala: #955251;
+$orchid: #B163A3;
+$emerald: #009b77;
+
+//black-white color scheme
+$black: #000;
+$white: #FFFFFF;
+$silver: #ccc;
+$concrete: #f3f3f3;
+$main-shaft: #222222;
+$darkgray: rgba($black, 0.1);
+
+//color names from
+// http://chir.ag/projects/name-that-color/
+$mariner: #1e5dd3;
+$denim: #195fc7;  //not used anymore
+$madison: #092F5F;
+$cyprus: #003141;
+
+$shark: #1C1C1D;
+$danube: #557FD0;
+
+$tree-poppy: #f9921c;
+
+//functional colors
+
+$main-text-color: $cyprus;  //could be $main-shaft
+$link-color: $emerald;
+$link-color-visited: $emerald;
+$hover-link-color: $orchid;
+$main-border: $danube;
+$selected-person: $marsala;
+
+$nav-link-color: $shark;  //#202129 is very close to $shark!
+
+$border-color: $main-text-color;
+$section-border-color: $marsala;
 
 @import "html5boilerplate";
 @import "navigation";
@@ -13,6 +51,18 @@ section { position: relative; clear: both; }
 aside { font-size: 0.75em; }
    ========================================================================== */
 
+
+h2,h3,h4 {
+	
+	a 
+	{
+		color: $emerald;
+
+		&.visited {
+			color: $emerald;			
+		}
+	}
+}
    
 #container {
   width: 100%; 
@@ -21,6 +71,7 @@ aside { font-size: 0.75em; }
     width: 960px;
     margin: 0 auto;
     overflow: hidden;
+	
   }
   
   .inner
@@ -63,9 +114,10 @@ aside { font-size: 0.75em; }
 
 body 
 {
-    background: #1c1c1d;
+
+    background: $shark;
     font-family: 'Source Sans Pro', sans-serif;
-    color: #222222;
+    color: $main-text-color;
     padding: 0;
     margin: 0;
 }
@@ -85,7 +137,7 @@ p
 {
     a
     {
-        color: #1e5dd3;
+        color: $link-color;
     }
 }
 
@@ -117,9 +169,9 @@ p
 .main-content
 {
     padding: 2em;
-    background: rgba(255,255,255,0.7);
+    background: rgba($white,0.7);
     margin-bottom: 20px;
-    border-top: 5px solid #557fd0;
+    border-top: 5px solid $marsala;
     width: 100%;
     float: left;
     
@@ -194,7 +246,7 @@ p
         
 	        a
 	        {
-	            color: #195fc7;
+	            color: $link-color;
 	        }
 	    }
 	}
@@ -236,12 +288,12 @@ p
     
     &.text-tile
     {
-        background-color: #092f5f;
-        color: #FFF;
+        background-color: $madison;
+        color: $white;
         padding: 20px;
 		
 		h3{
-	        color: #FFF;
+	        color: $white;
 		}
     }
     
@@ -258,20 +310,7 @@ p
             background: url(../images/photo-2.jpg);
             background-size: cover;
         }
-        
-        
-        &.photo-winter-swimming
-        {
-            background: url(../images/photo-winter-swimming.jpg);
-            background-size: cover;
-        }
-
-        &.photo-full-moon
-        {
-            background: url(../images/photo-full-moon.jpg);
-            background-size: cover;
-        }
-        
+                
         a
         {
             position: absolute;
@@ -279,8 +318,8 @@ p
             left: 0px;
             width: 100%;
             display: block;
-            background: rgba(0,0,0,0.3);
-            color: #FFF;
+            background: rgba($black,0.3);
+            color: $white;
             text-align: center;
             text-decoration: none;
             font-size: 13px;
@@ -294,7 +333,7 @@ hr
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid $silver;
     margin: 1em 0;
     padding: 0;
 }
@@ -330,7 +369,7 @@ p
     &.frontpage
     {
         height: 1000px;
-		background: rgba(256,256,256,0.9);
+		background: rgba($white,0.9);
 //        background-image: url(../images/revontulet.jpg);
         background-size: cover;
         z-index: -1;
@@ -437,7 +476,7 @@ p
   }
   
   #navigation a {
-    border-bottom: 1px solid #003141;
+    border-bottom: 1px solid $marsala;
   }
   
   #cites {

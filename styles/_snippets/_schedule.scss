@@ -34,13 +34,13 @@
         
         a
         {
-            color: #195fc7;
+            color: $link-color;
         }
     }
 	
 	.selected {
 		// Here some fancy way to show that this is selected
-		background: #f1f101;
+		background: $orchid;
 	}
 	
 	
@@ -71,10 +71,10 @@
 	}
 	
 	article:nth-child(odd) {
-		background: #f3f3f3; 
+		background: $concrete; 
 	}
 	
 	td.valid {
-		background: #342d21;
+		background: $emerald;
 	}
 }

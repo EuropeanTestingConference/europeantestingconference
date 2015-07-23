@@ -31,10 +31,10 @@ body, button, input, select, textarea { font-family: 'Kreon', serif; color: #555
    Links
    ========================================================================== */
 
-a { color: #003141; text-decoration: none; cursor: pointer;}
-a:visited { color: #003141; }
+a { color: $link-color; text-decoration: none; cursor: pointer;}
+a:visited { color: $link-color-visited; }
 a:focus { outline: thin dotted; }
-a:hover, a:active { outline: 0; color: #f9921c; text-decoration: underline;}
+a:hover, a:active { outline: 0; color: $hover-link-color; text-decoration: underline;}
 
 
 /* =============================================================================

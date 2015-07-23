@@ -4,8 +4,8 @@
 	z-index: 2000;
   	height: 130px;
   	position: relative;
-	border-bottom: 6px solid #003141;
-	background-color: #fff;
+	border-bottom: 6px solid $border-color;
+	background-color: $white;
 
 	#logo {
 		display: block;
@@ -14,13 +14,12 @@
 
 	#navigation {
 		width: 100%;
-	  	background: #fff;
+	  	background: $white;
 	  	text-align: right;
 	  	position: absolute;
 	  	left: 0;
 	  	bottom: 0;
 		top: auto;
-	  	border: 0px solid #003141;
 	  	-webkit-transition: all 0.1s ease-out;  
 	  	-moz-transition: all 0.1s ease-out;  
 	  	-ms-transition: all 0.1s ease-out;  
@@ -53,7 +52,7 @@
 	    ul {
 	      	position: relative;
 	      	z-index: 2;
-	      	background: #fff;
+	      	background: $white;
 	      	display: inline-block;
 	      	width: 100%;
 	    }
@@ -61,82 +60,40 @@
 		li { 
 			display: inline-block; 
 		
+	        float: left;        
+		
 		    a {
 		   		display: inline-block;
-		   	    color: #003141;
+		   	    color: $nav-link-color;
 		   	    text-decoration: none;
 		   	    text-transform: uppercase;
 		   	    padding: 0 25px;
    	          	line-height: 3;
 				font-size: 1.125em;
-   	          	background: #fff;
+   	          	background: $white;
 
    	          	-webkit-transition: padding 0.1s linear;  
    	          	-moz-transition: padding 0.1s linear;  
    	          	-ms-transition: padding 0.1s linear;  
    	          	-o-transition: padding 0.1s linear;  
    	          	transition: padding 0.1s linear;
+
+	            &:hover
+	            {
+	                text-decoration: none;
+	                background-color: $white;
+	                color: #FFF;
+	            }
+
    	        }
 			
 		}
       
 
 	        li:last-child a { padding-right: 0; }
-	        li a.active { color: #f9921c; }
-	        li a:hover { color: #5f5f5f; }
+	        li a.active { color: $emerald; }
+	        li a:hover { color: $orchid; }
 		
-	}
-
-	.site-nav
-	{
-	    z-index: 2000;
-	    position: fixed;
-	    right: 0px;
-	    left: 0px;
-	    top: 0px;
-	    background-color: #FFF;
-	    border-bottom: 1px solid #717171;
-    
-	    @media all and (max-width: 768px)
-	    {
-	        position: relative;
-	        display: inline-block;
-	    }
-    
-
-	    .logo
-	    {
-	        float: left;        
-	    }
-    
-	    ul
-	    {
-	        list-style: none;
-	        float: left;
-	        margin: 0;
-	        padding: 0;
-	    }
-    
-	    li
-	    {
-	        float: left;
-        
-	        a
-	        {
-	            color: #202129;
-	            font-size: 1.2em;
-	            padding: 1em 1.35em;
-	            display: block;
-	            float: left;
-            
-	            &:hover
-	            {
-	                text-decoration: none;
-	                background-color: #152c46;
-	                color: #FFF;
-	            }
-	        }
-	    }
 	}
 }
 
@@ -146,7 +103,7 @@
     width: 100%;
     text-align: center;
     position: relative;
-    color: #FFF;
+    color: $white;
     margin-bottom: 25px;
     padding-top: 60px;
     
@@ -156,6 +113,7 @@
         font-weight: normal;
         margin-bottom: 0;
         margin-top: 0px;  
+		color: $emerald;
     }
 
     h2
@@ -163,6 +121,7 @@
         font-weight: normal;
         font-size: 1.4em;
         margin: 5px 0 0;
+		color: rgba( $emerald, 0.6);
     }
     h3
     {
