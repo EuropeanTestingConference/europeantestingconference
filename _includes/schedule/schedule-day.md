@@ -1,0 +1,1 @@
+{% assign day=include.day%}
