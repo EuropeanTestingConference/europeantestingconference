@@ -7,9 +7,10 @@
 	border-bottom: 6px solid $border-color;
 	background-color: $white;
 
-	#logo {
+	.logo {
 		display: block;
 	  	margin-top: 40px;
+		max-width: 960px;	
 	}
 
 	.mini-logo {
