@@ -6,5 +6,5 @@ title: "Organizers"
 ---
 
 <ol class="volunteers-list">
-  {% include volunteers-list.md volunteers=site.volunteers %}
+  {% include sections/volunteers-list.md volunteers=site.volunteers %}
 </ol>
