@@ -40,7 +40,7 @@
 	
 	.selected {
 		// Here some fancy way to show that this is selected
-		background: $orchid;
+		background: rgba( $orchid, 0.3 );
 	}
 	
 	
@@ -75,6 +75,6 @@
 	}
 	
 	td.valid {
-		background: $emerald;
+		background: rgba($emerald, 0.1 );
 	}
 }
