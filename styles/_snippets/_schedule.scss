@@ -71,7 +71,11 @@
 	}
 	
 	article:nth-child(odd) {
-		background: $concrete; 
+		background: rgba($orchid, 0.1); 
+	}
+	
+	article:nth-child(even) {
+		background: rgba($marsala, 0.1); 
 	}
 	
 	td.valid {
