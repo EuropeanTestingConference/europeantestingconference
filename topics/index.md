@@ -6,6 +6,6 @@ layout: sub-page
 
 {% for topic in topics %}
 
-  {% include topic-page.md topic=topic %}
+  {% include topic-page.html topic=topic %}
 
 {% endfor %}
