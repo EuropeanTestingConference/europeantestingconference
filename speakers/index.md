@@ -6,6 +6,6 @@ layout: sub-page
 
 {% for speaker in speakers %}
 
-  {% include participant-page.md participant=speaker %}
+  {% include pages/speaker-page.md speaker=speaker %}
 
 {% endfor %}
