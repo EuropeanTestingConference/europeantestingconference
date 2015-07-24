@@ -1,13 +1,16 @@
-<header id="branding" >
-  <div class="inner">
-    <a href="/" id="logo"><img src="/images/etc.jpg" alt="European Testing Conference -logo"></a>
+<nav id="branding" >
+  <div class="logo">
+		
+    <a href="{{ site.baseurl }}/" id="logo"><img src="{{ site.baseurl }}/images/etc.jpg" alt="European Testing Conference -logo"></a>
   </div>
-<nav id="navigation" class="site-nav">
-  <div class="inner clearfix">
-    <a href="/" id="logo-mini" ><img src="/images/etc_mini.jpg" alt="European Testing Conference -logo"></a>
-    {% include navigation/elements.html %}
-  </div>
+	<div id="navigation" class="site-nav">
+	  <div class="inner clearfix">
+	    <div class="mini-logo">
+				<a href="{{ site.baseurl }}/" id="logo-mini" ><img src="{{ site.baseurl }}/images/etc_mini.png" alt="European Testing Conference -logo"></a>
+			</div>
+	    {% include navigation/elements.html %}
+	  </div>
+	</div>
 </nav>
-</header>
 
 

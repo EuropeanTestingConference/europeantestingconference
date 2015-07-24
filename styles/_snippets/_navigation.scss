@@ -12,6 +12,10 @@
 	  	margin-top: 40px;
 	}
 
+	.mini-logo {
+		position: absolute;
+	}
+	
 	#navigation {
 		width: 100%;
 	  	background: $white;
@@ -42,10 +46,8 @@
 	  	}
 
 	  	#logo-mini {
-   	   		position: absolute;
     		left: 0;
     		top: 50%;
-    		margin-top: -11px;
     		z-index: 1;
   	  	}
 		
