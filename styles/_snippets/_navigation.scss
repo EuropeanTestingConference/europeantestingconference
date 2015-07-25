@@ -21,9 +21,8 @@
 	#navigation {
 		width: 100%;
 	  	background: $white;
-	  	text-align: right;
+	  	text-align: center;
 	  	position: absolute;
-	  	left: 0;
 	  	bottom: 0;
 		top: auto;
 	  	-webkit-transition: all 0.1s ease-out;  
@@ -34,6 +33,8 @@
 	  
 	  	.inner {
 	  		height: 54px;
+			max-width: 960px;
+			margin: 0 auto;
 	  	}
 		
 	  	&.fixed {
