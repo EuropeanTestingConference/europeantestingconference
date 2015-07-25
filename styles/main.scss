@@ -255,12 +255,15 @@ p
     float: left;
     height: 230px;
     text-align: center;
-    width: 25%;
     position: relative;
     
-    @media all and (max-width: 768px)
-    {
-        width: 100%;
+    &.tile-2{
+
+		@media all and (min-width: 768px) 
+	    {
+	        float: right;
+	    }
+    	
     }
     
     h3
