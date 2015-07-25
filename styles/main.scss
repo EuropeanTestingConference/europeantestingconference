@@ -259,7 +259,7 @@ p
     
     &.tile-2{
 
-		@media all and (min-width: 768px) 
+		@media all and (min-width: 768px) and (max-width: 991px)
 	    {
 	        float: right;
 	    }
