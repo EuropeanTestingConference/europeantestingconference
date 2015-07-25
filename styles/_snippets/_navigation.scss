@@ -10,6 +10,7 @@
 	.logo {
 		display: block;
 	  	margin: 40px auto 0 auto;
+		height: 100px;
 		max-width: 960px;	
 	}
 
@@ -31,6 +32,10 @@
 	  	-o-transition: all 0.1s ease-out;  
 	  	transition: all 0.1s ease-out;
 	  
+	  	.inner {
+	  		height: 54px;
+	  	}
+		
 	  	&.fixed {
 	      	position: fixed;
 	      	top: 0;

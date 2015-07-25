@@ -2,12 +2,12 @@
 order_no: 3
 about: "directions"
 contained: true
-title: "News"
+title: "Latest Buzz"
 ---
 
-<div class="column half">
+<div class="col-md-6 col-xs-12">
 
-     <hgroup>
+   <hgroup>
        <h2>News<br>
    <span></span></h2> 
      </hgroup>
@@ -16,7 +16,7 @@ title: "News"
 
 </div>
 
-<div class="column half">
+<div class="col-md-6 col-xs-12">
 	<hgroup>
 	 <h2>Tweets<br>
 	 <span></span>
