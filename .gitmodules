@@ -1,0 +1,3 @@
+[submodule "styles/_snippets/bootstrap-sass"]
+	path = styles/_snippets/bootstrap-sass
+	url = https://github.com/twbs/bootstrap-sass.git
