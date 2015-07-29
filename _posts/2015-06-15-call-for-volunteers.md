@@ -4,7 +4,9 @@ title: Call for Volunteers
 author: Maaret Pyhäjärvi
 ---
 
-Would you like to help in organizing this conference? We are seeking volunteers in three roles: advisors (we ask for your advice on the contents), on-site volunteers (we need your help to run the conference day) and organizers (you want to go through all the motions of organizing with us).
+Would you like to help in organizing this conference?
+
+We are seeking volunteers in three roles: advisors (we ask for your advice on the contents), on-site volunteers (we need your help to run the conference day) and organizers (you want to go through all the motions of organizing with us).
 
 Call for volunteers into advisor group and organizer group is open until August 9th. First online meeting for advisors takes place August 12th.
 
