@@ -23,5 +23,5 @@ navigation:
 #    url   : "/#schedule"
 #  - title : "Speakers"
 #    url   : "/speakers/index.html"
-  - title : "Call for speakers"
-    url   : "/"
+#  - title : "Call for speakers"
+#    url   : "/"
