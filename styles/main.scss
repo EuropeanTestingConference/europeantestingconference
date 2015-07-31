@@ -4,6 +4,7 @@
 $marsala: #955251;
 $orchid: #B163A3;
 $emerald: #009b77;
+$cool-gray: #888b8d;
 
 //black-white color scheme
 $black: #000;
@@ -29,15 +30,16 @@ $tree-poppy: #f9921c;
 
 $main-text-color: $cyprus;  //could be $main-shaft
 $link-color: $emerald;
+$link-visited-color: $orchid;
 $link-color-visited: $emerald;
 $hover-link-color: $orchid;
 $main-border: $danube;
-$selected-person: $marsala;
+
 
 $nav-link-color: $shark;  //#202129 is very close to $shark!
 
 $border-color: $main-text-color;
-$section-border-color: $marsala;
+$section-border-color: $cool-gray;
 
 @import "html5boilerplate";
 @import "navigation";
@@ -150,7 +152,7 @@ p
     padding: 2em;
     background: rgba($white,0.7);
     margin-bottom: 20px;
-    border-top: 5px solid $marsala;
+    border-top: 5px solid $section-border-color;
     width: 100%;
     float: left;
     
@@ -270,7 +272,7 @@ p
     
     &.text-tile
     {
-        background-color: rgba( $marsala, 0.4 );
+        background-color: rgba( $section-border-color, 0.4 );
         color: $main-text-color;
         padding: 20px;
 		
@@ -458,7 +460,7 @@ p
   }
   
   #navigation a {
-    border-bottom: 1px solid $marsala;
+    border-bottom: 1px solid $section-border-color;
   }
   
   #cites {
