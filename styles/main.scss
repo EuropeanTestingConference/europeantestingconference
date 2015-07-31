@@ -53,9 +53,9 @@ aside { font-size: 0.75em; }
    ========================================================================== */
 body 
 {
-//    background: $shark;
-//	background: rgba($shark, 0.1); ;
-	background: $white;
+    width: 100%;
+    background: rgba($shark, 0.1);
+	
     font-family: 'Source Sans Pro', sans-serif;
     color: $main-text-color;
     padding: 0;
@@ -74,22 +74,13 @@ h2,h3,h4 {
 		}
 	}
 }
-   
-#container {
-  width: 100%;
-  background: rgba($shark, 0.1);
 
-  main.site-main {
+
+main.site-main {
 //    width: 960px;
     margin: 0 auto;
     overflow: hidden;	
-  }
-  
-  .interested {
-	  float: right;
-  }
 }
-
 
 *, *:before, *:after 
 {

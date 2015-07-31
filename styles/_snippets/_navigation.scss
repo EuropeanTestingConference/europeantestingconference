@@ -2,7 +2,7 @@
 #branding
 {
 	z-index: 2000;
-  	height: 174px;
+  	height: 184px;
   	position: relative;
 	border-bottom: 6px solid $border-color;
 	background-color: $white;
@@ -10,12 +10,13 @@
 	.logo {
 		display: block;
 	  	margin: 20px auto 0 auto;
-		height: 100px;
+		height: 130px;
 		max-width: 960px;	
 	}
 
 	.mini-logo {
 		position: absolute;
+		margin: 9px;
 	}
 	
 	#navigation {
@@ -64,6 +65,7 @@
 	      	background: $white;
 	      	display: inline-block;
 	      	width: 100%;
+			height: inherit;
 	    }
 	    
 		li { 
