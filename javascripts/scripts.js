@@ -1,18 +1,5 @@
+
 $(document).ready(function() {
-  // Fixed top navigation for desktop browsers
-  if(!window.Modernizr.touch) {
-    var min = $('#navigation').offset().top;
-    $(window).scroll(function() { 
-   	  var scrollTop = $(window).scrollTop();
-    	if(scrollTop > min) {
-    	 $('#navigation').addClass('fixed');
-    	}
-      else {
-    	 $('#navigation').removeClass('fixed');
-      }
-    });
-  }
-  
   // Because of the fixed navi, scroll back a 
   // bit if entering with an anchor link
   if(window.location.hash && $(window.location.hash).length > 0) {
@@ -21,7 +8,7 @@ $(document).ready(function() {
 //    if($.browser.safari) bodyelem = $("body")
 //    else bodyelem = $("html,body");
 bodyelem = $("html,body");
-
+ 
 //    bodyelem.scrollTop(offset);
   }
   

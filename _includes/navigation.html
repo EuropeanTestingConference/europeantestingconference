@@ -1,8 +1,13 @@
-<nav id="branding" class="row">
-  <div class="logo">
+<nav id="branding" class="container-fluid">
+  <div class="logo col-md-3 col-md-offset-1">
     <a href="{{ site.baseurl }}/" id="logo"><img src="{{ site.baseurl }}/images/logo/etc-logo_130px.png" alt="European Testing Conference -logo"></a>
   </div>
-	<div id="navigation" class="site-nav">
+	<div class="col-md-8">
+		<div class="site-nav">
+	    {% include navigation/elements.html %}
+		</div>
+	</div>
+	<div id="navigation" class="row">
 	  <div class="inner clearfix">
 	    <div class="mini-logo">
 				<a href="{{ site.baseurl }}/" id="logo-mini" ><img src="{{ site.baseurl }}/images/logo/etc-mini_50px.png" alt="European Testing Conference -logo"></a>
