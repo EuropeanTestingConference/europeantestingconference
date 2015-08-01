@@ -1,6 +1,6 @@
 highlighter: pygments
 permalink: /news/:title
-baseurl: /
+baseurl: 
 sass:
     style: :compressed
     sass_dir: styles/_snippets
