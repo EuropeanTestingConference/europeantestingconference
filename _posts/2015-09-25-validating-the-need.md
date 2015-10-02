@@ -12,7 +12,7 @@ Just looking at developers and testers, we both test and there is a lot to learn
 <p>
 "Testers don't break your code, they break your illusions about the code" (adopted from James Bach). At this point, we need *you* in testing if we are illusioned on believing this conference has demand. You can show your support for our vision by <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">buying a super-early bird ticket</a> <b>right now</b> and at latest October 20th for about <b>half the price the tickets</b> will be when we publish them with keynotes.
 <p>
-If we would choose to relocate, reschedule or cancel, you will get your money back in full. The decision is made on October 15th. If you submit a session and get accepted, you will get your money back. We ask our community to buy super-early bird tickets to cover the advance costs of location in Romania, and to manage the risk of organizing something of this size. We need 20 of us to go forward.
+If we would choose to relocate, reschedule or cancel, you will get your money back in full. The decision is made on October 20th. If you submit a session and get accepted, you will get your money back. We ask our community to buy super-early bird tickets to cover the advance costs of location in Romania, and to manage the risk of organizing something of this size. We need 20 of us to go forward.
 <p>
 We, the organizers (Maaret, Adi, Aki, Alina, Llewellyn) believe in this enough to put our money where our mouth is. We will be there, co-creating content with you. This is a community event we're facilitating so the question is: are you with us? <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy a ticket</a>.
 <p>
