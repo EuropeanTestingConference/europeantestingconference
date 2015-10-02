@@ -3,7 +3,7 @@ layout: news
 title: Super Early Bird Tickets
 author: Maaret Pyhäjärvi
 ---
-TL;DR: <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Super-early bird tickets for sale until Oct 15th</a> to validate the need for the envisioned conference in 2nd week of February 2016 in Bucharest, Romania.
+TL;DR: <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Super-early bird tickets for sale until Oct 20th</a> to validate the need for the envisioned conference in 2nd week of February 2016 in Bucharest, Romania.
 <hr>
 <br>
 
