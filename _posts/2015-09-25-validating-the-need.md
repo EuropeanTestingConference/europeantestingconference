@@ -14,6 +14,10 @@ Just looking at developers and testers, we both test and there is a lot to learn
 <p>
 If we would choose to relocate, reschedule or cancel, you will get your money back in full. The decision is made on October 20th. If you submit a session and get accepted, you will get your money back. We ask our community to buy super-early bird tickets to cover the advance costs of location in Romania, and to manage the risk of organizing something of this size. We need 20 of us to go forward.
 <p>
-We, the organizers (Maaret, Adi, Aki, Alina, Llewellyn) believe in this enough to put our money where our mouth is. We will be there, co-creating content with you. This is a community event we're facilitating so the question is: are you with us? <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy a ticket</a>.
+We, the organizers (Maaret, Adi, Aki, Alina, Llewellyn) believe in this enough to put our money where our mouth is. We will be there, co-creating content with you. This is a community event we're facilitating so the question is: are you with us? 
 <p>
+<h2>
+<a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy a ticket</a>.
+</h2>
+
 Contact us at <a href="mailto:contact@europeantestingconference.eu">contact@europeantestingconference.eu</a>
