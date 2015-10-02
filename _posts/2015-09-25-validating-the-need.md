@@ -6,12 +6,10 @@ author: Maaret Pyhäjärvi
 TL;DR: <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Super-early bird tickets for sale until Oct 20th</a> to validate the need for the envisioned conference in 2nd week of February 2016 in Bucharest, Romania.
 <hr>
 <br>
-
-<a style="font-size:xx-large" href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy a ticket here</a><br>
-
 <p>
 There are many things to test, and we came to realization that we need to test an assumption we have and believe in strongly: there is a need for a practical testing conference bringing together developers, testers and analysts on testing.
-</p>
+</p><br>
+<a style="font-size:xx-large" href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy a ticket here</a><br>
 <p>
 Just looking at developers and testers, we both test and there is a lot to learn from one another and with one another to build better products and systems. Our views are complimentary in seeking the feedback that could help us succeed.  We've created a container for testing awesomeness for second week of February 2016, in Bucharest, Romania. It's the European Testing Conference.
 </p>
