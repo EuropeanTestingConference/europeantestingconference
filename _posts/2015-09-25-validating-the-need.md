@@ -7,7 +7,7 @@ TL;DR: <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1c
 <hr>
 <br>
 
-<div style="font-size:xx-large;color:red">
+<div style="font-size:xx-large">
 <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy a ticket here</a>
 </div>
 
