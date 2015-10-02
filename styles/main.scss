@@ -45,6 +45,7 @@ $section-border-color: $cool-gray;
 @import "navigation";
 @import "participants";
 @import "schedule";
+@import "news";
 @import "bootstrap-sass/assets/stylesheets/bootstrap";
 
 
@@ -341,6 +342,10 @@ p
     text-decoration: line-through;
 }
 
+.important
+{
+	font-size:xx-large;
+}
 
 .hero-unit
 {

@@ -1,5 +1,5 @@
 ---
-layout: sub-page
+layout: news_archive
 contained: true
 ---
 <h2>News Archive</h2>
