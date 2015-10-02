@@ -12,6 +12,4 @@ We're tired of conferences that feel more like sales pitches than practitioners 
 
 Come. Learn. Do. Teach. Test.
 
-<h2>
-<a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy a ticket here</a>
-</h2>
+
