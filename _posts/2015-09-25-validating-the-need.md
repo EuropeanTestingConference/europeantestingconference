@@ -7,9 +7,9 @@ TL;DR: <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1c
 <hr>
 <br>
 
-<h2>
+<span style="font-size:large">
 <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy a ticket here</a>
-</h2>
+</span>
 
 There are many things to test, and we came to realization that we need to test an assumption we have and believe in strongly: there is a need for a practical testing conference bringing together developers, testers and analysts on testing.
 <p>
