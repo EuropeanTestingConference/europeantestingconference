@@ -21,3 +21,7 @@ $ ->
 		fixNavigation = prepareFixNavigation( min )
 		fixNavigation() 
 		$(document).scroll( fixNavigation )
+	else
+		$('#navigation').addClass('hidden')
+		
+		

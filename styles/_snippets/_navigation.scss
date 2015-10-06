@@ -10,7 +10,8 @@
 	.logo {
 		margin: 10px;
 		display: block;
-		height: 130px;
+		height: 160px;
+		padding: 0 15px;
 	}
 
 	.mini-logo {
@@ -113,6 +114,9 @@
     		z-index: 1;
   	  	}
 		
+		.mini-logo-xs {
+			left: 0;	
+		}
 
 	}
 }

@@ -1,20 +1,47 @@
-<nav id="branding" class="container-fluid">
-  <div class="logo col-md-3 col-md-offset-1">
-    <a href="{{ site.baseurl }}/" id="logo"><img src="{{ site.baseurl }}/images/logo/etc-logo_130px.png" alt="European Testing Conference -logo"></a>
-  </div>
-	<div class="col-md-8">
-		<div class="site-nav">
-	    {% include navigation/elements.html %}
-		</div>
-	</div>
-	<div id="navigation" class="row">
-	  <div class="inner clearfix">
-	    <div class="mini-logo">
-				<a href="{{ site.baseurl }}/" id="logo-mini" ><img src="{{ site.baseurl }}/images/logo/etc-mini_50px.png" alt="European Testing Conference -logo"></a>
-			</div>
-	    {% include navigation/elements.html %}
+<nav id="branding" class="navbar navbar-default">
+  <div class="container-fluid">
+		<!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <div class="mini-logo-xs visible-xs-inline push-left">
+        <a href="{{ site.baseurl }}/" id="logo-mini" ><img src="{{ site.baseurl }}/images/logo/etc-mini_50px.png" alt="European Testing Conference -logo"></a>
+      </div>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#etc-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+	
+    <div class="logo col-md-3 col-md-offset-1 navbar-brand hidden-xs">
+      <a href="{{ site.baseurl }}/" id="logo"><img src="{{ site.baseurl }}/images/logo/etc-logo_130px.png" alt="European Testing Conference -logo"></a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="etc-navbar-collapse-1">
+  	  <div class="col-md-8">
+  		<div class="site-nav">
+          <ul class="nav navbar-nav">
+{% include navigation/elements.html %}
+          </ul>
+	    </div> 
 	  </div>
-	</div>
+	  
+    </div><!-- /.navbar-collapse -->
+	<div id="navigation" class=" row visible-md-block visible-lg-block">
+  	  <div class="inner clearfix">
+  	    <div class="mini-logo">
+          <a href="{{ site.baseurl }}/" id="logo-mini" ><img src="{{ site.baseurl }}/images/logo/etc-mini_50px.png" alt="European Testing Conference -logo"></a>
+  	    </div>
+  	  <ul>
+		{% include navigation/elements.html %}
+      </ul>
+  	</div>
+
+  </div><!-- /.container-fluid -->
+	
+
+
 </nav>
 
 
