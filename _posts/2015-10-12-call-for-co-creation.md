@@ -20,6 +20,7 @@ We seek for the right speakers. Here’s what we think we know of them:
 <p>
 Our speakers get a free admission to the 2-day conference. We pay for their travel and hotel. And we are building a model of paying leveled honorariums to financially compensate for their time, tied to the financial success of the conference. We can offer our speakers a great space to share for a relevant crowd. Join us!
 <p>
+<br>
 Respond to our call for co-creation by <b>Sunday November 8th midnight</b>, yet as soon as possible to allow us to start discussions with you. Don’t worry about having a fully developed idea, let’s talk about it.
 
 <h3> <a href="http://goo.gl/forms/esffKqePCg">Submit here</a>.</h3>
