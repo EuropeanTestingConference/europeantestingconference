@@ -46,39 +46,59 @@
 	
 }
 
-.participant
-{
-    img
-    {
-        max-width: 200px;
-        border-radius: 30px;
-        display: block;
-    }
-	
-	.info {
-		padding: 20px;
-		max-width: 680px;
-	}
-}
-
-
-
 #schedule {
 	
 	article {
+		margin-top: 20px;
 		padding-bottom: 15px;
-		padding-top: 15px;
+		padding-top: 25px;
+		border-top: 5px solid #888b8d;
+		
+		&:after{
+			content: "* * * * *";
+			margin-bottom: 10px;
+		}
 	}
 	
-	article:nth-child(odd) {
-		background: rgba($orchid, 0.1); 
+	.row {
+		
+		padding: 5px 0;
+
+		.start-time {
+			padding: 5px 3px;
+			text-align: right;
+		}
+
+		.end-time {
+			padding: 25px 0 0 3px;
+			text-align: left;
+		}
+		
+		&.meta{
+			background: rgba( $cyprus, 0.1 );
+
+			.description {
+				font-size: 1.3em;
+			}
+		}
+
+		&.break{
+			background: rgba( $cool-gray, 0.1 );
+		}
+
+		&.open-space{
+			text-transform: uppercase;
+			padding: 20px 0;
+			background: rgba( $cyprus, 0.1 );
+			
+			.description {
+				font-size: 1.5em;
+			}
+		}
+		
+
 	}
 	
-	article:nth-child(even) {
-		background: rgba($marsala, 0.1); 
-	}
-	
-	td.valid {
-		background: rgba($emerald, 0.1 );
-	}
+;
+
 }

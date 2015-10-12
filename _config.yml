@@ -18,8 +18,8 @@ defaults:
 navigation:
   - title : "Home"
     url   : "/index.html"
-#  - title : "Schedule"
-#    url   : "/#schedule"
+  - title : "Schedule"
+    url   : "/schedule"
 #  - title : "Speakers"
 #    url   : "/speakers/index.html"
 #  - title : "Call for speakers"

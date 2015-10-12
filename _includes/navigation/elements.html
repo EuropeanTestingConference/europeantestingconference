@@ -2,6 +2,6 @@
   {% if page.url == node.url %}
   	<h3><a href="{{node.url | remove_first: 'index.html'}}" class="active">{{node.title}}</a></h3>
  	{% else %}
-  	<a href="{{node.url | remove_first: 'index.html'}}">{{node.title}}</a>
+  	<h3><a href="{{node.url | remove_first: 'index.html'}}">{{node.title}}</a></h3>
  	{% endif %}
  	</li>{% endfor %}

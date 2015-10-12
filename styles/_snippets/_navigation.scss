@@ -102,10 +102,22 @@
 			ul { 
 				float: right;
 				background: transparent; 
-				width: auto;
+				padding: 8px;
 			}
 			
-			li a { padding: 0 15px; }
+			li {
+				display: inline-block;
+				zoom:1;
+				*display:inline;
+				
+				a { 
+				    text-decoration: none;
+				    padding: 3px 8px;
+					
+				}
+					
+			}
+				
 	  	}
 
 	  	#logo-mini {

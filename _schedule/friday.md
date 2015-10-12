@@ -1,80 +1,87 @@
 ---
-day_no: 3
+day_no: 5
 ---
 
-<article>
+<article class="schedule"> 
   <hgroup>
-    <h2>Friday<br><span>May 15<sup>th</sup></span></h2>
+    <h2>Friday<br><span>Feb 12<sup>th</sup></span></h2>
   </hgroup>
   
-  <table class="schedule">
-    <tbody>
-      <tr class="start">
-        <td class="time">8:45</td>
-        <td colspan="5" class="meta">Registration</td>
-      </tr>
-      <tr>
-        <td class="time">9:30</td>
-        <td width="20%" class="topic">
-          <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
-          <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
-        </td>
-        <td width="20%" class="topic">
-          <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
-          <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
-        </td>
-        <td width="20%" class="topic">
-          <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
-          <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
-        </td>
-        <td width="20%" class="topic">
-          <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
-          <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
-        </td>
-        <td width="12%" class="topic">
-          <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
-          <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
-        </td>
-      </tr>
-      <tr>
-        <td class="time">12:30</td>
-        <td colspan="5" class="meta">Lunch</td>
-      </tr>
-      <tr class="last">
-        <td class="time">13:30</td>
-        <td rowspan="2" class="topic">
-          <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
-          <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
-        </td>
-        <td rowspan="2" class="topic">
-          <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
-          <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
-        </td>
-        <td rowspan="2" class="topic">
-          <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
-          <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
-        </td>
-        <td rowspan="2" class="topic">
-          <p><a href="/speakers/#lorem-ipsum">Lorem Ipsum</a></p>
-          <h3><a href="/topics/#loremiipsum">Lorem ipsum dolor sit amet</a></h3>
-        </td>
-        <td rowspan="2" class="topic">
-          <h3><a href="/topics/testing-with-the-stars/">Testing with<br> the Stars</a></h3>
-        </td>
-      </tr>
-      <tr class="ending">
-        <td class="time">-&nbsp;16:30</td>
-      </tr>
-      <tr class="spacer">
-        <td colspan="6"></td>
-      </tr>
-      <tr class="social">
-        <td class="time">18:00</td>
-        <td colspan="5" class="meta">Social @ <a href="http://www.rantakerttu.fi/">RantaKerttu</a>, (<a href="http://g.co/maps/za8ec">Map</a>)</td>
-      </tr>
-    </tbody>
-  </table>
+  <section class="timetable">
+  	<div class="row meta">
+		<div class="col-md-1 start-time"><time class="start">8:30</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">9:00</time></div>
+		<div class="col-md-9 description">Morning coffee &amp; Registration</div>
+	</div>
+  	<div class="row keynote">
+		<div class="col-md-1 start-time"><time class="start">9:00</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">9:45</time></div>
+		<div class="col-md-9 keynote"><h3>KEYNOTE</h3></div>
+	</div>
+  	<div class="row break">
+		<div class="col-md-1 start-time"><time class="start">9:45</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">10:00</time></div>
+		<div class="col-md-9 description">Break</div>
+	</div>
+  	<div class="row talk">
+		<div class="col-md-1 start-time"><time class="start">10:00</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">10:30</time></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
+	</div>
+  	<div class="row break">
+		<div class="col-md-1 start-time"><time class="start">10:30</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">10:45</time></div>
+		<div class="col-md-9 description">Break</div>
+	</div>
+  	<div class="row workshop">
+		<div class="col-md-1 start-time"><time class="start">10:45</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">12:15</time></span></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">WORKSHOP</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">WORKSHOP</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">WORKSHOP</a></h3></div>
+	</div>
+  	<div class="row break">
+		<div class="col-md-1 start-time"><time class="start">12:15</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">13:15</time></div>
+		<div class="col-md-9 description">Lunch</div>
+	</div>
+  	<div class="row talk">
+		<div class="col-md-1 start-time"><time class="start">13:30</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">14:00</time></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
+	</div>
+  	<div class="row break">
+		<div class="col-md-1 start-time"><time class="start">14:00</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">14:15</time></div>
+		<div class="col-md-9 description">Break</div>
+	</div>
+  	<div class="row open-space">
+		<div class="col-md-1 start-time"><time class="start">14:15</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">15:45</time></div>
+		<div class="col-md-9 description">Open Space</div>
+	</div>
+ 	<div class="row break">
+		<div class="col-md-1 start-time"><time class="start">15:45</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">16:15</time></div>
+		<div class="col-md-9 description">Break</div>
+	</div>
+  	<div class="row keynote">
+		<div class="col-md-1 start-time"><time class="start">16:15</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">17:00</time></div>
+		<div class="col-md-9 keynote"><h3>KEYNOTE</h3></div>
+	</div>
+  	<div class="row meta">
+		<div class="col-md-1 start-time"><time class="start">17:00</time></div>
+		<div class="col-md-1 end-time"> - <time class="end">17:15</time></div>
+		<div class="col-md-9 description">Closing</div>
+	</div>
+  </section>
+		 
+
+  
 </article>
-
-
 

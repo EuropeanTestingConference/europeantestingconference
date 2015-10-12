@@ -395,8 +395,6 @@ p
   border-right: 0;
 }
 
-
-
 .push-left
 {
   float: left;
@@ -416,125 +414,6 @@ p
 .clearfix:before, .clearfix:after { content: ""; display: table; }
 .clearfix:after { clear: both; }
 .clearfix { zoom: 1; }
-
-
-
-/* =============================================================================
-   Media Queries
-   ========================================================================== */
-
-@media only screen and (max-width: 480px) {
-  /* mobile layout */
-  .inner { width: 100%; }
-  .column {
-    float: none;
-    width: 100% !important;
-    border-right: 0 !important;
-  }
-  
-  
-  #branding {
-    height: auto;
-    text-align: center;
-  }
-  
-  #branding #logo {
-    margin: 30px 0 10px;
-  }
-  
-  #navigation,
-  #navigation.fixed {
-    position: relative;
-    border-width: 0;
-  }
-  
-  #navigation #logo-mini {
-    display: none;
-  }
-  
-  #navigation.fixed ul {
-    width: 100%;
-  }
-  
-  #navigation li, #navigation.fixed li,
-  #navigation li a, #navigation.fixed li a {
-    display: block;
-    width: 100%;
-    text-align: center;
-    padding: 0;
-  }
-  
-  #navigation a {
-    border-bottom: 1px solid $section-border-color;
-  }
-  
-  #cites {
-    display: none;
-  }
-  
-  #main {
-    -webkit-box-sizing: border-box;
-	  -moz-box-sizing: border-box;
-  	box-sizing: border-box;
-    width: 100%;
-    padding: 0 15px;
-  }
-  
-  figure.speaker {
-    width: 16.6%;
-  }
-  
-  figure.speaker img {
-    width: 100%;
-  }
-  #speakers figure.first {
-    margin-left: 0;
-  }
-  
-  #speakers .call-to-action {
-    position: relative;
-    bottom: 0;
-    clear: both;
-  }
-  
-  #coffee img {
-    width: 100%;
-  }
-  
-  #colophon {
-    padding: 2em 15px;
-    text-align: center;
-  }
-  
-  #sponsor-groups,
-  #sponsor-groups li {
-    height: 330px;
-  }
-  
-  #sponsor-groups li {
-    top: -330px;
-  }
-    #sponsor-groups li.active { top: 0; }
-    #sponsor-groups li.next { top: 330px; }
-  
-  #sponsor-groups li .sponsor {
-    width: 42%;
-    margin: 0 3%;
-  }
-  
-  #sponsors .sponsor img {
-    width: 100%;
-  }
-  
-  .schedule .topic {
-    font-size: 0.6em;
-  }
-}
-
-@media only screen and (min-width: 768px) {
-  /* Style adjustments for viewports 768px and over go here */
-
-}
 
 
 /* =============================================================================
