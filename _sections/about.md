@@ -16,7 +16,7 @@ Come. Learn. Do. Teach. Test.
 	<div style="font-size:medium;font-weight:bold">
 	We are happy to announce the first amazing keynote: <a href="http://www.lindarising.org" target="_blank">Linda Rising</a>
 	</div>
-	<div style="font-size:medium; font-style:italic">Linda Rising is an independent consultant who lives in Nashville, Tennessee. She has authored four books and numerous articles and is an internationally known presenter on topics related to patterns, retrospectives, influence strategies, agile development, and the change process.</div>
+	<div style="font-size:medium; font-style:italic"><b>Linda Rising</b> is an independent consultant who lives in Nashville, Tennessee. She has authored four books and numerous articles and is an internationally known presenter on topics related to patterns, retrospectives, influence strategies, agile development, and the change process.</div>
 </div>
 
 <div style="font-size:xx-large">
