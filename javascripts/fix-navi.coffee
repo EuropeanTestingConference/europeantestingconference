@@ -8,8 +8,8 @@ prepareFixNavigation = ( navHeight ) ->
 			nav.addClass('fixed')
 			nav.removeClass('hidden')
 		else
-			nav.removeClass('fixed')
 			nav.addClass('hidden')
+			nav.removeClass('fixed')
 		false
 
 (($) ->
@@ -17,7 +17,8 @@ prepareFixNavigation = ( navHeight ) ->
 
 $ ->
 	if(!window.Modernizr.touch)
-		min = $('#navigation').offset().top
+		# min = $('#navigation').offset().top
+		min = 90 # min = $('#navigation').offset().top
 		fixNavigation = prepareFixNavigation( min )
 		fixNavigation() 
 		$(document).scroll( fixNavigation )
