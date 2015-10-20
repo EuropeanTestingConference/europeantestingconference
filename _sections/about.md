@@ -14,7 +14,7 @@ Come. Learn. Do. Teach. Test.
 
 <div>
 	<div style="font-size:medium;font-weight:bold">
-	We are happy to announce the <news/announcing-two-keynotes/">two amazing keynotes</a>: <b>Linda Rising<b> and <b>Anne-Marie Charrett<b>. 
+	We are happy to announce the <"news/announcing-two-keynotes/">two amazing keynotes</a>: <b>Linda Rising<b> and <b>Anne-Marie Charrett<b>. 
 	</div>
 </div>
 
