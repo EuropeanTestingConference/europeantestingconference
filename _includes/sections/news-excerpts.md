@@ -4,7 +4,7 @@
      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
      <p class="writer">{{ post.date | date_to_string }} / {{ post.author }}</p>
    </hgroup>
-   {{ post.content | truncate: 300 }}
+   {{ post.excerpt | markdownify }}
    <p class="call-to-action"><a href="{{ site.baseurl }}{{ post.url }}">Read full article</a></p>
  </article>
 {% endfor %}
