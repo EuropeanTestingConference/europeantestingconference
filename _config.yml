@@ -17,9 +17,9 @@ defaults:
             layout: "news"
 navigation:
   - title : "Home"
-    url   : "/index.html"
+    url   : "/"
   - title : "Schedule"
-    url   : "/schedule"
+    url   : "/schedule/"
 #  - title : "Speakers"
 #    url   : "/speakers/index.html"
 #  - title : "Call for speakers"

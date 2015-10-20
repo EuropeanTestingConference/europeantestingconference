@@ -2,7 +2,7 @@
 #branding
 {
 	z-index: 2000;
-  	height: 150px;
+  	//height: 150px;
   	position: relative;
 	border-bottom: 6px solid $border-color;
 	background-color: $white;
@@ -10,7 +10,7 @@
 	.logo {
 		margin: 10px;
 		display: block;
-		height: 160px;
+		height: 150px;
 		padding: 0 15px;
 	}
 
@@ -27,7 +27,7 @@
 	  	transition: all 0.1s ease-out;
 	  			
 	    ul {
-	      	position: absolute;
+	      	// position: absolute;
 	      	z-index: 2;
 	      	background: $white;
 	      	display: inline-block;

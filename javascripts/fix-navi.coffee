@@ -16,7 +16,7 @@ prepareFixNavigation = ( navHeight ) ->
 $ ->
 	if(!window.Modernizr.touch)
 		# min = $('#navigation').offset().top
-		min = 72 # min = $('#navigation').offset().top
+		min = 97 # min = $('#navigation').offset().top
 		fixNavigation = prepareFixNavigation( min )
 		fixNavigation() 
 		$(document).scroll( fixNavigation )

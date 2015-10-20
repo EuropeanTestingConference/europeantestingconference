@@ -1,7 +1,9 @@
 {% for node in site.navigation %}<li>
-  {% if page.url == node.url %}
+  {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
+  {% if current_page == node.url %}
   	<h3><a href="{{node.url | remove_first: 'index.html'}}" class="active">{{node.title}}</a></h3>
- 	{% else %}
+  {% else %}
   	<h3><a href="{{node.url | remove_first: 'index.html'}}">{{node.title}}</a></h3>
- 	{% endif %}
- 	</li>{% endfor %}
+  {% endif %}
+ 	</li>
+{% endfor %}
