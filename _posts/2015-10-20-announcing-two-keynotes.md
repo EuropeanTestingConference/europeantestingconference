@@ -12,8 +12,5 @@ We are delighted to be able to announce two of the keynotes that will be driving
 <p>
 <b>Anne-Marie Charrett</b> should be known to everyone knowing their way around testing as testers know it. She's shared her expertise in wonderful sessions in various testing conferences for years. She is known for her deep insights into how we practice to become better testers, as well as seeing the big picture in software development and how testing as testers know it fits in. In addition to being an inspirational tester, she is s co-creator the Speak Easy program for introducing new speakers into the testing field.
 <p>
-Join us to hear the great talks at European Testing Conference in Bucharest in February 2016. Super Early Bird price until October 20th is 350 euros, whereas the full price of the conference is 750 euros. Get your ticket now.
+Join us to hear the great talks at European Testing Conference in Bucharest in February 2016. Super Early Bird price until October 20th is 350 euros, whereas the full price of the conference is 750 euros. <a href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Get your ticket now</a>.
 <p>
-<span class="important">
-[Buy a ticket here](https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/)
-</span>
