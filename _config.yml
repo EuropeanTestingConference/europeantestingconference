@@ -20,6 +20,8 @@ navigation:
     url   : "/"
   - title : "Schedule"
     url   : "/schedule/"
+  - title : "Call For Co-Creation"
+    url   : "/call-for-co-creation/"
 #  - title : "Speakers"
 #    url   : "/speakers/index.html"
 #  - title : "Call for speakers"
