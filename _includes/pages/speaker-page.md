@@ -1,6 +1,6 @@
 {% assign speaker=include.speaker %}
 
-<section class="main-content text-center speaker" id="{{ speaker.id }}">
+<section class="main-content text-center speaker fix-anchor" id="{{ speaker.id }}">
 	<article>
 
 	<div class="image col-md-3 col-sm-4">

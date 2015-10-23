@@ -23,4 +23,11 @@ $ ->
 	else
 		$('#navigation').addClass('hidden')
 		
+	if(window.location.hash && $(window.location.hash).length > 0) 
+		offset = $(window.location.hash).offset().top;
+		scrollto = offset - 97
+		$('html, body').animate({scrollTop:scrollto}, 0);
+
+		false
+
 		
