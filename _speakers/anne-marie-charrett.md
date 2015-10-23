@@ -1,5 +1,6 @@
 ---
 name: Anne-Marie Charrett
+keynote: true
 id: anne-marie-charrett
 twitter: charrett
 image: https://pbs.twimg.com/profile_images/451694777130446848/T2YtsF8O.jpeg

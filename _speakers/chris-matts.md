@@ -1,5 +1,6 @@
 ---
 name: Chris Matts
+keynote: true
 id: chris-matts
 twitter: papachrismatts
 image: http://www.infoq.com/resource/interviews/matts-commitment-bdd/en/mediumimage/ChrisMatts270.JPG
