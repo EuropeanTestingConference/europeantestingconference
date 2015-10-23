@@ -1,29 +1,25 @@
-{% assign participant=include.participant %}
+{% assign speaker=include.speaker %}
 
-<section class="main-content text-center participant" id="{{ participant.id }}">
+<section class="main-content text-center speaker" id="{{ speaker.id }}">
 	<article>
-		<h3 class="name">{{ participant.name }}</h3>
 
-<div class="participant-info">
-	<div class="image left">
-		<img src="{{participant.image}}"/>
+	<div class="image col-md-3 col-sm-4">
+		<div class="image-holder">
+			<img src="{{speaker.image}}"/>
+		</div>
 	</div>
-	<div class="info left">
-		{% if participant.twitter %}
-		<p class="twitter">
-			<a href="https:/twitter.com/{{ participant.twitter }}">@{{ participant.twitter }}</a>
-		</p> 
-	  	{% endif %}
-	  	{% if participant.blog %}
-		<p class="blog">
-	   		<a href="{{ participant.blog }}">{{ participant.blog }}</a>
-		</p> 
-	  	{% endif %}
+	
+	<div class="info col-md-9 col-sm-8">
+		<h3 class="name">{{ speaker.name }}</h3>
 		<div class="own-words">
-	 		{{ participant.output  }}
+	 		{{ speaker.output  }}
+		{% if speaker.twitter %}
+			<p class="twitter">
+				<a href="https:/twitter.com/{{ speaker.twitter }}"><img src="/images/twitter.png"> {{ speaker.twitter }}</a>
+			</p>
+	  	{% endif %}
 	  	</div> 
    	</div>
-</div>
  	</article>
 </section>
 

@@ -3,6 +3,38 @@
    ========================================================================== */
 $selected-person: $marsala;
 
+#speakers{
+	.image {
+		
+		.image-holder {
+			width: 200px;
+			height: 200px;
+			border-radius: 30px;
+			overflow: hidden;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	
+		img {
+			max-width: 200px;
+			height: auto;
+			border-radius: 30px;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+	
+	.twitter {
+		float: right;
+		
+		img {
+			height: 25px;
+
+		}
+	}
+	
+}
 
 .participants-list
 {
