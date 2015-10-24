@@ -10,6 +10,11 @@ prepareFixNavigation = ( navHeight ) ->
 			nav.addClass('hidden')
 		false
 
+fixAnchorLinksOnFixedNavi = ( 	anchor ) ->
+	if (($( anchor ).offset().top + $( anchor ).height()) < $( document ).height() - 150)
+		window.scrollTo(window.scrollX, window.scrollY - 50 );
+	
+
 (($) ->
 	) jQuery
 
@@ -23,7 +28,9 @@ $ ->
 		$(document).scroll( fixNavigation )
 
 		$(window).on "hashchange", ->
-			window.scrollTo(window.scrollX, window.scrollY - 50 );
+			fixAnchorLinksOnFixedNavi location.hash
+#			window.scrollTo(window.scrollX, window.scrollY - 50 );
+
 	else
 		$('#navigation').addClass('hidden')	
 
