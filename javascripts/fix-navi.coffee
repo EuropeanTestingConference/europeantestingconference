@@ -21,11 +21,12 @@ $ ->
 		fixNavigation() 
 			
 		$(document).scroll( fixNavigation )
+
+		$(window).on "hashchange", ->
+			window.scrollTo(window.scrollX, window.scrollY - 50 );
 	else
 		$('#navigation').addClass('hidden')	
 
-	$(window).on "hashchange", ->
-		window.scrollTo(window.scrollX, window.scrollY - 50 );
 		
 	if(window.location.hash && $(window.location.hash).length > 0) 
 		anchor = $(window.location.hash).offset().top;
