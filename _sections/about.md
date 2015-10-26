@@ -14,8 +14,13 @@ Come. Learn. Do. Teach. Test.
 
 <div>
 	<div style="font-size:medium;font-weight:bold">
-	We are happy to announce the <a href="news/announcing-two-keynotes/">two amazing keynotes</a>: <b>Linda Rising<b> and <b>Anne-Marie Charrett<b>. 
+	We are happy to announce the <a href="http://europeantestingconference.eu/speakers/">three amazing keynotes</a>: <b>Linda Rising</b>, <b>Anne-Marie Charrett</b> and <b>Chris Matts</b>.
 	</div>
+</div>
+<p>
+
+<div styke="font-size:medium">
+Early Bird Tickets (580 euros) for sale until they run out (50 available) or until we announce the full program. Get yours ticket now!
 </div>
 
 <div style="font-size:xx-large">
