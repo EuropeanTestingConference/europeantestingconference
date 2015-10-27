@@ -1,0 +1,76 @@
+#sponsors {
+  overflow: hidden;
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.sponsor {
+	img {
+		height: 100px;
+	}
+}
+
+#sponsor-groups {
+  padding: 0;
+  list-style: none;
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+  
+  li {
+    height: 195px;
+    width: 100%;
+    position: absolute;
+    display: block;
+    left: 0;
+    top: -200px;
+	
+	
+	&.active { top: 0; }
+	&.next { top: 195px; }
+  }
+}
+    
+  #sponsor-groups h3 { margin-top: 0; }
+  #sponsor-groups li .sponsor {
+    display: block;
+    position: relative;
+    float: left;
+    margin: 0 7px;
+  }
+  
+  #sponsor-groups li .sponsor img {
+    border: 8px solid #f5f5f5; 
+  }  
+  #sponsor-groups li.active .sponsor { top: 0 !important; }
+  
+  #sponsor-groups li .sponsor:nth-child(1) { top: -400px; }
+  #sponsor-groups li .sponsor:nth-child(2) { top: -300px; }
+  #sponsor-groups li .sponsor:nth-child(3) { top: -200px; }
+  #sponsor-groups li .sponsor:nth-child(4) { top: -100px; }
+  
+  #sponsor-groups li.next .sponsor:nth-child(1) { top: 100px; }
+  #sponsor-groups li.next .sponsor:nth-child(2) { top: 200px; }
+  #sponsor-groups li.next .sponsor:nth-child(3) { top: 300px; }
+  #sponsor-groups li.next .sponsor:nth-child(4) { top: 400px; }
+
+  
+  /* Transforms for sponsors*/ 
+  .csstransforms #sponsor-groups li,
+  .csstransforms #sponsor-groups li .sponsor {
+    -webkit-transition: top 0.6s ease-in-out;  
+    -moz-transition: top 0.6s ease-in-out;  
+    -ms-transition: top 0.6s ease-in-out;  
+    -o-transition: top 0.6s ease-in-out;  
+    transition: top 0.6s ease-in-out;
+  }
+
+  .csstransforms #sponsor-groups li.next,
+  .csstransforms #sponsor-groups li.next .sponsor {
+    -webkit-transition: none;  
+    -moz-transition: none;  
+    -ms-transition: none;  
+    -o-transition: top 0s linear;  
+    transition: none;
+  }
