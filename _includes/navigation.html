@@ -24,17 +24,23 @@
           <ul class="nav navbar-nav">
 {% include navigation/elements.html %}
           </ul>
-	    </div> 
-	  </div>
-	  
+	    </div>
+		<div class="clearfix"></div>
+		<div class="buy-ticket">
+			<a class="button" target="_blank" href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy Tickets</a>
+		</div>
+	  </div>	  
     </div><!-- /.navbar-collapse -->
 	<div id="navigation" class="row visible-md-block visible-lg-block hidden fixed">
   	  <div class="inner clearfix">
   	    <div class="mini-logo">
           <a href="{{ site.baseurl }}/" id="logo-mini" ><img src="{{ site.baseurl }}/images/logo/etc-mini_50px.png" alt="European Testing Conference -logo"></a>
   	    </div>
-  	  <ul>
+  	  <ul class="push-right">
 		{% include navigation/elements.html %}
+		<li>
+			<a class="button buy-ticket " target="_blank" href="https://holvi.com/shop/EuroTestingConf/product/307fb905d2067da1cf9c6a68c2e31e33/">Buy Tickets</a>
+		</li>
       </ul>
   	</div>
 
