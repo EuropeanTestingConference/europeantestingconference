@@ -2,11 +2,11 @@
 day_no: 5
 ---
 
-<article class="schedule"> 
+<article class="schedule">
   <hgroup>
     <h2>Friday<br><span>Feb 12<sup>th</sup></span></h2>
   </hgroup>
-  
+
   <section class="timetable">
   	<div class="row meta">
 		<div class="col-md-1 start-time"><time class="start">8:30</time></div>
@@ -16,7 +16,7 @@ day_no: 5
   	<div class="row keynote">
 		<div class="col-md-1 start-time"><time class="start">9:00</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">9:45</time></div>
-		<div class="col-md-9 keynote"><h3>KEYNOTE</h3></div>
+		<div class="col-md-9 keynote"><h3><a href="/topics/erik-talboom">KEYNOTE: Erik Talboom (Belgium)</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-md-1 start-time"><time class="start">9:45</time></div>
@@ -72,7 +72,7 @@ day_no: 5
   	<div class="row keynote">
 		<div class="col-md-1 start-time"><time class="start">16:15</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">17:00</time></div>
-		<div class="col-md-9 keynote"><h3>KEYNOTE</h3></div>
+		<div class="col-md-9 keynote"><h3><a href="/topics/chris-matts">KEYNOTE: Chris Matts (UK)</a></h3></div>
 	</div>
   	<div class="row meta">
 		<div class="col-md-1 start-time"><time class="start">17:00</time></div>
@@ -80,8 +80,7 @@ day_no: 5
 		<div class="col-md-9 description">Closing</div>
 	</div>
   </section>
-		 
 
-  
+
+
 </article>
-
