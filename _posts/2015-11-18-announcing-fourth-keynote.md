@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Announcing fourth keynote: Erik Talboom
+title: "Announcing fourth keynote: Erik Talboom"
 author: Maaret Pyhäjärvi
 ---
 
