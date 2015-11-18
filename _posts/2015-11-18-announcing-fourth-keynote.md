@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Announcing first batch of speakers
+title: Announcing fourth keynote: Erik Talboom
 author: Maaret Pyhäjärvi
 ---
 
