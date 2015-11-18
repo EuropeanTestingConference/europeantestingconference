@@ -1,5 +1,5 @@
 ---
-name: Gita Malinovska
+name: Gita Malinovska (UK)
 keynote: false
 id: gita-malinovska
 twitter: gita_m

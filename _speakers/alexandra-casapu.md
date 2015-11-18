@@ -1,5 +1,5 @@
 ---
-name: Alexandra Casapu
+name: Alexandra Casapu (Romania)
 keynote: false
 id: alexandra-casapu
 twitter: coveredincloth

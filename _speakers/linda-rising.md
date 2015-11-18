@@ -1,5 +1,5 @@
 ---
-name: Linda Rising
+name: Linda Rising (USA)
 keynote: true
 id: linda-rising
 twitter: RisingLinda

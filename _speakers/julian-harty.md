@@ -1,5 +1,5 @@
 ---
-name: Julian Harty
+name: Julian Harty (UK)
 keynote: false
 id: julian-harty
 twitter: julianharty

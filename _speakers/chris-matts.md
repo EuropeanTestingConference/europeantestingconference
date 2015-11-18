@@ -1,5 +1,5 @@
 ---
-name: Chris Matts
+name: Chris Matts (UK)
 keynote: true
 id: chris-matts
 twitter: papachrismatts

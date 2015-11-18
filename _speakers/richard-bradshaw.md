@@ -1,5 +1,5 @@
 ---
-name: Richard Bradshaw
+name: Richard Bradshaw (UK)
 keynote: false
 id: richard-bradshaw
 twitter: friendlytester

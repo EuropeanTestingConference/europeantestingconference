@@ -1,5 +1,5 @@
 ---
-name: Anne-Marie Charrett
+name: Anne-Marie Charrett (Australia)
 keynote: true
 id: anne-marie-charrett
 twitter: charrett

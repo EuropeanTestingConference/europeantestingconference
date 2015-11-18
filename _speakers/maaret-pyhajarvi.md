@@ -1,5 +1,5 @@
 ---
-name: Maaret Pyhäjärvi
+name: Maaret Pyhäjärvi (Finland)
 keynote: false
 id: maaret-pyhajarvi
 twitter: maaret-pyhajarvi

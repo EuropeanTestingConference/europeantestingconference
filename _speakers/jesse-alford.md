@@ -1,5 +1,5 @@
 ---
-name: Jesse Alford
+name: Jesse Alford (USA)
 keynote: false
 id: jesse-alford
 twitter: JesseTAlford
