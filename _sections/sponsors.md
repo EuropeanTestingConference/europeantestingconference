@@ -25,4 +25,4 @@ title: Sponsors
       </p>
     </li>
    </ul>
-   <h4>Interested in sponsoring European Testing Conference? <a href="mailto:contact@europeantestingconference.eu">Contact us!</a></h4>
+   <h4>Interested in sponsoring European Testing Conference? <a href="/sponsorship/#sponsorship-portfolio">Check our offerings</a></h4>

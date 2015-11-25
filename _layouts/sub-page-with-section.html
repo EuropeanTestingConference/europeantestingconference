@@ -2,13 +2,11 @@
    {% include navigation.html %}
    {% include site-header.html %}
 <main id="main" role="main" class="row">
-	{% if contained %}
 	<div class="container">
-	{% endif %}
+		<section class="main-content text-center speaker fix-anchor" id="{{ speaker.id }}">
 	{{ content }}
-	{% if contained %}
+		</section>
 	</div>
-	{% endif %}
 </main>
 {% include footer.md  %}
 
