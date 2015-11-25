@@ -1,6 +1,7 @@
 ---
 title: Jyothi Rangaiah
 id: jyothi-rangaiah
+talk: true
 ---
 **Creating and using reusable mindmaps**
 

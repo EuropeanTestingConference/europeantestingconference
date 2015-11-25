@@ -1,6 +1,7 @@
 ---
 title: Anne-Marie Charrett - Breaking Down the Barriers
 id: anne-marie-charrett
+keynote: true
 ---
 
 **How to Conduct Great Experiments**

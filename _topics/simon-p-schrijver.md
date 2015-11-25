@@ -1,6 +1,7 @@
 ---
 title: Simon P. Schrijver - Why Pair Testing can (and will) improve the quality of your work
 id: simon-p-schrijver
+talk: true
 ---
 Pair testing is a way of testing where two people work together on a test assignment. As a pair, you can be more valuable than as a single person. You are each others backup, progress will not stop if one person can’t participate. Working as a pair will also increase the speed of your test work. One person is executing the tests while, at the same time, the other person is making notes. At any time you can switch roles.
 
