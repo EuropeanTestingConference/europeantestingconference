@@ -1,5 +1,6 @@
 ---
-title: "Jesse Alford - Everybody tests: Balanced teams, Extreme Programming, and Exploration"
+speaker: Jesse Alford
+title: "Everybody tests: Balanced teams, Extreme Programming, and Exploration"
 id: jesse-alford
 talk: true
 ---

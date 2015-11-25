@@ -1,5 +1,6 @@
 ---
-title: Gita Malinovska - Testing Responsive websites
+speaker: Gita Malinovska
+title: Testing Responsive websites
 id: gita-malinovska
 talk: true
 ---

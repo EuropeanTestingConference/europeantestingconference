@@ -1,5 +1,6 @@
 ---
-title: Linda Rising - To be announced
+speaker: Linda Rising
+title: To be announced
 id: linda-rising
 keynote: true
 ---

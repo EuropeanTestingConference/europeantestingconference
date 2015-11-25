@@ -1,5 +1,6 @@
 ---
-title: Simon P. Schrijver - Why Pair Testing can (and will) improve the quality of your work
+speaker: Simon P. Schrijver
+title:  Why Pair Testing can (and will) improve the quality of your work
 id: simon-p-schrijver
 talk: true
 ---

@@ -1,5 +1,6 @@
 ---
-title: Daniel Billing
+speaker: Daniel Billing
+title: 
 id: daniel-billing
 workshop: true
 ---

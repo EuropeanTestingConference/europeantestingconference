@@ -1,5 +1,6 @@
 ---
-title: Chris Matts - We don't need testers! What we really need is testers!
+speaker: Chris Matts 
+title: We don't need testers! What we really need is testers!
 id: chris-matts
 keynote: true
 ---

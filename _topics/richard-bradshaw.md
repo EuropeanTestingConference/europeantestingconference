@@ -1,5 +1,6 @@
 ---
-title: Richard Bradshaw
+speaker: Richard Bradshaw
+title: 
 id: richard-bradshaw
 talk: true
 ---

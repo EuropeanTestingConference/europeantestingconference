@@ -1,5 +1,6 @@
 ---
-title: Jyothi Rangaiah
+speaker: Jyothi Rangaiah
+title: 
 id: jyothi-rangaiah
 talk: true
 ---

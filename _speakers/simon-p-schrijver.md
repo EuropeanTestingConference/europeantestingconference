@@ -1,5 +1,5 @@
 ---
-name: Simon P. Schrijver (Netherlands)
+speaker: Simon P. Schrijver
 keynote: false
 id: simon-p-schrijver
 twitter: SimonSaysNoMore

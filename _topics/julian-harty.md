@@ -1,5 +1,6 @@
 ---
-title: Julian Harty - Symbiosis of Mobile Analytics and Software Testing
+speaker: Julian Harty 
+title: Symbiosis of Mobile Analytics and Software Testing
 id: julian-harty
 talk: true
 ---

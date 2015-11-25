@@ -1,5 +1,6 @@
 ---
-title: Thomas Sundberg
+speaker: Thomas Sundberg
+title: 
 id: thomas-sundberg
 talk: true
 ---
