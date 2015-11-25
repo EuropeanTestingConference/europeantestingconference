@@ -331,6 +331,30 @@ p
     }
 }
 
+table{
+	
+	margin: auto;
+	border: 3px solid $silver;
+	margin-bottom: 20px;
+	th {
+		padding: 10px;
+		border: 1px solid $silver;
+		font-size: 1.4em;
+		
+	}
+	tr{
+		&:nth-child(even){
+			background: rgba( $silver, 0.4);
+		}
+	}
+	td{
+		padding: 10px;
+		border: 1px solid $silver;
+		
+		
+	}
+}
+
 hr 
 {
     display: block;

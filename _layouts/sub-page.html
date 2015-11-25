@@ -2,7 +2,13 @@
    {% include navigation.html %}
    {% include site-header.html %}
 <main id="main" role="main" class="row">
+	{{ if page.contained }}
+	<div class="container">
+	{{ endif }}
 	{{ content }}
+	{{ if page.contained }}
+	</div>
+	{{ endif }}
 </main>
 {% include footer.md  %}
 
