@@ -21,7 +21,7 @@ day_no: 4
   	<div class="row keynote">
 		<div class="col-md-1 start-time"><time class="start">9:15</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">10:00</time></div>
-		<div class="col-md-9 keynote"><h3><a href="/topics/#linda-rising">KEYNOTE: Linda Rising (USA) - Practice!</a></h3></div>
+		<div class="col-md-9 keynote"><h3><a href="/topics/#linda-rising">KEYNOTE: Linda Rising (USA) - The Power of an Agile Mindset</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-md-1 start-time"><time class="start">10:00</time></div>
