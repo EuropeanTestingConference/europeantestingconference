@@ -1,11 +1,9 @@
 ---
 speaker: Anne-Marie Charrett
-title: Breaking Down the Barriers
+title: How to Conduct Great Experiments
 id: anne-marie-charrett
 keynote: true
 ---
-
-**How to Conduct Great Experiments**
 
 If we work in technology and want to discover new information, then we are creating and conducting experiments.
 A business may have a new idea and want to test it out and so adopt a Lean approach to business ideation.  
@@ -13,7 +11,7 @@ At a product level, we use agile to test out our hypothesis about the nature of 
 When we develop code, developers experiment constantly in order discover how to build the product well.
 And testers? Testers live and breath experimentation to discover potential failure.  
 
-It maybe that the purpose and focus of our experiments differ but in essence we are all experimenting to some degree. This and the desire to build quality product is something that unites many organisations.
+It maybe that the purpose and focus of our experiments differ but in essence we are all experimenting to some degree. This and the desire to build quality product is something that unites many organizations.
 
-Experimentation is vital. Where else does theory and reality meet? This keynote is no different.  We will be using robots to design and conduct experiments to discover what makes effective experiments. You will take away some ideas about how to improve experimentation no matter what role you play in your organisation.
+Experimentation is vital. Where else does theory and reality meet? This keynote is no different.  We will be using robots to design and conduct experiments to discover what makes effective experiments. You will take away some ideas about how to improve experimentation no matter what role you play in your organization.
 So don your labcoats and join me for a session of discovery, who knows what you might learn?

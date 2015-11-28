@@ -18,5 +18,3 @@ techniques and modern languages like Ruby or Scala. He helps teams of
 Software Developers to raise the quality of their work and improve their
 productivity. He regularly facilitates Coding Dojos and Code Retreats. Read
 more about him at his blog "code-cop.org".
-
-Peter delivers a workshop on the topic of *Creating Clean, Readable and Expressive Executable Specifications*. 

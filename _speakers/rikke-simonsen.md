@@ -12,5 +12,3 @@ a good understanding of the various roles in an agile team. She’s passionate a
 In her spare time she supports families affected by autism. Having 3 children with autism herself, a disorder that affects the ability to communicate
 properly in social contexts, she has both a special interest and many years of experience in how to solve communication problems. Her professional
 and personal life therefore correlates well giving food for thought both ways.
-
-She talks on topic *Behavior Driven Development (BDD) - How to Solve Communication Problems*
