@@ -1,6 +1,6 @@
 ---
 speaker: Gita Malinovska
-title: Testing Responsive websites
+title: Testing Responsive Websites
 id: gita-malinovska
 talk: true
 ---

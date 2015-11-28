@@ -31,7 +31,7 @@ day_no: 4
   	<div class="row talk">
 		<div class="col-md-1 start-time"><time class="start">10:15</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">10:45</time></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#gita-malinovska">Gita Malinovska: Testing Responsive Websites</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#christina-ohanian">Christina Ohanian: </a></h3></div>
 		<div class="col-md-3 session"><h3><a href="/topics/#richard-bradshaw">Richard Bradshaw: My Experiences with Testing and Checking</a></h3></div>
 		<div class="col-md-3 session"><h3><a href="/topics/#thomas-sundberg">Thomas Sundberg: How Deep Are Your Tests? - Utilizing different levels of automated tests</a></h3></div>
 	</div>
@@ -94,7 +94,7 @@ day_no: 4
   	<div class="row meta">
 		<div class="col-md-1 start-time"><time class="start">17:00</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">17:15</time></div>
-		<div class="col-md-9 description">Closing</div>
+		<div class="col-md-9 description">Closing the Day and Opening the Conference Party!</div>
 	</div>
   </section>
 
