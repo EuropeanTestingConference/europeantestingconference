@@ -1,6 +1,6 @@
 ---
 speaker: Franziska Sauerwein
-title: Introduction to Outside In Test Driven Development (London School)
+title: Experiences is Outside In Test Driven Development (London School)
 id: franziska-sauerwein
 talk: true
 ---

@@ -44,8 +44,8 @@ day_no: 4
 		<div class="col-md-1 start-time"><time class="start">11:00</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">12:30</time></span></div>
 		<div class="col-md-3 session"><h3><a href="/topics/#llewellyn-falco">Llewellyn Falco: Increase Testability with Code Seams</a></h3></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#peter-kofler">WORKSHOP</a></h3></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#alexandra-casapu">WORKSHOP</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#peter-kofler">Peter Kofler: Creating Clean, Readable and Expressive Executable Specifications</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#alexandra-casapu">Alexanda Casapu: Examine Your Testing Skills</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-md-1 start-time"><time class="start">12:30</time></div>
@@ -55,9 +55,9 @@ day_no: 4
   	<div class="row talk">
 		<div class="col-md-1 start-time"><time class="start">13:30</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">14:00</time></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#wouter-lagerweij">Wouter Lagerweij: Testing in a Continuous Delivery World</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#speak-easy-speakers">Speak Easy Speaker: to be announced later</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#franziska-sauerwein">Franziska Sauerwein: Experiences in Outside In Test Driven Development (London School)</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-md-1 start-time"><time class="start">14:00</time></div>
@@ -77,9 +77,9 @@ day_no: 4
   	<div class="row talk">
 		<div class="col-md-1 start-time"><time class="start">15:30</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">16:00</time></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#loremiipsum">TALK</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#simon-p-schrijver">Simon P. Schrijver: Why Pair Testing can (and will) improve the quality of your work </a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#emma-keaveny">Emma Keaveny: Dark Patterns - A Tester's Quandary</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#julian-harty">Julian Harty: Symbiosis of Mobile Analytics and Software Testing</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-md-1 start-time"><time class="start">16:00</time></div>
