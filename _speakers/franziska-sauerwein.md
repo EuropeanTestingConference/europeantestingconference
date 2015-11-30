@@ -4,7 +4,6 @@ keynote: false
 id: franziska-sauerwein
 twitter: singsalad
 image: https://pbs.twimg.com/profile_images/660583571128721408/fGB7Gmnu_400x400.jpg
-
 ---
 **Franziska Sauerwein** has worked as a software developer and consultant for three years before moving to London to join Codurance and completing her apprenticeship there. Her passions include Test Driven Development, Refactoring, XP techniques and high quality software development. She is always trying to improve her skills and share knowledge.
 

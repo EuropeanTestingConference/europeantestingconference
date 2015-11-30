@@ -4,7 +4,6 @@ keynote: false
 id: peter-kofler
 twitter: codecopkofler
 image: https://pbs.twimg.com/profile_images/471926631783612416/MZCM1YtO_400x400.jpeg
-
 ---
 **Peter Kofler** is a software developer since 15+ years and has specialized in
 re-engineering large code bases. He likes his code being in order. Obviously

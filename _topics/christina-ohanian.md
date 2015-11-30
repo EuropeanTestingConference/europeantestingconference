@@ -1,6 +1,6 @@
 ---
 speaker: Christina Ohanian
-title:
+title: Drawing to unleash your creativity
 id: christina-ohanian
 talk: true
 ---

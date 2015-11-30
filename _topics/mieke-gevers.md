@@ -1,6 +1,6 @@
 ---
 speaker: Mieke Gevers
-title:
+title: Performance Testing
 id: mieke-gevers
 talk: true
 ---
