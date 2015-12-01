@@ -4,7 +4,7 @@ title: ETC2016 Program is available!
 author: Maaret Pyhäjärvi
 ---
 
-We are excited to announce the European Testing Conference program: http://europeantestingconference.eu/schedule/
+We are excited to announce the European Testing Conference program: [http://europeantestingconference.eu/schedule/](http://europeantestingconference.eu/schedule/)
 
 To celebrate the publication, we have extended our Early Bird price availability until **end of Friday December 4th**. The early bird price is **580 euros for the two-day conference**. Full conference price is 750 euros.
 
