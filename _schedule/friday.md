@@ -26,7 +26,7 @@ day_no: 5
   	<div class="row talk">
 		<div class="col-md-1 start-time"><time class="start">10:00</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">10:30</time></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#mieke-gevers">Mieke Gevers: Performance Testing</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#mieke-gevers">Mieke Gevers: Agile and Performance testing? "A Contradiction of terms?</a></h3></div>
 		<div class="col-md-3 session"><h3><a href="/topics/#ru-cindrea">Ru Cindrea: Dealing with Device Fragmentation in Mobile Games Testing</a></h3></div>
 		<div class="col-md-3 session"><h3><a href="/topics/#jyothi-rangaiah">Jyothi Rangaiah: Creating and using reusable mindmaps </a></h3></div>
 	</div>
