@@ -1,6 +1,6 @@
 ---
 speaker: Erik Talboom
-title:  Software Craftsmanship and Testing: why SoCraTes is right
+title: Software Craftsmanship and Testing - why SoCraTes is right
 id: erik-talboom
 keynote: true
 ---
