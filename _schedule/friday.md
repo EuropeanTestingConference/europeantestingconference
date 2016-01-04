@@ -72,7 +72,7 @@ day_no: 5
   	<div class="row keynote">
 		<div class="col-md-1 start-time"><time class="start">16:15</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">17:00</time></div>
-		<div class="col-md-9 keynote"><h3><a href="/topics/#erik-talboom">KEYNOTE: Erik Talboom (Belgium)</a></h3></div>
+		<div class="col-md-9 keynote"><h3><a href="/topics/#erik-talboom">KEYNOTE: Erik Talboom (Belgium) - Software Craftsmanship and Testing: why SoCraTes is right</a></h3></div>
 	</div>
   	<div class="row meta">
 		<div class="col-md-1 start-time"><time class="start">17:00</time></div>
