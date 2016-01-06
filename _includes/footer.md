@@ -11,9 +11,14 @@
 <h3>Platinum Sponsors</h3>
 
 <div class="platinum-sponsor">
-  <p class="sponsor">
-    <a href="http://mozaicworks.com/"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a> 
-  </p>
+  <ul class="sponsors">
+	  <li class="sponsor">
+	    <a href="http://mozaicworks.com/"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a> 
+	  </li>
+	  <li class="sponsor ">
+	    <a href="http://www.associationforsoftwaretesting.org/"><img src="/images/sponsors/AssociationForSoftwareTesting.png" alt="Association For Software Testing"></a> 
+	  </li>
+  </ul>
 </div>
 
 

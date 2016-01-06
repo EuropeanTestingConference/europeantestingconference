@@ -30,6 +30,13 @@
 	&.active { top: 0; }
 	&.next { top: 195px; }
   }
+  
+  .sponsors {
+  	
+	  .sponsor{
+		  display: inline;
+	  }
+  }
 }
     
   #sponsor-groups h3 { margin-top: 0; }
