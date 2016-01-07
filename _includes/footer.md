@@ -13,10 +13,10 @@
 <div class="platinum-sponsor">
   <ul class="sponsors">
 	  <li class="sponsor">
-	    <a href="http://mozaicworks.com/"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a> 
+	    <a href="http://mozaicworks.com" target="_blank"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a> 
 	  </li>
 	  <li class="sponsor ">
-	    <a href="http://www.associationforsoftwaretesting.org/"><img src="/images/sponsors/AssociationForSoftwareTesting.png" alt="Association For Software Testing"></a> 
+	    <a href="http://www.associationforsoftwaretesting.org" target="_blank"><img src="/images/sponsors/AssociationForSoftwareTesting.png" alt="Association For Software Testing"></a> 
 	  </li>
   </ul>
 </div>
@@ -25,7 +25,7 @@
 
 <div class="partners">
   <p class="partner">
-    <a href="http://tabaradetestare.ro/en/"><img src="/images/partners/tabara-de-testare-logo.png" alt="Tabara de Testare"></a> 
+    <a href="http://tabaradetestare.ro/en/" target="_blank"><img src="/images/partners/tabara-de-testare-logo.png" alt="Tabara de Testare"></a> 
   </p>
 </div>
 
