@@ -13,7 +13,7 @@ We're tired of conferences that feel more like sales pitches than practitioners 
 Come. Learn. Do. Teach. Test.
 
 <div styke="font-size:medium">
-Early Bird Tickets (580 euros) for sale until they run out (50 available) or until we announce the full program. Get yours ticket now!
+Get your ticket now! A Regular Conference ticket is 645 euros. 
 </div>
 
 <div style="font-size:xx-large">
