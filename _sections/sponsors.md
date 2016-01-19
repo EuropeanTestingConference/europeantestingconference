@@ -19,14 +19,27 @@ title: Sponsors
 </li>
 <li class="next gold-sponsor">
   <h3>Gold sponsors</h3>
-  <p class="sponsor">
-    <h4>You? <a href="mailto:contact@europeantestingconference.eu">Contact us!</a></h4> 
+  <p class="sponsors">
+	  <span class="sponsor">
+	    <a href="http://altom.ro/"><img src="/images/sponsors/Altom.gif" alt="Altom"></a> 
+	  </span>
+	  <span class="sponsor ">
+	    <a href="http://www.agilealliance.org/"><img src="/images/sponsors/AgileAlliance.jpg" alt="Agile Alliance"></a> 
+	  </span>
   </p>
 </li>
 <li class="silver-sponsor">
   <h3>Silver sponsors</h3>
   <p class="sponsor">
     <h4>You? <a href="mailto:contact@europeantestingconference.eu">Contact us!</a></h4> 
+  </p>
+</li>
+<li class="next gold-sponsor">
+  <h3>Partners</h3>
+  <p class="sponsors">
+	  <span class="sponsor">
+	    <a href="http://tabaradetestare.ro/en/" target="_blank"><img src="/images/partners/tabara-de-testare-logo.png" alt="Tabara de Testare"></a> 
+	  </span>
   </p>
 </li>
 </ul>

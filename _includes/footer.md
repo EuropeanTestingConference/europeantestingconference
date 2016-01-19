@@ -21,15 +21,6 @@
   </ul>
 </div>
 
-<h3>Partners</h3>
-
-<div class="partners">
-  <p class="partner">
-    <a href="http://tabaradetestare.ro/en/" target="_blank"><img src="/images/partners/tabara-de-testare-logo.png" alt="Tabara de Testare"></a> 
-  </p>
-</div>
-
-
 </footer>
 
 <script src="{{ site.baseurl }}/bower_components/jquery/dist/jquery.min.js"></script>  
