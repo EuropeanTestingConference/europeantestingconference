@@ -12,6 +12,12 @@ day_no: 5
 		<div class="col-md-1 start-time"><time class="start">8:30</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">9:00</time></div>
 		<div class="col-md-9 description">Morning coffee &amp; Registration</div>
+    </div>
+    	<div class="row keynote">
+  		<div class="col-md-1 start-time"><time class="start">8:50</time></div>
+  		<div class="col-md-1 end-time"> - <time class="end">9:00</time></div>
+  		<div class="col-md-9 keynote"><h3><a href="/topics/#chris-matts">Opening of Day 2</a></h3></div>
+  	</div>
 	</div>
   	<div class="row keynote">
 		<div class="col-md-1 start-time"><time class="start">9:00</time></div>
@@ -33,7 +39,7 @@ day_no: 5
   	<div class="row break">
 		<div class="col-md-1 start-time"><time class="start">10:30</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">10:45</time></div>
-		<div class="col-md-9 description">Break</div>
+		<div class="col-md-9 description">Coffee Break</div>
 	</div>
   	<div class="row workshop">
 		<div class="col-md-1 start-time"><time class="start">10:45</time></div>
@@ -57,7 +63,7 @@ day_no: 5
   	<div class="row break">
 		<div class="col-md-1 start-time"><time class="start">13:45</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">14:00</time></div>
-		<div class="col-md-9 description">Break</div>
+		<div class="col-md-9 description">Coffee Break</div>
 	</div>
   	<div class="row open-space">
 		<div class="col-md-1 start-time"><time class="start">14:00</time></div>
