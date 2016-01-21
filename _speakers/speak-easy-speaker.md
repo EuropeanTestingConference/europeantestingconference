@@ -1,8 +1,8 @@
 ---
-name: Speak Easy Speaker
+name: Abby Bangser
 keynote: false
 id: speak-easy-speakers
-twitter: spkeazee
-image: https://pbs.twimg.com/profile_images/539371858638819330/r-Fkiti7_400x400.jpeg
+twitter: a_bangser
+image: https://pbs.twimg.com/profile_images/499947513055420416/XXBb9QlK.jpeg
 ---
-**Speak Easy** is a program that mentors new speakers to encourage diversity at tech conferences. European Testing Conference joins the Speak Easy partners by reserving one slot for a Speak Easy speaker. Submit for this slot through [Speak Easy web site](http://speaking-easy.com) by mid-December. This slot could be *you*.
+**Abby Bangser** joins the conference on the Speak Easy slot, as a new and coached speaker. She has great stories to share from practical work, and all she really needs from a program like Speak Easy is a little encouragement to share what she knows at international conference arenas.
