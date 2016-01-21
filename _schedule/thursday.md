@@ -56,7 +56,7 @@ day_no: 4
 		<div class="col-md-1 start-time"><time class="start">13:30</time></div>
 		<div class="col-md-1 end-time"> - <time class="end">14:00</time></div>
 		<div class="col-md-3 session"><h3><a href="/topics/#wouter-lagerweij">Wouter Lagerweij: Testing in a Continuous Delivery World</a></h3></div>
-		<div class="col-md-3 session"><h3><a href="/topics/#speak-easy-speakers">Speak Easy Speaker: to be announced later</a></h3></div>
+		<div class="col-md-3 session"><h3><a href="/topics/#speak-easy-speakers">Abby Bangser: Truth - The state of not yet proven false</a></h3></div>
 		<div class="col-md-3 session"><h3><a href="/topics/#franziska-sauerwein">Franziska Sauerwein: Experiences in Outside In Test Driven Development (London School)</a></h3></div>
 	</div>
   	<div class="row break">
