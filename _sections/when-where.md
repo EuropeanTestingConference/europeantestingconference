@@ -18,4 +18,5 @@ title: "When and Where"
 <div class="tile tile-2 image-tile photo-2 col-md-3 col-sm-6 col-xs-12">
 </div>
 
-Please check out [http://europeantestingconference.eu/TravellersGuideToEuropeanTestingConference.pdf](Traveler's Guide for European Testing Conference) on information we feel you will find relevant on traveling to the the conference. 
+<br>
+Please check out [http://europeantestingconference.eu/TravellersGuideToEuropeanTestingConference.pdf](Traveler's Guide for European Testing Conference) on information we feel you will find relevant on traveling to the the conference.
