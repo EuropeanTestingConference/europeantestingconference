@@ -19,4 +19,4 @@ title: "When and Where"
 </div>
 
 <p>
-Please check out [TravellersGuideToEuropeanTestingConference.pdf](Traveler's Guide for European Testing Conference) on information we feel you will find relevant on traveling to the the conference.
+Please check out [http://europeantestingconference.eu/TravellersGuideToEuropeanTestingConference.pdf](Traveler's Guide for European Testing Conference) on information we feel you will find relevant on traveling to the the conference.
