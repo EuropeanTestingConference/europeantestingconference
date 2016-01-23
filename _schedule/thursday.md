@@ -79,8 +79,9 @@ day_no: 4
 	</div>
   	<div class="row open-space">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">14:30</time></div>
-		<div class="col-xs-2 col-xs-offset-8 col-sm-1 col-sm-offset-0 end-time"> - <time class="end">15:30</time></div>
-		<div class="col-md-10 description">Facilitated Lean Coffee</div>
+		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Facilitated Lean Coffee</div>
+		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">15:30</time></div>
+		<div class="hidden-xs hidden-sm col-md-10 description">Facilitated Lean Coffee</div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">15:30</time></div>
