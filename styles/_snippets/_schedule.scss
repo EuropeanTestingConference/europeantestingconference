@@ -55,7 +55,7 @@
 		border-top: 5px solid #888b8d;
 		
 		&:after{
-			content: "* * * * *";
+//			content: "* * * * *";
 			margin-bottom: 10px;
 		}
 	}
@@ -73,6 +73,22 @@
 			padding: 25px 0 0 3px;
 			text-align: left;
 		}
+		
+		.session{
+			display: table-cell;
+			float: none;
+			height: 100%;
+		}
+
+		.session-type {
+			top: 10px;
+			width: 0;
+		    word-wrap: break-word;
+			text-transform: uppercase;
+			font-size: 1.2em;
+			margin: 0 15px 0 0;
+		 }
+		
 		
 		&.meta{
 			background: rgba( $cyprus, 0.1 );

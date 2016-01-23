@@ -1,6 +1,6 @@
 ---
 speaker: Abby Bangser
-title: Truth: The state of not yet proven false
+title: "Truth: The state of not yet proven false"
 id: speak-easy-speakers
 talk: true
 ---
