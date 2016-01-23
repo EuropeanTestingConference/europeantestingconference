@@ -1,6 +1,6 @@
 ---
 order_no: 13
-about: about
+about: sponsor-block
 contained: true
 title: Sponsors
 ---
@@ -9,7 +9,7 @@ title: Sponsors
 <li class="active platinum-sponsor">
   <h3>Platinum sponsors</h3>
   <p class="sponsors">
-	  <span class="sponsor">
+	  <span class="sponsor ">
 	    <a href="http://mozaicworks.com/"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a> 
 	  </span>
 	  <span class="sponsor ">

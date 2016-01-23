@@ -113,16 +113,4 @@
 		
 
 	}
-
-
-	$screen-sm-min: 768px;
-	$screen-xs-max: $screen-sm-min - 1;
-
-	@media screen and (max-width: $screen-xs-max) { 
-		
-		.row .session:nth-last-child(2) {
-			border-top: 1px dotted #010101;
-			border-bottom: 1px dotted #010101;
-		}
-	}
 }
