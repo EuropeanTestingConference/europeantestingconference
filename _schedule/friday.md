@@ -37,7 +37,7 @@ day_no: 5
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">10:00</time></div>
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">TALK</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">10:30</time></div>
-		<div class="hidden-xs hidden-sm col-md-1 session-type">TALK</div>
+		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#mieke-gevers">Mieke Gevers: Agile and Performance testing? "A Contradiction of terms?</a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#ru-cindrea">Ru Cindrea: Dealing with Device Fragmentation in Mobile Games Testing</a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#jyothi-rangaiah">Jyothi Rangaiah: Creating and using reusable mindmaps </a></h3></div>
@@ -52,7 +52,7 @@ day_no: 5
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">10:45</time></div>
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">WORKSHOP</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">12:15</time></span></div>
-		<div class="hidden-xs hidden-sm col-md-1 session-type">WS</div>
+		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom"><p class="lr">WORK-</p><p class="lr">SHOP</p></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session "><h3><a href="/topics/#roy-de-kleijn">Roy de Kleijn: Improving Your Selenium Webdriver Tests </a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session "><h3><a href="/topics/#daniel-billing">Daniel Billing & Maaret Pyhäjärvi: A Security Testing Hands-on as Mob Testing </a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session "><h3><a href="/topics/#rikke-simonsen">Rikke Simonsen: Behavior Driven Development (BDD) - How to Solve Communication Problems</a></h3></div>
@@ -67,7 +67,7 @@ day_no: 5
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">13:15</time></div>
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">TALK</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">13:45</time></div>
-		<div class="hidden-xs hidden-sm col-md-1 session-type">TALK</div>
+		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#claudia-rosu">Claudia Rosu: Developer Experience to Testing </a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#jesse-alford">Jesse Alford: Everybody tests: Balanced teams, Extreme Programming, and Exploration</a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#gita-malinovska">Gita Malinovska: Testing Responsive Websites</a></h3></div>
