@@ -30,5 +30,6 @@
 <script src="{{ site.baseurl }}/javascripts/fix-navi.js"></script>
 <script src="{{ site.baseurl }}/javascripts/bootstrap.min.js"></script>
 <script src="{{ site.baseurl }}/javascripts/personas.js"></script>
+<script src="{{ site.baseurl }}/javascripts/blog.js"></script>
  </body>
 </html>
