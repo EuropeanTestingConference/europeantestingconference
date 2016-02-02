@@ -8,11 +8,11 @@ day_no: 5
   </hgroup>
 
   <section class="timetable">
-	  
+
   	<div class="row meta">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">8:30</time></div>
 		<div class="visible-sm-block col-sm-10 description">Morning coffee &amp; Registration</div>
-		<div class="col-xs-2 col-xs-offset-8 col-sm-1 col-sm-offset-0 end-time"> - <time class="end">9:00</time></div>
+		<div class="col-xs-2 col-xs-offset-8 col-sm-1 col-sm-offset-0 end-time"> - <time class="end">8:50</time></div>
 		<div class="col-xs-12 hidden-sm col-md-10 description">Morning coffee &amp; Registration</div>
     </div>
     <div class="row meta">
@@ -80,7 +80,7 @@ day_no: 5
 	</div>
   	<div class="row open-space">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">14:00</time></div>
-		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">OPEN SPACE</div> 
+		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">OPEN SPACE</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">16:00</time></div>
 		<div class="visible-xs-block visible-sm-block col-xs-12 description">Everyone is a speaker! From Marketplace of ideas to Delivering Your Session.</div>
 		<div class="hidden-xs hidden-sm col-md-10 description">OPEN SPACE: Everyone is a speaker! From Marketplace of ideas to Delivering Your Session.</div>

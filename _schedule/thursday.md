@@ -99,9 +99,9 @@ day_no: 4
 		<div class="col-sm-4 col-md-3 session"><h3><a href="/topics/#julian-harty">Julian Harty: Symbiosis of Mobile Analytics and Software Testing</a></h3></div>
 	</div>
   	<div class="row break">
-		<div class="col-xs-2 col-sm-1 start-time"><time class="start">16:00</time></div>
+		<div class="col-xs-2 col-sm-1 start-time"><time class="start">16:15</time></div>
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Break</div>
-		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">16:15</time></div>
+		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">16:30</time></div>
 		<div class="hidden-xs hidden-sm col-md-10 description">Break</div>
 	</div>
   	<div class="row keynote">
