@@ -40,7 +40,7 @@ day_no: 5
 		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#mieke-gevers">Mieke Gevers: Agile and Performance testing? "A Contradiction of terms?</a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#ru-cindrea">Ru Cindrea: Dealing with Device Fragmentation in Mobile Games Testing</a></h3></div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#jyothi-rangaiah">Jyothi Rangaiah: Creating and using reusable mindmaps </a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#jyothi-rangaiah">Maaret Pyhäjärvi: Learning in Layers </a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">10:30</time></div>

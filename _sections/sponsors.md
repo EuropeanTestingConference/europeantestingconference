@@ -10,10 +10,10 @@ title: Sponsors
   <h3>Platinum sponsors</h3>
   <p class="sponsors">
 	  <span class="sponsor ">
-	    <a href="http://mozaicworks.com/"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a> 
+	    <a href="http://mozaicworks.com/"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a>
 	  </span>
 	  <span class="sponsor ">
-	    <a href="http://www.associationforsoftwaretesting.org/"><img src="/images/sponsors/AssociationForSoftwareTesting.png" alt="Association For Software Testing"></a> 
+	    <a href="http://www.associationforsoftwaretesting.org/"><img src="/images/sponsors/AssociationForSoftwareTesting.png" alt="Association For Software Testing"></a>
 	  </span>
   </p>
 </li>
@@ -21,24 +21,24 @@ title: Sponsors
   <h3>Gold sponsors</h3>
   <p class="sponsors">
 	  <span class="sponsor">
-	    <a href="http://altom.ro/"><img src="/images/sponsors/Altom.gif" alt="Altom"></a> 
+	    <a href="http://altom.ro/"><img src="/images/sponsors/Altom.png" alt="Altom"></a>
 	  </span>
 	  <span class="sponsor ">
-	    <a href="http://www.agilealliance.org/"><img src="/images/sponsors/AgileAlliance.jpg" alt="Agile Alliance"></a> 
+	    <a href="http://www.agilealliance.org/"><img src="/images/sponsors/AgileAlliance.jpg" alt="Agile Alliance"></a>
 	  </span>
   </p>
 </li>
 <li class="silver-sponsor">
   <h3>Silver sponsors</h3>
   <p class="sponsor">
-    <h4>You? <a href="mailto:contact@europeantestingconference.eu">Contact us!</a></h4> 
+    <h4>You? <a href="mailto:contact@europeantestingconference.eu">Contact us!</a></h4>
   </p>
 </li>
 <li class="next gold-sponsor">
   <h3>Partners</h3>
   <p class="sponsors">
 	  <span class="sponsor">
-	    <a href="http://tabaradetestare.ro/en/" target="_blank"><img src="/images/partners/tabara-de-testare-logo.png" alt="Tabara de Testare"></a> 
+	    <a href="http://tabaradetestare.ro/en/" target="_blank"><img src="/images/partners/tabara-de-testare-logo.png" alt="Tabara de Testare"></a>
 	  </span>
   </p>
 </li>
