@@ -18,6 +18,9 @@
 	  <li class="sponsor ">
 	    <a href="http://www.associationforsoftwaretesting.org" target="_blank"><img src="/images/sponsors/AssociationForSoftwareTesting.png" alt="Association For Software Testing"></a> 
 	  </li>
+	  <li class="sponsor ">
+	    <a href="https://www.db.com/index_e.htm" target="_blank"><img src="/images/sponsors/deutsche-bank.png" alt="Deutsche Bank"></a> 
+	  </li>
   </ul>
 </div>
 
