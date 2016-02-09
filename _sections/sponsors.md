@@ -46,6 +46,9 @@ title: Sponsors
 	  <span class="sponsor">
 	    <a href="http://tabaradetestare.ro/en/" target="_blank"><img src="/images/partners/tabara-de-testare-logo.png" alt="Tabara de Testare"></a>
 	  </span>
+	  <span class="sponsor">
+	    <a href="http://ctrl-d.ro" target="_blank"><img src="/images/partners/logo_ctrl-d.png" alt="Ctrl-D"></a>
+	  </span>
   </p>
 </li>
 </ul>
