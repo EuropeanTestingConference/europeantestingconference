@@ -26,6 +26,9 @@ title: Sponsors
 	  <span class="sponsor ">
 	    <a href="http://www.agilealliance.org/"><img src="/images/sponsors/AgileAlliance.jpg" alt="Agile Alliance"></a>
 	  </span>
+	  <span class="sponsor ">
+	    <a href="http://www.endava.com"><img src="/images/sponsors/Endava_logo_tif.tiff" alt="Endava"></a>
+	  </span>
   </p>
 </li>
 <li class="silver-sponsor">
