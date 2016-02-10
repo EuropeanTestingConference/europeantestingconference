@@ -7,7 +7,7 @@ title: Sponsors
 
 <ul id="sponsor-groups" class="list-unstyled">
 <li class="active platinum-sponsor">
-  <h3>Platinum sponsors</h3>
+  <h3>Platinum sponsors </h3>
   <p class="sponsors">
 	  <span class="sponsor ">
 	    <a href="http://mozaicworks.com/"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a>
@@ -15,12 +15,17 @@ title: Sponsors
 	  <span class="sponsor ">
 	    <a href="http://www.associationforsoftwaretesting.org/"><img src="/images/sponsors/AssociationForSoftwareTesting.png" alt="Association For Software Testing"></a>
 	  </span>
+  </p>
+</li>
+<li class="next platinum-sponsor">
+  <h3>Platinum sponsors</h3>
+  <p class="sponsors">
 	  <span class="sponsor ">
 	    <a href="https://www.db.com/careers/index_e.html"><img src="/images/sponsors/deutsche-bank.png" alt="Deutsche Bank"></a>
 	  </span>
   </p>
 </li>
-<li class="next gold-sponsor">
+<li class="gold-sponsor">
   <h3>Gold sponsors</h3>
   <p class="sponsors">
 	  <span class="sponsor">
