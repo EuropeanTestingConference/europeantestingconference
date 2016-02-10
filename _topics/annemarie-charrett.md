@@ -4,14 +4,23 @@ title: How to Conduct Great Experiments
 id: anne-marie-charrett
 keynote: true
 ---
+Cross-functional teams are a popular and on-trend approach to
+distributing the testing effort across software development. Ebay,
+Google, Microsoft are some of the more well-known names to have
+adopted this approach. In these companies, a test lead may oversee and
+support multiple teams reporting to the head of engineering.
 
-If we work in technology and want to discover new information, then we are creating and conducting experiments.
-A business may have a new idea and want to test it out and so adopt a Lean approach to business ideation.  
-At a product level, we use agile to test out our hypothesis about the nature of  the product. We think we know what product to develop, but we need iterative fast feedback loops to test out if our hypothesis is true.
-When we develop code, developers experiment constantly in order discover how to build the product well.
-And testers? Testers live and breath experimentation to discover potential failure.  
+Where does that leave the concept of test management and test manager?
+Are these ideas  irrelevant in todays  agile approach to software
+development?
 
-It maybe that the purpose and focus of our experiments differ but in essence we are all experimenting to some degree. This and the desire to build quality product is something that unites many organizations.
+At Tyro Payments, we’ve built a team from 5 to 23 testers in one year.
+We’ve experimented with test management and the role of test manager.
+We’ve constantly evolved our ideas about what it meant to lead testing
+in a high growth organisation.
 
-Experimentation is vital. Where else does theory and reality meet? This keynote is no different.  We will be using robots to design and conduct experiments to discover what makes effective experiments. You will take away some ideas about how to improve experimentation no matter what role you play in your organization.
-So don your labcoats and join me for a session of discovery, who knows what you might learn?
+This keynote will describe our growth, how we pivoted based on
+experimentation and learning. It will share some insights and traps to
+avoid. It will end with ideas about the future of test management and
+how it might fit into a future, where the only certainty is that
+testing will look very different to what is is today.
