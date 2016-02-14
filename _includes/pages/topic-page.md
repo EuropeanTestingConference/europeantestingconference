@@ -5,7 +5,7 @@
 
 	{% if topic.slideshare == true %}
     {% include pages/topic-slides-slideshare.md topic=topic %}
-	<div class="col-md-8 col-sm-8 slides-enabled topic-info">
+	<div class="col-sm-8 slides-enabled topic-info">
 	{% else %}
 	<div class="col-sm-12 topic-info">
 	{% endif %}
