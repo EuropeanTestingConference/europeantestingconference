@@ -72,7 +72,8 @@ $ ->
     success: populateBlogs
     
   }
-  $.getJSON options.url, options.success
+  if ( link != undefined) 
+    $.getJSON options.url, options.success
 
 
 

@@ -99,7 +99,9 @@
       type: 'GET',
       success: populateBlogs
     };
-    return $.getJSON(options.url, options.success);
+    if (link !== void 0) {
+      return $.getJSON(options.url, options.success);
+    }
   });
 
 }).call(this);
