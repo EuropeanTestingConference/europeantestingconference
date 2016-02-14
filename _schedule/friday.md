@@ -38,8 +38,8 @@ day_no: 5
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">TALK</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">10:30</time></div>
 		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#mieke-gevers">Mieke Gevers: Agile and Performance testing? "A Contradiction of terms?</a></h3></div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#ru-cindrea">Ru Cindrea: Dealing with Device Fragmentation in Mobile Games Testing</a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#mieke-gevers">Mieke Gevers: Agile and Performance testing? "A Contradiction of terms?</a><a href="http://europeantestingconference.eu/slides16/ETC16_MiekeGevers.pdf>"[slides pdf]</a> < href="http://europeantestingconference.eu/slides16/ETC16_MiekeGevers.ppt">[slides ppt]</a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#ru-cindrea">Ru Cindrea: Dealing with Device Fragmentation in Mobile Games Testing</a> href="http://europeantestingconference.eu/slides16/ETC16_RuCindrea.pdf">[slides]</a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#maaret-pyhajarvi">Maaret Pyhäjärvi: Learning in Layers </a></h3></div>
 	</div>
   	<div class="row break">
