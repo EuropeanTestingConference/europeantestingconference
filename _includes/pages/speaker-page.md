@@ -9,6 +9,8 @@
 		</div>
 	</div>
 	
+	{% if speaker.slideshare == true %}
+	{% endif %}
 	<div class="info col-md-9 col-sm-8">
 		<h3 class="name">{{ speaker.name }}</h3>
 		<div class="own-words">
@@ -20,6 +22,8 @@
 	  	{% endif %}
 	  	</div> 
    	</div>
+	
+	
  	</article>
 </section>
 

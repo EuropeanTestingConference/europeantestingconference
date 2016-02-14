@@ -8,10 +8,11 @@
 
 	article{
 		padding: 20px;
+		display: inline-block;
+		
 		&:nth-child(even){
 			background: rgba($silver, 0.4);
 		}
+		
 	}
-	
-	
 }

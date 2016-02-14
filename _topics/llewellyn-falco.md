@@ -3,6 +3,10 @@ speaker: Llewellyn Falco
 title: Increase Testability with Code Seams
 id: llewellyn-falco
 workshop: true
+
+slideshare: true
+slideshare-embed-link: "//www.slideshare.net/slideshow/embed_code/key/KCDOWHatX7Mzux"
+slideshare-link: "//www.slideshare.net/llewellynfalco/increase-testability-with-code-seams"
 ---
 Good testers can do amazing things with your code.
 Great testers cheat.

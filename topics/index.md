@@ -10,7 +10,7 @@ layout: sub-page
 {% for topic in topics %}
 
   {% if topic.keynote%}
-  {% include topic-page.html topic=topic %}
+  {% include pages/topic-page.md topic=topic %}
   {% endif %}
 {% endfor %}
 </section>
@@ -18,7 +18,7 @@ layout: sub-page
 <h2>Workshops</h2>
 {% for topic in topics %}
   {% if topic.workshop %}
-  {% include topic-page.html topic=topic %}
+  {% include pages/topic-page.md topic=topic %}
   {% endif %}
 {% endfor %}
 </section>
@@ -27,7 +27,7 @@ layout: sub-page
 {% for topic in topics %}
 
   {% if topic.talk %}
-  {% include topic-page.html topic=topic %}
+  {% include pages/topic-page.md topic=topic %}
   {% endif %}
 
 {% endfor %}
