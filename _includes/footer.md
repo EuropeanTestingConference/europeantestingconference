@@ -36,5 +36,6 @@
 <script src="{{ site.baseurl }}/javascripts/bootstrap.min.js"></script>
 <script src="{{ site.baseurl }}/javascripts/personas.js"></script>
 <script src="{{ site.baseurl }}/javascripts/blog.js"></script>
+<script src="{{ site.baseurl }}/javascripts/topics.js"></script>
  </body>
 </html>
