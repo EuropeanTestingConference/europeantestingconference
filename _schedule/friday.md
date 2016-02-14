@@ -25,7 +25,7 @@ day_no: 5
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">9:00</time></div>
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Keynote</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">9:45</time></div>
-		<div class="col-md-10 keynote"><h3><a href="/topics/#chris-matts"><span class="hidden-xs hidden-sm">KEYNOTE:</span> Chris Matts (UK) - We don't need testers! What we really need is testers!</a></h3></div>
+		<div class="col-md-10 keynote"><h3><a href="/topics/#chris-matts"><span class="hidden-xs hidden-sm">KEYNOTE:</span> Chris Matts (UK) - We don't need testers! What we really need is testers!</a> <a href="http://europeantestingconference.eu/slides16/ETC16_ChrisMatts.pdf"[slides]</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">9:45</time></div>
