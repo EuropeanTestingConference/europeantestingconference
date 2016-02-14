@@ -69,7 +69,8 @@ day_no: 4
 		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
 		<div class="col-sm-4 col-md-3 session"><h3><a href="/topics/#wouter-lagerweij">Wouter Lagerweij: Testing in a Continuous Delivery World</a></h3></div>
 		<div class="col-sm-4 col-md-3 session"><h3><a href="/topics/#speak-easy-speakers">Abby Bangser: Truth - The state of not yet proven false</a></h3></div>
-		<div class="col-sm-4 col-md-3 session"><h3><a href="/topics/#franziska-sauerwein">Franziska Sauerwein: Experiences in Outside In Test Driven Development (London School)</a></h3></div>
+		<div class="col-sm-4 col-md-3 session"><h3><a href="/topics/#franziska-sauerwein">Franziska Sauerwein: Experiences in Outside In Test Driven Development (London School) </a>
+    <a href=" http://slides.com/franziskasauerwein/outside">[slides]</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">14:15</time></div>
