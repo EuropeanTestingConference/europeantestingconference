@@ -26,4 +26,16 @@ $li-height: 195px;
 			height: 100px;
 		}
 	}
+	
+	footer {
+		.sponsors{
+			
+			padding: 0 5px 0 5px;
+			
+			img{
+				max-width: 200px;
+				height: auto;
+			}
+		}
+	}
 }
