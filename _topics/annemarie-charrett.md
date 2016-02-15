@@ -1,6 +1,6 @@
 ---
 speaker: Anne-Marie Charrett
-title: How to Conduct Great Experiments
+title: Test Management Revisited
 id: anne-marie-charrett
 keynote: true
 ---

@@ -109,7 +109,7 @@ day_no: 4
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">16:30</time></div>
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Keynote</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">17:15</time></div>
-		<div class="col-md-10 keynote"><h3><a href="/topics/#anne-marie-charrett"><span class="hidden-xs hidden-sm">KEYNOTE:</span> Anne-Marie Charrett (Australia) - How to Conduct Great Experiments</a></h3></div>
+		<div class="col-md-10 keynote"><h3><a href="/topics/#anne-marie-charrett"><span class="hidden-xs hidden-sm">KEYNOTE:</span> Anne-Marie Charrett (Australia) - Test Management Revisited</a></h3></div>
 	</div>
   	<div class="row meta">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">17:15</time></div>
