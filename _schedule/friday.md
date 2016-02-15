@@ -55,7 +55,7 @@ day_no: 5
 		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom"><p class="lr">WORK-</p><p class="lr">SHOP</p></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session "><h3>Llewellyn Falco, Thomas Sundberg, Richard Bradshaw: A Mob for Selenium Webdriver Tests </a><a href=" https://github.com/tsundberg/web-samples/tree/europeantestingconference2016">[Code created, github]</a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session "><h3><a href="/topics/#daniel-billing">Daniel Billing & Maaret Pyhäjärvi: A Security Testing Hands-on as Mob Testing </a></h3></div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session "><h3><a href="/topics/#rikke-simonsen">Rikke Simonsen: Behavior Driven Development (BDD) - How to Solve Communication Problems</a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session "><h3><a href="/topics/#rikke-simonsen">Rikke Simonsen: Behavior Driven Development (BDD) - How to Solve Communication Problems</a> <a href="http://www.slideshare.net/Reloaddk/bdd-how-to-solve-communication-problems">[slides]</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">12:15</time></div>
