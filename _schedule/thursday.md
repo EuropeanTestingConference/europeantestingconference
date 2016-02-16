@@ -39,7 +39,7 @@ day_no: 4
 		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
 		<div class="col-sm-4 col-md-3 col-xs-12 session"><h3><a href="/topics/#christina-ohanian">Christina Ohanian: Unleash your creativity and become a better tester</a> <a href=" http://www.slideshare.net/ChristinaOhanian/unleash-your-creativity-and-become-a-better-tester">[slides]</a></h3></div>
 		<div class="col-sm-4 col-md-3 col-xs-12 session"><h3><a href="/topics/#richard-bradshaw">Richard Bradshaw: My Experiences with Testing and Checking</a> <a href="http://europeantestingconference.eu/slides16/ETC16_RichardBradshaw.pdf">[slides]</a></h3></div>
-		<div class="col-sm-4 col-md-3 col-xs-12 session"><h3><a href="/topics/#thomas-sundberg">Thomas Sundberg: How Deep Are Your Tests? - Utilizing different levels of automated tests</a></h3></div>
+		<div class="col-sm-4 col-md-3 col-xs-12 session"><h3><a href="/topics/#thomas-sundberg">Thomas Sundberg: How Deep Are Your Tests? - Utilizing different levels of automated tests</a> <a href="http://www.slideshare.net/TSundberg/how-deep-are-your-tests">[slides]</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">10:55</time></div>
