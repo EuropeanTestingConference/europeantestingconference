@@ -7,5 +7,4 @@ title: "Directions: How to get there"
 
 ### By plane
 
-The nearest airport is in Bucharest Henri-Coanda Otopeni (OTP). 
-
+The nearest airport is Helsinki-Vantaa (HEL). 
