@@ -7,7 +7,7 @@ title: "When and Where"
 
 <div class="tile text-tile col-md-3 col-sm-6 col-xs-12">
   <h3>When?</h3>
-  <p>Early February 2017 </p>
+  <p>February 8-10th 2017 </p>
 </div>
 <div class="tile image-tile photo-1 col-md-3  col-sm-6 col-xs-12">
 </div>
