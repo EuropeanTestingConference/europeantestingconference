@@ -25,7 +25,7 @@ day_no: 5
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">9:00</time></div>
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Keynote</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">9:45</time></div>
-		<div class="col-md-10 keynote"><h3><a href="/topics/#chris-matts"><span class="hidden-xs hidden-sm">KEYNOTE:</span> Chris Matts (UK) - We don't need testers! What we really need is testers!</a> <a href="http://europeantestingconference.eu/slides16/ETC16_ChrisMatts.pdf">[slides]</a></h3></div>
+		<div class="col-md-10 keynote"><h3><a href="/topics/#chris-matts"><span class="hidden-xs hidden-sm">KEYNOTE:</span> Chris Matts (UK) - We don't need testers! What we really need is testers!</a> <a href="http://europeantestingconference.eu/slides16/ETC16_ChrisMatts.pdf">[slides]</a> <a href="https://www.youtube.com/watch?v=j56nhcEzta0">[video]</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">9:45</time></div>
@@ -38,9 +38,9 @@ day_no: 5
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">TALK</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">10:30</time></div>
 		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#mieke-gevers">Mieke Gevers: Agile and Performance testing? "A Contradiction of terms?</a><a href="http://europeantestingconference.eu/slides16/ETC16_MiekeGevers.pdf">"[slides pdf]</a> <a href="http://europeantestingconference.eu/slides16/ETC16_MiekeGevers.ppt">[slides ppt]</a></h3></div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#ru-cindrea">Ru Cindrea: Dealing with Device Fragmentation in Mobile Games Testing</a> <a href="http://europeantestingconference.eu/slides16/ETC16_RuCindrea.pdf">[slides]</a></h3></div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#maaret-pyhajarvi">Maaret Pyhäjärvi: Learning in Layers </a><a href="http://europeantestingconference.eu/slides16/ETC16_MaaretPyhajarvi.pdf">[slides]</a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#mieke-gevers">Mieke Gevers: Agile and Performance testing? "A Contradiction of terms?</a><a href="http://europeantestingconference.eu/slides16/ETC16_MiekeGevers.pdf">"[slides pdf]</a> <a href="http://europeantestingconference.eu/slides16/ETC16_MiekeGevers.ppt">[slides ppt]</a><a href="https://www.youtube.com/watch?v=UF5ERStlaHg">[video]</a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#ru-cindrea">Ru Cindrea: Dealing with Device Fragmentation in Mobile Games Testing</a> <a href="http://europeantestingconference.eu/slides16/ETC16_RuCindrea.pdf">[slides]</a> <a href="https://www.youtube.com/watch?v=51ajUBemB_k">[video]</a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#maaret-pyhajarvi">Maaret Pyhäjärvi: Learning in Layers </a><a href="http://europeantestingconference.eu/slides16/ETC16_MaaretPyhajarvi.pdf">[slides]</a> <a href="https://www.youtube.com/watch?v=mhYeLfMIzzU">[video]</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">10:30</time></div>
@@ -68,9 +68,9 @@ day_no: 5
 		<div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">TALK</div>
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">13:45</time></div>
 		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#claudia-rosu">Claudia Rosu: Developer Experience to Testing </a> <a href="http://europeantestingconference.eu/slides16/ETC16__ClaudiaRosu">[slides]</a></h3></div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#jesse-alford">Jesse Alford: Everybody tests: Balanced teams, Extreme Programming, and Exploration</a></h3></div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#gita-malinovska">Gita Malinovska: Testing Responsive Websites</a><a href="http://www.slideshare.net/GitaMalinovska1/testing-responsive-websites-eurotestconf">[slides]</a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#claudia-rosu">Claudia Rosu: Developer Experience to Testing </a> <a href="http://europeantestingconference.eu/slides16/ETC16__ClaudiaRosu">[slides]</a><a href="https://www.youtube.com/watch?v=MriidhWFDHA">[video]</a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#jesse-alford">Jesse Alford: Everybody tests: Balanced teams, Extreme Programming, and Exploration</a></h3> <a href="https://www.youtube.com/watch?v=Nf9skPMaqYk">[video]</a></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#gita-malinovska">Gita Malinovska: Testing Responsive Websites</a><a href="http://www.slideshare.net/GitaMalinovska1/testing-responsive-websites-eurotestconf">[slides]</a> a href="https://www.youtube.com/watch?v=hACSib0od9Q">[video]</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">13:45</time></div>
