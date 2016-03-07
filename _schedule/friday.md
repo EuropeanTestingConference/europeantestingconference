@@ -70,7 +70,7 @@ day_no: 5
 		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#claudia-rosu">Claudia Rosu: Developer Experience to Testing </a> <a href="http://europeantestingconference.eu/slides16/ETC16__ClaudiaRosu">[slides]</a><a href="https://www.youtube.com/watch?v=MriidhWFDHA">[video]</a></h3></div>
 		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#jesse-alford">Jesse Alford: Everybody tests: Balanced teams, Extreme Programming, and Exploration</a></h3> <a href="https://www.youtube.com/watch?v=Nf9skPMaqYk">[video]</a></div>
-		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#gita-malinovska">Gita Malinovska: Testing Responsive Websites</a><a href="http://www.slideshare.net/GitaMalinovska1/testing-responsive-websites-eurotestconf">[slides]</a> a href="https://www.youtube.com/watch?v=hACSib0od9Q">[video]</a></h3></div>
+		<div class="col-xs-12 col-sm-4 col-md-3 session"><h3><a href="/topics/#gita-malinovska">Gita Malinovska: Testing Responsive Websites</a><a href="http://www.slideshare.net/GitaMalinovska1/testing-responsive-websites-eurotestconf">[slides]</a> <a href="https://www.youtube.com/watch?v=hACSib0od9Q">[video]</a></h3></div>
 	</div>
   	<div class="row break">
 		<div class="col-xs-2 col-sm-1 start-time"><time class="start">13:45</time></div>
