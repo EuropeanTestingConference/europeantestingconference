@@ -96,7 +96,7 @@ day_no: 4
 		<div class="col-xs-2 col-sm-1 end-time"> - <time class="end">16:15</time></div>
 		<div class="hidden-xs hidden-sm col-md-1 top-to-bottom">TALK</div>
 		<div class="col-sm-4 col-md-3 session"><h3><a href="/topics/#simon-p-schrijver">Simon P. Schrijver: Why Pair Testing can (and will) improve the quality of your work </a><a href="http://europeantestingconference.eu/slides16/ETC16_SimonSchrijver.pdf">[slides]</a> <a href="https://www.youtube.com/watch?v=BVpCOTR7Z6U">[video]</a></h3></div>
-		<div class="col-sm-4 col-md-3 session"><h3><a href="/topics/#emma-keaveny">Emma Keaveny: Dark Patterns - A Tester's Quandary</a> <ahttps://www.youtube.com/watch?v=DrmdZ9NHmzA href="http://www.slideshare.net/EmmaKeaveny/dark-patterns-58243188">[slides]</a><a href="https://www.youtube.com/watch?v=DrmdZ9NHmzA">[video]</a></h3></div>
+		<div class="col-sm-4 col-md-3 session"><h3><a href="/topics/#emma-keaveny">Emma Keaveny: Dark Patterns - A Tester's Quandary</a> <a href="http://www.slideshare.net/EmmaKeaveny/dark-patterns-58243188">[slides]</a><a href="https://www.youtube.com/watch?v=DrmdZ9NHmzA">[video]</a></h3></div>
 		<div class="col-sm-4 col-md-3 session"><h3><a href="/topics/#julian-harty">Julian Harty: Symbiosis of Mobile Analytics and Software Testing</a> <a href="http://europeantestingconference.eu/slides16/ETC16_JulianHarty.pdf">[slides]</a> <a href="https://www.youtube.com/watch?v=UUZiC4mTUZY">[video]</a></h3></div>
 	</div>
   	<div class="row break">
