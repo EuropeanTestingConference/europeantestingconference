@@ -13,7 +13,7 @@ title: "When and Where"
 </div>
 <div class="tile tile-2 text-tile col-md-3 col-sm-6 col-xs-12 ">
   <h3>Where?</h3>
-  <p>in Helsinki, Finland.</p>
+  <p>in Wanha Satama, Helsinki, Finland.</p>
 </div>
 <div class="tile tile-2 image-tile photo-2 col-md-3 col-sm-6 col-xs-12">
 </div>
