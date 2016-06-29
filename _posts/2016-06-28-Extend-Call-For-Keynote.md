@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Extend call for keynote 2017 to 14.7.2017
+title: Extend call for keynote 2017 to 14.7.2016
 author: Maaret Pyhäjärvi
 ---
 
