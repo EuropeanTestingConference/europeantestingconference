@@ -1,5 +1,7 @@
 ---
-redirect_from: "/speakers"
+redirect_from: 
+ - "/speakers"
+ - "/speakers/"
 layout: yearly-sub-page
 ---
 
