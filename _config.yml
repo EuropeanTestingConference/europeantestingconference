@@ -1,4 +1,6 @@
 permalink: /news/:title
+gems:
+  - jekyll-redirect-from
 sass:
     style: :compressed
     sass_dir: styles/_snippets
