@@ -8,7 +8,6 @@ collections:
 - speakers
 - volunteers
 - topics
-- years
 defaults:
     -
         scope:

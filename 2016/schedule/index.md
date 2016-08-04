@@ -1,5 +1,5 @@
 ---
-layout: yearly-sub-page
+layout: sub-page
 ---
 
 <section id="schedule" class="main-content text-center">

@@ -1,5 +1,5 @@
 ---
-layout: yearly-sub-page
+layout: sub-page
 ---
 
 {% assign speakers = site.speakers | sort: order_no  %}
