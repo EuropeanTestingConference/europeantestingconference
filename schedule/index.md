@@ -1,12 +1,7 @@
 ---
-layout: sub-page
 ---
 
-<section id="schedule" class="main-content text-center">
-	<div class="container">
+<script type="text/javascript">
+window.location = "/2016/schedule";
+</script>
 
-{% assign days = site.schedule | sort:day_no | reverse  %}
-{% include schedule/schedule-list.md collection=days %}
-
-	</div>
-</section>
