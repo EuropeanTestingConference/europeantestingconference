@@ -1,5 +1,5 @@
 ---
-layout: sub-page
+layout: yearly-sub-page
 contained: true
 ---
 
