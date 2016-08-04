@@ -1,5 +1,5 @@
 ---
-layout: sub-page
+layout: yearly-sub-page
 ---
 {% assign topics = site.topics  %}
 

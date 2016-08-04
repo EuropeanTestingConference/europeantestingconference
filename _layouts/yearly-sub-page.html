@@ -1,0 +1,17 @@
+{% include yearly_header.html %}
+{% include yearly_navigation.html %}
+
+{% include site-header.html title=page.title sub_title=page.sub_title %}
+
+<main id="main" role="main" >
+	{% if contained %}
+	<div class="container">
+	{% endif %}
+	{{ content  }}
+	{% if contained %}
+	</div>
+	{% endif %}
+</main>
+{% include footer.md  %}
+
+
