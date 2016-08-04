@@ -1,4 +1,5 @@
 ---
+redirect_from: "/speakers"
 layout: yearly-sub-page
 ---
 

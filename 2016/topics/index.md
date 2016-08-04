@@ -1,4 +1,5 @@
 ---
+redirect_from: "/topics"
 layout: yearly-sub-page
 ---
 {% assign topics = site.topics  %}

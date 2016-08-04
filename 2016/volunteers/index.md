@@ -1,4 +1,5 @@
 ---
+redirect_from: "/volunteers"
 layout: yearly-sub-page
 contained: true
 ---

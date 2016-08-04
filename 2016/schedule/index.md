@@ -1,4 +1,5 @@
 ---
+redirect_from: "/schedule"
 layout: yearly-sub-page
 ---
 
