@@ -11,3 +11,12 @@ This conference is about getting experts and practitioners together to talk, lea
 We're tired of conferences that feel more like sales pitches than practitioners sharing the craft.
 
 Come. Learn. Do. Teach. Test.
+
+<div style="font-size:medium">
+Get your ticket now! An early Bird Ticket (available until end of August) only 496 euros (incl. VAT) for the two-day conference.
+</div>
+
+<div style="font-size:xx-large">
+<a href="https://holvi.com/shop/ETC2017/">Buy a ticket here</a>
+</div>
+<div style="font-size:small">(Speakers will have full 3-day ticket, after passing the Call for Proposals)</div>
