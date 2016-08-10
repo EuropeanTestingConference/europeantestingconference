@@ -1,0 +1,26 @@
+permalink: /news/:title
+gems:
+  - jekyll-redirect-from
+sass:
+    style: :compressed
+    sass_dir: styles/_snippets
+collections:
+- sections
+- schedule
+- speakers
+- volunteers
+- topics
+- years
+defaults:
+    -
+        scope:
+            path: "_posts"
+        values:
+            layout: "news"
+navigation:
+  - title : "Home"
+    url   : "2016/"
+#  - title : "Schedule"
+#    url   : "2016/schedule/"
+#  - title : "Speakers"
+#    url   : "2016/speakers/"
