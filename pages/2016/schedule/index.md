@@ -1,4 +1,5 @@
 ---
+permalink: /2016/schedule
 redirect_from: 
  - "/schedule"
  - "/schedule/"
