@@ -1,4 +1,6 @@
 ---
+permalink: /2016/styles/main.css
+
 ---
 //main colors
 $marsala: #955251;
@@ -41,17 +43,17 @@ $nav-link-color: $shark;  //#202129 is very close to $shark!
 $border-color: $main-text-color;
 $section-border-color: $cool-gray;
 
-@import "2016/html5boilerplate";
-@import "2016/navigation";
-@import "2016/participants";
-@import "2016/schedule";
-@import "2016/sponsors";
-@import "2016/topics";
-@import "2016/footer";
-@import "2016/news";
-@import "2016/media";
-@import "2016/blog";
-@import "bootstrap-sass/assets/stylesheets/bootstrap";
+@import "2016/styles/sass/html5boilerplate";
+@import "2016/styles/sass/navigation";
+@import "2016/styles/sass/participants";
+@import "2016/styles/sass/schedule";
+@import "2016/styles/sass/sponsors";
+@import "2016/styles/sass/topics";
+@import "2016/styles/sass/footer";
+@import "2016/styles/sass/news";
+@import "2016/styles/sass/media";
+@import "2016/styles/sass/blog";
+@import "2016/styles/sass/bootstrap-sass/assets/stylesheets/bootstrap";
 
 
 /* =============================================================================

@@ -1,0 +1,125 @@
+/* =============================================================================
+   /schedule related styles
+   ========================================================================== */
+
+
+#personas
+{
+	width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+    li
+    {
+        display: block;
+        float: left;
+        text-align: center;
+        margin: 0 0 15px 0;
+        
+        img
+        {
+            max-width: 50px;
+            border-radius: 30px;
+            display: block;
+        }
+        
+        .name
+        {
+            display: block;
+            font-size: 18px;
+            font-weight: 600;
+            margin: 5px 0 0 0;
+        }
+        
+        a
+        {
+            color: $link-color;
+        }
+    }
+	
+	.selected {
+		// Here some fancy way to show that this is selected
+		background: rgba( $orchid, 0.3 );
+	}
+	
+	
+}
+
+#schedule {
+	
+	article {
+		margin-top: 20px;
+		padding-bottom: 15px;
+		padding-top: 25px;
+		border-top: 5px solid #888b8d;
+		
+		&:after{
+//			content: "* * * * *";
+			margin-bottom: 10px;
+		}
+	}
+	
+	.row {
+		
+		h3{
+			margin-bottom: 20px;
+		}
+		
+		padding: 5px 0;
+
+		.start-time {
+			padding: 5px 3px;
+			text-align: right;
+		}
+
+		.end-time {
+			padding: 25px 0 0 3px;
+			text-align: left;
+		}
+		
+
+		.top-to-bottom {
+			top: 10px;
+			width: 0;
+		    word-wrap: break-word;
+			text-transform: uppercase;
+			font-size: 1.2em;
+			margin: 0 15px 0 0;
+			
+			.lr {
+				
+				&:last-child{
+					top: -20px;
+					margin: -55px 0px 0 20px;
+					left: 10px;
+				}
+			}
+		 }
+		
+		
+		&.meta{
+			background: rgba( $cyprus, 0.1 );
+
+			.description {
+				font-size: 1.3em;
+			}
+		}
+
+		&.break{
+			background: rgba( $cool-gray, 0.1 );
+		}
+
+		&.open-space{
+			text-transform: uppercase;
+			padding: 20px 0;
+			background: rgba( $cyprus, 0.1 );
+			
+			.description {
+				font-size: 1.5em;
+			}
+		}
+		
+
+	}
+}

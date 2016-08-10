@@ -41,17 +41,17 @@ $nav-link-color: $shark;  //#202129 is very close to $shark!
 $border-color: $main-text-color;
 $section-border-color: $cool-gray;
 
-@import "html5boilerplate";
-@import "navigation";
-@import "participants";
-@import "schedule";
-@import "sponsors";
-@import "topics";
-@import "footer";
-@import "news";
-@import "media";
-@import "blog";
-@import "bootstrap-sass/assets/stylesheets/bootstrap";
+@import "2017/styles/sass/html5boilerplate";
+@import "2017/styles/sass/navigation";
+@import "2017/styles/sass/participants";
+@import "2017/styles/sass/schedule";
+@import "2017/styles/sass/sponsors";
+@import "2017/styles/sass/topics";
+@import "2017/styles/sass/footer";
+@import "2017/styles/sass/news";
+@import "2017/styles/sass/media";
+@import "2017/styles/sass/blog";
+@import "2017/styles/sass/bootstrap-sass/assets/stylesheets/bootstrap";
 
 
 /* =============================================================================

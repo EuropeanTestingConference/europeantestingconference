@@ -3,7 +3,8 @@ gems:
   - jekyll-redirect-from
 sass:
     style: :compressed
-    sass_dir: styles/_snippets
+#    load_paths:
+    sass_dir: pages
 collections:
 - sections
 - schedule
