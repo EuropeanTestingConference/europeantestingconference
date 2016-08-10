@@ -5,3 +5,116 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 path: '2016'
 ---
 
+
+
+<section id="schedule" class="main-content text-center">
+
+{% assign days = site.schedule | sort:day_no | reverse  %}
+{% include schedule/schedule-list.md collection=days %}
+
+</section>
+
+{% assign speakers = site.speakers | sort: order_no  %}
+
+<div class="speakers" id="keynote-speakers">
+{% for speaker in speakers %}
+	
+	{% if speaker.keynote == true %}
+  {% include pages/speaker-page.md speaker=speaker %}
+	{% endif %}
+
+{% endfor %}
+</div>
+<div class="speakers"  id="speakers">
+{% for speaker in speakers %}
+	
+	{% if speaker.keynote == false %}
+  {% include pages/speaker-page.md speaker=speaker %}
+	{% endif %}
+
+{% endfor %}
+</div>
+
+
+
+{% assign topics = site.topics  %}
+
+<div class="" id="topics">
+
+<section class="main-content text-center" id="topic-keynotes">
+<h2>Keynotes</h2>
+{% for topic in topics %}
+
+  {% if topic.keynote%}
+  {% include pages/topic-page.md topic=topic %}
+  {% endif %}
+{% endfor %}
+</section>
+<section class="main-content text-center" id="topic-workshops">
+<h2>Workshops</h2>
+{% for topic in topics %}
+  {% if topic.workshop %}
+  {% include pages/topic-page.md topic=topic %}
+  {% endif %}
+{% endfor %}
+</section>
+<section class="main-content text-center" id="topic-talks">
+<h2>Talks</h2>
+{% for topic in topics %}
+
+  {% if topic.talk %}
+  {% include pages/topic-page.md topic=topic %}
+  {% endif %}
+
+{% endfor %}
+</section>
+</div>
+
+
+<div class='container'>
+
+<ul id="" class="list-unstyled text-center">
+<li class="platinum-sponsor">
+  <h3>Platinum sponsors </h3>
+  <p class="sponsors">
+	  <span class="sponsor ">
+	    <a href="http://mozaicworks.com/"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a>
+	  </span>
+	  <span class="sponsor ">
+	    <a href="http://www.associationforsoftwaretesting.org/"><img src="/images/sponsors/AssociationForSoftwareTesting.png" alt="Association For Software Testing"></a>
+	  </span>
+  </p>
+  <p class="sponsors">
+	  <span class="sponsor ">
+	    <a href="https://www.db.com/careers/index_e.html"><img src="/images/sponsors/deutsche-bank.png" alt="Deutsche Bank"></a>
+	  </span>
+  </p>
+</li>
+<li class="gold-sponsor">
+  <h3>Gold sponsors</h3>
+  <p class="sponsors">
+	  <span class="sponsor">
+	    <a href="http://altom.ro/"><img src="/images/sponsors/Altom.png" alt="Altom"></a>
+	  </span>
+	  <span class="sponsor ">
+	    <a href="http://www.agilealliance.org/"><img src="/images/sponsors/AgileAlliance.jpg" alt="Agile Alliance"></a>
+	  </span>
+	  <span class="sponsor ">
+	    <a href="http://www.endava.com"><img src="/images/sponsors/endava.png" alt="Endava"></a>
+	  </span>
+  </p>
+</li>
+<li class="gold-sponsor">
+  <h3>Partners</h3>
+  <p class="sponsors">
+	  <span class="sponsor">
+	    <a href="http://tabaradetestare.ro/en/" target="_blank"><img src="/images/partners/tabara-de-testare-logo.png" alt="Tabara de Testare"></a>
+	  </span>
+	  <span class="sponsor">
+	    <a href="http://ctrl-d.ro" target="_blank"><img src="/images/partners/logo_ctrl-d.png" alt="Ctrl-D"></a>
+	  </span>
+  </p>
+</li>
+</ul>
+
+</div>
