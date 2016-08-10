@@ -12,6 +12,6 @@ European Testing Conference 2017 proudly introduces our four keynote speakers:
 
 <b>Gitte Klitgaard</b> (@nativewired) is our inspirational speaker, helping us all be brave at work and while learning through practice.
 
-<b>Nicola Sedgwick</b> (@NicolaSedwick) shares from personal experiences with a voice that has not been heard enough yet while should be.  
+<b>Nicola Sedgwick</b> (@NicolaSedgwick) shares from personal experiences with a voice that has not been heard enough yet while should be.  
 
-Join us for enjoying their messages and many others in Helsinki, Finland in February 2017! 
+Join us for enjoying their messages and many others in Helsinki, Finland in February 2017!
