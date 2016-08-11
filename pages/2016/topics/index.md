@@ -1,4 +1,6 @@
 ---
+permalink: /2016/topics
+year: 2016
 redirect_from:
  - "/topics"
  - "/topics/"

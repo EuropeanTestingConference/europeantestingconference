@@ -1,4 +1,6 @@
 ---
+permalink: /2016/speakers
+year: 2016
 redirect_from: 
  - "/speakers"
  - "/speakers/"

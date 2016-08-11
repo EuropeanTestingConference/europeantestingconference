@@ -13,15 +13,12 @@
 <div class="platinum-sponsor">
   <ul class="sponsors">
 	  <li class="sponsor">
-	    <a href="http://mozaicworks.com" target="_blank"><img src="/images/sponsors/mozaic_works.png" alt="Mozaic Works"></a> 
 	  </li>
 	  <li class="sponsor ">
-	    <a href="http://www.associationforsoftwaretesting.org" target="_blank"><img src="/images/sponsors/AssociationForSoftwareTesting.png" alt="Association For Software Testing"></a> 
 	  </li>
   </ul>
   <ul class="sponsors">
 	  <li class="sponsor ">
-	    <a href="https://www.db.com/careers/index_e.html" target="_blank"><img src="/images/sponsors/deutsche-bank.png" alt="Deutsche Bank"></a> 
 	  </li>
   </ul>
 </div>

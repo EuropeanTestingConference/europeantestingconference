@@ -1,4 +1,5 @@
 ---
+year: 2016
 permalink: /2016/schedule
 redirect_from: 
  - "/schedule"

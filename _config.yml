@@ -1,6 +1,7 @@
 permalink: /news/:title
 gems:
   - jekyll-redirect-from
+  - jekyll-coffeescript
 sass:
     style: :compressed
 #    load_paths:
