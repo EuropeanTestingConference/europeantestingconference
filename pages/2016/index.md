@@ -22,9 +22,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 {% capture speakers_path %}{{ page.permalink }}speakers{% endcapture %}
 {% capture snippet_path %}{{ speakers_path }}/snippets/{% endcapture %}
 
-<section class="main-content text-center" id="talks">
-
-<div class="container speakers" id="keynote-speakers">
+<div class="speakers" id="keynote-speakers">
 
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
@@ -35,7 +33,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 {% endfor %}
 
 </div>
-<div class="container speakers"  id="speakers">
+<div class="speakers"  id="speakers">
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.keynote == false %}
@@ -44,9 +42,6 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 {% endif %}
 {% endfor %}
 </div>
-
-</section>
-
 
 {% assign topics = site.topics  %}
 
@@ -60,7 +55,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
-{% if page.keynote == true %}
+{% if page.keynote %}
  {% include pages/topic-page.md  topic=page%}
 {% endif %}
 {% endif %}
@@ -69,21 +64,24 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 </section>
 <section class="main-content text-center" id="topic-workshops">
 <h2>Workshops</h2>
-{% for topic in topics %}
-  {% if topic.workshop %}
-  {% include pages/topic-page.md topic=topic %}
-  {% endif %}
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.workshop  %}
+ {% include pages/topic-page.md  topic=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
 </section>
 <section class="main-content text-center" id="topic-talks">
 <h2>Talks</h2>
-{% for topic in topics %}
-
-  {% if topic.talk %}
-  {% include pages/topic-page.md topic=topic %}
-  {% endif %}
-
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.talk  %}
+ {% include pages/topic-page.md  topic=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
+
 </section>
 </div>
 
@@ -119,7 +117,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 </ol>
 </section>
 
-<div class='container main-content'>
+<div class='main-content'>
 
 <ul id="" class="list-unstyled text-center">
 <li class="platinum-sponsor">
