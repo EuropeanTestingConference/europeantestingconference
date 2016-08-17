@@ -1,20 +1,16 @@
-{% assign sorted_pages = site.sections | sort:"order_no" %}
+{% assign lang = page.lang %}
+{% assign sorted_pages = site.snippets | sort:"order_no" %}
 
 
-{% for section in sorted_pages | sort:order_no %}	
-{% if section.hide %}
-{% else %}
-    <section id="{{ section.about }}" class="col-md-12 main-content text-center">
-      {% if section.contained %}
-       <div class="contained">
-      {% endif %}
-
+{% if false %}
+{% for section in sorted_pages | sort:order_no %} 
+  <section id="{{ section.about }}"  class="col-md-12 main-content text-center {% if section.class 
+                                %}{{ section.class }}{% endif %}"
+  >
       <h2>{{ section.title }}</h2> 
-      <p>{{ section.output  }}</p>
-      {% if section.contained %}
-       </div>
-      {% endif %}
-    </section>
-{% endif %}
+    {{ section.output || markdownify }}
+  </section>
 {% endfor %}
+{% endif %}
+
 

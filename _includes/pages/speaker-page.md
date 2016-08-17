@@ -1,5 +1,3 @@
-{% assign speaker=include.speaker %}
-
 <section class="main-content text-center speaker fix-anchor" id="{{ speaker.id }}">
 	<article>
 
@@ -26,4 +24,3 @@
 	
  	</article>
 </section>
-

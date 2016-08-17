@@ -9,32 +9,41 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 
 <section id="schedule" class="main-content text-center">
 
-{% assign days = site.schedule | sort:day_no | reverse  %}
-{% include schedule/schedule-list.md collection=days %}
+SCHEDULE HERE
 
 </section>
 
-{% assign speakers = site.speakers | sort: order_no  %}
+<section class="main-content text-center" id="topic-keynotes">
 
-<div class="speakers" id="keynote-speakers">
+{% assign speakers = site.snippets | sort: order_no  %}
+
+{% capture speakers_path  %}_snippets/2016/speakers/{% endcapture %}
+<div class=" speakers" id="keynote-speakers">
 {% for speaker in speakers %}
+  {% if speaker.relative_path contains speakers_path %}
 	
+  
 	{% if speaker.keynote == true %}
-  {% include pages/speaker-page.md speaker=speaker %}
+    {% include pages/speaker-page.md  %}
+	{% endif %}
 	{% endif %}
 
 {% endfor %}
 </div>
-<div class="speakers"  id="speakers">
+<div class=" speakers"  id="speakers">
 {% for speaker in speakers %}
 	
+  {% if speaker.relative_path contains speakers_path %}
 	{% if speaker.keynote == false %}
-  {% include pages/speaker-page.md speaker=speaker %}
+  {% include pages/speaker-page.md %}
+	{% endif %}
 	{% endif %}
 
 {% endfor %}
 </div>
 
+
+</section>
 
 
 {% assign topics = site.topics  %}
