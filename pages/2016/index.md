@@ -22,7 +22,6 @@ SCHEDULE HERE
 {% for speaker in speakers %}
   {% if speaker.relative_path contains speakers_path %}
 	
-  
 	{% if speaker.keynote == true %}
     {% include pages/speaker-page.md  %}
 	{% endif %}

@@ -1,7 +1,6 @@
 ---
 day_no: 4
 ---
-
 <article class="schedule">
   <hgroup class="row">
     <h2 class="col-md-10 col-md-offset-2">Thursday<br><span>Feb 11<sup>th</sup></span></h2>

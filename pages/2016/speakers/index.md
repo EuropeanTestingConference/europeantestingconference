@@ -7,30 +7,26 @@ redirect_from:
 layout: yearly-sub-page
 ---
 
-{% assign speakers = site.snippets | sort: order_no  %}
+{% capture snippet_path %}{{ page.permalink }}/snippets/{% endcapture %}
 
-{% capture speakers_path  %}_snippets/2016/speakers/{% endcapture %}
 <div class="container speakers" id="keynote-speakers">
-{% for speaker in speakers %}
-  {% if speaker.relative_path contains speakers_path %}
-	
-  
-	{% if speaker.keynote == true %}
-    {% include pages/speaker-page.md  %}
-	{% endif %}
-	{% endif %}
 
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.keynote == true %}
+ {% include pages/speaker-page.md  speaker=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
+
 </div>
 <div class="container speakers"  id="speakers">
-{% for speaker in speakers %}
-	
-  {% if speaker.relative_path contains speakers_path %}
-	{% if speaker.keynote == false %}
-  {% include pages/speaker-page.md %}
-	{% endif %}
-	{% endif %}
-
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.keynote == false %}
+  {% include pages/speaker-page.md  speaker=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
 </div>
 
