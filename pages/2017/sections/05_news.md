@@ -11,7 +11,7 @@ title: "Latest Buzz"
    <span></span></h2>
      </hgroup>
 
-  {% include sections/news-excerpts.md %}
+  {% include 2017/news-excerpts.md %}
 
 </div>
 
