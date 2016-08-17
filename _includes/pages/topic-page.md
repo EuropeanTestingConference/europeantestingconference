@@ -6,7 +6,7 @@
 	{% if topic.slideshare == true %}
     {% include pages/topic-slides-slideshare.md topic=topic %}
 	{% endif %}
-    
+
 	{% include pages/topic-output.md topic=topic %}
-	
+
 </article>
