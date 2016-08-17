@@ -4,7 +4,7 @@ year: 2016
 redirect_from:
  - "/speakers"
  - "/speakers/"
-layout: yearly-sub-page
+layout: 2016/sub-page
 ---
 
 {% capture snippet_path %}{{ page.permalink }}/snippets/{% endcapture %}
