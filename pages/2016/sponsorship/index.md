@@ -1,4 +1,6 @@
 ---
+permalink: /2016/sponsorship
+year: 2016
 layout: sub-page-with-section
 contained: true
 ---
@@ -16,7 +18,7 @@ Testing is important. This conference is about getting experts and practitioners
 ### Audience
 Our audience is testers, developers, analysts and managers. We’re bringing down the divide in testing. We travel around Europe, starting with Bucharest in 2016.
 
-|  package | platinum   | gold   | silver   | 
+|  package | platinum   | gold   | silver   |
 |:---------|------------|--------|----------|
 | price   | 4000€  | 2000€  | 700€  |
 | amount | 4 | 9 | unlimited |
@@ -41,4 +43,3 @@ Our audience is testers, developers, analysts and managers. We’re bringing dow
 **Email:** [contact@europeantestingconference.eu](mailto:contact@europeantestingconference.eu)
 
 **Phone:**  +358 40 823 3777 (Maaret Pyhäjärvi) or +40 726 329 594 (Adrian Bolboacă)
-
