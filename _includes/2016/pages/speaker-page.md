@@ -7,7 +7,7 @@
 			<img src="{{speaker.image}}"/>
 		</div>
 	</div>
-	
+
 	{% if speaker.slideshare == true %}
 	{% endif %}
 	<div class="info col-md-9 col-sm-8">
@@ -19,9 +19,9 @@
 				<a href="https:/twitter.com/{{ speaker.twitter }}"><img src="/images/twitter.png"> {{ speaker.twitter }}</a>
 			</p>
 	  	{% endif %}
-	  	</div> 
+	  	</div>
    	</div>
-	
-	
+
+
  	</article>
 </section>

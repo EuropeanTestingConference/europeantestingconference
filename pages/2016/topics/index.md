@@ -16,7 +16,7 @@ layout: yearly-sub-page
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.keynote == true %}
- {% include pages/topic-page.md  topic=page%}
+ {% include 2016/pages/topic-page.md  topic=page%}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -28,7 +28,7 @@ layout: yearly-sub-page
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.workshop == true %}
- {% include pages/topic-page.md  topic=page%}
+ {% include 2016/pages/topic-page.md  topic=page%}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -40,7 +40,7 @@ layout: yearly-sub-page
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.talk == true %}
- {% include pages/topic-page.md  topic=page%}
+ {% include 2016/pages/topic-page.md  topic=page%}
 {% endif %}
 {% endif %}
 {% endfor %}

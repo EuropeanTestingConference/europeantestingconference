@@ -1,7 +1,7 @@
 ---
 permalink: /2016/speakers
 year: 2016
-redirect_from: 
+redirect_from:
  - "/speakers"
  - "/speakers/"
 layout: yearly-sub-page
@@ -14,7 +14,7 @@ layout: yearly-sub-page
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.keynote == true %}
- {% include pages/speaker-page.md  speaker=page%}
+ {% include 2016/pages/speaker-page.md  speaker=page%}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -24,10 +24,8 @@ layout: yearly-sub-page
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.keynote == false %}
-  {% include pages/speaker-page.md  speaker=page%}
+  {% include 2016/pages/speaker-page.md  speaker=page%}
 {% endif %}
 {% endif %}
 {% endfor %}
 </div>
-
-

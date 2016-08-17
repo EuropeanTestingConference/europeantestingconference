@@ -27,7 +27,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.keynote   %}
- {% include pages/speaker-page.md  speaker=page%}
+ {% include 2016/pages/speaker-page.md  speaker=page%}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -37,7 +37,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.keynote == false %}
-  {% include pages/speaker-page.md  speaker=page%}
+  {% include 2016/pages/speaker-page.md  speaker=page%}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -56,7 +56,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.keynote %}
- {% include pages/topic-page.md  topic=page%}
+ {% include 2016/pages/topic-page.md  topic=page%}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -67,7 +67,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.workshop  %}
- {% include pages/topic-page.md  topic=page%}
+ {% include 2016/pages/topic-page.md  topic=page%}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -77,7 +77,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.talk  %}
- {% include pages/topic-page.md  topic=page%}
+ {% include 2016/pages/topic-page.md  topic=page%}
 {% endif %}
 {% endif %}
 {% endfor %}
