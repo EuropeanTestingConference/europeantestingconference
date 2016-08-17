@@ -1,29 +1,31 @@
 ---
 permalink: /2016/speakers
 year: 2016
-redirect_from: 
+redirect_from:
  - "/speakers"
  - "/speakers/"
-layout: yearly-sub-page
+layout: 2016/sub-page
 ---
 
-{% assign speakers = site.speakers | sort: order_no  %}
+{% capture snippet_path %}{{ page.permalink }}/snippets/{% endcapture %}
 
 <div class="container speakers" id="keynote-speakers">
-{% for speaker in speakers %}
-	
-	{% if speaker.keynote == true %}
-  {% include pages/speaker-page.md speaker=speaker %}
-	{% endif %}
 
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.keynote == true %}
+ {% include 2016/pages/speaker-page.md  speaker=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
+
 </div>
 <div class="container speakers"  id="speakers">
-{% for speaker in speakers %}
-	
-	{% if speaker.keynote == false %}
-  {% include pages/speaker-page.md speaker=speaker %}
-	{% endif %}
-
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.keynote == false %}
+  {% include 2016/pages/speaker-page.md  speaker=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
 </div>

@@ -1,17 +1,18 @@
 ---
 year: 2016
 permalink: /2016/schedule
-redirect_from: 
+redirect_from:
  - "/schedule"
  - "/schedule/"
-layout: yearly-sub-page
+layout: 2016/sub-page
 ---
-
+{% capture snippet_path %}{{ page.permalink }}/snippets/{% endcapture %}
 <section id="schedule" class="main-content text-center">
 	<div class="container">
-
-{% assign days = site.schedule | sort:day_no | reverse  %}
-{% include schedule/schedule-list.md collection=days %}
-
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{{ page.content }}
+{% endif %}
+{% endfor %}
 	</div>
 </section>

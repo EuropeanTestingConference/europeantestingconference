@@ -2,71 +2,86 @@
 permalink: /2016/
 year: 2016
 
-layout: layout_2016
+layout: 2016/index
 title: European Testing Conference 2016
 sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https://www.radissonblu.com/en/hotel-bucharest" target="_blank">Radisson Blu, Calea Victoriei 63-81</a>'
 ---
 
+{% capture schedule_path %}{{ page.permalink }}schedule{% endcapture %}
+{% capture snippet_path %}{{ schedule_path }}/snippets/{% endcapture %}
+
 <section id="schedule" class="main-content text-center">
-
-{% assign days = site.schedule | sort:day_no | reverse  %}
-{% include schedule/schedule-list.md collection=days %}
-
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{{ page.content }}
+{% endif %}
+{% endfor %}
 </section>
 
-{% assign speakers = site.speakers | sort: order_no  %}
+
+{% capture speakers_path %}{{ page.permalink }}speakers{% endcapture %}
+{% capture snippet_path %}{{ speakers_path }}/snippets/{% endcapture %}
 
 <div class="speakers" id="keynote-speakers">
-{% for speaker in speakers %}
-	
-	{% if speaker.keynote == true %}
-  {% include pages/speaker-page.md speaker=speaker %}
-	{% endif %}
 
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.keynote   %}
+ {% include 2016/pages/speaker-page.md  speaker=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
+
 </div>
 <div class="speakers"  id="speakers">
-{% for speaker in speakers %}
-	
-	{% if speaker.keynote == false %}
-  {% include pages/speaker-page.md speaker=speaker %}
-	{% endif %}
-
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.keynote == false %}
+  {% include 2016/pages/speaker-page.md  speaker=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
 </div>
-
-
 
 {% assign topics = site.topics  %}
 
 <div class="" id="topics">
 
+{% capture topics_path %}{{ page.permalink }}topics{% endcapture %}
+{% capture snippet_path %}{{ topics_path }}/snippets/{% endcapture %}
+
 <section class="main-content text-center" id="topic-keynotes">
 <h2>Keynotes</h2>
-{% for topic in topics %}
 
-  {% if topic.keynote%}
-  {% include pages/topic-page.md topic=topic %}
-  {% endif %}
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.keynote %}
+ {% include 2016/pages/topic-page.md  topic=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
+
 </section>
 <section class="main-content text-center" id="topic-workshops">
 <h2>Workshops</h2>
-{% for topic in topics %}
-  {% if topic.workshop %}
-  {% include pages/topic-page.md topic=topic %}
-  {% endif %}
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.workshop  %}
+ {% include 2016/pages/topic-page.md  topic=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
 </section>
 <section class="main-content text-center" id="topic-talks">
 <h2>Talks</h2>
-{% for topic in topics %}
-
-  {% if topic.talk %}
-  {% include pages/topic-page.md topic=topic %}
-  {% endif %}
-
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.talk  %}
+ {% include 2016/pages/topic-page.md  topic=page%}
+{% endif %}
+{% endif %}
 {% endfor %}
+
 </section>
 </div>
 
@@ -102,7 +117,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 </ol>
 </section>
 
-<div class='container main-content'>
+<div class='main-content'>
 
 <ul id="" class="list-unstyled text-center">
 <li class="platinum-sponsor">
