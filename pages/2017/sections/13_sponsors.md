@@ -1,5 +1,4 @@
 ---
-order_no: 13
 about: sponsor-block
 contained: true
 title: Sponsors

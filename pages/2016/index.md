@@ -26,7 +26,7 @@ sub_title: 'Bucharest, Romania. <em>11-12 February 2016</em> at <a href="https:/
 
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
-{% if page.keynote == true %}
+{% if page.keynote   %}
  {% include pages/speaker-page.md  speaker=page%}
 {% endif %}
 {% endif %}

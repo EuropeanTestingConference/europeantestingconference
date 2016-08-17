@@ -1,5 +1,4 @@
 ---
-order_no: 5
 about: "directions"
 contained: true
 title: "Latest Buzz"
@@ -9,7 +8,7 @@ title: "Latest Buzz"
 
    <hgroup>
        <h2>News<br>
-   <span></span></h2> 
+   <span></span></h2>
      </hgroup>
 
   {% include sections/news-excerpts.md %}

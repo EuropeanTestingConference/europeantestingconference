@@ -1,5 +1,4 @@
 ---
-order_no: 9
 about: "directions"
 contained: true
 title: "Directions: How to get there"
@@ -7,4 +6,4 @@ title: "Directions: How to get there"
 
 ### By plane
 
-The nearest airport is Helsinki-Vantaa (HEL). 
+The nearest airport is Helsinki-Vantaa (HEL).

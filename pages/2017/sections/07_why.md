@@ -1,7 +1,6 @@
 ---
 title: "Why"
 about: "why"
-order_no: 7
 contained: true
 ---
 
