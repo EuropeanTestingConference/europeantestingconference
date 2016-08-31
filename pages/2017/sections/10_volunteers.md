@@ -31,3 +31,5 @@ title: "Organizers"
     <a href="https://twitter.com/maaretp">@maaretp</a>
   </li>
 </ol>
+
+The 2017 edition in Helsinki, Finland is organized as an <a href="http://agile.fi">Agile Finland ry</a> event. Agile Finland ry is a non-profit organization dedicated to advancing state of agile in Finland and partners with the organizing team to make the event possible. 
