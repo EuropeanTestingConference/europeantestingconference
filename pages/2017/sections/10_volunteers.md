@@ -11,6 +11,11 @@ title: "Organizers"
     <a href="https://twitter.com/adibolb">@adibolb</a>
   </li>
   <li class="volunteer">
+    <img src="https://pbs.twimg.com/profile_images/629062251152961536/kumhZ5lm_400x400.jpg">
+    <span class="name">Maaret Pyhäjärvi</span>
+    <a href="https://twitter.com/maaretp">@maaretp</a>
+  </li>
+  <li class="volunteer">
     <img src="https://pbs.twimg.com/profile_images/1877737374/20110907at09-16-47.jpg">
     <span class="name">Aki Salmi</span>
     <a href="https://twitter.com/rinkkasatiainen">@rinkkasatiainen</a>
@@ -26,10 +31,10 @@ title: "Organizers"
     <a href="https://twitter.com/LlewellynFalco">@LlewellynFalco</a>
   </li>
   <li class="volunteer">
-    <img src="https://pbs.twimg.com/profile_images/629062251152961536/kumhZ5lm_400x400.jpg">
-    <span class="name">Maaret Pyhäjärvi</span>
-    <a href="https://twitter.com/maaretp">@maaretp</a>
+    <img src="https://pbs.twimg.com/profile_images/498652508055932929/SwPtPQ9o.jpeg" />
+    <span class="name">Peter Schrijver</span>
+    <a href="https://twitter.com/SimonSaysNoMore">@SimonSaysNoMore</a>
   </li>
 </ol>
 
-The 2017 edition in Helsinki, Finland is organized as an <a href="http://agile.fi">Agile Finland ry</a> event. Agile Finland ry is a non-profit organization dedicated to advancing state of agile in Finland and partners with the organizing team to make the event possible. 
+The 2017 edition in Helsinki, Finland is organized as an <a href="http://agile.fi">Agile Finland ry</a> event. Agile Finland ry is a non-profit organization dedicated to advancing state of agile in Finland and partners with the organizing team to make the event possible.
