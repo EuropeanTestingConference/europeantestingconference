@@ -1,6 +1,7 @@
 ---
 speaker: Gitte Klitgaard & Aki Salmi
 title:
-id: gitte-klitgaard-aki-salmi
+id: gitte-klitgaard
+id: aki-salmi
 training: true
 ---
