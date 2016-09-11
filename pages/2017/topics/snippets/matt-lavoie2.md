@@ -1,5 +1,5 @@
 ---
-speaker: Matt Lavoie
+speaker: 3a. Matt Lavoie
 title: "&lt;To Be Announced Soon&gt;"
 id: matt-lavoie
 training: true

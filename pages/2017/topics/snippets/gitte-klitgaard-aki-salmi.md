@@ -1,5 +1,5 @@
 ---
-speaker: 6. Gitte Klitgaard & Aki Salmi
+speaker: 7. Gitte Klitgaard & Aki Salmi
 title: Effective Communication
 id: gitte-klitgaard-aki-salmi
 training: true

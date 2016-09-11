@@ -1,5 +1,5 @@
 ---
-speaker: Daniel Billing
+speaker: 3b. Daniel Billing
 title: "&lt;To Be Announced Soon&gt;"
 id: daniel-billing
 training: true

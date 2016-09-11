@@ -1,5 +1,5 @@
 ---
-speaker: Angie Jones
+speaker: 5. Angie Jones
 title: Starting Out With Selenium
 id: angie-jones
 training: true
