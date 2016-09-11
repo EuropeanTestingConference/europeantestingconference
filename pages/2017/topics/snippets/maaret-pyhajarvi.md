@@ -10,7 +10,7 @@ In this course, we amp up our testing skills by learning from one another, and l
 
 We will work on different types of activities as a group: from analyzing a user interface to analyzing an individual feature; from having ready code to creating some with test-driven development; and from focusing on testing to focusing on teamwork dynamics.
 
-The training day shows you:
+**The training day shows you**:
 
   * How mobbing gets the tacit knowledge out in a team in an actionable format
 
