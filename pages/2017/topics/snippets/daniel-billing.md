@@ -1,7 +1,7 @@
 ---
 speaker: Daniel Billing
-title: Web Application Security: A Hands on Testing Challenge 
-id: 3a-daniel-billing
+title: Web Application Security: A Hands on Testing Challenge
+id: daniel-billing
 training: true
 ---
 <i> This training is half-a-day and paired with the Usability training under the theme of the core parafunctional quality aspects</i>
