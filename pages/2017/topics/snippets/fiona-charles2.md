@@ -1,6 +1,6 @@
 ---
-speaker: 1. Fiona Charles
+speaker: Fiona Charles
 title: "&lt;To Be Announced Soon&gt;"
-id: fiona-charles-training
+id: 1-fiona-charles-training
 training: true
 ---

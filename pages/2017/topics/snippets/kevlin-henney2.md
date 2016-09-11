@@ -1,6 +1,6 @@
 ---
-speaker: 2. Kevlin Henney
-title: "&lt;To Be Announced Soon&gt;"
-id: kevlin-henney
+speaker: Kevlin Henney
+title: Software Craftmanship
+id: 2-kevlin-henney
 training: true
 ---

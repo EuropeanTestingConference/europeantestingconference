@@ -2,7 +2,7 @@
 speaker: Alex Schladebeck
 title: Will your tests stand the test of time? Patterns for automated UI tests
 id: alexandra-schladebeck
-keynote: false
+talk: true
 ---
 Test automation projects can have a bad tendency to go awry, most especially when higher-level automation (e.g. via the UI) is involved. At some point, automated tests just become too hard to understand, extend and maintain.
 

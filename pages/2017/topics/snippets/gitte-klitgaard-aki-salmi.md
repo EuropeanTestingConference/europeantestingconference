@@ -1,7 +1,7 @@
 ---
-speaker: 7. Gitte Klitgaard & Aki Salmi
+speaker: Gitte Klitgaard & Aki Salmi
 title: Effective Communication
-id: gitte-klitgaard-aki-salmi
+id: 7-gitte-klitgaard-aki-salmi
 training: true
 ---
 **Purpose of the workshop:**

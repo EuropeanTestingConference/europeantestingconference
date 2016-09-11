@@ -1,6 +1,6 @@
 ---
-speaker: 4. Maaret Pyhäjärvi
+speaker: Maaret Pyhäjärvi
 title: Mob Testing
-id: maaret-pyhajarvi
+id: 4-maaret-pyhajarvi
 training: true
 ---
