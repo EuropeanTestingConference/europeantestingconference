@@ -1,6 +1,6 @@
 ---
 speaker: Alastair Smith
-title: <To Be Announced Soon>
+title: "&lt;To Be Announced Soon&gt;"
 id: alastair-smith
 talk: true
 ---

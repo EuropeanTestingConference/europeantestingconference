@@ -1,6 +1,6 @@
 ---
 speaker: Huib Schoots
-title: <To Be Announced Soon>
+title: "&lt;To Be Announced Soon&gt;"
 id: huib-schoots
 talk: true
 ---
