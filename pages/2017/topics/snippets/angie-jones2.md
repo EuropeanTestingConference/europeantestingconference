@@ -5,6 +5,7 @@ id: angie-jones-training
 training: true
 ---
 Automation skills are in high demand, and many testers are seeking to expand their knowledge in this area. In this hands-on workshop, we’ll use the most popular technologies for automation including Java, Selenium WebDriver, and JUnit. You’ll learn how to:
+
   * Identify the best test scenarios to automate
 
   * Create an automation framework from scratch
