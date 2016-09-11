@@ -11,6 +11,7 @@ In this course, we amp up our testing skills by learning from one another, and l
 We will work on different types of activities as a group: from analyzing a user interface to analyzing an individual feature; from having ready code to creating some with test-driven development; and from focusing on testing to focusing on teamwork dynamics.
 
 The training day shows you:
+
   * How mobbing gets the tacit knowledge out in a team in an actionable format
 
   * How to introduce learning in mobbing format at your place of work
@@ -28,6 +29,7 @@ The training day shows you:
 Opening of the Day: Learning Goals and Introducing the System Under Test
 
 The Brief Basics to Mob Testing
+
   * Mob Testing
 
   * Exploratory testing
@@ -35,26 +37,31 @@ The Brief Basics to Mob Testing
   * Strong-style pairing exercise
 
 Activity: Exploring in a mob part 1
+
   * Find the happy path: why would anyone want to use this
 
   * Retrospective: what have we learned?
 
 Activity: Exploring in a mob part 2
+
   * Coverage: identify what is there
 
   * Retrospective: what have we learned?
 
 Activity: Creating Selenium Scripts
+
   * Basic Selenium Test
 
   * Retrospective: what have we learned?
 
 Activity: Test-Driven Development Kata
+
   * Glimpse into mob programming: contribution of a non-programmer tester
 
   * Retrospective: what have we learned?
 
 Introducing Mob Testing as a Learning Activity
+
   * Facilitation: speak through questions, introduce constraints, concepts and tools
 
   * Discussion on Kindness, Consideration and Respect in action
