@@ -26,6 +26,6 @@ Here you will learn to listen, not to respond, but to hear what is actually bein
 
 We want to inspire you to have the courage to be yourself as you communicate in an effective manner.
 
-Hosts:
+**Hosts:**
 Aki Salmi & Gitte Klitgaard. Both are quite active in the software community, speaking at and organising (un)conferences. Their focus is on software craftsmanship and agile respectively, and they have a common interest in the people aspects: communication, listening and creating a safe space for people to be themselves.
 They believe in and help teams to find joy and purpose at work.

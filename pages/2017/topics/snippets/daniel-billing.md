@@ -1,6 +1,6 @@
 ---
 speaker: Daniel Billing
-title: <To Be Announced Soon>
+title: "&lt;To Be Announced Soon&gt;"
 id: daniel-billing
 training: true
 ---

@@ -1,6 +1,6 @@
 ---
 speaker: Fiona Charles
-title: <To Be Announced Soon>
-id: fiona-charles
+title: "&lt;To Be Announced Soon&gt;"
+id: fiona-charles-training
 training: true
 ---
