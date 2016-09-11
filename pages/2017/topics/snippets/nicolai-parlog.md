@@ -4,7 +4,7 @@ title: JUnit 5 -  Next Generation Testing on the JVM
 id: nicolai-parlog
 talk: true
 ---
-Java's most ubiquitous library is getting an update! And this is the time to see what's new and weigh in on its course.
+Java&apos;s most ubiquitous library is getting an update! And this is the time to see what&apos;s new and weigh in on its course.
 
 This talk will...
 
