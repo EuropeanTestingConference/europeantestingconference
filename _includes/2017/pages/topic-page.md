@@ -1,7 +1,7 @@
 {% assign topic=include.topic %}
 
 <article class="topic" id="{{ topic.id }}">
-	<h3 class="title"><a href="/speakers#{{ topic.id }}">{{topic.speaker}}</a> - {{ topic.title }}</h3>
+	<h3 class="title"><a href="/2017/speakers#{{ topic.id }}">{{topic.speaker}}</a> - {{ topic.title }}</h3>
 
 	{% if topic.slideshare == true %}
     {% include 2016/pages/topic-slides-slideshare.md topic=topic %}
