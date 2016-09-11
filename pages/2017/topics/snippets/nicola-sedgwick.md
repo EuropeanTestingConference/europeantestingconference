@@ -1,6 +1,6 @@
 ---
 speaker: Nicola Sedgwick
-title: <To Be Announced Soon>
+title: "&lt;To Be Announced Soon&gt;"
 id: nicola-sedgwick
 keynote: true
 ---

@@ -1,6 +1,6 @@
 ---
 speaker: Joep Schuurkes
-title: <To Be Announced Soon>
+title: "&lt;To Be Announced Soon&gt;"
 id: joep-schuurkes
 talk: true
 ---

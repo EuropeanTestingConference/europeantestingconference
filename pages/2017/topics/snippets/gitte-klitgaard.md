@@ -1,6 +1,6 @@
 ---
 speaker: Gitte Klitgaard
-title: <To Be Announced Soon>
+title: "&lt;To Be Announced Soon&gt;"
 id: Gitte Klitgaard
 keynote: true
 ---

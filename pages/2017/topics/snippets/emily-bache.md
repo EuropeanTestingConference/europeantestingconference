@@ -1,6 +1,6 @@
 ---
 speaker: Emily Bache
-title: <To Be Announced Soon>
+title: "&lt;To Be Announced Soon&gt;"
 id: emily-bache
 workshop: true
 ---

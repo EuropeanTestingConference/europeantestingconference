@@ -1,6 +1,6 @@
 ---
 speaker: Kevlin Henney
-title: <To Be Announced Soon>
+title: "&lt;To Be Announced Soon&gt;"
 id: kevlin-henney
 keynote: true
 ---

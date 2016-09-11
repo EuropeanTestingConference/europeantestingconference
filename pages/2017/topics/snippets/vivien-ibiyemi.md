@@ -1,6 +1,6 @@
 ---
 speaker: Vivien Ibironke Ibiyemi
-title: <To Be Announced Soon>
+title: "&lt;To Be Announced Soon&gt;"
 id: vivien-ibiyemi
 talk: true
 ---
