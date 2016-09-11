@@ -1,6 +1,6 @@
 ---
 speaker: Kevlin Henney
 title: Software Craftmanship
-id: 2-kevlin-henney
+id: kevlin-henney-training
 training: true
 ---
