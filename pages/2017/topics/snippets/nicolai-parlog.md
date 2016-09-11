@@ -18,4 +18,4 @@ This talk will...
 
  * discuss compatibility with previous JUnit versions, IDEs, and other testing tools
 
-Be careful, though: You might end up with an urge to start using it right away.
+Be careful, though -  You might end up with an urge to start using it right away.
