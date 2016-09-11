@@ -1,7 +1,7 @@
 ---
 speaker: Daniel Billing
 title: Web Application Security: A Hands on Testing Challenge
-id: daniel-billing
+id: daniel-billing-training
 training: true
 ---
 <i> This training is half-a-day and paired with the Usability training under the theme of the core parafunctional quality aspects</i>
@@ -16,7 +16,8 @@ Building upon personal experience of integrating security testing into an existi
 
 Attendees will take away a set of advice and techniques to incorporate and enable security testing into their day to day work, answering some of the questions that may arise around scope, skills, tools, models and learning.
 
-Technical requirements:
+**Technical requirements:**
+
 This is a practical training, so all attendees will require a laptop, and the ability to install and run the application under test, as well as some open source tools that will be useful during the session.  Installation instructions and a tool list will be sent before the training, and pre-installation is highly recommended for a smooth training experience.
 
 Prior experience in security testing web applications is not necessary; however, attendees will need to be comfortable testing web applications and using modern web-browsers (i.e. Firefox, Chrome, Safari).
