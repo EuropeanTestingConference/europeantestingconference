@@ -1,6 +1,6 @@
 ---
 speaker: Rosie Sherry
-title: Doing Things and Stuff
+title:  "&lt;To Be Announced Soon&gt;"
 id: rosie-sherry
 talk: true
 ---
