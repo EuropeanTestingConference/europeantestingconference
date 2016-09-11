@@ -13,7 +13,8 @@ I will talk about how my *Mindset Toolkit* has helped me grow from a tester that
 
 A few of these Mindset Tools are: User Mindset Tool, “Already Tested” Mindset Tool, Confidence Mindset Tool, Trust Mindset Tool, Courage Mindset Tool, Communicator Mindset Tool, Lazy Tester's Mindset Tool, Analytical Mindset Tool, Bug Finder Mindset Tool, Curiosity Mindset Tool, “Bug Conviction” Mindset Tool, “Business” Mindset Tool etc
 
-Key Takeaways
+**Key Takeaways**
+
   * “Mindset Tools"" is an extract from real life test experiences hence it can bring about awareness, learning and development.
 
   * The idea of using the ""Mindset Tools"" to develop a tester's mindset can help to introduce a level of flexibility that is essential for effectiveness in our reasoning about our daily test task and challenges.
