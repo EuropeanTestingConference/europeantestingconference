@@ -28,7 +28,7 @@ The training day shows you:
 
 Opening of the Day: Learning Goals and Introducing the System Under Test
 
-The Brief Basics to Mob Testing
+**The Brief Basics to Mob Testing**
 
   * Mob Testing
 
@@ -36,31 +36,31 @@ The Brief Basics to Mob Testing
 
   * Strong-style pairing exercise
 
-Activity: Exploring in a mob part 1
+**Activity: Exploring in a mob part 1**
 
   * Find the happy path: why would anyone want to use this
 
   * Retrospective: what have we learned?
 
-Activity: Exploring in a mob part 2
+**Activity: Exploring in a mob part 2**
 
   * Coverage: identify what is there
 
   * Retrospective: what have we learned?
 
-Activity: Creating Selenium Scripts
+**Activity: Creating Selenium Scripts**
 
   * Basic Selenium Test
 
   * Retrospective: what have we learned?
 
-Activity: Test-Driven Development Kata
+**Activity: Test-Driven Development Kata**
 
   * Glimpse into mob programming: contribution of a non-programmer tester
 
   * Retrospective: what have we learned?
 
-Introducing Mob Testing as a Learning Activity
+**Introducing Mob Testing as a Learning Activity**
 
   * Facilitation: speak through questions, introduce constraints, concepts and tools
 

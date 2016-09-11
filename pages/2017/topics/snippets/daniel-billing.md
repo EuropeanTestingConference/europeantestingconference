@@ -1,6 +1,6 @@
 ---
 speaker: Daniel Billing
-title: Web Application Security: A Hands on Testing Challenge
+title: Web Application Security -  A Hands on Testing Challenge
 id: daniel-billing-training
 training: true
 ---
