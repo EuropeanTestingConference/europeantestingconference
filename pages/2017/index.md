@@ -1,5 +1,6 @@
 ---
 permalink: /2017/
+year: 2017
 redirect_from:
  - /
 layout: index

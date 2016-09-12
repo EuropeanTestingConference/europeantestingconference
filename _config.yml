@@ -16,13 +16,18 @@ defaults:
         values:
             layout: "news"
 navigation:
-#  - title : "Home"
-#    url   : "/"
+  - title : "Home"
+    url   : ""
 #  - title : "Schedule"
-#    url   : "/schedule/"
-#  - title : "Speakers"
-#    url   : "/speakers/"
+#    url   : "schedule/"
+  - title : "Topics"
+    url   : "topics/"
+  - title : "trainings"
+    url   : "trainings/"
+    year  : 
+      - 2017
+      - 2016
+  - title : "Speakers"
+    url   : "speakers/"
 #  - title : "Call For Co-Creation"
 #    url   : "/call-for-co-creation/"
-#  - title : "Call for speakers"
-#    url   : "/"

@@ -1,9 +1,25 @@
-{% for node in site.navigation %}<li>
+{% for node in site.navigation %}
   {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
-  {% if current_page == node.url %}
-  	<h3><a href="/2016{{node.url | remove_first: 'index.html'}}" class="active">{{node.title}}</a></h3>
+  {% capture navigation_node_url  %}{{ page.year}}/{{node.url }}{% endcapture %}
+  
+  {% if node.year %}
+    {% if node.year contains page.year  %}
+    <li>
+      {% if current_page == navigation_node_url %}
+      <h3><a href="/{{ page.year }}/{{node.url | remove_first: 'index.html'}}" class="active">{{node.title}}</a></h3>
+      {% else %}
+
+        <h3><a href="/{{ page.year }}/{{node.url | remove_first: 'index.html'}}">{{node.title}}</a></h3>
+      {% endif %}
+   	</li>
+    {% endif %}
   {% else %}
-  	<h3><a href="/2016{{node.url | remove_first: 'index.html'}}">{{node.title}}</a></h3>
-  {% endif %}
- 	</li>
+    <li>
+      {% if current_page == navigation_node_url %}
+      <h3><a href="/{{ page.year }}/{{node.url | remove_first: 'index.html'}}" class="active">{{node.title}}</a></h3>
+      {% else %}
+        <h3><a href="/{{ page.year }}/{{node.url | remove_first: 'index.html'}}">{{node.title}}</a></h3>
+      {% endif %}
+   	</li>
+  {% endif %} 
 {% endfor %}
