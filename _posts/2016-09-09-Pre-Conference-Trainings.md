@@ -8,18 +8,18 @@ The two-day European Testing Conference brings to Helsinki a lot of amazing spea
 
 We have 7 amazing full day pre-conference trainings for you to select from. The trainings are delivered by:
 
-1. <b>Fiona Charles</b> (@FionaCCharles)
+ <b>Fiona Charles</b> (@FionaCCharles)
 
-2. <b>Kevlin Henney</b> (@KevlinHenney) teaches **Software Craftmanship** full-day class. 
+<b>Kevlin Henney</b> (@KevlinHenney) teaches **Software Craftmanship** full-day class.
 
-3. <b>Liz Keogh</b> (@Lunivore)
+<b>Liz Keogh</b> (@Lunivore)
 
-4. <b>Angie Jones</b> (@techgirl1908) teaches **Starting Out with Selenium** full-day class.
+<b>Angie Jones</b> (@techgirl1908) teaches **Starting Out with Selenium** full-day class.
 
-5. <b>Gitte Klitgaard</b> (@nativewired) & <b>Aki Salmi</b> (@rinkkasatiainen) teach a shared full-day class **Effective Communication**.
+<b>Gitte Klitgaard</b> (@nativewired) & <b>Aki Salmi</b> (@rinkkasatiainen) teach a shared full-day class **Effective Communication**.
 
-6. <b>Maaret Pyhäjärvi</b> (@maaretp) teaches **Mob Testing**, for both exploratory and automated tasks on a full-day class.
+<b>Maaret Pyhäjärvi</b> (@maaretp) teaches **Mob Testing**, for both exploratory and automated tasks on a full-day class.
 
-7. <b>Matt Lavoie</b> (@MattPLavoie) & <b>Daniel Billing</b> (@theTestDoctor) do half-day each on the theme of two most important parafunctional areas - Usability and Security.
+<b>Matt Lavoie</b> (@MattPLavoie) & <b>Daniel Billing</b> (@theTestDoctor) do *half-day each* on the theme of two most important parafunctional areas - Usability and Security.
 
-Join us for enjoying their messages and many others in Helsinki, Finland in February 2017! <a href="https://holvi.com/shop/ETC2017/">Tickets are available with Early Bird Prices</a> (550 euros + VAT for a day of training of two days of conference) until end of October.
+Join us for enjoying their messages and many others in Helsinki, Finland in February 2017! <a href="https://holvi.com/shop/ETC2017/">Tickets are available with Early Bird Prices</a> (550 euros + VAT for a day of training or two days of conference) until end of October.

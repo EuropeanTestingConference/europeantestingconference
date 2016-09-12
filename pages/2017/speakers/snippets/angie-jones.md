@@ -1,6 +1,6 @@
 ---
 _name: Angie Jones
-training: true
+keynote: false
 id: angie-jones
 twitter: techgirl1908
 image: https://pbs.twimg.com/profile_images/748538810225426434/2XZRLqw8.jpg

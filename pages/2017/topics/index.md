@@ -7,6 +7,8 @@ layout: 2017/sub-page
 
 <div class="container" id="topics">
 
+
+
 <section class="main-content text-center" id="topic-keynotes">
 <h2>Keynotes</h2>
 
@@ -19,6 +21,7 @@ layout: 2017/sub-page
 {% endfor %}
 
 </section>
+
 <section class="main-content text-center" id="topic-workshops">
 <h2>Workshops</h2>
 
@@ -31,6 +34,7 @@ layout: 2017/sub-page
 {% endfor %}
 
 </section>
+
 <section class="main-content text-center" id="topic-talks">
 <h2>Talks</h2>
 
