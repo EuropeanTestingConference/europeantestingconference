@@ -1,10 +1,10 @@
 ---
-permalink: /2017/speakers
+permalink: /2017/speakers/
 year: 2017
 layout: 2017/sub-page
 ---
 
-{% capture snippet_path %}{{ page.permalink }}/snippets/{% endcapture %}
+{% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 
 <div class="container speakers" id="keynote-speakers">
 

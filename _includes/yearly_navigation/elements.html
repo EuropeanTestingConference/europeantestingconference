@@ -1,6 +1,6 @@
 {% for node in site.navigation %}
-  {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
-  {% capture navigation_node_url  %}{{ page.year}}/{{node.url }}{% endcapture %}
+  {% capture current_page %}{{page.url }}{% endcapture %}
+  {% capture navigation_node_url  %}/{{ page.year}}/{{node.url }}{% endcapture %}
   
   {% if node.year %}
     {% if node.year contains page.year  %}
