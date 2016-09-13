@@ -1,5 +1,5 @@
 ---
-speaker: Abby Bangser and Bhabya Gunarathan
+speaker: Abby Bangser and Bhagya Gunarathan
 title: Remote Testing
 id: abby-bangser
 id: bhagya-gunarathan
