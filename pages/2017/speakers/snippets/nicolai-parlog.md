@@ -3,7 +3,7 @@ _name: Nicolai Parlog
 keynote: false
 id: nicolai-parlog
 twitter: nipafx
-image: https://pbs.twimg.com/profile_images/526984672778010624/p8wDK8vo.png
+image: http://europeantestingconference.eu/images/2017/nipa_profil.jpg
 ---
 **Nicolai Parlog**
 
