@@ -1,6 +1,6 @@
 ---
 speaker: Alastair Smith
-title: "&lt;To Be Announced Soon&gt;"
+title: Test-Drive Databases
 id: alastair-smith
 talk: true
 ---
