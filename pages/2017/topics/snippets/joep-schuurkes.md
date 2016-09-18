@@ -1,6 +1,6 @@
 ---
 speaker: Joep Schuurkes
-title: "&lt;To Be Announced Soon&gt;"
+title: "There's more to you than you think"
 id: joep-schuurkes
 talk: true
 ---
