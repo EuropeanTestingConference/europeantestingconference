@@ -1,6 +1,6 @@
 ---
 speaker: Juha Kivekäs
-title: "&lt;To Be Announced Soon&gt;"
+title: Web Application Security Testing in Continuous Integration
 id: juha-kivekas
 talk: true
 ---
