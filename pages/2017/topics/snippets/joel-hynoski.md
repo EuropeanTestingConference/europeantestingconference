@@ -1,6 +1,6 @@
 ---
 speaker: Joel Hynoski
-title: "&lt;To Be Announced Soon&gt;"
+title: "Engineering for quality: using brain power rather than willpower"
 id: joel-hynoski
 talk: true
 ---
