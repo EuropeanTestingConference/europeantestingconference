@@ -10,7 +10,7 @@ layout: 2017/sub-page
 <section class="main-content text-center" id="topic-trainings">
 <h2>Pre-conference Trainings</h2>
 
-<img src="/images/2017/TrainingsTransparent.jpg" alt = "Trainings summary" width="90%">
+<img src="/images/2017/Trainings.png" alt = "Trainings summary" width="90%">
 
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
