@@ -10,6 +10,8 @@ layout: 2017/sub-page
 <section class="main-content text-center" id="topic-trainings">
 <h2>Pre-conference Trainings</h2>
 
+<img scr="http://europeantestingconference.eu/images/2017/Trainings.png">
+
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.training == true %}
