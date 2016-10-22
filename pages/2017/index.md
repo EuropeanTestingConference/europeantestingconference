@@ -8,7 +8,6 @@ title: "European Testing Conference 2017"
 sub_title: "Helsinki, Finland February 8-10th 2017 at Wanha Satama"
 ---
 
-<img scr="http://europeantestingconference.eu/images/2017/Trainings.png">
 
 {% capture sections_path %}{{ page.permalink }}sections/{% endcapture %}
 
