@@ -18,4 +18,3 @@ Get your ticket now! An Early Bird Ticket (available until end of October) is 55
 <div style="font-size:xx-large">
 <a href="https://holvi.com/shop/ETC2017/">Buy a ticket here</a>
 </div>
-<div style="font-size:small">(Speakers will have full 2-day ticket + training, after passing the Call for Proposals)</div>
