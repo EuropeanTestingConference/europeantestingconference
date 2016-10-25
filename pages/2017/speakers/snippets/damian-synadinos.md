@@ -3,5 +3,6 @@ _name: Damian Synadinos
 keynote: false
 id: damian-synadinos
 twitter: dsynadinos
-image: https://pbs.twimg.com/profile_images/483082323034787841/sZ1g_nJm.jpeg
+image: http://europeantestingconference.eu/images/2017/Damian.png
 ---
+**Damian Synadinos** started testing software - on purpose and for money - in 1993. Since then, he has helped "build better software and build software better" using various methods and tools in numerous roles at many companies in diverse industries. Over the past ten years, Damian has focused primarily on teaching and leading testers and improving processes. Currently, he runs his own consulting company, Ineffable Solutions, specializing in IT and focusing on testing . In addition to testing, Damian enjoys performing improv comedy, golfing, playing poker and basketball, gaming, acting, cartooning, and spending time with his family.
