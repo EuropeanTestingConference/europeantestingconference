@@ -12,6 +12,6 @@ In his current role, he has chosen to be the fellow tester at www.flywire.com ma
 
 Student of software testing and everything related, he traveled afar to workshops with James Bach, Michael Bolton, Huib Schoots and many others... and one night he invited Pradeep Soundararajan to dinner, so he knows about the secret sauce of testing.
 
-He writes about testing on his blog: <a href"http://jokinaspiazu.blogspot.com.es/">http://jokinaspiazu.blogspot.com.es/</a> and gives talks at conferences when he get invited and/or selected to do so.
+He writes about testing on his blog: <a href="http://jokinaspiazu.blogspot.com.es/">http://jokinaspiazu.blogspot.com.es/</a> and gives talks at conferences when he get invited and/or selected to do so.
 
 He lives in Valencia (Spain) , where he is happily married, and father of three.
