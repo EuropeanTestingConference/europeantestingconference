@@ -1,7 +1,7 @@
 ---
 speaker: Matt Lavoie
 title: Uncover the Usability Gaps in Your Product
-id: matt-lavoie-training
+id: matt-lavoie
 training: true
 ---
 <i> This training is half-a-day and paired with the Security training under the theme of the core parafunctional quality aspects</i>

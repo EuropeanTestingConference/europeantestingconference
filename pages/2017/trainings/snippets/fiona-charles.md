@@ -1,7 +1,7 @@
 ---
 speaker: Fiona Charles
 title: "Inspiring Testing: Test Leadership Workshop"
-id: fiona-charles-training
+id: fiona-charles
 training: true
 ---
 

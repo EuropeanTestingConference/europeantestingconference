@@ -1,7 +1,7 @@
 ---
 speaker: Gitte Klitgaard
 title: Are You Brave Enough to Be Vulnerable?
-id: Gitte Klitgaard
+id: gitte-klitgaard
 keynote: true
 ---
 Standing by who you are, having the courage to be different, making yourself vulnerable, speaking up when there is something important to you, sharing your fears and joys requires courage.

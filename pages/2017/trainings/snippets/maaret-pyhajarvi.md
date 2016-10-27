@@ -1,7 +1,7 @@
 ---
 speaker: Maaret Pyhäjärvi
 title: Mob Testing
-id: maaret-pyhajarvi-training
+id: maaret-pyhajarvi
 training: true
 ---
 “All the brilliant people, working on the same thing, at the same time, in the same space, and at the same computer.“ - that is Mob Programming. When the activity we mob on is exploratory testing or test automation, or the viewpoint to being a programming mob is that of a tester, we call it Mob Testing. Mob testing - a group testing activity utilizing one computer - voices out the tacit knowledge in the group of individuals on shared tasks. Facilitated by an expert, it makes a great mechanism for building habits and transferring skills over passing knowledge.  

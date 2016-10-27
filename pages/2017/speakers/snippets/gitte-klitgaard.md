@@ -4,6 +4,8 @@ keynote: true
 id: gitte-klitgaard
 twitter: nativewired
 image: https://pbs.twimg.com/profile_images/719270863783272449/MEQzS7R9.jpg
+talks:
+ - id: gitte-klitgaard-aki-salmi
 ---
 **Gitte Klitgaard** is an agile coach, hugger, friend, and much more. She lives and love agile. She took the oath of non-allegiance. Why fight over methods when we can use the energy to help people?
 
