@@ -6,6 +6,11 @@
 		<div class="image-holder">
 			<img src="{{speaker.image}}"/>
 		</div>
+		{% if speaker.twitter %}
+			<div class="twitter">
+			<a href="https:/twitter.com/{{ speaker.twitter }}"><img src="/images/twitter.png"> {{ speaker.twitter }}</a>
+			</div>
+		{% endif %}
 	</div>
 
 	{% if speaker.slideshare == true %}
@@ -15,13 +20,8 @@
 
         {% include 2017/pages/speakers/all_talks.md speaker=speaker %}
 
-		<div class="own-words">
+			<div class="own-words">
 	 		{{ speaker.content  || markdownify }}
-		    {% if speaker.twitter %}
-			<p class="twitter">
-				<a href="https:/twitter.com/{{ speaker.twitter }}"><img src="/images/twitter.png"> {{ speaker.twitter }}</a>
-			</p>
-	  	    {% endif %}
 	  	</div>
    	</div>
 

@@ -4,9 +4,9 @@
 $selected-person: $marsala;
 
 .speakers{
-	
+
 	.image {
-		
+
 		.image-holder {
 			width: 200px;
 			height: 200px;
@@ -15,7 +15,7 @@ $selected-person: $marsala;
 			margin-left: auto;
 			margin-right: auto;
 		}
-	
+
 		img {
 			max-width: 200px;
 			height: auto;
@@ -25,20 +25,21 @@ $selected-person: $marsala;
 			margin-right: auto;
 		}
 	}
-	
+
 	.twitter {
-		float: right;
-		
+		align: center;
 		img {
 			height: 25px;
+			display: inline;
 
 		}
 	}
 
     .own-words {
+			text-align: left;
       padding: 10px 0;
     }
-	
+
 }
 
 .participants-list
@@ -46,14 +47,14 @@ $selected-person: $marsala;
     list-style: none;
     margin: 0;
     padding: 0;
-    
+
     li
     {
         display: block;
         float: left;
         text-align: center;
         margin: 0 15px 15px 0;
-        
+
         img
         {
             max-width: 200px;
@@ -62,7 +63,7 @@ $selected-person: $marsala;
             border-radius: 30px;
             display: block;
         }
-        
+
         .name
         {
             display: block;
@@ -70,14 +71,14 @@ $selected-person: $marsala;
             font-weight: 600;
             margin: 5px 0 0 0;
         }
-        
+
         a
         {
             color: #195fc7;
         }
     }
-	
-	
+
+
 }
 
 .participant
@@ -88,10 +89,9 @@ $selected-person: $marsala;
         border-radius: 30px;
         display: block;
     }
-	
+
 	.info {
 		padding: 20px;
 		max-width: 680px;
 	}
 }
-
