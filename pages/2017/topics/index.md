@@ -10,10 +10,11 @@ layout: 2017/sub-page
 <div class="container" id="topics">
 
 
+<section class="main-content text-center" id="topic-keynotes">
+
 <h2>High-Level Schedule</h2>
 <img src="http://europeantestingconference.eu/images/2017/CondencedSchedule.png">
 
-<section class="main-content text-center" id="topic-keynotes">
 <h2>Keynotes</h2>
 
 {% for page in site.pages %}
