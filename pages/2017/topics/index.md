@@ -5,6 +5,8 @@ layout: 2017/sub-page
 ---
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 
+<img src="http://europeantestingconference.eu/images/2017/CondencedSchedule.png">
+
 <div class="container" id="topics">
 
 
