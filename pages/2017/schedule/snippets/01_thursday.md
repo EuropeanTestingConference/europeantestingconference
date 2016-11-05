@@ -17,10 +17,15 @@ day_no: 4
          <div class="col-xs-12 hidden-sm col-md-10 description">Opening</div>
       </div>
       <div class="row keynote">
-         <div class="col-xs-2 col-sm-1 start-time"><time class="start">9:15-10:00</time></div>
-         <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Keynote</div>
+         <div class="col-xs-2 col-sm-1 start-time"><time class="start">9:15-10:00</time>
+           <br /> Keynote
+          </div>
          <div class="col-md-10 keynote">
-            <h3><a href="/topics/#linda-rising"><span class="hidden-xs hidden-sm">KEYNOTE 1:</span> </a> </h3>
+            <h3>
+              <a href="/2017/topics/#kevlin-henney">
+                <span class="hidden-xs hidden-sm"> Kevlin Henney - The Error of Our Ways</span>  
+              </a>
+            </h3>
          </div>
       </div>
       <div class="row break">
@@ -59,13 +64,22 @@ day_no: 4
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">12:45-14:15</time><br /> Workshops</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-            <h3><a href="/topics/#christina-ohanian">Workshop 1</a></h3>
+            <h3><a href="/2017/topics/#abby-bangser-bhagya-perera">
+              <span class="name">Abby Bangser and Bhagya Perera</span>
+              Insights into Distributed Development</a>
+            </h3>
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-            <h3><a href="/topics/#richard-bradshaw">Workshop 2</a></h3>
+         <h3><a href="/2017/topics/#angie-jones">
+           <span class="name">Angie Jones</span>
+           How to Get Automation Included In Your Definition of Done</a>
+         </h3>
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-            <h3><a href="/topics/#thomas-sundberg">Workshop 3</a></h3>
+         <h3><a href="/2017/topics/#chris-neuroth">
+           <span class="name">Chris Neuroth</span>
+           How to Get Automation Included In Your Definition of Done</a>
+         </h3>
          </div>
       </div>
       <div class="row break">
@@ -103,11 +117,15 @@ day_no: 4
          <div class="hidden-xs hidden-sm col-md-10 description">Break</div>
       </div>
       <div class="row keynote">
-         <div class="col-xs-2 col-sm-1 start-time"><time class="start">16:30-17:15</time></div>
-         <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Keynote</div>
-         <div class="col-md-10 keynote">
-            <h3><a href="/topics/#linda-rising"><span class="hidden-xs hidden-sm">KEYNOTE 2</span> </a> </h3>
+         <div class="col-xs-2 col-sm-1 start-time"><time class="start">16:30-17:15</time> <br /> Keynote
          </div>
+         <div class="col-md-10 keynote">
+           <h3>
+             <a href="/2017/topics/#nicola-sedgwick">
+               <span class="hidden-xs hidden-sm"> Nicola Sedgwick - Taking inspiration from unlikely sources</span>  
+             </a>
+           </h3>
+        </div>
       </div>
       <div class="row meta">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">17:15-17:30</time></div>

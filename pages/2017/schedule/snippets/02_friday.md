@@ -7,12 +7,17 @@ day_no: 5
    </hgroup>
    <section class="timetable">
       <div class="row keynote">
-         <div class="col-xs-2 col-sm-1 start-time"><time class="start">9:00-9:45</time></div>
-         <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Keynote</div>
-         <div class="col-md-10 keynote">
-            <h3><a href="/topics/#linda-rising"><span class="hidden-xs hidden-sm">KEYNOTE 1:</span> </a> </h3>
-         </div>
-      </div>
+         <div class="col-xs-2 col-sm-1 start-time"><time class="start">9:00-9:45</time>
+         <br /> Keynote
+        </div>
+        <div class="col-md-10 keynote">
+          <h3>
+            <a href="/2017/topics/#gitte-klitgaard">
+              <span class="hidden-xs hidden-sm"> Gitte Klitgaard - Are You Brave Enough to Be Vulnerable?</span>  
+            </a>
+          </h3>
+        </div>
+        </div>
       <div class="row break">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">9:45-10:05</time></div>
          <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Coffee Break</div>
@@ -99,12 +104,17 @@ day_no: 5
          <div class="hidden-xs hidden-sm col-md-10 description">Break</div>
       </div>
       <div class="row keynote">
-         <div class="col-xs-2 col-sm-1 start-time"><time class="start">16:30-17:15</time></div>
-         <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Keynote</div>
-         <div class="col-md-10 keynote">
-            <h3><a href="/topics/#linda-rising"><span class="hidden-xs hidden-sm">KEYNOTE 2</span> </a> </h3>
-         </div>
-      </div>
+         <div class="col-xs-2 col-sm-1 start-time"><time class="start">16:30-17:15</time>
+         <br /> Keynote
+        </div>
+        <div class="col-md-10 keynote">
+          <h3>
+            <a href="/2017/topics/#fiona-charles">
+              <span class="hidden-xs hidden-sm"> Fiona Charles - Multiplying the Odds</span>  
+            </a>
+          </h3>
+        </div>
+        </div>
       <div class="row meta">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">17:15-17:30</time></div>
          <div class="col-xs-10 description">Conference Retrospective</div>
