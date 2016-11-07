@@ -36,13 +36,13 @@ day_no: 4
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">10:20-10:50</time><br /> Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="alexandra-schladebeck" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="dragan-spiridonov" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="felienne-hermans" %}
          </div>
       </div>
       <div class="row break">
@@ -87,13 +87,13 @@ day_no: 4
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">14:45-15:15</time><br /> Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="joel-hynoski" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="joep-schuurkes" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="jokin-aspiazu" %}
          </div>
       </div>
       <div class="row break">
@@ -105,7 +105,7 @@ day_no: 4
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">15:30-16:15</time><br /> Workshops </div>
          <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Keynote</div>
          <div class="col-md-10 keynote">
-            <h3><a href="/topics/#linda-rising"><span class="hidden-xs hidden-sm">Facilitated Discussion (Lean Coffee)</span> </a> </h3>
+          {% include 2017/pages/schedule-session.md  session="lean-coffee" %}
          </div>
       </div>
       <div class="row break">

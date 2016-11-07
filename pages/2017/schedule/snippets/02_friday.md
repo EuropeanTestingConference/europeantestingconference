@@ -60,13 +60,13 @@ day_no: 5
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">12:45-13:15</time><br />  Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="liz-keogh" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="nicolai-parlog" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="ron-werner" %}
          </div>
       </div>
       <div class="row break">
@@ -77,13 +77,13 @@ day_no: 5
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">13:25-13:55</time><br /> Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="rosie-sherry" %}
         </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="sami-soderblom" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="tba" %}
+          {% include 2017/pages/schedule-session.md  session="vivien-ibiyemi" %}
          </div>
       </div>
       <div class="row break">
@@ -95,7 +95,7 @@ day_no: 5
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">14:15-16:15</time><br /> Activity </div>
          <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Open Space</div>
          <div class="col-md-10 keynote">
-            <h3><a href="/topics/#linda-rising"><span class="hidden-xs hidden-sm">Open Space</span> </a> </h3>
+         {% include 2017/pages/schedule-session.md  session="open-space" %}
          </div>
       </div>
       <div class="row break">

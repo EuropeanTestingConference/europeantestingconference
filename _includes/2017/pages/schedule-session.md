@@ -5,8 +5,9 @@
       {% if page.path contains session %}
       <h3>
         <a href="/2017/topics/#{{ page.id }}">
-          {% if page.speaker != blank %}
-            <span class="name"> {{ page.speaker }}</span> name<br />
+          {% if page.speaker == nil %}
+          {% else %}
+             <span class="name"> {{ page.speaker }}</span> <br />
           {% endif %}
           {{ page.title  }}
         </a>
