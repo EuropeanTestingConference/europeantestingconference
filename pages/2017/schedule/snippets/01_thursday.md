@@ -36,13 +36,13 @@ day_no: 4
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">10:20-10:50</time><br /> Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-            <h3><a href="/topics/#christina-ohanian">Talk 1</a></h3>
+          {% include 2017/pages/schedule-session.md  session="tba" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-            <h3><a href="/topics/#richard-bradshaw">Talk 2</a></h3>
+          {% include 2017/pages/schedule-session.md  session="tba" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-            <h3><a href="/topics/#thomas-sundberg">Talk 3</a></h3>
+          {% include 2017/pages/schedule-session.md  session="tba" %}
          </div>
       </div>
       <div class="row break">
@@ -87,13 +87,13 @@ day_no: 4
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">14:45-15:15</time><br /> Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-            <h3><a href="/topics/#christina-ohanian">Talk 1</a></h3>
+          {% include 2017/pages/schedule-session.md  session="tba" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-            <h3><a href="/topics/#richard-bradshaw">Talk 2</a></h3>
+          {% include 2017/pages/schedule-session.md  session="tba" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-            <h3><a href="/topics/#thomas-sundberg">Talk 3</a></h3>
+          {% include 2017/pages/schedule-session.md  session="tba" %}
          </div>
       </div>
       <div class="row break">
