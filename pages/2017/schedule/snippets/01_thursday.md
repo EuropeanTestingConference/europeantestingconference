@@ -64,10 +64,7 @@ day_no: 4
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">12:45-14:15</time><br /> Workshops</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-            <h3><a href="/2017/topics/#abby-bangser-bhagya-perera">
-              <span class="name">Abby Bangser and Bhagya Perera</span>
-              Insights into Distributed Development</a>
-            </h3>
+         {% include 2017/pages/schedule-session.md  session="abby-bangser-bhagya-perera" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
          <h3><a href="/2017/topics/#angie-jones">
