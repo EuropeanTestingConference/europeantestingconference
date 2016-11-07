@@ -53,7 +53,7 @@ day_no: 4
       <div class="row keynote">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">11:00-11:45</time><br /> Workshops</div>
          <div class="col-md-10 keynote">
-            <h3><a href="/topics/#llewellyn-falco">Speed Meet</a>  </h3>
+         {% include 2017/pages/schedule-session.md  session="speed-meet" %}
          </div>
       </div>
       <div class="row break">
