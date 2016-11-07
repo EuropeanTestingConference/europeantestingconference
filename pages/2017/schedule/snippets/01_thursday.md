@@ -63,20 +63,20 @@ day_no: 4
       </div>
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">12:45-14:15</time><br /> Workshops</div>
-         <div class="col-sm-4 col-md-3 col-xs-12 session">
-         {% include 2017/pages/schedule-session.md  session="abby-bangser-bhagya-perera" %}
+         <div class="col-sm-2 col-md-2 col-xs-12 session">
+          {% include 2017/pages/schedule-session.md  session="damian-synadinos" %}
          </div>
-         <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-         <h3><a href="/2017/topics/#angie-jones">
-           <span class="name">Angie Jones</span>
-           How to Get Automation Included In Your Definition of Done</a>
-         </h3>
+         <div class="col-sm-2 col-md-2 col-xs-12 session middle">
+          {% include 2017/pages/schedule-session.md  session="emily-bache" %}
          </div>
-         <div class="col-sm-4 col-md-3 col-xs-12 session">
-         <h3><a href="/2017/topics/#chris-neuroth">
-           <span class="name">Chris Neuroth</span>
-           How to Get Automation Included In Your Definition of Done</a>
-         </h3>
+         <div class="col-sm-2 col-md-2 col-xs-12 session">
+          {% include 2017/pages/schedule-session.md  session="chris-neuroth" %}
+         </div>
+         <div class="col-sm-2 col-md-2 col-xs-12 session middle">
+          {% include 2017/pages/schedule-session.md  session="abby-bangser-bhagya-perera" %}
+         </div>
+         <div class="col-sm-2 col-md-2 col-xs-12 session">
+          {% include 2017/pages/schedule-session.md  session="angie-jones" %}
          </div>
       </div>
       <div class="row break">

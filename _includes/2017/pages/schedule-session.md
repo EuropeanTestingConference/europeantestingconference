@@ -5,7 +5,7 @@
       {% if page.path contains session %}
       <h3>
         <a href="/2017/topics/#{{ page.id }}">
-          <span class="name"> {{ page.speaker }}</span>
+          <span class="name"> {{ page.speaker }}</span><br />
           {{ page.title  }}
         </a>
       </h3>
