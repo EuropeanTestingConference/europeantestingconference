@@ -1,5 +1,5 @@
 ---
-permalink: /2017/sponsorship
+permalink: /2017/sponsorship/
 year: 2017
 layout: sub-page-with-section
 contained: true
