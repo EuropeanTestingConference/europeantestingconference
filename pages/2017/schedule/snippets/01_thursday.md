@@ -93,7 +93,7 @@ day_no: 4
           {% include 2017/pages/schedule-session.md  session="joep-schuurkes" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="jokin-aspiazu" %}
+          {% include 2017/pages/schedule-session.md  session="nicolai-parlog" %}
          </div>
       </div>
       <div class="row break">

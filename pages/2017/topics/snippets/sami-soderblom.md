@@ -3,6 +3,7 @@ speaker: Sami Söderblom
 title: Exploratory Testing Clinic
 id: sami-soderblom
 workshop: true
+topic-category: testing
 ---
 According to Wikipedia, in the early 1990s ad hoc testing was too often synonymous with sloppy and careless work. As a result a group of context-driven methodologists began using the term "exploratory" seeking to emphasize the dominant thought process involved in unscripted testing, and to begin to develop the practice into a teachable discipline. The world hasn’t been the same since.
 

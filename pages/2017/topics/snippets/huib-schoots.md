@@ -3,6 +3,7 @@ speaker: Huib Schoots
 title: Testing Autopsy
 id: huib-schoots
 talk: true
+topic-category: testing
 ---
 Much has been said and written about exploratory testing. Unfortunately, it appears that exploratory testing is still often misunderstood. Some claim that exploratory testing is unstructured and ad hoc. Just playing or cruising through the software clicking stuff without a plan. I think that is because it might look that way. Excellent testing done by a real professional looks easy from the outside. But what is really going on?
 

@@ -3,6 +3,7 @@ speaker: Angie Jones
 title: How to Get Automation Included In Your Definition of Done
 id: angie-jones
 workshop: true
+topic-category: automation
 ---
 While most teams appreciate the benefits of automation, it is commonly viewed as too time-consuming to be considered as part of an agile sprint - resulting in automation being done in isolation and typically months after the story has been closed. This can lead to several problems including automation team members being disengaged and missing key aspects of the requirements, as well as teams going through a period where new features are being introduced but no regression testing is occurring.
 

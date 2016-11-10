@@ -26,14 +26,14 @@ day_no: 5
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">10:05-10:50</time><br /> Demo Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="adrian-bolboaca" %}
+         {% include 2017/pages/schedule-session.md  session="ron-werner" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-          {% include 2017/pages/schedule-session.md  session="alastair-smith" %}
-       </div>
+          {% include 2017/pages/schedule-session.md  session="huib-schoots" %}
+         </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-         {% include 2017/pages/schedule-session.md  session="tba" %}
-        </div>
+         {% include 2017/pages/schedule-session.md  session="adrian-bolboaca" %}
+         </div>
       </div>
       <div class="row break">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">10:50-11:00</time></div>
@@ -43,13 +43,13 @@ day_no: 5
       <div class="row talks">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">11:00-11:45</time><br /> Demo Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="matt-lavoie" %}
+         {% include 2017/pages/schedule-session.md  session="matt-lavoie" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-          {% include 2017/pages/schedule-session.md  session="huib-schoots" %}
+          {% include 2017/pages/schedule-session.md  session="ru-cindrea" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="ru-cindrea" %}
+          {% include 2017/pages/schedule-session.md  session="alastair-smith" %}
          </div>
       </div>
       <div class="row break">
@@ -60,13 +60,13 @@ day_no: 5
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">12:45-13:15</time><br />  Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="liz-keogh" %}
+         {% include 2017/pages/schedule-session.md  session="tba" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-          {% include 2017/pages/schedule-session.md  session="nicolai-parlog" %}
+          {% include 2017/pages/schedule-session.md  session="jokin-aspiazu" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="ron-werner" %}
+          {% include 2017/pages/schedule-session.md  session="liz-keogh" %}
          </div>
       </div>
       <div class="row break">

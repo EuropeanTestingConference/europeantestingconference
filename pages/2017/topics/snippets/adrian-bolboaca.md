@@ -3,6 +3,7 @@ speaker: Adrian (Adi) Bolboaca
 title: Different Types of Automated Tests
 id: adi-bolboaca
 talk: true
+topic-category: craftsmanship
 ---
 This talk is done in collaboration with the audience. There are many types of tests out there. Let's see the most used types of tests and understand how each one is useful. We will write live code, and we will discuss automated tests written.
 

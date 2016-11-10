@@ -3,6 +3,7 @@ speaker: Damian Synadinos
 title: Commutication - Moving Ideas with Words
 id: damian-synadinos
 workshop: true
+topic-category: testing
 ---
 “By words we learn thoughts, and by thoughts we learn life.” – Jean Baptiste Girard
 

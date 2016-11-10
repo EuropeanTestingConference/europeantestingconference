@@ -3,6 +3,7 @@ speaker: Vivien Ibironke Ibiyemi
 title: How I Used *My Mindset Toolkit* to Develop a Tester's Mindset
 id: vivien-ibiyemi
 talk: true
+topic-category: testing
 ---
 Quite a lot of testers miss out on the required mindset for testing. Sometimes it seems that quality consciousness is missing. Little wonder why some testers only find obvious bugs and why quality is far-fetched from the device under test (DUT) despite the presence of testers on the project.
 

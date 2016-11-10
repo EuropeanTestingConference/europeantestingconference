@@ -4,6 +4,7 @@ title: "JUnit 5 -  Next Generation Testing on the JVM"
 id: nicolai-parlog
 talk: true
 excerpt_length: 70
+topic-category: craftsmanship
 ---
 Java&apos;s most ubiquitous library is getting an update! This talk will...
 

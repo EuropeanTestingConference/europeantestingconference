@@ -1,8 +1,9 @@
 ---
 speaker: Alastair Smith
-title: Test-Drive Your Databasea
+title: Test-Drive Your Database
 id: alastair-smith
 talk: true
+topic-category: craftsmanship
 ---
 Learn how to make database development fun again, by applying all your favourite modern development practices to your SQL code!
 
@@ -12,4 +13,4 @@ This talk will cover how to write unit tests for your database, which parts you 
 
 **Remarks**
 
-This talk was originally written with Microsoft SQL Server in mind and the tSQLt unit testing framework for SQL Server. A quick search online suggests that there are similar frameworks available for PostgreSQL and possibly MySQL, but the content and demos will need some updating to best suit the likely audience. Guidance around which database systems are likely to be represented in the ITAKE audience would be appreciated. 
+This talk was originally written with Microsoft SQL Server in mind and the tSQLt unit testing framework for SQL Server. A quick search online suggests that there are similar frameworks available for PostgreSQL and possibly MySQL, but the content and demos will need some updating to best suit the likely audience. Guidance around which database systems are likely to be represented in the ITAKE audience would be appreciated.

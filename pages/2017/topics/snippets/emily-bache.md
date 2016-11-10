@@ -3,6 +3,7 @@ speaker: Emily Bache
 title: Introduction to Approval Testing with TextTest
 id: emily-bache
 workshop: true
+topic-category: craftsmanship
 ---
 Most automated tests follow an overall structure 'Arrange, Act, Assert'. It's that assertion part that is different in approval testing. When you design a test with assertions, you have to carefully decide which things are important to check. The thing is, if you don't anticipate all the failure modes, tests can pass and bugs can slip through unnoticed.
 

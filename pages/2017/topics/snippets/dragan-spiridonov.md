@@ -3,6 +3,7 @@ speaker: Dragan Spiridonov
 title: Solving testing problems with 3 core learning techniques
 id: dragan-spiridonov
 talk: true
+topic-category: testing
 ---
 Testing is about learning. We need to learn the systems, applications, and features we test. We need to learn the ways we do testing and how to use tools to help us while doing testing. Our ability to learn fast and work on partial information is often what helps us succeed as testers. We have a lot to learn from the wider knowledge base of learning that teachers apply when teaching students.
 

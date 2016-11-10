@@ -3,6 +3,7 @@ speaker: Felienne Hermans
 title: Unit Testing on Excel
 id: felienne-hermans
 talk: true
+topic-category: craftsmanship
 ---
 Spreadsheets are used extensively in businesses across all domains.
 

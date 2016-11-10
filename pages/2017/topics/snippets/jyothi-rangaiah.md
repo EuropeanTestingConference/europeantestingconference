@@ -3,6 +3,7 @@ speaker: Jyothi Rangaiah
 title: Creating and Using Re-usable Mindmaps
 id: jyothi-rangaiah
 talk: true
+topic-category: testing
 ---
 Mindmaps are a great way to visualize what you know through learning, need to remember for later and to share that knowledge further. As such, they have become a favored tool to support testing. When learning for testing of a new perspective or feature, it makes sense to collect ideas in a format that allows restructuring them when you learn more. Personal mindmaps support your own thinking right now, reusable mindmaps are made to share knowledge with a wider audience over long period of time. Reusable mindmaps provide two types of value: the deep learning for their creator, and the shortcut to the topic for those reusing the mindmaps later.
 

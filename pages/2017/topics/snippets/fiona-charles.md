@@ -3,6 +3,7 @@ speaker: Fiona Charles
 title: Multiplying the Odds
 id: fiona-charles
 keynote: true
+topic-category: testing
 ---
 It used to be a lot easier to build a software testing career. That was yesterday, when expectations about testing were shared across the industry.
 

@@ -3,6 +3,7 @@ speaker: Rosie Sherry
 title:  Why And How Testers Should Act Like Marketeers
 id: rosie-sherry
 talk: true
+topic-category: testing
 ---
 There is one consistent thing that drives me forward with my work - the need to help positively change the software testing industry.  Ask me how we can do this, and I’ll say more testers need to up their marketing skills.
 
