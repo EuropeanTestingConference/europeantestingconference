@@ -1,9 +1,6 @@
 ---
 year: 2017
 permalink: /2017/schedule
-redirect_from:
- - "/schedule"
- - "/schedule/"
 layout: 2017/sub-page
 ---
 {% capture snippet_path %}{{ page.permalink }}/snippets/{% endcapture %}
