@@ -36,13 +36,13 @@ day_no: 4
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">10:20-10:50</time><br /> Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="alexandra-schladebeck" %}
+          {% include 2017/pages/schedule-session.md  session="rosie-sherry" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
           {% include 2017/pages/schedule-session.md  session="dragan-spiridonov" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="felienne-hermans" %}
+          {% include 2017/pages/schedule-session.md  session="nicolai-parlog" %}
          </div>
       </div>
       <div class="row break">
@@ -93,7 +93,7 @@ day_no: 4
           {% include 2017/pages/schedule-session.md  session="joep-schuurkes" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="nicolai-parlog" %}
+          {% include 2017/pages/schedule-session.md  session="felienne-hermans" %}
          </div>
       </div>
       <div class="row break">

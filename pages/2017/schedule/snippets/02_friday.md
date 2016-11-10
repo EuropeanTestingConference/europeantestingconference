@@ -77,7 +77,7 @@ day_no: 5
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">13:25-13:55</time><br /> Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-          {% include 2017/pages/schedule-session.md  session="rosie-sherry" %}
+          {% include 2017/pages/schedule-session.md  session="alexandra-schladebeck" %}
         </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
           {% include 2017/pages/schedule-session.md  session="sami-soderblom" %}
