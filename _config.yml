@@ -18,13 +18,13 @@ defaults:
 navigation:
   - title : "Home"
     url   : ""
-#  - title : "Schedule"
-#    url   : "schedule/"
+  - title : "Schedule"
+    url   : "schedule/"
   - title : "Topics"
     url   : "topics/"
   - title : "trainings"
     url   : "trainings/"
-    year  : 
+    year  :
       - 2017
       - 2016
   - title : "Speakers"
