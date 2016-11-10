@@ -2,6 +2,10 @@
 permalink: /2017/topics/
 year: 2017
 layout: 2017/sub-page
+
+redirect_from:
+ - "/topic"
+ - "/topic/"
 ---
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 
