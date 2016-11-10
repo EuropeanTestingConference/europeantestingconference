@@ -27,7 +27,7 @@ sub_title: "Helsinki, Finland February 8-10th 2017 at Wanha Satama"
         })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
     </script>
     <h2>{{ page.title }}</h2>
-  {{ page.content || markdownify }}
+  {{ page.content | markdownify }}
 </section>
 {% endif %}
 {% endfor %}
