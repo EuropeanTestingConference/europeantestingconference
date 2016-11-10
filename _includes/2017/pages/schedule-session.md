@@ -10,7 +10,7 @@
              <span class="name"> {{ page.speaker }}</span> <br />
           {% endif %}
           {{ page.title  }}
-          <div style="font-size:10pt;color:grey"><br /> {{ page.topic-category }}</div>
+          <div style="font-size:11pt;color:grey"><i>({{ page.topic-category }})</i></div>
         </a>
       </h3>
         {% endif %}
