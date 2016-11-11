@@ -2,6 +2,9 @@
 year: 2017
 permalink: /2017/schedule/
 layout: 2017/sub-page
+redirect_from:
+ - "/schedule"
+ - "/schedule/"
 ---
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 <section id="schedule" class="main-content text-center">

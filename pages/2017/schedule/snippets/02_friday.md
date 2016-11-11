@@ -60,7 +60,7 @@ day_no: 5
       <div class="row talk">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">12:45-13:15</time><br />  Talks</div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
-         {% include 2017/pages/schedule-session.md  session="tba" %}
+         {% include 2017/pages/schedule-session.md  session="jyothi-rangaiah" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
           {% include 2017/pages/schedule-session.md  session="jokin-aspiazu" %}
@@ -80,7 +80,7 @@ day_no: 5
           {% include 2017/pages/schedule-session.md  session="alexandra-schladebeck" %}
         </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session middle">
-          {% include 2017/pages/schedule-session.md  session="sami-soderblom" %}
+          {% include 2017/pages/schedule-session.md  session="juha-kivekas" %}
          </div>
          <div class="col-sm-4 col-md-3 col-xs-12 session">
           {% include 2017/pages/schedule-session.md  session="vivien-ibiyemi" %}
