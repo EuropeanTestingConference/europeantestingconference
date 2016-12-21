@@ -7,11 +7,11 @@ title: Sponsors
 <ul id="sponsor-groups" class="list-unstyled">
   <li class="active platinum-sponsor">
     <h3>Platinum sponsors </h3>
-    {% include sponsorship/platinum.md %}
+    {% include 2017/sponsorship/platinum.md %}
   </li>
-  <li class="next platinum-sponsor">
-    <h3>Platinum sponsors</h3>
-    {% include sponsorship/platinum.md %}
+  <li class="next gold-sponsor">
+    <h3>Gold sponsors</h3>
+    {% include 2017/sponsorship/gold.md %}
   </li>  
 </ul>
 
