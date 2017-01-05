@@ -8,7 +8,8 @@
 		padding: 20px;
 		display: inline-block;
 		text-align: left;
-		&:nth-child(even){
+		
+		&:nth-child(even) {
 			background: rgba($silver, 0.4);
 		}
 
