@@ -1,13 +1,15 @@
 ---
 permalink: /2017/styles/main.css
 ---
-//main colors
+
+// main colors
 $marsala: #955251;
 $orchid: #B163A3;
 $emerald: #009b77;
 $cool-gray: #888b8d;
 
-//black-white color scheme
+
+// black-white color scheme
 $black: #000;
 $white: #FFFFFF;
 $silver: #ccc;
@@ -15,10 +17,11 @@ $concrete: #f3f3f3;
 $main-shaft: #222222;
 $darkgray: rgba($black, 0.1);
 
-//color names from
+
+// color names from
 // http://chir.ag/projects/name-that-color/
 $mariner: #1e5dd3;
-$denim: #195fc7;  //not used anymore
+$denim: #195fc7;  // not used anymore
 $madison: #092F5F;
 $cyprus: #003141;
 
@@ -27,9 +30,10 @@ $danube: #557FD0;
 
 $tree-poppy: #f9921c;
 
-//functional colors
 
-$main-text-color: $cyprus;  //could be $main-shaft
+// functional colors
+
+$main-text-color: $cyprus;  // could be $main-shaft
 $link-color: $emerald;
 $link-visited-color: $orchid;
 $link-color-visited: $emerald;
@@ -37,7 +41,7 @@ $hover-link-color: $orchid;
 $main-border: $danube;
 
 
-$nav-link-color: $shark;  //#202129 is very close to $shark!
+$nav-link-color: $shark;  // #202129 is very close to $shark!
 
 $border-color: $main-text-color;
 $section-border-color: $cool-gray;
@@ -273,7 +277,7 @@ p
     text-align: center;
     position: relative;
     
-    &.tile-2{
+    &.tile-2 {
 
 		@media all and (min-width: 768px) and (max-width: 991px)
 	    {
@@ -299,7 +303,7 @@ p
         color: $main-text-color;
         padding: 20px;
 		
-		h3{
+		h3 {
 	        color: $emerald;
 		}
     }
@@ -339,35 +343,40 @@ p
 $table-odd-row: rgba( $silver, 0.4);
 table{
 	
-	thead{
-		tr{
+	thead {
+		tr {
 			background: $table-odd-row;
 		}
 	}
+
 	margin: auto;
 	border: 3px solid $silver;
 	margin-bottom	: 20px;
+
 	th {
 		padding: 10px;
 		border: 1px solid $silver;
 		font-size: 1.4em;
 		
 	}
-	tr{
-		&:nth-child(even){
+
+	tr {
+		&:nth-child(even) {
 			background: $table-odd-row;	
 		}
 	}
-	td{
+
+	td {
 		padding: 10px;
 		border: 1px solid $silver;
 		
-		&:nth-child(1){
+		&:nth-child(1) {
 			font-weight: bold;
 		}
 		
 	}
 }
+
 
 hr 
 {
@@ -400,12 +409,12 @@ p
 
 .important
 {
-	font-size:xx-large;
+	font-size: xx-large;
 }
 
 .hero-unit
 {
-	//with this, it's easy to have a background imeage for the site - like in #codefreeze.
+	// with this, it's easy to have a background imeage for the site - like in #codefreeze.
     position: fixed;
     top: 0px;
     left: 0px;
@@ -419,8 +428,6 @@ p
         background-size: cover;
         z-index: -1;
     }
-    
-    
 }
 
 .column {
@@ -489,6 +496,6 @@ p
   img { max-width: 100% !important; }
   @page { margin: 0.5cm; }
   p, h2, h3 { orphans: 3; widows: 3; }
-  h2, h3{ page-break-after: avoid; }
+  h2, h3 { page-break-after: avoid; }
   #colophon, #navigation, #cites { display: none; }
 }
