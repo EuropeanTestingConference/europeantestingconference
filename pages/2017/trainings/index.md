@@ -13,7 +13,14 @@ layout: 2017/sub-page
 <img src="/images/2017/Trainings.png" alt = "Trainings summary" width="90%">
 
 <div style="font-size:xx-large">
-<a href="https://holvi.com/shop/ETC2017/">Buy a ticket here</a>
+<input type="button" onclick="location.href='https://holvi.com/shop/ETC2017/';" value="Buy a ticket here" style="
+    background-color: #12bd12;
+    color: white;
+    border-radius: 15px;
+    font: bold 10pt verdana;
+    border: none;
+    padding: 10px;
+">
 </div>
 
 <i>You can purchase a ticket to a training separately, or join trainings as part of your conference package. If you already purchased a ticket, <a href="mailto:contact@europeantestingconference.eu"> get in touch</a> for our extension model to update your package with a good price.</i>
