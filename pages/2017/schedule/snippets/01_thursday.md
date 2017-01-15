@@ -61,24 +61,27 @@ day_no: 4
          <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Lunch</div>
          <div class="hidden-xs hidden-sm col-md-10 description">Lunch</div>
       </div>
-      <div class="row talk">
+      <div class="row talk" style="border-bottom:none">
          <div class="col-xs-1 col-sm-1 start-time"><time class="start">12:45-14:15</time><br /> Workshops</div>
-         <div class="col-sm-2 col-md-2 col-xs-12 session middle">
+         <div class="col-sm-4 col-md-3 col-xs-12 session">
           {% include 2017/pages/schedule-session.md  session="damian-synadinos" %}
          </div>
-         <div class="col-sm-2 col-md-2 col-xs-12 session ">
+         <div class="col-sm-4 col-md-3 col-xs-12 session middle">
           {% include 2017/pages/schedule-session.md  session="emily-bache" %}
          </div>
-         <div class="col-sm-2 col-md-2 col-xs-12 session middle">
+         <div class="col-sm-4 col-md-3 col-xs-12 session">
           {% include 2017/pages/schedule-session.md  session="chris-neuroth" %}
          </div>
-         <div class="col-sm-2 col-md-2 col-xs-12 session">
+       </div>
+       <div class="row talk" style="border-top:none">
+         <div class="col-xs-1 col-sm-1 start-time"> &nbsp; </div>
+         <div class="col-sm-4 col-md-3 col-xs-12 session">
           {% include 2017/pages/schedule-session.md  session="abby-bangser-bhagya-perera" %}
          </div>
-         <div class="col-sm-2 col-md-2 col-xs-12 session middle">
+         <div class="col-sm-4 col-md-3 col-xs-12 session middle">
           {% include 2017/pages/schedule-session.md  session="angie-jones" %}
          </div>
-         <div class="col-sm-1 col-md-1 col-xs-12 session ">
+         <div class="col-sm-4 col-md-3 col-xs-12 session">
            {% include 2017/pages/schedule-session.md  session="sami-soderblom" %}
          </div>
       </div>
