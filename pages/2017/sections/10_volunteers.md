@@ -31,7 +31,7 @@ title: "Organizers"
     <a href="https://twitter.com/LlewellynFalco">@LlewellynFalco</a>
   </li>
   <li class="volunteer">
-    <img src="https://pbs.twimg.com/profile_images/498652508055932929/SwPtPQ9o.jpeg" />
+    <img src="http://europeantestingconference.eu/images/2017/Simon.png" />
     <span class="name">Peter Schrijver</span>
     <a href="https://twitter.com/SimonSaysNoMore">@SimonSaysNoMore</a>
   </li>
