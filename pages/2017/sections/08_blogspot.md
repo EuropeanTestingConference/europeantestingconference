@@ -6,7 +6,7 @@ title: Our Blog
 
 <div id="blog-container" class="hidden blogs" data-resource="http://europeantestingconference.blogspot.com/feeds/posts/default?alt=json">
 
-	<p>We blog about testing, and the event <a target='_blank' href="http://europeantestingconference.blogspot.com">here</a>. Below is an excerpt of the latest blog, and a list of the additional latest entries.
+	<p>We blog about testing, and the event <a target='_blank' href="http://europeantestingconference.blogspot.com">here</a>. Below is an excerpt of the latest blog, and a list of the additional latest entries.</p>
 
 	<article class='blog-newest col-md-6' id="blog-latest">
 		<header><h3></h3></header>
@@ -17,5 +17,5 @@ title: Our Blog
 		<header><h3>Older blogs</h3></header>
 		<ul id="blog-rest">
 		</ul>
-	</div>
+	</article>
 </div>
