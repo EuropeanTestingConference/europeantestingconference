@@ -21,5 +21,10 @@ day_no: 3
          <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Lunch</div>
          <div class="hidden-xs hidden-sm col-md-10 description">Lunch</div>
       </div>
+      <div class="row keynote">
+         <div class="col-xs-2 col-sm-1 start-time"><time class="start">12:45-17:00</time></div>
+         <div class="visible-sm-block col-sm-10 description">Workshop part 2</div>
+         <div class="col-xs-12 hidden-sm col-md-10 description">Workshop part 2</div>
+      </div>
    </section>
 </article>
