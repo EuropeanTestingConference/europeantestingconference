@@ -6,6 +6,11 @@ day_no: 5
       <h2 class="col-md-10 col-md-offset-2">Friday <span>Feb 10<sup>th</sup></span></h2>
    </hgroup>
    <section class="timetable">
+      <div class="row break">
+         <div class="col-xs-2 col-sm-1 start-time"><time class="start">8:30-9:00</time></div>
+         <div class="visible-xs-block col-xs-8 visible-sm-block col-sm-10 description">Welcome Coffee</div>
+         <div class="hidden-xs hidden-sm col-md-10 description">Welcome Coffee</div>
+      </div>
       <div class="row keynote">
          <div class="col-xs-2 col-sm-1 start-time"><time class="start">9:00-9:45</time>
          <br /> Keynote
