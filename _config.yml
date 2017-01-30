@@ -29,5 +29,7 @@ navigation:
       - 2016
   - title : "Speakers"
     url   : "speakers/"
+  - title : "Code of Conduct"
+    url   : "code-of-conduct/"
 #  - title : "Call For Co-Creation"
 #    url   : "/call-for-co-creation/"
