@@ -6,6 +6,8 @@ talk: true
 excerpt_length: 70
 topic-category: craftsmanship
 ---
+<a href="http://slides.codefx.org/junit-5/2017-02-09-etc">[Slides]</a>
+
 Java&apos;s most ubiquitous library is getting an update! This talk will...
 
   * show you how to write tests with JUnit 5
