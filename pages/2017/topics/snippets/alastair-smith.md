@@ -5,7 +5,7 @@ id: alastair-smith
 talk: true
 topic-category: craftsmanship
 ---
-<a href="http://europeantestingconference.eu/slides17/AlastairSmith.pdf">[slides]</a>
+<a href="http://europeantestingconference.eu/slides17/AlastairSmith.pdf">Slides</a>
 
 Learn how to make database development fun again, by applying all your favourite modern development practices to your SQL code!
 
