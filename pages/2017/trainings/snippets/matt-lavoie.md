@@ -4,6 +4,8 @@ title: Uncover the Usability Gaps in Your Product
 id: matt-lavoie
 training: true
 ---
+<a href="http://www.mattplavoie.com/usability-testing/">[Materials]</a>
+
 <i> This training is half-a-day and paired with the Security training under the theme of the core parafunctional quality aspects</i>
 
 Every piece of software with an interface has one thing in common, people. And where people are involved there will always be hidden gaps in usability we are blind to. One of the most effective ways to uncover these issues is through usability testing.
