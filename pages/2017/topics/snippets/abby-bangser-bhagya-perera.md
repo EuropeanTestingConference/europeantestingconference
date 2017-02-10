@@ -5,6 +5,8 @@ id: abby-bangser-bhagya-perera
 workshop: true
 topic-category: other
 ---
+<a href="http://europeantestingconference.eu/slides17/AbbyBhagya.pdf">[Slides]</a>
+
 Distributed development is becoming the new normal. The continual improvement on collaboration tools allows for organisations to find the right person for the job as much as employees to find the right career opportunity with a lot less focus on location.
 
 But distribution does not mean just one team style. There are both examples of both successful and struggling teams in many different formats such as:
