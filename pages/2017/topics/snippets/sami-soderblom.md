@@ -5,6 +5,8 @@ id: sami-soderblom
 workshop: true
 topic-category: testing
 ---
+<a href="http://europeantestingconference.eu/slides17/SamiSoderblom.pdf">[Slides]</a>
+
 Let's cut to the chase. Within first few minutes of this clinic you will be testing. You will be thrown to the deep end where you will have to survive without test plan, test cases, specs, requirements, time and ultimately all the resources considered vital in conventional testing. And from that chaos we start to build the new you. An explorer. Within just 90 short minutes you will dive through
 
   * the nature of exploration,
