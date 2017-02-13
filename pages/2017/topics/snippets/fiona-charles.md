@@ -5,6 +5,8 @@ id: fiona-charles
 keynote: true
 topic-category: testing
 ---
+<a href="http://europeantestingconference.eu/slides17/FionaCharles.pdf">[Slides]</a>
+
 It used to be a lot easier to build a software testing career. That was yesterday, when expectations about testing were shared across the industry.
 
 Of course there were variations. Not every workplace had a dedicated team of skilled testers and not every piece of software was tested with the same degree of rigor. But fundamentally, most software creators and integrators agreed that all software needed to be tested before release, and that the more highly skilled testers doing the work, the better.
