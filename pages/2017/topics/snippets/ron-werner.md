@@ -5,6 +5,9 @@ id: ron-werner
 talk: true
 topic-category: automation
 ---
+
+<a href="https://www.slideshare.net/secret/7ckmD6u46EUwGu">[Slides]</a>
+
 Mobile Testing specialist Ron is tired of conferences full of sales pitches and wants to make a difference, sharing the love for his craft.
 He found a partner in mind with the European Testing Conference and packed the story of a mobile automation journey into a medieval tale with dragons, knights, and, of course, a princess to be rescued!
 
