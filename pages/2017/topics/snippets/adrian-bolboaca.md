@@ -5,6 +5,8 @@ id: adi-bolboaca
 talk: true
 topic-category: craftsmanship
 ---
+<a href="http://www.slideshare.net/adibolb/different-types-of-automated-tests">[Slides]</a>
+
 This talk is done in collaboration with the audience. There are many types of tests out there. Let's see the most used types of tests and understand how each one is useful. We will write live code, and we will discuss automated tests written.
 
 
