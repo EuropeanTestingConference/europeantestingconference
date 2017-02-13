@@ -5,6 +5,8 @@ id: alexandra-schladebeck
 talk: true
 topic-category: automation
 ---
+<a href="http://europeantestingconference.eu/slides17/AlexSchladebeck.pdf">[Slides]</a>
+
 Test automation projects can have a bad tendency to go awry, most especially when higher-level automation (e.g. via the UI) is involved. At some point, automated tests just become too hard to understand, extend and maintain.
 
 This doesn’t have to be the case though. In software development, there are systematic methods and patterns for addressing recurring challenges – and similar approaches also exist for test automation.
