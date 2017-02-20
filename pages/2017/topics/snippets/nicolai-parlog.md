@@ -1,9 +1,8 @@
 ---
 speaker: Nicolai Parlog
-title: "JUnit 5 -  Next Generation Testing on the JVM"
+title: JUnit 5 -  Next Generation Testing on the JVM
 id: nicolai-parlog
 talk: true
-excerpt_length: 70
 topic-category: craftsmanship
 ---
 <a href="http://slides.codefx.org/junit-5/2017-02-09-etc">[Slides]</a>
