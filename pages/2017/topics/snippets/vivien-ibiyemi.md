@@ -1,6 +1,6 @@
 ---
 speaker: Vivien Ibironke Ibiyemi
-title: How I use "My Tester's Toolkit" to develop and sustain a tester's mindset!
+title: How I use My Tester&apos;s Toolkit to develop and sustain a tester&apos;s mindset!
 id: vivien-ibiyemi
 talk: true
 topic-category: testing
