@@ -6,6 +6,10 @@ redirect_from:
  - "/schedule"
  - "/schedule/"
 ---
+
+Coming soon
+
+<!--
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 <section id="schedule" class="main-content text-center">
 	<div class="container">
@@ -18,3 +22,4 @@ redirect_from:
 	</div>
   <div> <b>please note:</b> this schedule is subject to change </div>
 </section>
+-->

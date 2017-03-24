@@ -5,6 +5,8 @@ layout: 2018/sub-page
 ---
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 
+
+<!--
 <div class="container" id="trainings">
 
 <section class="main-content text-center" id="topic-trainings">
@@ -36,3 +38,4 @@ layout: 2018/sub-page
 {% endfor %}
 
 </section></div>
+-->

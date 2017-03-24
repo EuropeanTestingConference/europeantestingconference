@@ -7,7 +7,10 @@ layout: 2018/sub-page
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 
 <div class="container" id="topics">
-  <section class="main-content text-center" id="topic-keynotes"><h2>High-Level Schedule</h2><img src="http://europeantestingconference.eu/images/2018/CondencedSchedule.png"><h2>Keynotes</h2>
+  <section class="main-content text-center" id="topic-keynotes"><h2>High-Level Schedule</h2><img src="http://europeantestingconference.eu/images/2018/CondencedSchedule.png">
+
+<!--
+<h2>Keynotes</h2>
 
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
@@ -50,6 +53,6 @@ layout: 2018/sub-page
 {% endif %}
 {% endif %}
 {% endfor %}
-
+-->
 </section>
 </div>

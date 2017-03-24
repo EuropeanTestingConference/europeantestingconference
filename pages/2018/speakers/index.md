@@ -4,6 +4,7 @@ year: 2018
 layout: 2018/sub-page
 ---
 
+<!--
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 
 <div class="container speakers" id="keynote-speakers">
@@ -28,3 +29,4 @@ layout: 2018/sub-page
 {% endif %}
 {% endfor %}
 </div>
+-->
