@@ -25,6 +25,7 @@ navigation:
   - title : "trainings"
     url   : "trainings/"
     year  :
+      - 2018
       - 2017
       - 2016
   - title : "Speakers"
