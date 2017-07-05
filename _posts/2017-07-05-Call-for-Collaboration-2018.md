@@ -4,7 +4,7 @@ title: Call for Collaboration
 author: Maaret Pyhäjärvi, Franziska Sauerwein
 ---
 
-<h3>ETC 2018 Call for Collaboration</h3>
+<b>ETC 2018 Call for Collaboration</b>
 <i>Other conferences call for papers or proposals. We call for collaboration.</i>
 
 <b>TL;DR:</b> Propose an idea or outline for a session. We are selecting based on discussions via Skype/Hangouts.
