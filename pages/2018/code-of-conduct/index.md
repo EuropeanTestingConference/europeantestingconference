@@ -10,7 +10,7 @@ layout: 2018/sub-page
   <section class="main-content text-center" id="topic-keynotes">
 <h1>Code of Conduct</h1>
 
-<p><strong>TL;DR</strong>  Don’t be a jerk. </p>
+<p><strong>TL;DR</strong>  Be Kind, Considerate and Respectful.</p>
 
 <p>We’re bringing together a diverse group from different experiences and background to learn about testing. Let’s be good to one another and keep in mind this is a professional conference on software testing. We don’t accept bad behaviors. We believe in being able to be kind to one another even when we don’t agree. Safety is a prerequisite for learning and our conference is a place for learning through networking. </p>
 
@@ -21,14 +21,14 @@ layout: 2018/sub-page
 <p>If there is any reason to seek support or resolution, the organizers are here to help. </p>
 
 <p>Contact: </p>
-  
+
   <p>Maaret Pyhäjärvi <maaret@iki.fi> +358-40-8233777 (she/her)</p>
- 
+
   <p>Aki Salmi <aki.salmi@iki.fi> +358-50-3415620 (he/him)</p>
- 
+
   <p>Info desk: Mirja Pyhäjärvi +358-44-5154918</p>
 
- 
+
 <p>Even longer version, look at <a href="http://confcodeofconduct.com">code of conduct conferences generally use</a>, it applies with us too. </p>
 </section>
 
