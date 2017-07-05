@@ -12,15 +12,3 @@ We're tired of conferences that feel more like sales pitches than practitioners 
 Come. Learn. Do. Teach. Test.
 
 <i>Ticket sales for super-early bird will start in mid-July.</i>
-<!--
-<div style="font-size:xx-large" style="appearance=button;color=green;">
-<input type="button" onclick="location.href='https://holvi.com/shop/ETC2018/';" value="Buy a ticket here" style="
-    background-color: #12bd12;
-    color: white;
-    border-radius: 15px;
-    font: bold 10pt verdana;
-    border: none;
-    padding: 10px;
-">
-</div>
--->
