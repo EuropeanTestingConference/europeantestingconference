@@ -40,7 +40,7 @@ When you respond to the call and we’re considering you, we’ll have a 15-minu
 
 What we have to offer:
 
-   * *entry* to participate and present at a great conference in Amsterdam, Netherlands 19.-20.2.2017
+   * *entry* to participate and present at a great conference in Amsterdam, Netherlands 19.-20.2.2018
 
    * *travel expenses and hotel* 3 nights reimbursed
 
