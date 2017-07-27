@@ -7,4 +7,4 @@ image: /images/2018/people/lanette-creamer.jpg
 
 ---
 
-Lanette Creamer is an agile software quality advocate based in Seattle, Washington, with over 16 years of industry experience. She is an active participant in the agile community and an enthusiastic advocate for collaborative software quality. Lanette is a frequent speaker and workshop facilitator at agile software conferences, and has presented at Agile Vancouver 2014, Agile Roots 2015, and Lean Agile Scotland 2015.
+Lanette hails from Seattle and combines a deep love of testing, glitter, kitties and terrible puns. Her test databases definitely have the highest incidence of cat pictures! Outside of work, she enjoys reading fantasy series, knitting and world travel. Her testing career began with a short contract that turned into 10 years of testing at Adobe, mostly working on InDesign and the Creative Suites, several years as an Independent Consultant, and currently works for The Omni Group as a Software Test Pilot.
