@@ -16,7 +16,7 @@ Deadline: Submit by August 20th.
 
 <h4>Our conference</h4>
 
-European Testing Conference 2017 takes place in Amsterdam, Netherlands February 19.-20.2.2018. The conference travels annually to different locations in Europe.
+European Testing Conference 2018 takes place in Amsterdam, Netherlands February 19.-20.2.2018. The conference travels annually to different locations in Europe.
 
 We are setting up the best practical testing conference that represents testing as different people know it: testers, developers, business analysts and managers. We recognize that testing is continuous, and we want to learn to do its different flavors better through sharing ideas and experiences in spirit of dialog. We seek to understand.
 

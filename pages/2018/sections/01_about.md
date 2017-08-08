@@ -11,4 +11,4 @@ We're tired of conferences that feel more like sales pitches than practitioners 
 
 Come. Learn. Do. Teach. Test.
 
-<i>Ticket sales for super-early bird will start in mid-July.</i>
+<i>Ticket sales for super-early bird will start in mid-August with price 899 euros.</i>
