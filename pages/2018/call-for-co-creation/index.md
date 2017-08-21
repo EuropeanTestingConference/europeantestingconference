@@ -7,12 +7,12 @@ layout: 2018/sub-page
 <b>ETC 2018 Call for Collaboration</b>
 <i>Other conferences call for papers or proposals. We call for collaboration.</i>
 
+**The call for collaboration for this year has ended. We hope to see you at the conference! Get your ticket <a href="http://europeantestingconference.eu/2018/">here</a>.**
+
 <b>TL;DR:</b> Propose an idea or outline for a session. We are selecting based on discussions via Skype/Hangouts.
 Event: ETC 2018 in Amsterdam, Netherlands 19.-20.2.2018.
 Compensation: Speaker travel expenses guaranteed by the conference.
 Deadline: Submit by August 20th.
-
-**<a href="https://docs.google.com/forms/d/1GLFn7NtR1TYmqLyiSnWqqZbSeUKc0Sewoj9QOW_ORm0/edit">Submit.</a>**
 
 <h4>Our conference</h4>
 
