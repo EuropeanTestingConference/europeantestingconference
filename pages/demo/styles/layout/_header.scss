@@ -1,0 +1,32 @@
+header {
+  height: 80vh;
+}
+
+
+header.hero-unit
+{
+  width: 100vw;
+}
+header .bcg
+{
+  height: 50%;
+  background-image: url('https://dl.kuvat.fi/?token=dl598a0d27630637.80753496');
+}
+
+@media all and (-webkit-min-device-pixel-ratio : 1.5),
+all and (-o-min-device-pixel-ratio: 3/2),
+all and (min--moz-device-pixel-ratio: 1.5),
+all and (min-device-pixel-ratio: 1.5) {
+  header .bcg
+  {
+    background-image: url('https://dl.kuvat.fi/?token=dl598a0d27630637.80753496');
+  }
+}
+
+@media all and (max-width: 1024px)
+{
+  header .bcg
+  {
+    background-image: url('https://dl.kuvat.fi/?token=dl598a0d27630637.80753496');
+  }
+}

@@ -1,0 +1,25 @@
+<nav id="navigation" class="navbar">
+
+    <label for="nav-trigger"><i class="fa fa-bars"> </i><span>Menu</span></label>
+    <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+
+    <ul class="flex-container-navi" >
+        <!-- Brand and toggle get grouped for better mobile display -->
+
+        {% for node in site.navigation %}
+        {% if include.lang == node.lang %}
+        {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
+        <li class="flex-item bullet-img">
+            <span class='bullet-info'><a href="{{ node.url | remove_first: 'index.html' }}" {% if current_page == node.url %} class="active" {% endif %}>{{ node.title }}</a></span>
+            {% if node.image %}
+            <!--
+            <img src="{{ node.image }}">
+            -->
+            {% endif %}
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</nav>
+
+
