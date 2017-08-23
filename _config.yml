@@ -17,7 +17,7 @@ defaults:
             layout: "news"
 navigation:
   - title : "Home"
-    url   : ""
+    url   : "/demo/"
   - title : "Schedule"
     url   : "schedule/"
   - title : "Topics"

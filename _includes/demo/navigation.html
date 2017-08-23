@@ -1,25 +1,43 @@
-<nav id="navigation" class="navbar">
+<header class="b-header">
+    <div class="b-logo b-header__logo">
+        <div>
+            <a href="{{ site.baseurl }}/" id="logo"><img src="{{ site.baseurl }}/images/logo/etc-logo_130px.png" alt="European Testing Conference logo"></a>
+        </div>
+    </div>
 
-    <label for="nav-trigger"><i class="fa fa-bars"> </i><span>Menu</span></label>
-    <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+    <nav id="navigation" class="b-nav b-header__nav">
+        <div class="b-nav_mobile">
+            <label for="nav-trigger" class=""><i class="fa fa-bars"> </i><span>Menu</span></label>
+            <input type="checkbox" id="nav-trigger" name="nav-trigger" class="b-nav__trigger-button" />
+        </div>
 
-    <ul class="flex-container-navi" >
-        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="b-nav_screen">
+            <ul class="b-nav__list " >
+                {% for node in site.navigation %}
+                {% endfor %}
+                {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
 
-        {% for node in site.navigation %}
-        {% if include.lang == node.lang %}
-        {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
-        <li class="flex-item bullet-img">
-            <span class='bullet-info'><a href="{{ node.url | remove_first: 'index.html' }}" {% if current_page == node.url %} class="active" {% endif %}>{{ node.title }}</a></span>
-            {% if node.image %}
-            <!--
-            <img src="{{ node.image }}">
-            -->
-            {% endif %}
-        </li>
-        {% endif %}
-        {% endfor %}
-    </ul>
-</nav>
-
-
+                <li class="{% if current_page == "/demo/" %} b-nav_active {% endif %}">
+                    <div class="b-nav__list-item">
+                        <a href="/" class="b-nav__link"><i class="fa fa-2x fa-home"></i><span class="b-nav__on_active"> Home</span> </a>
+                    </div>
+                </li>
+                <li class="b-nav__list-item">
+                    <a href="/demo/schedule" class="b-nav__link {% if current_page == "/demo/schedule/" %} b-nav_active {% endif %}"><i class="fa fa-2x fa-map"></i><span class="b-nav__on_active"> Schedule</span> </a>
+                </li>
+                <li class="b-nav__list-item">
+                    <a href="/" class="b-nav__link"><i class="fa fa-2x fa-lightbulb"></i><span class="b-nav__on_active {% if current_page == "/demo/topics/" %} b-nav_active {% endif %}"> Topics</span> </a>
+                </li>
+                <li class="b-nav__list-item">
+                    <a href="/" class="b-nav__link"><i class="fa fa-2x fa-users"></i><span class="b-nav__on_active {% if current_page == "/demo/speakers/" %} b-nav_active {% endif %}"> Speakers</span> </a>
+                </li>
+                <li class="b-nav__list-item">
+                    <a href="/" class="b-nav__link"><i class="fa fa-2x fa-heart"></i><span class="b-nav__on_active {% if current_page == "/demo/code-of-conduct" %} b-nav_active {% endif %}"> CoC</span> </a>
+                </li>
+                <li class="b-nav__list-item">
+                    <a href="/demo/buy-ticket" class="b-nav__link"><i class="fa fa-2x fa-ticket"></i><span class="b-nav__on_active {% if current_page == "/demo/buy-ticket" %} b-nav_active {% endif %}"> Tickets</span> </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
