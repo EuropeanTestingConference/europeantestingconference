@@ -1,8 +1,6 @@
 ---
 permalink: /demo/
 year: demo
-redirect_from:
- - /
 layout: index-2018
 ---
 
