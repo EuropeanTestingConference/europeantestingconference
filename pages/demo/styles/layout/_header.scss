@@ -1,26 +1,18 @@
 .b-header{
   display: flex;
 
-
   &__logo{
     flex: 0;
   }
 
   &__nav{
     flex: 1;
+    align-self: flex-end;
+    margin: 0 20px;
   }
 }
 
 
-header {
-  height: 80vh;
-}
-
-
-header.hero-unit
-{
-  width: 100vw;
-}
 header .bcg
 {
   height: 50%;

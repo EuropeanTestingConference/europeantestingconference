@@ -21,6 +21,7 @@ $navi_mobile: $navi_screen - 1;
     list-style: none;
     display: flex;
     border-bottom: solid 4px $emerald;
+    margin: 0;
   }
 
   &__list-item {
