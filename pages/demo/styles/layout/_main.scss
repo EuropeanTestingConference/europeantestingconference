@@ -15,7 +15,7 @@
   &_bw{
     filter: grayscale(100%);
     filter: url(/images/desaturage.svg#greyscale);
-    color: whitesmoke;
+    color: $text-on-bw-image;
 
     &::before{
       content: "";

@@ -1,4 +1,5 @@
 .b-header{
+  padding: 10px;
   display: flex;
 
   &__logo{
@@ -12,6 +13,26 @@
   }
 }
 
+.b-logo{
+  width: 20em;
+
+  &__img{
+    width: 20em;
+  }
+}
+
+@media screen and (max-width: 840px ){
+  .b-logo{
+    width: 15em;
+
+    &__img{
+      width: 15em;
+    }
+  }
+
+}
+
+
 header .bcg
 {
   height: 50%;
@@ -22,14 +43,6 @@ header .bcg
 all and (-o-min-device-pixel-ratio: 3/2),
 all and (min--moz-device-pixel-ratio: 1.5),
 all and (min-device-pixel-ratio: 1.5) {
-  header .bcg
-  {
-    background-image: url('https://dl.kuvat.fi/?token=dl598a0d27630637.80753496');
-  }
-}
-
-@media all and (max-width: 1024px)
-{
   header .bcg
   {
     background-image: url('https://dl.kuvat.fi/?token=dl598a0d27630637.80753496');
