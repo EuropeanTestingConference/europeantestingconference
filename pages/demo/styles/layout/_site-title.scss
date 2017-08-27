@@ -7,4 +7,16 @@
   &__info{
     align-self: center;
   }
+
+  &_wrappable{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: $max-small){
+  .b-site-title_wrappable {
+    flex-direction: row;
+  }
+
 }
