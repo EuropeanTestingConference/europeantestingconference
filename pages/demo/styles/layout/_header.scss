@@ -21,6 +21,14 @@
   }
 }
 
+@media screen and (min-width: 960px ){
+  .b-header{
+    margin: auto;
+    width: 960px;
+  }
+}
+
+
 @media screen and (max-width: 840px ){
   .b-logo{
     width: 15em;
