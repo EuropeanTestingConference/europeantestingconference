@@ -1,4 +1,16 @@
 .b-section{
 
   text-align: center;
+
+
+  &_text-only{
+    background-color: $text-only-background;
+  }
+}
+
+
+.b-text-content{
+  max-width: $text-content-width;
+  margin: auto;
+  padding: 40px 20px;;
 }

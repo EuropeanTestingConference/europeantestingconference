@@ -1,6 +1,7 @@
 ---
 about: about
-contained: true
+type: text-content
+section_type: "text-only"
 title: About
 ---
 

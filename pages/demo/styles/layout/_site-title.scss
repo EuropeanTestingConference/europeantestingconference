@@ -8,6 +8,10 @@
     align-self: center;
   }
 
+  &__h2{
+    margin: auto;
+  }
+
   &_wrappable{
     display: flex;
     flex-wrap: wrap;
