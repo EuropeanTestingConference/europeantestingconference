@@ -7,7 +7,13 @@
         </div>
     </div>
 
-    <a class="b-header__  b-header__link-to-nav" href="#primary-nav">Menu</a>
 
-    {% include demo/navigation.html %}
+    <div class="b-nav-screen">
+        {% include demo/navigation.html %}
+    </div>
+    <label for="nav-trigger" class="b-header__mobile-trigger"><i class="fa fa-2x fa-bars"> </i> </label>
+    <input type="checkbox" id="nav-trigger" class="b-nav__mobile-menu-trigger" />
+    <div class="b-nav-mobile">
+        {% include demo/navigation.html %}
+    </div>
 </header>

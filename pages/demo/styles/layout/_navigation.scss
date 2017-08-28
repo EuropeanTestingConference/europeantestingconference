@@ -1,38 +1,8 @@
 
 
-$navi_screen: 735px;
+$navi_screen: $screen-navi-min;
 $navi_mobile: $navi_screen - 1;
 
-@media screen and (min-width: $navi_screen){
-  .b-nav_mobile{
-    display: none;
-  }
-}
-
-@media screen and (max-width: $navi_mobile){
-  .b-nav_screen{
-    display: none;
-  }
-}
-
-.b-nav{
-
-  &__list{
-    list-style: none;
-    padding: 1px;
-    display: flex;
-    flex-direction: row;
-  }
-
-  &__list-item{
-    border-bottom: solid 1px $emerald;
-    flex: 1;
-  }
-
-  &__link{
-    text-align: center;
-  }
-}
 
 .b-nav-item{
   display: flex;
@@ -45,11 +15,46 @@ $navi_mobile: $navi_screen - 1;
   }
 }
 
-@media only screen and (min-width: 768px) {
+.b-nav-mobile{
+  margin: auto;
+}
 
-  .b-header__link-to-nav {
+.b-nav{
+  &__list{
+    list-style: none;
+    padding: 1px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  &__list-item{
+    display: inline-block;
+    flex: 1;
+    white-space: nowrap;
+    padding: 10px;
+    position: relative;
+
+    border-bottom: solid 1px $emerald;
+  }
+
+  &__link{
+    text-align: center;
+  }
+
+  &__mobile-menu-trigger{
     display: none;
   }
+
+  &__mobile-menu{
+    display: none;
+  }
+
+}
+
+
+
+
+.b-nav-screen {
 
   .b-nav-item{
     display: flex;
@@ -63,11 +68,6 @@ $navi_mobile: $navi_screen - 1;
   }
 
   .b-nav{
-
-    &__list{
-      display: flex;
-      flex-direction: row;
-    }
     &__list-item {
       display: inline-block;
       flex: 0;
@@ -135,133 +135,58 @@ $navi_mobile: $navi_screen - 1;
   }
 }
 
+$navi_visible: $navi_screen;
+
+@media screen and (min-width: $navi_screen){
+  .b-nav-mobile{
+    display: none;
+
+  }
+  .b-nav-screen{
+    display: flex;
+  }
+}
+
+@media screen and (max-width: $navi_mobile){
+  .b-nav-screen{
+    display: none;
+  }
+  .b-nav-mobile{
+    display: flex;
+    text-align: center;
+    padding: 0 20px;
+    align-items: baseline;
+
+    &.b-nav__mobile-menu-trigger:checked {
+      display: none;
+    }
+  }
+  .b-nav{
+    &__mobile-menu-trigger{
+      //display: none;
+
+      &:not(checked) + .b-nav-mobile {
+        display: none;
+      }
+
+      &:checked + .b-nav-mobile {
+        display: block;
+      }
 
 
+      //position: absolute;
+      //clip: rect(0, 0, 0, 0);
+      label[for="nav-trigger"] {
+        cursor: pointer;
+      }
 
-.skrollr-desktop .navbar:hover{
+      &:checked + label {
+        left: 215px;
+      }
 
-  .flex-container-navi{
-
-    .flex-item{
-      opacity: 0.4;
-
-      &:hover{
-        opacity: 1;
-        img {
-        }
+      .nav-trigger:checked + ul {
+        display: flex;
       }
     }
   }
 }
-
-
-
-$navi_visible: $navi_screen;
-$navi_mobile: $navi_screen - 1;
-
-
-
-.navbar{
-  position: fixed;
-  top: 0;
-  z-index: 100;
-  width: 100%;
-
-  display: flex;
-  background: $footer-overlay;
-  flex-direction: column;
-  &.is-hidden {
-    opacity: 0;
-    transform: translate(0,-60px);
-    transition: opacity .2s,background .3s,color .3s, transform .5s;
-  }
-
-  &.is-visible {
-    opacity: 1;
-    transform: translate(0,0);
-    transition: transform .2s,background .3s,color .3s;
-  }
-
-  label,input  {
-    flex: 1;
-  }
-
-  .flex-container-navi{
-    flex: 1;
-    display: flex;
-
-    background: none;
-    align-items: baseline;
-
-    .flex-item {
-      background: #2A2C39;
-      flex: 3;
-    }
-    .lang-selection {
-      background: none;
-      flex: 1;
-    }
-  }
-
-  .bullet-img{
-    text-align: center;
-
-    img{
-      display: none;
-    }
-
-    &:hover{
-      img{
-        display: block;
-      }
-    }
-  }
-
-
-
-  @media screen and (max-width: $navi_visible){
-    .flex-container-navi{
-      flex-direction: column;
-      justify-items: center;
-
-      align-items: stretch;
-      padding: 0px 10px;
-      text-align: center;
-      margin: 0;
-    }
-    .flex-container-navi li {
-      min-width: 50%;
-    }
-
-    label[for="nav-trigger"]{
-      display: flex;
-      margin: auto;
-      text-align: center;
-      padding: 0 20px;
-      align-items: baseline;
-
-      i {
-        padding: 20px;
-      }
-    }
-    .nav-trigger:not(checked) + ul {
-      display: none;
-    }
-
-    .nav-trigger {
-      position: absolute;
-      clip: rect(0, 0, 0, 0);
-    }
-    label[for="nav-trigger"] {
-      cursor: pointer;
-    }
-
-    .nav-trigger:checked + label {
-      left: 215px;
-    }
-
-    .nav-trigger:checked + ul {
-      display: flex;
-    }
-
-  }}
