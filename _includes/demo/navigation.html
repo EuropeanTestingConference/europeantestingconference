@@ -1,34 +1,44 @@
 
-    <nav id="primary-nav" class="b-nav b-header__nav">
-        <div class="b-nav_mobile">
-            <label for="nav-trigger" class=""><i class="fa fa-bars"> </i><span>Menu</span></label>
-            <input type="checkbox" id="nav-trigger" name="nav-trigger" class="b-nav__trigger-button" />
-        </div>
+<nav id="primary-nav" class="b-nav b-header__nav">
+    <ul class="b-nav__list " >
+        {% for node in site.navigation %}
+        {% endfor %}
+        {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
 
-        <div class="b-nav_screen">
-            <ul class="b-nav__list " >
-                {% for node in site.navigation %}
-                {% endfor %}
-                {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
-
-                <li class="b-nav__list-item {% if current_page == "/demo/" %}b-nav_active{% endif %}">
-                    <a href="/" class="b-nav__link"><i class="fa fa-2x fa-home"></i><span class="b-nav__on_active"> Home</span> </a>
-                </li>
-                <li class="b-nav__list-item">
-                    <a href="/demo/schedule" class="b-nav__link {% if current_page == "/demo/schedule/" %} b-nav_active {% endif %}"><i class="fa fa-2x fa-map"></i><span class="b-nav__on_active"> Schedule</span> </a>
-                </li>
-                <li class="b-nav__list-item">
-                    <a href="/" class="b-nav__link"><i class="fa fa-2x fa-lightbulb"></i><span class="b-nav__on_active {% if current_page == "/demo/topics/" %} b-nav_active {% endif %}"> Topics</span> </a>
-                </li>
-                <li class="b-nav__list-item">
-                    <a href="/" class="b-nav__link"><i class="fa fa-2x fa-users"></i><span class="b-nav__on_active {% if current_page == "/demo/speakers/" %} b-nav_active {% endif %}"> Speakers</span> </a>
-                </li>
-                <li class="b-nav__list-item">
-                    <a href="/" class="b-nav__link"><i class="fa fa-2x fa-heart"></i><span class="b-nav__on_active {% if current_page == "/demo/code-of-conduct" %} b-nav_active {% endif %}"> CoC</span> </a>
-                </li>
-                <li class="b-nav__list-item">
-                    <a href="/demo/buy-ticket" class="b-nav__link"><i class="fa fa-2x fa-ticket"></i><span class="b-nav__on_active {% if current_page == "/demo/buy-ticket" %} b-nav_active {% endif %}"> Tickets</span> </a>
-                </li>
-            </ul>
-        </div>
-    </nav>
+        <li class="b-nav__list-item {% if current_page == "/demo/" %}b-nav_active{% endif %}">
+        <a href="/" class="b-nav__link b-nav-item">
+            <span class="b-nav-item__fa"><i class="fa fa-2x fa-home"></i></span>
+            <span class="b-nav__on_active b-nav-item__text"> Home</span> </a>
+        </li>
+        <li class="b-nav__list-item">
+            <a href="/demo/schedule" class="b-nav__link  b-nav-item {% if current_page == "/demo/schedule/" %} b-nav_active {% endif %}">
+            <span class="b-nav-item__fa"><i class="fa fa-2x fa-map"></i></span>
+            <span class="b-nav__on_active b-nav-item__text"> Schedule</span>
+            </a>
+        </li>
+        <li class="b-nav__list-item">
+            <a href="/" class="b-nav__link  b-nav-item">
+                <span class="b-nav-item__fa"><i class="fa fa-2x fa-lightbulb"></i></span>
+                <span class="b-nav__on_active  b-nav-item__text{% if current_page == "/demo/topics/" %} b-nav_active {% endif %}">Topics</span>
+            </a>
+        </li>
+        <li class="b-nav__list-item">
+            <a href="/" class="b-nav__link  b-nav-item">
+                <span class="b-nav-item__fa"><i class="fa fa-2x fa-users"></i></span>
+                <span class="b-nav__on_active b-nav-item__text {% if current_page == "/demo/speakers/" %} b-nav_active {% endif %}">Speakers</span>
+            </a>
+        </li>
+        <li class="b-nav__list-item">
+            <a href="/" class="b-nav__link  b-nav-item">
+                <span class="b-nav-item__fa"><i class="fa fa-2x fa-heart"></i></span>
+                <span class="b-nav__on_active  b-nav-item__text{% if current_page == "/demo/code-of-conduct" %} b-nav_active {% endif %}">CoC</span>
+            </a>
+        </li>
+        <li class="b-nav__list-item">
+            <a href="/demo/buy-ticket" class="b-nav__link  b-nav-item">
+                <span class="b-nav-item__fa"><i class="fa fa-2x fa-ticket"></i></span>
+                <span class="b-nav__on_active b-nav-item__text {% if current_page == "/demo/buy-ticket" %} b-nav_active {% endif %}">Tickets</span>
+            </a>
+        </li>
+    </ul>
+</nav>

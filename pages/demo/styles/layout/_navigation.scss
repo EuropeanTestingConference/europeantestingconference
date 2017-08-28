@@ -17,6 +17,36 @@ $navi_mobile: $navi_screen - 1;
 
 .b-nav{
 
+  &__list{
+    list-style: none;
+    padding: 1px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  &__list-item{
+    border-bottom: solid 1px $emerald;
+    flex: 1;
+  }
+
+  &__link{
+    text-align: center;
+  }
+}
+
+.b-nav-item{
+  display: flex;
+  flex-direction: column;
+  &__fa{
+    flex: 1;
+  }
+  &__text{
+    flex: 1;
+  }
+}
+
+._b-nav{
+
   &__list {
     list-style: none;
     display: flex;
