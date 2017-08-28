@@ -1,13 +1,5 @@
-<header class="b-header">
-    <div class="b-logo b-header__logo">
-        <div>
-            <a href="{{ site.baseurl }}/" id="logo">
-                <img class="b-logo__img" src="{{ site.baseurl }}/images/logo/etc-logo_130px.png" alt="European Testing Conference logo">
-            </a>
-        </div>
-    </div>
 
-    <nav id="navigation" class="b-nav b-header__nav">
+    <nav id="primary-nav" class="b-nav b-header__nav">
         <div class="b-nav_mobile">
             <label for="nav-trigger" class=""><i class="fa fa-bars"> </i><span>Menu</span></label>
             <input type="checkbox" id="nav-trigger" name="nav-trigger" class="b-nav__trigger-button" />
@@ -19,10 +11,8 @@
                 {% endfor %}
                 {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
 
-                <li class="{% if current_page == "/demo/" %} b-nav_active {% endif %}">
-                    <div class="b-nav__list-item">
-                        <a href="/" class="b-nav__link"><i class="fa fa-2x fa-home"></i><span class="b-nav__on_active"> Home</span> </a>
-                    </div>
+                <li class="b-nav__list-item {% if current_page == "/demo/" %}b-nav_active{% endif %}">
+                    <a href="/" class="b-nav__link"><i class="fa fa-2x fa-home"></i><span class="b-nav__on_active"> Home</span> </a>
                 </li>
                 <li class="b-nav__list-item">
                     <a href="/demo/schedule" class="b-nav__link {% if current_page == "/demo/schedule/" %} b-nav_active {% endif %}"><i class="fa fa-2x fa-map"></i><span class="b-nav__on_active"> Schedule</span> </a>
@@ -42,4 +32,3 @@
             </ul>
         </div>
     </nav>
-</header>

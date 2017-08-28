@@ -11,6 +11,30 @@
     align-self: flex-end;
     margin: 0 20px;
   }
+
+  &__link-to-nav{
+    float: right;
+    color: #fff;
+    background: #4e4e4e;
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 22px;
+    height: 22px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+
+    &:hover,
+    &:focus {
+      color: #1c1c1c;
+      background: #ccc;
+    }
+  }
+
 }
 
 .b-logo{
