@@ -19,6 +19,8 @@
 </div>
 
 </footer>
+    <script src="{{ site.baseurl }}/bower_components/jquery/dist/jquery.min.js"></script>  
+<script src="{{ site.baseurl }}/javascripts/blog.js"></script>
 
  </body>
 </html>

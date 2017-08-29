@@ -7,6 +7,32 @@
     background-image: url(/images/demo/speed_meet.jpg);
   }
 
+  &__img-collaborate{
+    height: 400px;
+    width: 100vw;
+    background-image: url(/images/demo/collaborate.jpg);
+  }
+
+}
+
+
+.b-cta{
+
+  &__main{
+    color: inherit;
+    font-size: 3.5em;
+    margin: auto;
+  }
+  &__support{
+    color: inherit;
+    font-size: 2.7em;
+    margin: auto;
+    padding: 10px;
+  }
+  &_wrappable{
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 
 .b-img{
