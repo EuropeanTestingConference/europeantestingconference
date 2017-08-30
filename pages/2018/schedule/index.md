@@ -7,7 +7,7 @@ redirect_from:
  - "/schedule/"
 ---
 
-Coming soon
+<div class="container text-center">Coming soon</div>
 
 <!--
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
