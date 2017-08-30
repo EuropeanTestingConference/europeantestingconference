@@ -4,15 +4,18 @@ year: 2018
 layout: 2018/sub-page
 ---
 
-<b>ETC 2018 Call for Collaboration</b>
+<div class="container" id="topics">
+
+  <section class="main-content text-center" id="topic-keynotes">
+<h1>ETC 2018 Call for Collaboration</h1>
 <i>Other conferences call for papers or proposals. We call for collaboration.</i>
 
-**The call for collaboration for this year has ended. We hope to see you at the conference! Get your ticket <a href="http://europeantestingconference.eu/2018/">here</a>.**
+<p>**The call for collaboration for this year has ended. We hope to see you at the conference! Get your ticket <a href="http://europeantestingconference.eu/2018/">here</a>.**</p>
 
-<b>TL;DR:</b> Propose an idea or outline for a session. We are selecting based on discussions via Skype/Hangouts.
+<p><b>TL;DR:</b> Propose an idea or outline for a session. We are selecting based on discussions via Skype/Hangouts.
 Event: ETC 2018 in Amsterdam, Netherlands 19.-20.2.2018.
 Compensation: Speaker travel expenses guaranteed by the conference.
-Deadline: Submit by August 20th.
+Deadline: Submit by August 20th.</p>
 
 <h4>Our conference</h4>
 
@@ -51,3 +54,8 @@ What we expect:
    * Speakers who can stay and participate for the duration of the conference. This is very important to having a great learning environment.
 
 Come. Learn. Do. Teach. Test.
+
+
+
+</section>
+</div>
