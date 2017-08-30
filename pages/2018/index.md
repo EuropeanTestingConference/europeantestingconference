@@ -1,8 +1,6 @@
 ---
 permalink: /2018/
 year: 2018
-redirect_from:
- - /
 layout: index
 title: "European Testing Conference 2018"
 sub_title: "Amsterdam Arena, Amsterdam, Netherlands 19-20 February 2018"

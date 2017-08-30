@@ -2,9 +2,6 @@
 year: 2018
 permalink: /2018/schedule/
 layout: 2018/sub-page
-redirect_from:
- - "/schedule"
- - "/schedule/"
 ---
 
 <div class="container text-center">Coming soon</div>

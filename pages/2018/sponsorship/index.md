@@ -1,8 +1,5 @@
 ---
 permalink: /2018/sponsorship/
-redirect_from:
- - "/sponsorship"
- - "/sponsorship/"
 year: 2018
 layout: sub-page-with-section
 contained: true
