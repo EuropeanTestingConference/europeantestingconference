@@ -9,7 +9,7 @@ sass:
     sass_dir: pages
 collections:
   snippets:
-
+destination: docs
 defaults:
     -
         scope:
