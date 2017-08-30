@@ -1,0 +1,37 @@
+permalink: /news/:title
+gems:
+  - jekyll-redirect-from
+  - jekyll-coffeescript
+  - jekyll-autoprefixer
+sass:
+    style: :compressed
+#    load_paths:
+    sass_dir: pages
+collections:
+  snippets:
+
+defaults:
+    -
+        scope:
+            path: "_posts"
+        values:
+            layout: "news"
+navigation:
+  - title : "Home"
+    url   : "/"
+  - title : "Schedule"
+    url   : "schedule/"
+  - title : "Topics"
+    url   : "topics/"
+#  - title : "trainings"
+#    url   : "trainings/"
+    year  :
+      - 2018
+      - 2017
+      - 2016
+  - title : "Speakers"
+    url   : "speakers/"
+  - title : "Call For Co-Creation"
+    url   : "call-for-co-creation/"
+  - title : "Code of Conduct"
+    url   : "code-of-conduct/"

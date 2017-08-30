@@ -1,0 +1,97 @@
+.b-header{
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+
+  &__logo{
+    flex: 0;
+  }
+
+  &__nav{
+    flex: 1;
+    align-self: flex-end;
+    margin: 0 20px;
+  }
+
+  &__mobile-trigger{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  &__link-to-nav{
+    float: right;
+    color: #fff;
+    background: #4e4e4e;
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 22px;
+    height: 22px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+
+    &:hover,
+    &:focus {
+      color: #1c1c1c;
+      background: #ccc;
+    }
+  }
+
+}
+
+.b-logo{
+  width: 20em;
+
+  &__img{
+    width: 20em;
+  }
+}
+
+@media screen and (min-width: $mobile-navi-max) {
+  .b-header{
+    &__mobile-trigger{
+      display: none;
+    }
+  }
+}
+
+@media screen and (min-width: 960px ){
+  .b-header{
+    margin: auto;
+    width: 960px;
+  }
+}
+
+
+@media screen and (max-width: 840px ){
+  .b-logo{
+    width: 15em;
+
+    &__img{
+      width: 15em;
+    }
+  }
+
+}
+
+
+header .bcg
+{
+  height: 50%;
+  background-image: url('https://dl.kuvat.fi/?token=dl598a0d27630637.80753496');
+}
+
+@media all and (-webkit-min-device-pixel-ratio : 1.5),
+all and (-o-min-device-pixel-ratio: 3/2),
+all and (min--moz-device-pixel-ratio: 1.5),
+all and (min-device-pixel-ratio: 1.5) {
+  header .bcg
+  {
+    background-image: url('https://dl.kuvat.fi/?token=dl598a0d27630637.80753496');
+  }
+}

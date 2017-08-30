@@ -1,0 +1,39 @@
+.b-section{
+
+  text-align: center;
+
+
+  &__title{
+    font-size: 2em;
+  }
+
+  &_text-only{
+    background-color: $text-only-background;
+  }
+
+  &_block-content{
+    width: 100%;
+  }
+}
+
+.b-block-content{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+
+  &__block{
+    flex: 1;
+    padding: 0 20px;
+  }
+
+  &__block-title{
+    flex: 1;
+  }
+
+}
+
+.b-text-content{
+  max-width: $text-content-width;
+  margin: auto;
+  padding: 40px 20px;;
+}

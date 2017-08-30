@@ -1,0 +1,86 @@
+.b-front{
+  position: relative;
+
+  &__img{
+    height: 80vh;
+    width: 100vw;
+    background-image: url(/images/demo/speed_meet.jpg);
+  }
+
+  &__img-collaborate{
+    height: 400px;
+    width: 100vw;
+    background-image: url(/images/demo/collaborate.jpg);
+  }
+
+}
+
+
+.b-cta{
+
+  &__main{
+    color: inherit;
+    font-size: 3.5em;
+    margin: auto;
+  }
+  &__support{
+    color: inherit;
+    font-size: 2.7em;
+    margin: auto;
+    padding: 10px;
+  }
+  &_wrappable{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.b-img{
+  display: flex;
+
+  &_bw{
+    filter: grayscale(100%);
+    filter: url(/images/desaturage.svg#greyscale);
+    color: $text-on-bw-image;
+
+    &::before{
+      content: "";
+      display: block;
+      pointer-events: none;
+      background: rgba(0,0,0,0.25);
+    }
+  }
+
+  &_full-sized{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    &::before{
+      content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      pointer-events: none;
+    }
+  }
+
+  &__text-content{
+    position: relative;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &_parallax{
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+}

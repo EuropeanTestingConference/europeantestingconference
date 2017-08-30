@@ -1,0 +1,26 @@
+.b-site-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+  &__info{
+    align-self: center;
+  }
+
+  &__h2{
+    margin: auto;
+  }
+
+  &_wrappable{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: $max-small){
+  .b-site-title_wrappable {
+    flex-direction: row;
+  }
+
+}
