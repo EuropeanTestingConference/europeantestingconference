@@ -2,10 +2,6 @@
 <!-- bower:js -->
 
 <footer class="text-center container-fluid">
-
-<p>This page is served by GitHub Pages.</p>
-<p>Feel free to copy use the <a href="https://github.com/EuropeanTestingConference/europeantestingconference">structure</a> as basis for your own conference and/or web page.</p>
-
 <p>You can reach organizers at <a href="mailto:contact@europeantestingconference.eu">contact@europeantestingconference.eu</a></p>
 
 <h3>Platinum Sponsors</h3>
