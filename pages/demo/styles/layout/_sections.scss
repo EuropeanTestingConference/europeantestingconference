@@ -37,3 +37,10 @@
   margin: auto;
   padding: 40px 20px;;
 }
+
+@media screen and (max-width: $navi_mobile){
+  .b-block-content{
+
+    flex-direction: column;
+  }
+}
