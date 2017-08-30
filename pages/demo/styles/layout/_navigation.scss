@@ -137,6 +137,14 @@ $navi_mobile: $navi_screen - 1;
 
 $navi_visible: $navi_screen;
 
+.b-nav-mobile {
+  display: flex;
+  text-align: center;
+  padding: 0 20px;
+  align-items: baseline;
+  font-size: 12px;
+}
+
 @media screen and (min-width: $navi_screen){
   .b-nav-mobile{
     display: none;
@@ -152,10 +160,7 @@ $navi_visible: $navi_screen;
     display: none;
   }
   .b-nav-mobile{
-    display: flex;
-    text-align: center;
-    padding: 0 20px;
-    align-items: baseline;
+
 
     &.b-nav__mobile-menu-trigger:checked {
       display: none;

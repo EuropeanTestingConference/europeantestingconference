@@ -8,6 +8,7 @@ section_type: "site-title"
          class="b-front b-site-title"
 >
     <div class="b-front__img b-img_full-sized b-img_parallax b-img b-img_bw">
+        <div class="b-img_mobile-bw-wrapper">
         <div class="b-img__text-content  b-site-title__info">
             <div hidden="hidden">
                 <h1 class="h1 b-site-title__h1" style="display:none" aria-hidden="true">European Testing Conference 2018</h1>
@@ -15,6 +16,7 @@ section_type: "site-title"
             </div>
             <p class="h1 b-site-title__h1">European Testing Conference 2018</p>
             <p class="h2 b-site-title_wrappable"><span class="b-site-title__h2">Amsterdam Arena, Amsterdam, Netherlands</span>&nbsp;<span class="b-site-title__h2">Feb 19th-20th, 2018</span></p>
+        </div>
         </div>
     </div>
 </section>

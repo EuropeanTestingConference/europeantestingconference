@@ -16,6 +16,8 @@
 }
 
 
+
+
 .b-cta{
 
   &__main{
@@ -83,4 +85,33 @@
     background-size: cover;
   }
 
+}
+
+@media screen and (max-width: $navi_mobile){
+  .b-front{
+
+    &__img{
+      height: 60vh;
+      width: 100vw;
+      background-image: url(/images/demo/speed_meet_mob.jpg);
+    }
+  }
+
+
+  .b-img{
+
+    &_mobile-bw-wrapper{
+      height: 100%;
+      width: 100%;
+      background: rgba(0,0,0,0.35);
+    }
+
+    &_parallax{
+      /* Create the parallax scrolling effect */
+      background-attachment: inherit;
+      //background-position: center;
+      //background-repeat: no-repeat;
+      //background-size: cover;
+    }
+  }
 }
