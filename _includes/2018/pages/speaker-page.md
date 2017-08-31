@@ -1,30 +1,29 @@
 {% assign speaker = include.speaker %}
-<section class="main-content text-center speaker fix-anchor" id="{{ speaker.id }}">
-	<article>
+<article class="b-speaker fix-anchor" id="{{ speaker.id }}">
 
-	<div class="image col-md-3 col-sm-4">
-		<div class="image-holder">
-			<img src="{{speaker.image}}"/>
+	<div class="b-speaker__image ">
+		<div class="b-image-holder">
+			<img class="b-image-holder__img" src="{{speaker.image}}"/>
 		</div>
-		{% if speaker.twitter %}
-			<div class="twitter">
-			<a href="https:/twitter.com/{{ speaker.twitter }}"><img src="/images/twitter.png"> {{ speaker.twitter }}</a>
-			</div>
-		{% endif %}
 	</div>
 
 	{% if speaker.slideshare == true %}
 	{% endif %}
-	<div class="info col-md-9 col-sm-8">
+	<div class="b-speaker__info ">
 		<h3 class="name">{{ speaker._name }}</h3>
 
-        {% include 2018/pages/speakers/all_talks.md speaker=speaker %}
-
-			<div class="own-words">
+		{% if speaker.twitter %}
+			<div class="b-speaker__twitter">
+			<a href="https:/twitter.com/{{ speaker.twitter }}"><img class="b-speaker__twitter-img" src="/images/twitter.png"> {{ speaker.twitter }}</a>
+			</div>
+		{% endif %}
+		{% include 2018/pages/speakers/all_talks.md speaker=speaker %}
+   	</div>
+	<div class="b-speaker__bio ">
+		<div class="b-speaker__description">
 	 		{{ speaker.content  || markdownify }}
 	  	</div>
    	</div>
 
 
- 	</article>
-</section>
+</article>
