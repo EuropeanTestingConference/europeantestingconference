@@ -45,10 +45,9 @@
 }
 
 .b-logo{
-  width: 20em;
 
   &__img{
-    width: 20em;
+    width: 18em;
   }
 }
 
@@ -67,11 +66,16 @@
   }
 }
 
+@media screen and (max-width: 960px ) and (min-width: 760px){
+  .b-logo {
+    &__img{
+      width: 15em;
+    }
+  }
+}
 
 @media screen and (max-width: 840px ){
   .b-logo{
-    width: 15em;
-
     &__img{
       width: 15em;
     }

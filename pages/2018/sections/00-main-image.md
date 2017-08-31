@@ -19,4 +19,9 @@ section_type: "site-title"
             <p class="h2 b-site-title_wrappable"><span class="b-site-title__h2">Amsterdam Arena, Amsterdam, Netherlands</span>&nbsp;<span class="b-site-title__h2">Feb 19th-20th, 2018</span></p>
         </div>
     </div>
+    <p class="b-front__buy-ticket b-button b-button__buy-ticket">
+        <a href="https://holvi.com/shop/EuroTestingConf/" class="b-button__buy-ticket-link">
+            <i class="fa fa-2x fa-ticket b-button__fa"></i>Buy Ticket<i class="fa fa-2x fa-ticket b-button__fa"></i>
+        </a>
+    </p>
 </section>

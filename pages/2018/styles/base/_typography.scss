@@ -9,3 +9,14 @@
   font-size: 2.7em;
   margin: auto;
 }
+
+
+@media screen and (max-width: $navi_mobile){
+
+  .h1{
+    font-size: 2.5em;
+  }
+  .h2{
+    font-size: 1.7em;
+  }
+}

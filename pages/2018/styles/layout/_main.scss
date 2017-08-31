@@ -13,6 +13,11 @@
     background-image: url(/images/2018/collaborate.jpg);
   }
 
+  &__buy-ticket{
+    position: absolute;
+    bottom: 30px;
+  }
+
 }
 
 
@@ -35,6 +40,33 @@
     display: flex;
     flex-wrap: wrap;
   }
+}
+
+
+.b-button{
+
+  background: $emerald;
+  padding: 10px;
+  border: 1px solid $emerald;
+  border-radius: 18px;
+  color: $white;
+
+  &__buy-ticket-link{
+    color: inherit;
+
+    //LOVE - HATE
+    &:visited{
+      color: inherit;
+    }
+    &:hover{
+      color: inherit;
+    }
+  }
+
+  &__fa{
+    padding: 0 10px;
+  }
+
 }
 
 .b-img{
