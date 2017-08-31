@@ -1,7 +1,7 @@
 ---
 permalink: /2018/speakers/
 year: 2018
-layout: 2018/sub-page
+layout: index-2018
 ---
 
 

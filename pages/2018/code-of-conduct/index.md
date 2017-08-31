@@ -1,8 +1,9 @@
 ---
 permalink: /2018/code-of-conduct/
 year: 2018
-layout: 2018/sub-page
+layout: index-2018
 ---
+
 {% capture foo %}bar{% endcapture %}
 
 <div class="container" id="topics">
@@ -23,8 +24,6 @@ layout: 2018/sub-page
 <p>Contact: </p>
 
   <p>Maaret Pyhäjärvi <maaret@iki.fi> +358-40-8233777 (she/her)</p>
-
-  <p>Aki Salmi <aki.salmi@iki.fi> +358-50-3415620 (he/him)</p>
 
   <p>Info desk: Mirja Pyhäjärvi +358-44-5154918</p>
 
