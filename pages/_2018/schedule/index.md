@@ -1,11 +1,10 @@
 ---
-year: demo
-permalink: /demo/schedule/
-layout: index-2018
-redirect_from:
+year: 2018
+permalink: /2018/schedule/
+layout: 2018/sub-page
 ---
 
-Coming soon
+<div class="container text-center">Coming soon</div>
 
 <!--
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
