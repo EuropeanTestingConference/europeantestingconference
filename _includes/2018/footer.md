@@ -1,17 +1,21 @@
 <!-- build:js scripts/vendor.js -->
 <!-- bower:js -->
 
-<footer class="text-center container-fluid">
-<p>You can reach organizers at <a href="mailto:contact@europeantestingconference.eu">contact@europeantestingconference.eu</a></p>
+<footer class="b-footer">
+<p class="b-footer__contact">You can reach organizers at <a href="mailto:contact@europeantestingconference.eu">contact@europeantestingconference.eu</a></p>
 
-<h3>Platinum Sponsors</h3>
+<div class="b-footer__sponsors b-sponsors">
+    <div class="b-sponsors__platinum">
+        <h3>Platinum Sponsors</h3>
 
-<div class="platinum-sponsor">
-  <ul class="sponsors">
-	  <li class="platinum-sponsor">
-    {% include 2018/sponsorship/platinum.md %}
-	  </li>
-  </ul>
+        <div class="">
+          <ul class="b-sponsor-list">
+              <li class="b-sponsor-list__sponsor">
+            {% include 2018/sponsorship/platinum.md %}
+              </li>
+          </ul>
+        </div>
+    </div>
 </div>
 
 </footer>
