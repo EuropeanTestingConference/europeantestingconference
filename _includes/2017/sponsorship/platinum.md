@@ -1,1 +1,0 @@
-<span class="sponsor"> <a href="http://comiq.fi/"><img src="/images/2017/sponsors/comiq.png" /></a></span>
