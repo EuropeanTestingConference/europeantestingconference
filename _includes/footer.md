@@ -10,13 +10,11 @@
 
 <h3>Platinum Sponsors</h3>
 
-<div class="platinum-sponsor">
   <ul class="sponsors">
 	  <li class="platinum-sponsor">
     {% include 2018/sponsorship/platinum.md %}
 	  </li>
   </ul>
-</div>
 
 </footer>
 
