@@ -5,9 +5,9 @@ section_type: "site-title"
 ---
 
 <section id="european-testing-conference-2018"
-         class="b-front b-site-title"
+         class="b-front "
 >
-    <div class="b-front__img b-img_full-sized b-img_parallax b-img b-img_bw">
+    <div class="b-front__img b-site-title b-img_full-sized b-img_parallax b-img b-img_bw">
         <div class="b-img_mobile-bw-wrapper">
         </div>
         <div class="b-img__text-content  b-site-title__info">
@@ -21,7 +21,7 @@ section_type: "site-title"
     </div>
     <p class="b-front__buy-ticket b-button b-button__buy-ticket">
         <a href="https://holvi.com/shop/EuroTestingConf/" class="b-button__buy-ticket-link">
-            <i class="fa fa-2x fa-ticket b-button__fa"></i>Buy Ticket<i class="fa fa-2x fa-ticket b-button__fa"></i>
+            <i class="fa fa-2x fa-ticket b-button__fa"></i><span class="b-front__buy-ticket-text">Buy Ticket</span><i class="fa fa-2x fa-ticket b-button__fa"></i>
         </a>
     </p>
 </section>

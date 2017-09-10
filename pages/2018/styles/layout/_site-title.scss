@@ -1,8 +1,8 @@
 .b-site-title{
   display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
-  height: 100%;
 
   &__info{
     align-self: center;
@@ -22,5 +22,6 @@
   .b-site-title_wrappable {
     flex-direction: row;
   }
+
 
 }

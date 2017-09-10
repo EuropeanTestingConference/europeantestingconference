@@ -1,5 +1,7 @@
 .b-front{
   position: relative;
+  height: 100%;
+
 
   &__img{
     height: 80vh;
@@ -16,12 +18,14 @@
   &__buy-ticket{
     position: absolute;
     bottom: 30px;
+    left: calc(50vw - 7em);
+    right: calc(50vw - 7em);
   }
 
+  &__buy-ticket-text{
+    padding: 0 10px;
+  }
 }
-
-
-
 
 .b-cta{
 
@@ -41,7 +45,6 @@
     flex-wrap: wrap;
   }
 }
-
 
 .b-button{
 
@@ -63,9 +66,9 @@
     }
   }
 
-  &__fa{
-    padding: 0 10px;
-  }
+  //&__fa{
+  //  padding: 0 10px;
+  //}
 
 }
 
@@ -73,8 +76,8 @@
   display: flex;
 
   &_bw{
-    filter: grayscale(100%);
     filter: url(/images/desaturage.svg#greyscale);
+    filter: grayscale(100%);
     color: $text-on-bw-image;
 
     &::before{
@@ -123,7 +126,7 @@
   .b-front{
 
     &__img{
-      height: 60vh;
+      height: 80vh;
       width: 100vw;
       background-image: url(/images/2018/speed_meet_mob.jpg);
     }
