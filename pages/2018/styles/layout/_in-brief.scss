@@ -30,12 +30,14 @@
 
   &__num{
     font-size: 4rem;
-    flex: 0;
-    padding: 0 0.5em;
+                //flex: 0 0 1em;
+        //-webkit-flex: 0 0 1em;
+    padding: 0 0.5em 0 0;
   }
 
   &__desc{
-    flex: 0;
+    //flex: 0 0 1em;
+    //    -webkit-flex: 0 0 1em;
     display: flex;
     flex-direction: column;
 
