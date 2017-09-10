@@ -1,20 +1,26 @@
 .b-speaker{
   display: flex;
+  -webkit-flex: 0 1 auto;
   flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
   background: white;
   margin: 20px;
   border-top: 2px solid $emerald;
   padding: 20px;
 
   &__info{
-    flex: 1
+    flex: 1 1 45%;
+    -webkit-flex: 1 1 45%;
+    text-align: center;
   }
   &__image {
-    flex: 1;
+    min-width: 220px;
+    flex: 1 1 220px;
+    -webkit-flex: 1 1 220px;
   }
   &__bio {
-    flex: 1;
-    min-width: 90%;
+    flex: 1 1 90%;
+    -webkit-flex: 1 1 90%;
     margin: auto;
   }
 
