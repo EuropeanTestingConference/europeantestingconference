@@ -1,7 +1,7 @@
 ---
 about: our blog
-type: block-content
-section_type: "block-content"
+type: text-content
+section_type: "text-only"
 title: "Our Blog"
 ---
 

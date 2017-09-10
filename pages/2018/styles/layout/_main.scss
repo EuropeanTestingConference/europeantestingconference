@@ -6,13 +6,11 @@
   &__img{
     height: 80vh;
     width: 100vw;
-    background-image: url(/images/2018/speed_meet.jpg);
   }
 
   &__img-collaborate{
     height: 400px;
     width: 100vw;
-    background-image: url(/images/2018/collaborate.jpg);
   }
 
   &__buy-ticket{
@@ -33,6 +31,7 @@
     color: inherit;
     font-size: 3.5em;
     margin: auto;
+
   }
   &__support{
     color: inherit;
@@ -72,82 +71,4 @@
 
 }
 
-.b-img{
-  display: flex;
 
-  &_bw{
-    filter: url(/images/desaturage.svg#greyscale);
-    filter: grayscale(100%);
-    color: $text-on-bw-image;
-
-    &::before{
-      content: "";
-      display: block;
-      pointer-events: none;
-      background: rgba(0,0,0,0.25);
-    }
-  }
-
-  &_full-sized{
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    &::before{
-      content: "";
-      display: block;
-      position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      pointer-events: none;
-    }
-  }
-
-  &__text-content{
-    position: relative;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  &_parallax{
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-
-}
-
-@media screen and (max-width: $navi_mobile){
-  .b-front{
-
-    &__img{
-      height: 80vh;
-      width: 100vw;
-      background-image: url(/images/2018/speed_meet_mob.jpg);
-    }
-  }
-
-
-  .b-img{
-
-    &_mobile-bw-wrapper{
-      position: absolute;
-      height: 100%;
-      width: 100%;
-      background: rgba(0,0,0,0.35);
-    }
-
-    &_parallax{
-      /* Create the parallax scrolling effect */
-      background-attachment: inherit;
-      //background-position: center;
-      //background-repeat: no-repeat;
-      //background-size: cover;
-    }
-  }
-}

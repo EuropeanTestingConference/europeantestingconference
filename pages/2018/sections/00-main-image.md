@@ -7,7 +7,7 @@ section_type: "site-title"
 <section id="european-testing-conference-2018"
          class="b-front "
 >
-    <div class="b-front__img b-site-title b-img_full-sized b-img_parallax b-img b-img_bw">
+    <div class="b-front__img b-img_main b-site-title b-img_full-sized b-img_parallax b-img b-img_bw">
         <div class="b-img_mobile-bw-wrapper">
         </div>
         <div class="b-img__text-content  b-site-title__info">
