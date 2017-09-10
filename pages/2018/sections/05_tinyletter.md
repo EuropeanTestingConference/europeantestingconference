@@ -7,7 +7,6 @@ title: "Subscribe to newsletter"
 <p>Catch up latest news by subscribing to our newsletter below!<p>
 
 <form class="b-newsletter__form b-form"
-      style="border:1px solid #ccc;padding:3px;text-align:center;" 
       action="https://tinyletter.com/eurotestconf" 
       method="post" target="popupwindow" 
       onsubmit="window.open('https://tinyletter.com/eurotestconf', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true

@@ -16,11 +16,13 @@
     margin: 0.7em 0.7em;
   }
   &__input{
+    min-height: 1.2em;
     flex: 1 1 90%;
     --webkit-flex: 1 1 90%;
     margin: 0.7em 0.7em;
   }
   &__submit{
+    min-height: 2.3em;
     flex: 1 1 90%;
     --webkit-flex: 1 1 90%;
     margin: 0.7em 0.7em;
@@ -43,6 +45,7 @@
       --webkit-flex: 1 1 50%;
     }
     &__submit{
+      min-height: initial;
       flex: 1 1 50%;
       --webkit-flex: 1 1 50%;
     }
