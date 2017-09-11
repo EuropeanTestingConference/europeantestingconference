@@ -1,17 +1,21 @@
-.b-keynote{
-
+.b-section__content{
   // TODO AkS: ugly fix
   position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 1em 0;
 
+  .b-section__title{
+    color:$text-on-image;
+  }
+}
+
+.b-keynote{
   display: flex;
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
   color: $text-on-image;
-
-  .b-section__title{
-    color:$text-on-image;
-  }
 
   & a {
     color: $text-on-image;
