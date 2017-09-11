@@ -1,7 +1,7 @@
 ---
 speaker: Abby​ ​Bangser​ ​and​ ​Lisa​ ​Crispin
 title: A​ ​Product’s​ ​Path​ ​to​ ​Production:​ ​How​ ​Pipelines​ ​Maximize​ ​Feedback​ ​and​ ​Minimize​ ​Risk
-id: abby-bangser-lisa-crispin
+id: abby-bangser
 workshop: true
 topic-category: interactive
 ---
