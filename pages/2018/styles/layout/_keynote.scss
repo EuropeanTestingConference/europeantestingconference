@@ -46,15 +46,15 @@
 }
 
 
-@media screen and (min-width: 550px){
+@media screen and (min-width: 820px){
   .b-keynote{
+    &__speaker {
+      flex: 1 1 20%;
+      --webkit-flex: 1 1 20%;
+    }
   }
 }
 
-@media screen and (min-width: 1130px){
-  .b-keynote{
-  }
-}
 
 @media screen and (max-width: $max-small){
   .b-keynote{
