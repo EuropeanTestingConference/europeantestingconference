@@ -1,0 +1,58 @@
+.b-keynote{
+
+  // TODO AkS: ugly fix
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: $text-on-image;
+
+  .b-section__title{
+    color:$text-on-image;
+  }
+
+  & a {
+    color: $text-on-image;
+  }
+
+  &__speaker{
+    flex: 1 1 35%;
+    --webkit-flex: 1 1 35%;
+    padding: 2em 0.5em;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__img{
+    width: 10em;
+    align-self: center;
+    border-radius: 100%;
+  }
+
+  &__name{
+    font-size: 1.5em;
+  }
+
+  &__title{
+    font-size: 1em;
+  }
+
+}
+
+
+@media screen and (min-width: 550px){
+  .b-keynote{
+  }
+}
+
+@media screen and (min-width: 1130px){
+  .b-keynote{
+  }
+}
+
+@media screen and (max-width: $max-small){
+  .b-keynote{
+  }
+}

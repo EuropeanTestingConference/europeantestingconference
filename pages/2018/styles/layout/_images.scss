@@ -19,10 +19,14 @@
     background-image: url(/images/2018/collaborative-talk.jpg);
   }
 
+  &_people-watching{
+    background-image: url(/images/2018/people-watching.jpg);
+  }
+
 }
 
 .b-img{
-  display: flex;
+  //display: flex;
 
   &_bw{
     filter: url(/images/desaturage.svg#greyscale);
@@ -51,6 +55,19 @@
       background: rgba(0,0,0,0.65);
     }
   }
+
+  &_people-watching{
+
+    &:before{
+      content: '';
+      position: absolute;
+      top: 0;
+      height: 100%;
+      width: 100%;
+      background: rgba(0,0,0,0.65);
+    }
+  }
+
 
   &_full-sized{
     background-repeat: no-repeat;

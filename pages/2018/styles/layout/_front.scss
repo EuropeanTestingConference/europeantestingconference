@@ -1,0 +1,27 @@
+.b-front{
+  position: relative;
+  height: 100%;
+
+
+  &__img{
+    height: 80vh;
+    width: 100vw;
+  }
+
+  &__img-collaborate{
+    display: flex;
+    height: 400px;
+    width: 100vw;
+  }
+
+  &__buy-ticket{
+    position: absolute;
+    bottom: 30px;
+    left: calc(50vw - 7em);
+    right: calc(50vw - 7em);
+  }
+
+  &__buy-ticket-text{
+    padding: 0 10px;
+  }
+}
