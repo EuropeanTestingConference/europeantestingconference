@@ -1,6 +1,9 @@
 # europeantestingconference
 Website for the European Testing Conference
 
+## TODO
+  * sponsorship page
+ 
 
 
 
