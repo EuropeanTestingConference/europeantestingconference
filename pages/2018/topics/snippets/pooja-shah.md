@@ -13,7 +13,7 @@ topic-category: testing
 <p>&nbsp;</p>
 <p><strong>Abstract:</strong></p>
 <p>The talk is about the powers of a bot which can monitor code and keep taking actions dynamically in turn can help in improving quality assurance. Will be sharing how I leveraged the power of existing systems &amp; created this bot. How this can be useful for many of your use cases at work. And the beauty is</p>
-<p><a  href="https://github.com/moengage/alice">Project Alice></a> is a gatekeeper assistant that can talk with your commits in Github, Slack and Jenkins to prevent problems in the first place and even if they occur helps quickly resolving conflicts at the time of Release.</p>
+<p><a  href="https://github.com/moengage/alice">Project Alice</a> is a gatekeeper assistant that can talk with your commits in Github, Slack and Jenkins to prevent problems in the first place and even if they occur helps quickly resolving conflicts at the time of Release.</p>
 <p>&nbsp;</p>
 <p><strong>Details:</strong></p>
 <p>Imagine, it is one of your Release Day and the code started breaking all of a sudden, tested features not working anymore, and it is going to take time to figure out whom to reach &amp; people start passing the buck?</p>
@@ -21,9 +21,9 @@ topic-category: testing
 <p>Amidst all this, losing time for release deployment as the traffic on your product is peaking up or exceeding the deadline promised to the clients. Manual monitoring wasn&rsquo;t a solution as it isn&rsquo;t scalable ?</p>
 <p>Yes, in fast paced organisations like us, it is a burning problem. And we really wanted a system in the dev phase itself which can bring agility within the teams by having everything &amp; everyone know that what&rsquo;s there in the black box. Do you also feel the same?</p>
 <ul>
-<li>● Already nodding your head in agreement ? Many times somewhere deep down, did you feel like escaping from the heated discussion or wished there were snapshots of all the important events which could give you the clues/traceback to hunt &amp; chuck the wrong commits out of the system and move ahead. Or even better some software which you could just hook to your system which would never let us reach such a chaotic state itself by blocking/notifying any wrong doings.</li>
-<li>● Or are you someone just starting off your company and do not want to go through the same challenges we went through &amp; help your developers focus only on building the awesome stuff which you wanted to</li>
-<li>● Or are you among those telling yourself &ldquo;we already solved it&rdquo;. As a tech geek, are you excited to explore a different way as to how we are solving it?</li>
+<li>Already nodding your head in agreement ? Many times somewhere deep down, did you feel like escaping from the heated discussion or wished there were snapshots of all the important events which could give you the clues/traceback to hunt &amp; chuck the wrong commits out of the system and move ahead. Or even better some software which you could just hook to your system which would never let us reach such a chaotic state itself by blocking/notifying any wrong doings.</li>
+<li>Or are you someone just starting off your company and do not want to go through the same challenges we went through &amp; help your developers focus only on building the awesome stuff which you wanted to</li>
+<li>Or are you among those telling yourself &ldquo;we already solved it&rdquo;. As a tech geek, are you excited to explore a different way as to how we are solving it?</li>
 </ul>
 <p>Would you believe if I say &ldquo;a bot can help in solving such problems of communication between humans&rdquo;. That too using the same tools we use daily, eager to see how?</p>
 <p>Come let&rsquo;s talk and take a sneak peek at how we are dealing with these at<a  href="http://moengage.com/"> MoEngage Inc</a>. And yes, get to start using the<a  href="https://github.com/moengage/alice"> solution open-sourced</a> in almost no time.</p>

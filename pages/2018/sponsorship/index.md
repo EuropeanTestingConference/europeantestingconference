@@ -1,7 +1,7 @@
 ---
 permalink: /2018/sponsorship/
 year: 2018
-layout: sub-page-with-section
+layout: index-2018
 contained: true
 ---
 
@@ -18,11 +18,11 @@ Testing is important. This conference is about getting experts and practitioners
 ### Audience
 Our audience is testers, developers, analysts and managers. We’re bringing down the divide in testing. We travel around Europe, for 2018 in Helsinki.
 
-|  package | platinum   | gold   | silver   |
-|:---------|------------|--------|----------|
-| price   | 4500€  | 2500€  | 1000€  |
-| Free registrations | 2 | 1 | 0 |
-| Visibility on web | Yes | Yes | Yes |
+|  package          | platinum   | gold   | silver   |
+| :--- | :---: | :---: | :---: |
+| price             | 4500€      | 2500€  | 1000€    |
+| Free registrations| 2          | 1      | 0        |
+| Visibility on web | Yes        | Yes    | Yes      |
 | Logo on slides on breaks| Individual slide | In groups of three | All on one slide |
 | Roll-ups in all conference rooms | Yes | Expo area | No |
 | Booth (2*3 m) ** | Double | Single | None |
