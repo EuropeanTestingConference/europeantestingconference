@@ -4,8 +4,6 @@ keynote: false
 id: abby-bangser
 twitter: a_bangser ‏
 image: /images/2018/people/abby-bangser.jpeg
-talks:
- - id: abby-bangser-lisa-crispin
 ---
 
 Abby is currently working at ThoughtWorks where over the last 6 years she has had the opportunity to work in a variety of domains, countries, and team dynamics. Throughout these experience it has become clear to her that while the technical requirements of each domain and tech stack can be challenging, team practices and team ownership have a much deeper impact on the end deliverable.
