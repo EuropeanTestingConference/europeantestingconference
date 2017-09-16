@@ -13,13 +13,11 @@ lean quality improvement, in particular impact mapping, agile testing, specifica
 behaviour driven development.
 
 
-Gojko’s book <a href="//books.gojko.net/specification-by-example">Specification by Example</a> won the 
-<a href="http://www.drdobbs.com/joltawards/jolt-awards-the-best-books/240007480?pgno=7" target="_blank">Jolt 
-Award for the best book of 2012</a>. Gojko won the <a href="http://www.softwaretestingawards.com/winners-2016/" target="_blank">
-2016 European Software Testing Outstanding Achievement Award</a>. In 2011, he was voted by peers as 
-the <a href="http://www.agiletestingdays.com/award.php" target="_blank">most influential agile testing professional</a>, 
-and his blog won the UK Agile Award for the best online publication in 2010.</p>
+Gojko’s book [Specification by Example](//books.gojko.net/specification-by-example) won the 
+[Jolt 
+Award for the best book of 2012](http://www.drdobbs.com/joltawards/jolt-awards-the-best-books/240007480?pgno=7). Gojko won the [2016 European Software Testing Outstanding Achievement Award](http://www.softwaretestingawards.com/winners-2016/). In 2011, he was voted by peers as 
+the [most influential agile testing professional](http://www.agiletestingdays.com/award.php), 
+and his blog won the UK Agile Award for the best online publication in 2010.
 
-<p>Gojko is a frequent <a href="/lists/presentations.html">keynote speaker</a> at leading software development 
-conferences, and one of the authors of <a href="https://www.mindmup.com" target="_blank">MindMup</a> and 
-<a href="https://claudiajs.com" target="_blank">Claudia.js</a>.</p>
+Gojko is a frequent [keynote speaker](/lists/presentations.html) at leading software development 
+conferences, and one of the authors of [MindMup](https://www.mindmup.com) and [Claudia.js](https://claudiajs.com).
