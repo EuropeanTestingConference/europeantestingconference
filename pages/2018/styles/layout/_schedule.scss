@@ -21,7 +21,6 @@
   background-color: $session-background;
   &__time {
     font-size: 1.8rem;
-    flex: 0;
     white-space: nowrap;
   }
   &__type {
@@ -34,6 +33,7 @@
   &__title {
     font-size: 1.6rem;
     min-width: 100%;
+    -webkit-flex: 1 1 90%;
   }
   &_keynote {
 
@@ -53,6 +53,7 @@
 .b-talk {
   font-size: 2rem;
   min-width: 100%;
+  -webkit-flex: 1 1 90%;
   display: flex;
   flex-direction: column;
   &:hover{
