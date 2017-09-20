@@ -4,9 +4,6 @@ permalink: /2018/schedule/
 layout: index-2018
 ---
 
-<div class="container text-center">Coming soon</div>
-
-<!--
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 <section id="schedule" class="main-content text-center">
 	<div class="container">
@@ -19,4 +16,3 @@ layout: index-2018
 	</div>
   <div> <b>please note:</b> this schedule is subject to change </div>
 </section>
--->
