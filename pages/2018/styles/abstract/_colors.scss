@@ -38,8 +38,8 @@ $text-on-bw-image: $white;
 $text-on-image: $white;
 $session-border: $black;
 $session-background: lightgray;
-$session_speaker: darkgray;
-$session_category: $concrete;
+$session_speaker: #656464;
+$session_category: #656464;
 
 
 $nav-link-color: $shark;  // #202129 is very close to $shark!
@@ -52,4 +52,3 @@ $border-color: $main-text-color;
 $section-border-color: $cool-gray;
 
 $footer-overlay: rgba(0,0,0,0.65);
-
