@@ -1,6 +1,6 @@
 ---
 speaker: Toyer Mamoojee & Elisabeth (Lisi) Hocke
-title: Finding a Learning Partner in Borderless Testing Community
+title: Finding a Learning Partner in the Testing Community
 id: lisi-hocke
 talk: true
 topic-category: learning
