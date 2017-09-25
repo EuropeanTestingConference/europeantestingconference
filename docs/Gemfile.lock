@@ -203,6 +203,3 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-autoprefixer
-
-BUNDLED WITH
-   1.15.1

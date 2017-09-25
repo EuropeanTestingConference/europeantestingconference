@@ -2,7 +2,7 @@
 speaker: Amber Race
 title: Exploring Your APIs with Postman
 id: amber-race
-talk: true
+workshop: true
 topic-category: testing
 ---
 

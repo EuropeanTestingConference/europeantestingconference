@@ -1,9 +1,9 @@
 ---
 speaker: Emily Bache
-title: Experiences Testing in a Microservices Architecture
+title:  Testing Microservices 
 id: emily-bache
 talk: true
-topic-category: testing
+topic-category: automation
 ---
 
 <!--<a href="http://www.slideshare.net/Kevlin/the-error-of-our-ways">[Slides]</a>-->

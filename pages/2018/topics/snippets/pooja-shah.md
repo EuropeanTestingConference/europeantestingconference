@@ -1,6 +1,6 @@
 ---
 speaker: Pooja Shah
-title: A little Bot for big cause
+title: Our testing team mate is a Bot
 id: pooja-shah
 talk: true
 topic-category: testing
