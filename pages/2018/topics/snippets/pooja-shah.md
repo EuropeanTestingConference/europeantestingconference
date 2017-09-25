@@ -1,9 +1,9 @@
 ---
 speaker: Pooja Shah
-title: Our testing team mate is a Bot
+title: Our Testing Teammate is a Bot
 id: pooja-shah
 talk: true
-topic-category: testing
+topic-category: automation
 ---
 
 <!--<a href="http://www.slideshare.net/Kevlin/the-error-of-our-ways">[Slides]</a>-->

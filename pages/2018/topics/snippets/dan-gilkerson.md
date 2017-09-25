@@ -1,6 +1,6 @@
 ---
 speaker: Dan Gilkerson
-title: Better selectors with Glance
+title: Better Selectors with Glance
 id: dan-gilkerson
 demo-talk: true
 topic-category: automation
