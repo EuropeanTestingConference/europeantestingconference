@@ -1,0 +1,3 @@
+1. fix styling in call-for-co-creation
+2. fix navigation from news
+3. add keynote speakers
