@@ -1,6 +1,6 @@
 ---
 speaker: Pooja Shah
-title: Our Testing Teammate is a Bot
+title: A little Bot for big cause
 id: pooja-shah
 talk: true
 topic-category: automation
@@ -9,24 +9,20 @@ topic-category: automation
 <!--<a href="http://www.slideshare.net/Kevlin/the-error-of-our-ways">[Slides]</a>-->
 
 #### **Theme:**
-Empower cross functional teams to help all be on same page specially QA.
+Empower teams to help be on the same page and help ourselves in return for better focus on QA.
 
 #### **Abstract:**
-The talk is about the powers of a bot which can monitor code and keep taking actions dynamically in turn can help in improving quality assurance. Will be sharing how I leveraged the power of existing systems & created this bot. How this can be useful for many of your use cases at work. And the beauty is [Project Alice](https://github.com/moengage/alice) is a gatekeeper assistant that can talk with your commits in Github, Slack and Jenkins to prevent problems in the first place and even if they occur helps quickly resolving conflicts at the time of Release.
+In this talk, we will discuss about unleashing the power of Github, Slack and some awesome open-source technologies to create a **code monitoring and talking bot** which can keep everyone across teams, up to date and be a helper in need by preventing/resolving the situation of conflicts. Will be sharing exactly how I leveraged the power of existing systems & created it and how this can be useful for many of your use cases at work. 
 
-#### **Details:**
-Imagine, it is one of your Release Day and the code started breaking all of a sudden, tested features not working anymore, and it is going to take time to figure out whom to reach & people start passing the buck?
-Experienced such stormy sail on your release day?
-Amidst all this, losing time for release deployment as the traffic on your product is peaking up or exceeding the deadline promised to the clients. Manual monitoring wasn't a solution as it isn't scalable ?
-Yes, in fast paced organisations like us, it is a burning problem. And we really wanted a system in the dev phase itself which can bring agility within the teams by having everything & everyone know that what's there in the black box. Do you also feel the same?
+#### **Why should I attend this:**
+Imagine, it is one of your Release Day and the code started breaking all of a sudden, tested features not working anymore, and it is going to take time to figure out whom to reach & people start passing the buck? Experienced such stormy sail on your release day? Amidst all this, losing time for release deployment as the traffic on your product is peaking up or exceeding the deadline promised to the clients. Manual monitoring doesn't look a viable/scalable solution ? Yes, in fast paced organisations like us, it is a burning problem. Do you also feel the same?
 
-* Already nodding your head in agreement ? Many times somewhere deep down, did you feel like escaping from the heated discussion or wished there were snapshots of all the important events which could give you the clues/traceback to hunt & chuck the wrong commits out of the system and move ahead. Or even better some software which you could just hook to your system which would never let us reach such a chaotic state itself by blocking/notifying any wrong doings.
+* Already nodding your head in agreement? Many times somewhere deep down, did you feel like escaping from the heated discussion or wished there were snapshots of all the important events which could give you the clues/traceback to hunt & chuck the wrong commits out of the system and move ahead. Or even better some software which you could just hook to your system which would never let us reach such a chaotic state itself by blocking/notifying any wrong doings.
 * Or are you someone just starting off your company and do not want to go through the same challenges we went through & help your developers focus only on building the awesome stuff which you wanted to
-* Or are you among those telling yourself "we already solved it". As a tech geek, are you excited to explore a different way as to how we are solving it?
+* Or are you among those telling yourself “we already solved it”. As a tech geek, are you excited to explore a different way as to how we are solving it?
 
-Would you believe if I say "a bot can help in solving such problems of communication between humans". That too using the same tools we use daily, eager to see how?
-Come let's talk and take a sneak peek at how we are dealing with these at [MoEngage Inc](http://moengage.com/). And yes, get to start using the [solution open-sourced](https://github.com/moengage/alice) in almost no time.
-In this crisp talk, we will discuss about unleashing the power of Github, Slack and some awesome open-source technologies to create a code monitoring and talking bot which can keep everyone in a team, up to date and be a helper in need.
+Would you believe if I say “a bot can help in prevent/solve such problems”. That too using the same tools we use daily, eager to see how? Come let’s talk and take a sneak peek at how we are dealing with these at MoEngage Inc. And yes, get to start using the [solution open-sourced](https://github.com/moengage/alice) in almost no time.
+
 ~ A little attempt towards making healthier work culture and keeping the smart brains happier :-)
 
 #### **Outline of Talk:**
