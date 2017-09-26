@@ -1,6 +1,6 @@
 ---
 speaker: Desmond Delissen
-title: Why we taught our Testers to Code?
+title: Why we Taught our Testers to Code?
 id: desmond-delissen
 talk: true
 topic-category: automation
