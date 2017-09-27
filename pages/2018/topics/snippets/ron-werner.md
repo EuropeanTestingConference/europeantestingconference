@@ -1,6 +1,6 @@
 ---
 speaker: Ron Werner
-title: Mobile Crowdtesting 
+title: Lessons learned in Mobile Crowdtesting
 id: ron-werner
 talk: true
 topic-category: testing

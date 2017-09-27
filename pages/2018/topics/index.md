@@ -47,6 +47,19 @@ layout: index-2018
 {% endfor %}
 
 </section>
+
+<section class="main-content text-center" id="topic-talks"><h2>Demo-Talks</h2>
+
+{% for page in site.pages %}
+{% if page.path contains snippet_path %}
+{% if page.demo-talk == true %}
+{% include 2018/pages/topic-page.md  topic=page%}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+</section>
+
 <section class="main-content text-center" id="topic-talks"><h2>Activities</h2>
 
 {% for page in site.pages %}
