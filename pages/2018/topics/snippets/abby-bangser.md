@@ -1,6 +1,6 @@
 ---
 speaker: Abby​ ​Bangser​ ​and​ ​Lisa​ ​Crispin
-title: Using Pipelines to bring Product to Production
+title: Using Pipelines to Bring Product to Production
 id: lisa-crispin
 workshop: true
 topic-category: automation

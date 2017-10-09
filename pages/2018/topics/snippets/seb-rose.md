@@ -1,6 +1,6 @@
 ---
 speaker: Seb Rose and Gáspár Nagy
-title: Writing better BDD scenarios
+title: Writing Better BDD scenarios
 id: seb-rose
 workshop: true
 topic-category: testing

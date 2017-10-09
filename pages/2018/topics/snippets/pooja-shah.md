@@ -1,6 +1,6 @@
 ---
 speaker: Pooja Shah
-title: A little Bot for big cause
+title: A Little Bot for Big Cßause
 id: pooja-shah
 talk: true
 topic-category: automation
@@ -10,7 +10,7 @@ topic-category: automation
 
 Empower teams to help be on the same page and help ourselves in return for better focus on QA
 
-In this talk, we will discuss about unleashing the power of existing systems like github, slack and some awesome open-source technologies to create a code monitoring and talking bot which can keep everyone across teams, up to date and be a helper in need by preventing/resolving the situation of conflicts. Will also be sharing exactly how I leveraged the power of existing systems & created it and how this can be useful for many of your use cases at work. 
+In this talk, we will discuss about unleashing the power of existing systems like github, slack and some awesome open-source technologies to create a code monitoring and talking bot which can keep everyone across teams, up to date and be a helper in need by preventing/resolving the situation of conflicts. Will also be sharing exactly how I leveraged the power of existing systems & created it and how this can be useful for many of your use cases at work.
 
 #### **Why should you attend this:**
 Imagine, it is one of your Release Day and the code started breaking all of a sudden, tested features not working anymore, and it is going to take time to figure out whom to reach & people start passing the buck? Experienced such stormy sail on your release day? Amidst all this, losing time for release deployment as the traffic on your product is peaking up or exceeding the deadline promised to the clients. Manual monitoring doesn't look a viable/scalable solution ? Yes, in fast paced organisations like us, it is a burning problem. Do you also feel the same?
@@ -19,7 +19,7 @@ Imagine, it is one of your Release Day and the code started breaking all of a su
 * Or are you someone just starting off your company and do not want to go through the same challenges we went through & help your developers focus only on building the awesome stuff which you wanted to
 * Or are you among those telling yourself “we have already solved it”. As a tech geek, are you excited to explore a different way as to how we are solving it?
 
-Eager to know how? Come let’s talk and take a sneak peek at how we are dealing with these at [MoEngage Inc.](http://moengage.com/) And yes, get to start using the [solution open-sourced](https://github.com/moengage/alice) in almost no time. 
+Eager to know how? Come let’s talk and take a sneak peek at how we are dealing with these at [MoEngage Inc.](http://moengage.com/) And yes, get to start using the [solution open-sourced](https://github.com/moengage/alice) in almost no time.
 
 ~ A little attempt towards making healthier work culture and keeping the smart brains happier :-)
 
