@@ -1,6 +1,6 @@
 ---
 speaker: Dan Gilkerson
-title: Stop Inspecting, Start Glancing - Make test code simpler and cleaner
+title: Glance - An alternative to CSS selectors
 id: dan-gilkerson
 demo-talk: true
 topic-category: automation
