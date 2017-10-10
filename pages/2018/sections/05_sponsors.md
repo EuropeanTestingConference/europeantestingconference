@@ -9,4 +9,4 @@ title: "Sponsors"
 <h3>Platinum sponsors </h3>
 <span class="b-sponsors__sponsor  b-sponsor"> <a class="b-sponsor__link" href="http://comiq.fi/"><img src="/images/2017/sponsors/comiq.png"></a></span>
 </div>
-<h4>Interested in sponsoring European Testing Conference? <a href="/sponsorship/#sponsorship-portfolio">Check our offerings</a></h4>
+<h4>Interested in sponsoring European Testing Conference? <a href="/images/2018/sponsors/european_testing_conference2018_sponsorship.pdf">Check our offerings</a></h4>
