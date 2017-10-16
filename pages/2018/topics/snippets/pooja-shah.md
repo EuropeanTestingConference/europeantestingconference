@@ -1,6 +1,6 @@
 ---
 speaker: Pooja Shah
-title: A Little Bot for Big Cßause
+title: A Little Bot for Big Cause
 id: pooja-shah
 talk: true
 topic-category: automation
