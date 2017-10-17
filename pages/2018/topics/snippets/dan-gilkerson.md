@@ -1,6 +1,6 @@
 ---
 speaker: Dan Gilkerson
-title: Glance - An alternative to CSS selectors
+title: Glance - An Alternative to CSS Selectors
 id: dan-gilkerson
 demo-talk: true
 topic-category: automation

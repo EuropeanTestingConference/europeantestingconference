@@ -1,6 +1,6 @@
 ---
 speaker: Jessica Kerr
-title: Coding is the easy part
+title: Coding is the Easy Part
 id: jessica-kerr
 keynote: true
 topic-category: craftsmanship

@@ -1,6 +1,6 @@
 ---
 speaker: Amit Wertheimer
-title: Test Automation Architecture beyond Page-Objects
+title: Test Automation Architecture Beyond Page-Objects
 id: amit-wertheimer
 talk: true
 topic-category: automation
