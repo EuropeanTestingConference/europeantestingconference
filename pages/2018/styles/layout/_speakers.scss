@@ -40,7 +40,14 @@
   }
 
 }
-
+.b-image-left{
+  &__img{
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 2em;
+  }
+}
 .b-image-holder {
   width: 200px;
   height: 200px;
@@ -59,4 +66,3 @@
   }
 
 }
-
