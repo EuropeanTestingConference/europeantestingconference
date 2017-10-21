@@ -1,11 +1,5 @@
-
-
 <nav id="primary-nav" class="b-nav b-header__nav">
     <ul class="b-nav__list" >
-        {% for node in site.navigation %}
-        {% endfor %}
-        {% capture current_page %}{{page.url | remove_first: 'index.html'}}{% endcapture %}
-
         <li class="b-nav__list-item {% if current_page == "/2018/" %}b-nav_active{% endif %}">
             <a href="/" class="b-nav__link b-nav-item">
                 <span class="b-nav-item__fa"><i class="fa fa-2x fa-home"></i></span>
