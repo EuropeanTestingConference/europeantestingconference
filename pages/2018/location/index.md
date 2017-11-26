@@ -8,7 +8,9 @@ type: text-content
 [Amsterdam Arena, ArenA Boulevard 1, 1101 Amsterdam](https://goo.gl/maps/eMMM8KoGda82)
 
 ## Hotels & How to get to the venue
-There are a couple of Hotels near the Amsterdam Arena. We will integrate the Preferred Hotels service for the recommended hotels on the web page. Our speakers will stay at the Hampton by Hilton - just in case you want to try to catch them in the hotel bar to join some testing discussions.  
+There are a couple of Hotels near the Amsterdam Arena. We work together with Preferred Hotel Reservation to make our proposed locations available to you.
+
+<a href="https://www.preferredreservations.nl/european-testing-conference"><b>Book hotel through this link to get Conference Prices on selected hotels </b></a>  
 
 ### Via Airplane
 Amsterdam Airport Schiphol (AMS) is the closest international airport nearby.  
