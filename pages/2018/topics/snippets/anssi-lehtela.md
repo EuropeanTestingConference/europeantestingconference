@@ -1,6 +1,6 @@
 ---
 speaker: Anssi Lehtelä
-title:  10x tools for 1.01x future
+title:  10 Tools for 10x Tester
 id: anssi-lehtela
 talk: true
 topic-category: testing
