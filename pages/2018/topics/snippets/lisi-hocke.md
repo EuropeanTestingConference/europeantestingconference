@@ -1,5 +1,5 @@
 ---
-speaker: Toyer Mamoojee & Elisabeth (Lisi) Hocke
+speaker: Toyer Mamoojee & Lisi Hocke
 title: Finding a Learning Partner in the Testing Community
 id: lisi-hocke
 talk: true
