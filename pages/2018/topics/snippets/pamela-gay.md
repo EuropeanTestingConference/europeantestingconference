@@ -1,5 +1,5 @@
 ---
-speaker: Pamela gay
+speaker: Pamela Gay
 title: Testing v. Crowdsourced Data, or How I learned to stop worrying and Love the F-Bomb
 id: pamela-gay
 keynote: true
