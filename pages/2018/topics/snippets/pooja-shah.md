@@ -1,6 +1,6 @@
 ---
 speaker: Pooja Shah
-title: A Little Bot for Big Cause
+title: Automating repetitive communication tasks with a Bot
 id: pooja-shah
 talk: true
 topic-category: automation
