@@ -30,6 +30,7 @@ We expect participants to follow these rules at the conference venue and confere
 
 **Maaret Pyhäjärvi** <maaret@iki.fi> +358-40-8233777 (she/her)  
 **Llewellyn Falco** <isidore@setgame.com> +358-40-215-7040 (he/him)  
+**Franziska Sauerwein** <Franzi@craft-passion.com>, [@singsalad](https://twitter.com/Singsalad) and +41 79 380 41 97 (she/her)
 
 Info desk: **Mirja Pyhäjärvi** +358-44-5154918 (she/her)
 
