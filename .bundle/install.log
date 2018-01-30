@@ -577,3 +577,213 @@ I, [2017-12-28T16:31:12.233020 #34535]  INFO -- : 0:  terminal-table (1.8.0) fro
 I, [2017-12-28T16:31:12.389215 #34535]  INFO -- : 0:  github-pages (170) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/github-pages-170.gemspec
 I, [2017-12-28T16:31:12.389467 #34535]  INFO -- : 0:  jekyll-autoprefixer (1.0.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-autoprefixer-1.0.1.gemspec
 I, [2017-12-28T16:31:12.389640 #34535]  INFO -- : 0:  bundler (1.5.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/bundler-1.5.1.gemspec
+I, [2018-01-30T22:40:17.346819 #50415]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-01-30T22:40:17.785153 #50415]  INFO -- : 0:  i18n (0.9.3) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/i18n-0.9.3.gemspec
+I, [2018-01-30T22:40:18.149836 #50415]  INFO -- : 0:  minitest (5.11.3) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/minitest-5.11.3.gemspec
+I, [2018-01-30T22:40:18.150142 #50415]  INFO -- : 0:  thread_safe (0.3.6) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/thread_safe-0.3.6.gemspec
+I, [2018-01-30T22:40:18.150361 #50415]  INFO -- : 0:  tzinfo (1.2.4) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/tzinfo-1.2.4.gemspec
+I, [2018-01-30T22:40:18.150591 #50415]  INFO -- : 0:  activesupport (4.2.9) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/activesupport-4.2.9.gemspec
+I, [2018-01-30T22:40:18.150812 #50415]  INFO -- : 0:  public_suffix (2.0.5) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/public_suffix-2.0.5.gemspec
+I, [2018-01-30T22:40:18.151022 #50415]  INFO -- : 0:  addressable (2.5.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/addressable-2.5.2.gemspec
+I, [2018-01-30T22:40:18.151240 #50415]  INFO -- : 0:  execjs (2.7.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/execjs-2.7.0.gemspec
+I, [2018-01-30T22:40:18.151475 #50415]  INFO -- : 0:  autoprefixer-rails (6.3.7) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/autoprefixer-rails-6.3.7.gemspec
+I, [2018-01-30T22:40:18.151727 #50415]  INFO -- : 0:  coffee-script-source (1.11.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/coffee-script-source-1.11.1.gemspec
+I, [2018-01-30T22:40:18.151960 #50415]  INFO -- : 0:  coffee-script (2.4.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/coffee-script-2.4.1.gemspec
+I, [2018-01-30T22:40:18.152184 #50415]  INFO -- : 0:  colorator (1.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/colorator-1.1.0.gemspec
+I, [2018-01-30T22:40:18.644848 #50415]  INFO -- : 0:  ruby-enum (0.7.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/ruby-enum-0.7.1.gemspec
+I, [2018-01-30T22:40:31.047438 #50415]  INFO -- : 0:  commonmarker (0.17.7.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/commonmarker-0.17.7.1.gemspec
+I, [2018-01-30T22:40:31.048135 #50415]  INFO -- : 0:  ffi (1.9.18) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/ffi-1.9.18.gemspec
+I, [2018-01-30T22:40:31.048884 #50415]  INFO -- : 0:  ethon (0.11.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/ethon-0.11.0.gemspec
+I, [2018-01-30T22:40:31.049429 #50415]  INFO -- : 0:  multipart-post (2.0.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/multipart-post-2.0.0.gemspec
+I, [2018-01-30T22:40:31.415584 #50415]  INFO -- : 0:  faraday (0.14.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/faraday-0.14.0.gemspec
+I, [2018-01-30T22:40:31.416145 #50415]  INFO -- : 0:  forwardable-extended (2.6.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/forwardable-extended-2.6.0.gemspec
+I, [2018-01-30T22:40:31.416630 #50415]  INFO -- : 0:  gemoji (3.0.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/gemoji-3.0.0.gemspec
+I, [2018-01-30T22:40:31.416944 #50415]  INFO -- : 0:  net-dns (0.8.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/net-dns-0.8.0.gemspec
+I, [2018-01-30T22:40:31.417297 #50415]  INFO -- : 0:  sawyer (0.8.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/sawyer-0.8.1.gemspec
+I, [2018-01-30T22:40:31.840842 #50415]  INFO -- : 0:  octokit (4.8.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/octokit-4.8.0.gemspec
+I, [2018-01-30T22:40:31.841278 #50415]  INFO -- : 0:  typhoeus (0.8.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/typhoeus-0.8.0.gemspec
+I, [2018-01-30T22:40:31.841500 #50415]  INFO -- : 0:  github-pages-health-check (1.3.5) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/github-pages-health-check-1.3.5.gemspec
+I, [2018-01-30T22:40:31.841673 #50415]  INFO -- : 0:  rb-fsevent (0.10.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/rb-fsevent-0.10.2.gemspec
+I, [2018-01-30T22:40:31.842063 #50415]  INFO -- : 0:  rb-inotify (0.9.10) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/rb-inotify-0.9.10.gemspec
+I, [2018-01-30T22:40:31.842251 #50415]  INFO -- : 0:  sass-listen (4.0.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/sass-listen-4.0.0.gemspec
+I, [2018-01-30T22:40:32.511974 #50415]  INFO -- : 0:  sass (3.5.5) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/sass-3.5.5.gemspec
+I, [2018-01-30T22:40:32.512246 #50415]  INFO -- : 0:  jekyll-sass-converter (1.5.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-sass-converter-1.5.0.gemspec
+I, [2018-01-30T22:40:32.512550 #50415]  INFO -- : 0:  listen (3.0.6) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/listen-3.0.6.gemspec
+I, [2018-01-30T22:40:32.756529 #50415]  INFO -- : 0:  jekyll-watch (1.5.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-watch-1.5.1.gemspec
+I, [2018-01-30T22:40:33.503786 #50415]  INFO -- : 0:  kramdown (1.16.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/kramdown-1.16.2.gemspec
+I, [2018-01-30T22:40:33.504023 #50415]  INFO -- : 0:  liquid (4.0.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/liquid-4.0.0.gemspec
+I, [2018-01-30T22:40:33.504177 #50415]  INFO -- : 0:  mercenary (0.3.6) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/mercenary-0.3.6.gemspec
+I, [2018-01-30T22:40:33.753522 #50415]  INFO -- : 0:  pathutil (0.16.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/pathutil-0.16.1.gemspec
+I, [2018-01-30T22:40:33.753782 #50415]  INFO -- : 0:  rouge (2.2.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/rouge-2.2.1.gemspec
+I, [2018-01-30T22:40:33.753967 #50415]  INFO -- : 0:  safe_yaml (1.0.4) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/safe_yaml-1.0.4.gemspec
+I, [2018-01-30T22:40:33.754157 #50415]  INFO -- : 0:  jekyll (3.6.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-3.6.2.gemspec
+I, [2018-01-30T22:40:33.754343 #50415]  INFO -- : 0:  jekyll-avatar (0.5.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-avatar-0.5.0.gemspec
+I, [2018-01-30T22:40:33.754521 #50415]  INFO -- : 0:  jekyll-coffeescript (1.0.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-coffeescript-1.0.2.gemspec
+I, [2018-01-30T22:40:33.999525 #50415]  INFO -- : 0:  jekyll-commonmark (1.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-commonmark-1.1.0.gemspec
+I, [2018-01-30T22:40:34.265966 #50415]  INFO -- : 0:  jekyll-commonmark-ghpages (0.1.3) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-commonmark-ghpages-0.1.3.gemspec
+I, [2018-01-30T22:40:34.266235 #50415]  INFO -- : 0:  jekyll-default-layout (0.1.4) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-default-layout-0.1.4.gemspec
+I, [2018-01-30T22:40:34.266444 #50415]  INFO -- : 0:  jekyll-feed (0.9.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-feed-0.9.2.gemspec
+I, [2018-01-30T22:40:34.266642 #50415]  INFO -- : 0:  jekyll-gist (1.4.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-gist-1.4.1.gemspec
+I, [2018-01-30T22:40:34.266851 #50415]  INFO -- : 0:  jekyll-github-metadata (2.9.3) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-github-metadata-2.9.3.gemspec
+I, [2018-01-30T22:40:34.267044 #50415]  INFO -- : 0:  mini_portile2 (2.3.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/mini_portile2-2.3.0.gemspec
+E, [2018-01-30T22:40:40.067790 #50415] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/nokogiri-1.8.2/ext/nokogiri
+/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/bin/ruby -r ./siteconf20180130-50415-12w7kp7.rb extconf.rb --use-system-libraries
+checking if the C compiler accepts ... yes
+checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
+Building nokogiri using system libraries.
+Using pkg-config gem version 1.2.3
+checking for libxml-2.0... no
+checking for libxslt... no
+checking for libexslt... no
+ERROR: cannot discover where libxml2 is located on your system. please make sure `pkg-config` is installed.
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/bin/$(RUBY_BASE_NAME)
+	--help
+	--clean
+	--use-system-libraries
+	--with-zlib-dir
+	--without-zlib-dir
+	--with-zlib-include
+	--without-zlib-include=${zlib-dir}/include
+	--with-zlib-lib
+	--without-zlib-lib=${zlib-dir}/lib
+	--with-xml2-dir
+	--without-xml2-dir
+	--with-xml2-include
+	--without-xml2-include=${xml2-dir}/include
+	--with-xml2-lib
+	--without-xml2-lib=${xml2-dir}/lib
+	--with-libxml-2.0-config
+	--without-libxml-2.0-config
+	--with-pkg-config
+	--without-pkg-config
+	--with-pkg-config
+	--without-pkg-config
+	--with-override-variables
+	--without-override-variables
+	--with-xslt-dir
+	--without-xslt-dir
+	--with-xslt-include
+	--without-xslt-include=${xslt-dir}/include
+	--with-xslt-lib
+	--without-xslt-lib=${xslt-dir}/lib
+	--with-libxslt-config
+	--without-libxslt-config
+	--with-exslt-dir
+	--without-exslt-dir
+	--with-exslt-include
+	--without-exslt-include=${exslt-dir}/include
+	--with-exslt-lib
+	--without-exslt-lib=${exslt-dir}/lib
+	--with-libexslt-config
+	--without-libexslt-config
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/extensions/x86_64-darwin-16/2.4.0/nokogiri-1.8.2/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/nokogiri-1.8.2 for inspection.
+Results logged to /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/extensions/x86_64-darwin-16/2.4.0/nokogiri-1.8.2/gem_make.out
+
+/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/builder.rb:92:in `run'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/tempfile.rb:295:in `open'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/builder.rb:163:in `chdir'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/builder.rb:198:in `each'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/installer.rb:752:in `build_extensions'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/rubygems/installer.rb:304:in `install'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/forwardable.rb:228:in `each'  \n/Users/llewellyn/.rvm/rubies/ruby-2.4.0-rc1/lib/ruby/2.4.0/forwardable.rb:228:in `each'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/bin/bundle:22:in `load'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/bin/bundle:22:in `<main>'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/bin/ruby_executable_hooks:15:in `eval'  \n/Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/bin/ruby_executable_hooks:15:in `<main>'
+I, [2018-01-30T22:56:25.380232 #62403]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-01-30T22:56:25.380566 #62403]  INFO -- : 0:  i18n (0.9.3) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/i18n-0.9.3.gemspec
+I, [2018-01-30T22:56:25.380751 #62403]  INFO -- : 0:  minitest (5.11.3) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/minitest-5.11.3.gemspec
+I, [2018-01-30T22:56:25.380949 #62403]  INFO -- : 0:  thread_safe (0.3.6) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/thread_safe-0.3.6.gemspec
+I, [2018-01-30T22:56:25.381120 #62403]  INFO -- : 0:  tzinfo (1.2.4) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/tzinfo-1.2.4.gemspec
+I, [2018-01-30T22:56:25.381316 #62403]  INFO -- : 0:  activesupport (4.2.9) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/activesupport-4.2.9.gemspec
+I, [2018-01-30T22:56:25.381561 #62403]  INFO -- : 0:  public_suffix (2.0.5) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/public_suffix-2.0.5.gemspec
+I, [2018-01-30T22:56:25.381805 #62403]  INFO -- : 0:  addressable (2.5.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/addressable-2.5.2.gemspec
+I, [2018-01-30T22:56:25.381988 #62403]  INFO -- : 0:  execjs (2.7.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/execjs-2.7.0.gemspec
+I, [2018-01-30T22:56:25.382193 #62403]  INFO -- : 0:  autoprefixer-rails (6.3.7) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/autoprefixer-rails-6.3.7.gemspec
+I, [2018-01-30T22:56:25.382398 #62403]  INFO -- : 0:  coffee-script-source (1.11.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/coffee-script-source-1.11.1.gemspec
+I, [2018-01-30T22:56:25.382568 #62403]  INFO -- : 0:  coffee-script (2.4.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/coffee-script-2.4.1.gemspec
+I, [2018-01-30T22:56:25.382762 #62403]  INFO -- : 0:  colorator (1.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/colorator-1.1.0.gemspec
+I, [2018-01-30T22:56:25.382928 #62403]  INFO -- : 0:  ruby-enum (0.7.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/ruby-enum-0.7.1.gemspec
+I, [2018-01-30T22:56:25.383112 #62403]  INFO -- : 0:  commonmarker (0.17.7.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/commonmarker-0.17.7.1.gemspec
+I, [2018-01-30T22:56:25.383284 #62403]  INFO -- : 0:  ffi (1.9.18) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/ffi-1.9.18.gemspec
+I, [2018-01-30T22:56:25.383448 #62403]  INFO -- : 0:  ethon (0.11.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/ethon-0.11.0.gemspec
+I, [2018-01-30T22:56:25.383637 #62403]  INFO -- : 0:  multipart-post (2.0.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/multipart-post-2.0.0.gemspec
+I, [2018-01-30T22:56:25.383803 #62403]  INFO -- : 0:  faraday (0.14.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/faraday-0.14.0.gemspec
+I, [2018-01-30T22:56:25.383994 #62403]  INFO -- : 0:  forwardable-extended (2.6.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/forwardable-extended-2.6.0.gemspec
+I, [2018-01-30T22:56:25.384157 #62403]  INFO -- : 0:  gemoji (3.0.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/gemoji-3.0.0.gemspec
+I, [2018-01-30T22:56:25.384343 #62403]  INFO -- : 0:  net-dns (0.8.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/net-dns-0.8.0.gemspec
+I, [2018-01-30T22:56:25.384508 #62403]  INFO -- : 0:  sawyer (0.8.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/sawyer-0.8.1.gemspec
+I, [2018-01-30T22:56:25.384692 #62403]  INFO -- : 0:  octokit (4.8.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/octokit-4.8.0.gemspec
+I, [2018-01-30T22:56:25.384872 #62403]  INFO -- : 0:  typhoeus (0.8.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/typhoeus-0.8.0.gemspec
+I, [2018-01-30T22:56:25.385162 #62403]  INFO -- : 0:  github-pages-health-check (1.3.5) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/github-pages-health-check-1.3.5.gemspec
+I, [2018-01-30T22:56:25.385364 #62403]  INFO -- : 0:  rb-fsevent (0.10.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/rb-fsevent-0.10.2.gemspec
+I, [2018-01-30T22:56:25.385533 #62403]  INFO -- : 0:  rb-inotify (0.9.10) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/rb-inotify-0.9.10.gemspec
+I, [2018-01-30T22:56:25.385725 #62403]  INFO -- : 0:  sass-listen (4.0.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/sass-listen-4.0.0.gemspec
+I, [2018-01-30T22:56:25.385895 #62403]  INFO -- : 0:  sass (3.5.5) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/sass-3.5.5.gemspec
+I, [2018-01-30T22:56:25.386081 #62403]  INFO -- : 0:  jekyll-sass-converter (1.5.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-sass-converter-1.5.0.gemspec
+I, [2018-01-30T22:56:25.386262 #62403]  INFO -- : 0:  listen (3.0.6) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/listen-3.0.6.gemspec
+I, [2018-01-30T22:56:25.386451 #62403]  INFO -- : 0:  jekyll-watch (1.5.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-watch-1.5.1.gemspec
+I, [2018-01-30T22:56:25.386689 #62403]  INFO -- : 0:  kramdown (1.16.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/kramdown-1.16.2.gemspec
+I, [2018-01-30T22:56:25.386955 #62403]  INFO -- : 0:  liquid (4.0.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/liquid-4.0.0.gemspec
+I, [2018-01-30T22:56:25.387133 #62403]  INFO -- : 0:  mercenary (0.3.6) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/mercenary-0.3.6.gemspec
+I, [2018-01-30T22:56:25.387329 #62403]  INFO -- : 0:  pathutil (0.16.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/pathutil-0.16.1.gemspec
+I, [2018-01-30T22:56:25.387494 #62403]  INFO -- : 0:  rouge (2.2.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/rouge-2.2.1.gemspec
+I, [2018-01-30T22:56:25.387657 #62403]  INFO -- : 0:  safe_yaml (1.0.4) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/safe_yaml-1.0.4.gemspec
+I, [2018-01-30T22:56:25.387841 #62403]  INFO -- : 0:  jekyll (3.6.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-3.6.2.gemspec
+I, [2018-01-30T22:56:25.388030 #62403]  INFO -- : 0:  jekyll-avatar (0.5.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-avatar-0.5.0.gemspec
+I, [2018-01-30T22:56:25.388189 #62403]  INFO -- : 0:  jekyll-coffeescript (1.0.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-coffeescript-1.0.2.gemspec
+I, [2018-01-30T22:56:25.388365 #62403]  INFO -- : 0:  jekyll-commonmark (1.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-commonmark-1.1.0.gemspec
+I, [2018-01-30T22:56:25.388525 #62403]  INFO -- : 0:  jekyll-commonmark-ghpages (0.1.3) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-commonmark-ghpages-0.1.3.gemspec
+I, [2018-01-30T22:56:25.388702 #62403]  INFO -- : 0:  jekyll-default-layout (0.1.4) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-default-layout-0.1.4.gemspec
+I, [2018-01-30T22:56:25.388856 #62403]  INFO -- : 0:  jekyll-feed (0.9.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-feed-0.9.2.gemspec
+I, [2018-01-30T22:56:25.389036 #62403]  INFO -- : 0:  jekyll-gist (1.4.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-gist-1.4.1.gemspec
+I, [2018-01-30T22:56:25.389194 #62403]  INFO -- : 0:  jekyll-github-metadata (2.9.3) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-github-metadata-2.9.3.gemspec
+I, [2018-01-30T22:56:25.389398 #62403]  INFO -- : 0:  mini_portile2 (2.3.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-01-30T22:56:25.389580 #62403]  INFO -- : 0:  nokogiri (1.8.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/nokogiri-1.8.2.gemspec
+I, [2018-01-30T22:56:25.389754 #62403]  INFO -- : 0:  html-pipeline (2.7.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/html-pipeline-2.7.1.gemspec
+I, [2018-01-30T22:56:25.389922 #62403]  INFO -- : 0:  jekyll-mentions (1.2.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-mentions-1.2.0.gemspec
+I, [2018-01-30T22:56:25.390080 #62403]  INFO -- : 0:  jekyll-optional-front-matter (0.3.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-optional-front-matter-0.3.0.gemspec
+I, [2018-01-30T22:56:25.390247 #62403]  INFO -- : 0:  jekyll-paginate (1.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-paginate-1.1.0.gemspec
+I, [2018-01-30T22:56:25.390404 #62403]  INFO -- : 0:  jekyll-readme-index (0.2.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-readme-index-0.2.0.gemspec
+I, [2018-01-30T22:56:25.390573 #62403]  INFO -- : 0:  jekyll-redirect-from (0.12.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-redirect-from-0.12.1.gemspec
+I, [2018-01-30T22:56:25.390729 #62403]  INFO -- : 0:  jekyll-relative-links (0.5.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-relative-links-0.5.2.gemspec
+I, [2018-01-30T22:56:26.205457 #62403]  INFO -- : 0:  rubyzip (1.2.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/rubyzip-1.2.1.gemspec
+I, [2018-01-30T22:56:26.707273 #62403]  INFO -- : 0:  jekyll-remote-theme (0.2.3) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-remote-theme-0.2.3.gemspec
+I, [2018-01-30T22:56:26.707529 #62403]  INFO -- : 0:  jekyll-seo-tag (2.3.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-seo-tag-2.3.0.gemspec
+I, [2018-01-30T22:56:26.707716 #62403]  INFO -- : 0:  jekyll-sitemap (1.1.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-sitemap-1.1.1.gemspec
+I, [2018-01-30T22:56:26.707946 #62403]  INFO -- : 0:  jekyll-swiss (0.4.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-swiss-0.4.0.gemspec
+I, [2018-01-30T22:56:26.708131 #62403]  INFO -- : 0:  jekyll-theme-architect (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-architect-0.1.0.gemspec
+I, [2018-01-30T22:56:26.708311 #62403]  INFO -- : 0:  jekyll-theme-cayman (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-cayman-0.1.0.gemspec
+I, [2018-01-30T22:56:26.708486 #62403]  INFO -- : 0:  jekyll-theme-dinky (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-dinky-0.1.0.gemspec
+I, [2018-01-30T22:56:26.708758 #62403]  INFO -- : 0:  jekyll-theme-hacker (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-hacker-0.1.0.gemspec
+I, [2018-01-30T22:56:26.708960 #62403]  INFO -- : 0:  jekyll-theme-leap-day (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-leap-day-0.1.0.gemspec
+I, [2018-01-30T22:56:26.709140 #62403]  INFO -- : 0:  jekyll-theme-merlot (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-merlot-0.1.0.gemspec
+I, [2018-01-30T22:56:26.709376 #62403]  INFO -- : 0:  jekyll-theme-midnight (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-midnight-0.1.0.gemspec
+I, [2018-01-30T22:56:26.709555 #62403]  INFO -- : 0:  jekyll-theme-minimal (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-minimal-0.1.0.gemspec
+I, [2018-01-30T22:56:26.709728 #62403]  INFO -- : 0:  jekyll-theme-modernist (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-modernist-0.1.0.gemspec
+I, [2018-01-30T22:56:26.709956 #62403]  INFO -- : 0:  jekyll-theme-primer (0.5.2) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-primer-0.5.2.gemspec
+I, [2018-01-30T22:56:26.710182 #62403]  INFO -- : 0:  jekyll-theme-slate (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-slate-0.1.0.gemspec
+I, [2018-01-30T22:56:26.710436 #62403]  INFO -- : 0:  jekyll-theme-tactile (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-tactile-0.1.0.gemspec
+I, [2018-01-30T22:56:26.710631 #62403]  INFO -- : 0:  jekyll-theme-time-machine (0.1.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-theme-time-machine-0.1.0.gemspec
+I, [2018-01-30T22:56:26.710874 #62403]  INFO -- : 0:  jekyll-titles-from-headings (0.5.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-titles-from-headings-0.5.0.gemspec
+I, [2018-01-30T22:56:26.711042 #62403]  INFO -- : 0:  jemoji (0.8.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jemoji-0.8.1.gemspec
+I, [2018-01-30T22:56:26.711203 #62403]  INFO -- : 0:  minima (2.1.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/minima-2.1.1.gemspec
+I, [2018-01-30T22:56:26.711417 #62403]  INFO -- : 0:  unicode-display_width (1.3.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/unicode-display_width-1.3.0.gemspec
+I, [2018-01-30T22:56:26.711574 #62403]  INFO -- : 0:  terminal-table (1.8.0) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/terminal-table-1.8.0.gemspec
+I, [2018-01-30T22:56:27.021724 #62403]  INFO -- : 0:  github-pages (175) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/github-pages-175.gemspec
+I, [2018-01-30T22:56:27.021970 #62403]  INFO -- : 0:  jekyll-autoprefixer (1.0.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/jekyll-autoprefixer-1.0.1.gemspec
+I, [2018-01-30T22:56:27.022188 #62403]  INFO -- : 0:  bundler (1.5.1) from /Users/llewellyn/.rvm/gems/ruby-2.4.0-rc1/specifications/bundler-1.5.1.gemspec
