@@ -1,6 +1,6 @@
 ---
 speaker: Llewellyn Falco
-title: Property Based Testing
+title: Generating Test Scenarios
 id: llewellyn-falco
 demo-talk: true
 topic-category: automation
