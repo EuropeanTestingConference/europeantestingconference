@@ -9,6 +9,14 @@
         <ul class="b-sponsor-list">
 
 {% include 2018/sponsorship/platinum.md %}
+
+</ul>
+        <h3>Gold Sponsor</h3>
+        <ul class="b-sponsor-list">
+
+{% include 2018/sponsorship/gold.md %}
+      </ul>
+
 </ul>
         <h3>Prize Sponsor</h3>
         <ul class="b-sponsor-list">

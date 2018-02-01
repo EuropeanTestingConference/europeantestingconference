@@ -9,7 +9,10 @@ title: "Sponsors"
 <h3>Platinum sponsor </h3>
 <span class="b-sponsors__sponsor  b-sponsor"> <a class="b-sponsor__link" href="http://comiq.fi/"><img src="/images/2018/sponsors/comiq_big.png" width="20%" height="20%"></a></span>
 
-<h3>Prize sponsor </h3>
+<h3>Gold sponsor </h3>
+<span class="b-sponsors__sponsor  b-sponsor"> <a class="b-sponsor__link" href="https://irdeto.com/"><img src="/images/2018/sponsors/irdeto_logo_rgb-purple.png" width="15%" height="15%"></a></span>
+
+<h3 style="padding-top: 20px">Prize sponsor </h3>
 <span class="b-sponsors__sponsor  b-sponsor"> <a style="padding-top: 10px" class="b-sponsor__link" href="https://www.manning.com/"><img src="/images/2018/sponsors/manning.png" width="20%" height="20%"></a></span>
 </div>
 

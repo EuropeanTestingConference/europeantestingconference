@@ -1,6 +1,6 @@
 ---
 speaker: Amit Wertheimer
-title: Test Automation Architecture Beyond Page-Objects
+title: Architecture tips for simple(r) system tests
 id: amit-wertheimer
 talk: true
 topic-category: automation
