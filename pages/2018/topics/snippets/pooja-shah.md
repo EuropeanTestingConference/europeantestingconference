@@ -33,6 +33,6 @@ The talk is about a bot which can help your team “preventing last moment panic
 3. Questions & Answers - 5 min
 
 #### **Key takeaways:**
-* An idea, which can empower each member of the teams especially QA team as well as bring transparency of entire system with least efforts.
+* An idea, which can empower each member across the teams especially the QA team by bringing transparency of entire system with least efforts.
 * An idea, how a little automation effort can prevent last minute panic moments at the time of release.
 * You love robots and that too open sourced? Join and know more insights.
