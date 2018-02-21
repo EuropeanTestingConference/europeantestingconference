@@ -6,7 +6,9 @@ talk: true
 topic-category: learning
 ---
 
-<!--<a href="http://www.slideshare.net/Kevlin/the-error-of-our-ways">[Slides]</a>-->
+<a href="https://www.slideshare.net/lisihocke/finding-a-learning-partner-in-the-testing-community">[Slides]</a>
+<a href="https://www.infoq.com/news/2018/02/pairing-learning">[InfoQ QA article]</a>
+
 
 Main statement: Multiply your knowledge by finding your ‘testing buddy’ anywhere in the world.
 

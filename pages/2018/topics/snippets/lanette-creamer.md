@@ -6,7 +6,7 @@ keynote: true
 topic-category: testing
 ---
 
-<!--<a href="http://www.slideshare.net/Kevlin/the-error-of-our-ways">[Slides]</a>-->
+<a href="http://europeantestingconference.eu/slides18/Creamer.pdf">[Slides]</a>
 
 Since the days before recorded history, dogs have been man’s best friend. Dogs obey the pack rules based on an established hierarchy, providing stability for the greater good. With their positivity and teamwork ability, dogs demonstrate traits that are admirable in a friend, colleague or employee. As an industry, software testers have dog traits well ingrained in our culture. It is time to move beyond, and while keeping the good traits we can learn from dogs, incorporate more tricks from cats.
 

@@ -6,7 +6,7 @@ talk: true
 topic-category: automation
 ---
 
-<!--<a href="http://www.slideshare.net/Kevlin/the-error-of-our-ways">[Slides]</a>-->
+<a href="http://europeantestingconference.eu/slides18/Wertheimer.pdf">[Slides]</a>
 
 “Copy... paste... modify one line... done!”
 

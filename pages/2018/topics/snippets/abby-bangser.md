@@ -7,7 +7,9 @@ topic-category: automation
 
 ---
 
-<!--<a href="http://www.slideshare.net/Kevlin/the-error-of-our-ways">[Slides]</a>-->
+<a href="http://europeantestingconference.eu/slides18/CrispinBangser1.pdf">[Slides]</a>
+<a href="http://europeantestingconference.eu/slides18/CrispinBangser2.pdf">[Slides]</a>
+<a href="http://europeantestingconference.eu/slides18/CrispinBangser3.pdf">[Slides]</a>
 
 Many​ ​teams​ ​use​ ​continuous​ ​integration​ ​(CI)​ ​and/or​ ​continuous​ ​delivery​ ​(CD)​ ​principles​ ​to​ ​gain confidence​ ​in​ ​their​ ​product​ ​deployments​ ​by​ ​speeding​ ​up​ ​feedback​ ​loops​ ​and​ ​progressively mitigating​ ​risks.​ ​The​ ​confidence​ ​your​ ​team​ ​has​ ​in​ ​your​ ​pipeline​ ​likely​ ​defines​ ​where​ ​you​ ​fall​ ​on the​ ​spectrum​ ​between​ ​high-risk,​ ​stressful​ ​deployments​ ​and​ ​low-risk,​ ​uneventful​ ​ones.​ ​​ ​Yet,​ ​if you’re​ ​not​ ​a​ ​DevOps​ ​expert,​ ​it’s​ ​easy​ ​to​ ​get​ ​confused​ ​and​ ​overwhelmed​ ​by​ ​all​ ​the​ ​jargon​ ​around CD​ ​principles,​ ​CI​ ​tooling,​ ​and​ ​common​ ​pipeline​ ​patterns.​ ​This​ ​confusion​ ​in​ ​language​ ​can​ ​limit asking​ ​the​ ​important​ ​question:​ ​“how​ ​does​ ​CI​ ​and​ ​CD​ ​really​ ​relate​ ​to​ ​testing​ ​and​ ​quality?”
 
