@@ -6,7 +6,7 @@ talk: true
 topic-category: automation
 ---
 
-<!--<a href="http://www.slideshare.net/Kevlin/the-error-of-our-ways">[Slides]</a>-->
+<a href="https://www.slideshare.net/secret/kcsDZqrcNynvU0">[Slides]</a>
 
 Empower teams to be on the same page and help ourselves in return to better focus on QA
 
