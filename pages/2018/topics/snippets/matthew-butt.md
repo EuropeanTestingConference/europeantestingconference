@@ -3,8 +3,10 @@ speaker: Matthew Butt
 title: Unit Testing the Hard Stuff
 id: matthew-butt
 demo-talk: true
-topic-category: programming 
+topic-category: programming
 ---
+
+<a href="https://matthewbutt.files.wordpress.com/2018/02/unit-testing-the-hard-stuff-etc.pdf">[Slides]</a>
 
 Let me take you out of your comfort zone to start finding ways to test the hard stuff.
 
