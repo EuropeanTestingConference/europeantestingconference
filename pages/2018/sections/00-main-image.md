@@ -19,9 +19,19 @@ section_type: "site-title"
             <p class="h2 b-site-title_wrappable"><span class="b-site-title__h2">Amsterdam Arena, Amsterdam, Netherlands</span>&nbsp;<span class="b-site-title__h2">Feb 19th-20th, 2018</span></p>
         </div>
     </div>
-    <p class="b-front__buy-ticket b-button b-button__buy-ticket">
-        <a href="https://holvi.com/shop/EuroTestingConf/" class="b-button__buy-ticket-link">
-            <i class="fa fa-2x fa-ticket b-button__fa"></i><span class="b-front__buy-ticket-text">Buy Ticket</span><i class="fa fa-2x fa-ticket b-button__fa"></i>
-        </a>
+
+    <p>Be informed about our 2019 edition by subscribing to our newsletter below!
+
+    <form class="b-newsletter__form b-form"
+          action="https://tinyletter.com/eurotestconf"
+          method="post" target="popupwindow"
+          onsubmit="window.open('https://tinyletter.com/eurotestconf', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true
+          ">
+     <input type="hidden" value="1" name="embed"/>
+     <label class="b-newsletter__label" for="tlemail">Enter your email address</label>
+     <input class="b-newsletter__input"  type="text" placeholder="email" name="email" id="tlemail" />
+     <input class="b-button b-newsletter__submit" type="submit" value="Subscribe" />
+    </form>    
+    <p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p>
+
     </p>
-</section>
