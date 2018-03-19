@@ -6,7 +6,7 @@ keynote: true
 topic-category: testing
 ---
 
-<!--<a href="http://www.slideshare.net/Kevlin/the-error-of-our-ways">[Slides]</a>-->
+<a href="http://prezi.com/klednnrhseor/">[Slides]</a>
 
 "I don’t know.”
 
