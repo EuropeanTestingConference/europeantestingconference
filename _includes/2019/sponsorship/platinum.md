@@ -1,0 +1,1 @@
+<li class="b-sponsor-list__sponsor b-sponsor"><a  class="b-sponsor__link" href="http://comiq.fi/"><img class="b-sponsor__img" src="/images/2019/sponsors/comiq_big.png" width="13%" height="13%"/></a></li>

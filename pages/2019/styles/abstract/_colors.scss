@@ -1,0 +1,54 @@
+// main colors
+$marsala: #955251;
+$orchid: #B163A3;
+$emerald: #009b77;
+$cool-gray: #888b8d;
+
+
+// black-white color scheme
+$black: #000;
+$white: #FFFFFF;
+$silver: #ccc;
+$concrete: #f3f3f3;
+$main-shaft: #222222;
+$darkgray: rgba($black, 0.1);
+
+
+// color names from
+// http://chir.ag/projects/name-that-color/
+$mariner: #1e5dd3;
+$denim: #195fc7;  // not used anymore
+$madison: #092F5F;
+$cyprus: #003141;
+
+$shark: #1C1C1D;
+$danube: #557FD0;
+
+$tree-poppy: #f9921c;
+
+// functional colors
+// TEXT
+$main-text-color: $cyprus;  // could be $main-shaft
+$link-color: $emerald;
+$link-visited-color: $orchid;
+$link-color-visited: $emerald;
+$hover-link-color: $orchid;
+$main-border: $danube;
+$text-on-bw-image: $white;
+$text-on-image: $white;
+$session-border: $black;
+$session-background: lightgray;
+$session_speaker: #656464;
+$session_category: #656464;
+
+
+$nav-link-color: $shark;  // #202129 is very close to $shark!
+
+//BACKGROUND
+$text-only-background: $white;
+
+//OTHER
+$border-color: $main-text-color;
+$section-border-color: $cool-gray;
+
+$footer-overlay: rgba(0,0,0,0.65);

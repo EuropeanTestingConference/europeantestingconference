@@ -1,0 +1,63 @@
+.simplecontent{
+    background-color: white;
+    max-width: 960px;
+    margin: auto;
+    padding: 40px 20px;
+}
+.b-section{
+
+  text-align: center;
+
+
+  &__title{
+    font-size: 2em;
+  }
+
+  &_text-only{
+    background-color: $text-only-background;
+    padding: 20px 0 20px 0;
+  }
+
+  &_block-content{
+    width: 100%;
+  }
+
+  &_keynote{
+    width: 100%;
+    position: relative;
+  }
+}
+
+.b-block-content{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+
+  &__block{
+    flex: 1;
+    padding: 0 20px;
+  }
+
+  &__block-title{
+    flex: 1;
+  }
+
+}
+
+.b-text-content{
+  max-width: $text-content-width;
+  margin: auto;
+  padding: 40px 20px;;
+}
+
+@media screen and (max-width: $navi_mobile){
+  .b-block-content{
+
+    flex-direction: column;
+  }
+}
+
+.requirements{
+  color: red;
+  font-weight: bold;
+}

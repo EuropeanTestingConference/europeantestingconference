@@ -12,7 +12,7 @@
 
   <ul class="sponsors">
 	  <li class="platinum-sponsor">
-    {% include 2018/sponsorship/platinum.md %}
+    {% include 2019/sponsorship/platinum.md %}
 	  </li>
   </ul>
 

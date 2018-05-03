@@ -1,0 +1,53 @@
+.b-nav-item{
+  display: flex;
+  flex-direction: column;
+  &__fa{
+    flex: 1;
+  }
+  &__text{
+    flex: 1;
+  }
+}
+
+.b-nav-screen{
+  margin: auto;
+}
+
+.b-nav{
+  &__list{
+    list-style: none;
+    padding: 1px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  &__list-item{
+    display: inline-block;
+    flex: 1;
+    white-space: nowrap;
+    padding: 10px;
+    position: relative;
+
+    border-bottom: solid 1px $emerald;
+  }
+
+  &__link{
+    text-align: center;
+  }
+}
+
+$navi_visible: $navi_screen;
+
+.b-nav-screen {
+  display: flex;
+  text-align: center;
+  padding: 0 20px;
+  align-items: baseline;
+  font-size: 12px;
+}
+
+@media screen and (min-width: $navi_screen){
+  .b-nav-screen{
+    display: flex;
+  }
+}

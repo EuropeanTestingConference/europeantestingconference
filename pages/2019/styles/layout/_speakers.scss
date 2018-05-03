@@ -1,0 +1,68 @@
+.b-speaker{
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  background: white;
+  margin: 20px;
+  border-top: 2px solid $emerald;
+  padding: 20px;
+
+  &__info{
+    flex: 1 1 45%;
+    -webkit-flex: 1 1 45%;
+    text-align: center;
+  }
+  &__image {
+    min-width: 220px;
+    flex: 1 1 220px;
+    -webkit-flex: 1 1 220px;
+  }
+  &__bio {
+    flex: 1 1 90%;
+    -webkit-flex: 1 1 90%;
+    margin: auto;
+  }
+
+
+  &__twitter {
+    align: center;
+
+    &-img {
+      height: 25px;
+      display: inline;
+    }
+  }
+
+  &__description {
+    text-align: left;
+    padding: 10px 0;
+  }
+
+}
+.b-image-left{
+  &__img{
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 2em;
+  }
+}
+.b-image-holder {
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+
+  &__img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}
