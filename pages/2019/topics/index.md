@@ -22,7 +22,7 @@ layout: index-2019
 {% endif %}
 {% endfor %}
 
-</section>
+<!-- </section> -->
 
   <!-- <section class="main-content text-center" id="topic-workshops"><h2>Workshops</h2> -->
 
@@ -34,7 +34,7 @@ layout: index-2019
 {% endif %}
 {% endfor %}
 
-</section>
+<!-- </section> -->
 
 <!-- <section class="main-content text-center" id="topic-talks"><h2>Talks</h2> -->
 
@@ -46,7 +46,7 @@ layout: index-2019
 {% endif %}
 {% endfor %}
 
-</section>
+<!-- </section> -->
 
 <!-- <section class="main-content text-center" id="topic-talks"><h2>Demo-Talks</h2> -->
 
@@ -58,7 +58,7 @@ layout: index-2019
 {% endif %}
 {% endfor %}
 
-</section>
+<!-- </section> -->
 
 <!-- <section class="main-content text-center" id="topic-talks"><h2>Activities</h2> -->
 
