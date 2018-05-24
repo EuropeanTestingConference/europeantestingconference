@@ -29,8 +29,8 @@
   //display: flex;
 
   &_bw{
-    filter: url(/images/desaturage.svg#greyscale);
-    filter: grayscale(100%);
+    // filter: url(/images/desaturage.svg#greyscale);
+    // filter: grayscale(100%);
     color: $text-on-bw-image;
 
     &::before{
@@ -110,6 +110,7 @@
       height: 80vh;
       width: 100vw;
       background-image: url(/images/2019/speed_meet_mob.jpg);
+      
     }
 
     &_mobile-bw-wrapper{

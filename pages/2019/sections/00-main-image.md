@@ -17,9 +17,10 @@ section_type: "site-title"
             </div>
             <p class="h1 b-site-title__h1">European Testing Conference 2019</p>
             <p>
-            <div style="font-size: 1.5rem; text-align: center;">Fundación Bancaja, Valencia, Spain Feb 14-15th 2019</div>
+            <div class="h1 b-site-title__h1" style="font-size: 1.5rem; text-align: center;">Fundación Bancaja, Valencia, Spain Feb 14-15th 2019</div>
+            <div class="h1 b-site-title__h1" style="font-size: 1.8rem; text-align: center; margin-top: 3rem">Call for collaboration</div>
+            <a style="font-size: 2rem; text-align: center;" href="https://goo.gl/forms/zzCYgllB4yRcclyW2">Submit by August 19th 2018</a>
             </p>
-            
         </div>
     </div>
     <!-- <p class="b-front__buy-ticket b-button b-button__buy-ticket">
