@@ -12,7 +12,9 @@ Event: ETC 2019 in Valencia, Spain 14.-15.2.2019.
 Compensation: Speaker travel expenses guaranteed by the conference.
 Deadline: Submit by August 19th 2018.
 
-**<a href="https://goo.gl/forms/zzCYgllB4yRcclyW2">Submit.</a>**
+<p style="text-align: center;">
+ <a style="font-size: 2rem;" href="https://goo.gl/forms/zzCYgllB4yRcclyW2">Submit</a>
+</p>
 
 <h4>Our conference</h4>
 
