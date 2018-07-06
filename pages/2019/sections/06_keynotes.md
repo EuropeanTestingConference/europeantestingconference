@@ -13,7 +13,7 @@ _title: "Keynote speakers"
 </div>
 <div id="" class="b-keynote__speaker">
     <img class="b-keynote__img" src="/images/2019/people/sarah-wells.jpg">
-    <span class="b-keynote__name"><a href="2019/speakers/#sarah-wells">Sarah Wells</a></span>
+    <span class="b-keynote__name"><a href="/2019/speakers/#sarah-wells">Sarah Wells</a></span>
     <!-- <span class="b-keynote__title"><a href="2019/speakers/#pamela-gay">Testing v. Crowdsourced Data, or How I learned to stop worrying and Love the F-Bomb</a></span> -->
 </div>
 <div id="" class="b-keynote__speaker">
