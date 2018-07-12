@@ -18,14 +18,14 @@ section_type: "site-title"
             <p class="h1 b-site-title__h1">European Testing Conference 2019</p>
             <p>
             <div class="h1 b-site-title__h1" style="font-size: 1.5rem; text-align: center;">Fundación Bancaja, Valencia, Spain Feb 14-15th 2019</div>
+            <p class="b-button b-button__buy-ticket">
+                <a href="https://ti.to/ETC/ETC19" class="b-button__buy-ticket-link">
+                    <span class="b-front__buy-ticket-text">Buy Ticket</span>
+                </a>
+            </p>
             <div class="h1 b-site-title__h1" style="font-size: 1.8rem; text-align: center; margin-top: 3rem">Call for collaboration</div>
             <a style="font-size: 2rem; text-align: center;" href="http://europeantestingconference.eu/news/Call-for-Collaboration-2019">Submit by August 19th 2018</a>
             </p>
         </div>
     </div>
-    <!-- <p class="b-front__buy-ticket b-button b-button__buy-ticket">
-        <a href="https://holvi.com/shop/EuroTestingConf/" class="b-button__buy-ticket-link">
-            <i class="fa fa-2x fa-ticket b-button__fa"></i><span class="b-front__buy-ticket-text">Buy Ticket</span><i class="fa fa-2x fa-ticket b-button__fa"></i>
-        </a>
-    </p> -->
 </section>
