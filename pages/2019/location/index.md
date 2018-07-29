@@ -5,7 +5,7 @@ layout: content-2019
 type: text-content
 ---
 ## Venue Address
-[Amsterdam Arena, ArenA Boulevard 1, 1101 Amsterdam](https://goo.gl/maps/eMMM8KoGda82)
+[Fundación Bancaja, Valencia](https://goo.gl/maps/eMMM8KoGda82)
 
 ## Hotels & How to get to the venue
 There are a couple of Hotels near the Amsterdam Arena. We work together with Preferred Hotel Reservation to make our proposed locations available to you.

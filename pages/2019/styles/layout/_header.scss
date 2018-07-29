@@ -1,16 +1,17 @@
 .b-header{
-  padding: 10px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 
   &__logo{
     flex: 0;
+    padding: 0 20px;
   }
 
   &__nav{
     flex: 1;
     align-self: flex-end;
-    margin: 0 20px;
+    margin: 0;
   }
 
   &__mobile-trigger{
@@ -62,7 +63,7 @@
 @media screen and (min-width: 960px ){
   .b-header{
     margin: auto;
-    width: 960px;
+    justify-content: space-between;
   }
 }
 
