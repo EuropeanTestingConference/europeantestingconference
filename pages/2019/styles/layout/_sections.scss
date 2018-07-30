@@ -50,9 +50,16 @@
   padding: 40px 20px;;
 }
 
+.b-blog-content{
+  display: flex;
+}
+
 @media screen and (max-width: $navi_mobile){
   .b-block-content{
+    flex-direction: column;
+  }
 
+  .b-blog-content{
     flex-direction: column;
   }
 }

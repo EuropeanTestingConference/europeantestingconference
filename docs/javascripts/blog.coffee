@@ -52,8 +52,8 @@ populateRestLinks = ( blogEntries ) ->
 
 addLinkTo = ( element, blogEntry ) ->
   linkToBlog  = alternateLink blogEntry
-  liElement = document.createElement 'li'
-  $(liElement).append "<a target='_blank'  href='#{ linkToBlog.href}'>#{ linkToBlog.title }</a><span class='published-on' >published on: #{ blogEntry.published.$t.substr( 0, 10)}</span>"
+  liElement = document.createElement 'p'
+  $(liElement).append "<a target='_blank'  href='#{ linkToBlog.href}'>#{ linkToBlog.title }</a><br><span class='published-on' >published on: #{ blogEntry.published.$t.substr( 0, 10)}</span>"
   element.append liElement
 
 populateBlogs = ( jsonData ) ->
