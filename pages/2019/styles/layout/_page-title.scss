@@ -1,0 +1,16 @@
+.b-page-title{
+  padding: 20px;
+
+  &_wrappable{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: $max-small){
+  .b-page-title_wrappable {
+    flex-direction: row;
+  }
+
+
+}

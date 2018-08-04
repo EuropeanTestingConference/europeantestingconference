@@ -55,6 +55,7 @@
 @media screen and (min-width: 940px){
   .b-newsletter{
     &__form{
+      flex-direction: row;
     }
 
     &__label{

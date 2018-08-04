@@ -2,7 +2,8 @@
 layout: news_archive 
 contained: true
 ---
-<h2>News Archive</h2>
+
+<h2 class="b-page-title">News Archive</h2>
 {% for post in site.posts limit: 3 %}
   <article class="news">
     <hgroup>

@@ -2,11 +2,13 @@
 <main class="site-main" role="main">
     <div class="skrollr-body">
         {% include 2019/site-header.html %}
-        <header class="site-header">
+        <header class="site-header b-page-title">
             <h1 class="text-center">{{ page.title }}</h1>
             <h2>author: {{ page.author }}</h2>
         </header>
-        {{content}}
+        <div class="b-page-text">
+            {{content}}
+        </div>
     </div>
 
     <!-- Hotjar Tracking Code for europeantestingconference.eu -->

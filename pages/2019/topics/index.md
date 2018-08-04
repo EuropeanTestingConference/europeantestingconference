@@ -11,7 +11,7 @@ layout: index-2019
 
   <!--<h2>High-Level Schedule</h2><img src="/images/2019/CondencedSchedule.png"> -->
 
-<h2>To be announced...</h2>
+<h2 class="b-page-title">To be announced...</h2>
 <!-- <h2>Keynotes</h2> -->
 
 {% for page in site.pages %}
