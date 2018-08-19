@@ -1,6 +1,6 @@
 ---
 _name: Ash Coleman
-keynote: false
+keynote: true
 id: ash-coleman
 twitter: AshColeman30
 image: /images/2019/people/ash-coleman.jpeg

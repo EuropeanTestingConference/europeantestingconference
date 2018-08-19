@@ -1,6 +1,6 @@
 ---
 _name: Sarah J. Wells
-keynote: false
+keynote: true
 id: sarah-wells
 twitter: sarahjwells
 image: /images/2019/people/sarah-wells.jpg

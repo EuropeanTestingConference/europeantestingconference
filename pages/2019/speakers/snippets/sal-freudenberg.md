@@ -1,6 +1,6 @@
 ---
 _name: Sal Freudenberg
-keynote: false
+keynote: true
 id: sal-freudenberg
 twitter: SalFreudenberg
 image: /images/2019/people/sal-freudenberg.jpg
