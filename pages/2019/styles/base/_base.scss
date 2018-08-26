@@ -13,6 +13,16 @@ body
   margin: 0;
 }
 
+.main-content {
+  margin-top: 65px;
+}
+
+@media screen and (max-width: $navi_mobile){
+  .main-content {
+    margin-top: 123px;
+  }
+}
+
 @media screen and (max-width: 910px) {
   body{
     font-size: 14px;

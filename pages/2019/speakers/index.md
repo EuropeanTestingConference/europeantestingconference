@@ -7,7 +7,7 @@ layout: index-2019
 
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 
-<div class="container speakers" id="keynote-speakers">
+<div class="container speakers main-content" id="keynote-speakers">
 
 <h2 class="b-page-title">Additional speakers to be announced</h2>
 <!-- <h2>Keynotes</h2> -->

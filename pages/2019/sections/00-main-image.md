@@ -8,24 +8,40 @@ section_type: "site-title"
          class="b-front "
 >
     <div class="b-front__img b-img_main b-site-title b-img_full-sized b-img_parallax b-img b-img_bw">
-        <div class="b-img_mobile-bw-wrapper">
-        </div>
         <div class="b-img__text-content  b-site-title__info rectangle">
-            <div hidden="hidden">
-                <h1 class="h1 b-site-title__h1" style="display:none" aria-hidden="true">European Testing Conference 2019</h1>
-                <h2 class=" b-site-title_wrappable" style="display: none;" aria-hidden="true"><span class="b-site-title__h2">We're already working on our February 2019 edition of European Testing Conference! Sign up for the newsletter or follow us on Twitter to be the first to know when we confirm location and dates.</span></h2>
-            </div>
             <p class="h1 b-site-title__h1">European Testing Conference 2019</p>
-            <p>
-            <div class="h1 b-site-title__h1" style="font-size: 1.5rem; text-align: center;">Fundación Bancaja, Valencia, Spain Feb 14-15th 2019</div>
-            <p class="b-button b-button__buy-ticket">
-                <a href="https://ti.to/ETC/ETC19" class="b-button__buy-ticket-link">
-                    <span class="b-front__buy-ticket-text">Buy Ticket</span>
+            <div class="b-site-title__location">
+                <span>Fundación Bancaja, Valencia, Spain</span> 
+                <span>February 14-15th 2019</span>
+            </div>
+            <p></p>
+                <a href="https://ti.to/ETC/ETC19" class="btn" style="margin-top: 30px; margin-bottom: 5px;">
+                <svg width="277" height="62">
+                    <defs>
+                        <linearGradient id="grad1">
+                            <stop offset="0%" stop-color="#B163A3"/>
+                            <stop offset="100%" stop-color="#FFFFFF" />
+                        </linearGradient>
+                    </defs>
+                    <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="266" height="50"></rect>
+                </svg>
+                    <span>Buy Ticket</span>
+                </a> <p>or</p> 
+                <a href="/images/2019/sponsors/european_testing_conference2019_sponsorship.pdf" class="btn" style="margin-bottom: 30px;">
+                <svg width="277" height="62">
+                    <defs>
+                        <linearGradient id="grad1">
+                            <stop offset="0%" stop-color="#B163A3"/>
+                            <stop offset="100%" stop-color="#FFFFFF" />
+                        </linearGradient>
+                    </defs>
+                    <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="266" height="50"></rect>
+                </svg>
+                    <span>Become a Sponsor</span>
                 </a>
-            </p>
-            <div class="h1 b-site-title__h1" style="font-size: 2rem">Call for collaboration</div>
-            <a style="font-size: 2rem; text-align: center;" href="http://europeantestingconference.eu/news/Call-for-Collaboration-2019">Submit by August 19th 2018</a>
-            </p>
+            <p></p>
+            <span>In case you did not know, we don't make our speakers pay. We reimburse travel and share our profits with them.</span> 
+            <span>We believe that allows for a more diverse selection and our programme attests to that.</span>
         </div>
     </div>
 </section>
