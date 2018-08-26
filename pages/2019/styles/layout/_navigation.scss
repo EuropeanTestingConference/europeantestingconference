@@ -35,7 +35,7 @@
   a { color: $white; text-decoration: none; cursor: pointer;}
   a:visited { color: $white; }
   a:focus { outline: thin dotted; }
-  a:hover, a:active { outline: 0; color: $hover-link-color; text-decoration: underline;}
+  a:hover, a:active { outline: 0; color: $hover-link-color; text-decoration: none;}
 }
 
 $navi_visible: $navi_screen;

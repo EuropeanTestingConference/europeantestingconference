@@ -14,7 +14,8 @@
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
     margin-top: 150px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+    font-size: 3.5rem; 
   }
 
   &__h2{
@@ -37,6 +38,12 @@
   .b-site-title_wrappable {
     flex-direction: row;
   }
+}
 
-
+@media screen and (max-height: $navi_iphone) {
+  .b-site-title__h1 {
+    margin-top: 115px;
+    margin-bottom: 5px;
+    font-size: 3rem; 
+  }
 }

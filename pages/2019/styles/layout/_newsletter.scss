@@ -5,6 +5,9 @@
   &__form{
     display: flex;
     flex-direction: column;
+    width: 70%;
+    align-items: stretch;
+    margin: auto;
   }
 
   &__label{
@@ -30,8 +33,10 @@
 @media screen and (min-width: 580px){
   .b-newsletter{
     &__form{
-      flex-direction: row;
-      flex-wrap: wrap;
+      flex-direction: column;
+      width: 70%;
+      align-items: stretch;
+      margin: auto;
     }
 
     &__label{
@@ -53,7 +58,10 @@
 @media screen and (min-width: 940px){
   .b-newsletter{
     &__form{
-      flex-direction: row;
+      flex-direction: column;
+      width: 70%;
+      align-items: stretch;
+      margin: auto;
     }
 
     &__label{
