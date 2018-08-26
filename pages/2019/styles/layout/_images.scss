@@ -134,3 +134,14 @@
   }
 }
 
+@media screen and (max-height: 375px) {
+  .b-img {
+    &__text-content{
+      position: relative;
+      margin: auto;
+      align-items: center;
+      display: -webkit-box;
+    }
+  }
+}
+

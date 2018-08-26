@@ -2,7 +2,7 @@
 permalink: /2019/code-of-conduct/
 year: 2019
 layout: content-2019
-type: text-content
+type: main-content
 ---
 
 # Code of Conduct
