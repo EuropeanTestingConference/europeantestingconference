@@ -51,20 +51,16 @@ a.btn:hover, a.btn:active { outline: 0; color: $hover-link-color; text-decoratio
 }
 
 .btn-margin {
-    margin-bottom: 7px;
+    margin-bottom: 10px;
 }
 
 form.hide-submit input[type="submit"] { display: none;}
 
 @media screen and (max-width: $navi_mobile){
-    .btn-margin {
-        margin-bottom: 3px;
-    }
-    
     a.btn {
         width: 200px;
         height: 30px;
-        line-height: 34px;
+        line-height: 40px;
     }
 
     a.btn svg {
@@ -76,6 +72,30 @@ form.hide-submit input[type="submit"] { display: none;}
         x: 2;
         y: 2;
         width: 200px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-height: 375px) {
+    .btn {
+        margin: -4px 14px;
+    }
+
+    a.btn {
+        width: 200px;
         height: 30px;
+        line-height: 40px;
+    }
+
+    a.btn svg {
+        width: 220px;
+        height: 50px;
+    }
+
+    a.btn svg rect {
+        x: 2;
+        y: 2;
+        width: 200px;
+        height: 40px;
     }
 }

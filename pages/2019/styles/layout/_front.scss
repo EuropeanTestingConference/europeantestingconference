@@ -25,3 +25,9 @@
     padding: 0 10px;
   }
 }
+
+@media screen and (max-width: $navi_mobile){
+  .b-front {
+    line-height: 1.3;
+  }
+}
