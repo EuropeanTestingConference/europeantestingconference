@@ -2,40 +2,37 @@
 permalink: /2019/location/
 year: 2019
 layout: content-2019
-type: text-content
+type: main-content
 ---
+
+
 ## Venue Address
-[Fundación Bancaja, Valencia](https://goo.gl/maps/eMMM8KoGda82)
+[Fundación Bancaja, Valencia, Spain, February 14-15th 2019](https://goo.gl/maps/w2tj4p11brw)
 
-## Hotels & How to get to the venue
-There are a couple of Hotels near the Amsterdam Arena. We work together with Preferred Hotel Reservation to make our proposed locations available to you.
+## Hotels
+There are a couple of Hotels near the Fundación Bancaja where you can get Conference Prices. 
 
-<a href="https://www.preferredreservations.nl/european-testing-conference"><b>Book hotel through this link to get Conference Prices on selected hotels </b></a>  
+* **Rates Hotel Vincci Palace 4☆**
+  
+**10 rooms** at the same price, offered to our attedants. **It ends at the same time as our Super Early Bird, September 15th.** The attendants have to fill the [reservation document](/images/2019/sponsors/FORMULARIO RESERVAS Vincci Palace European Testing Conference 2019.pdf) and send it, explain they need the room to attend to the **European Testing Conference**. The contact email is: <grupos.valencia@vinccihoteles.com>
 
-### Via Airplane
-Amsterdam Airport Schiphol (AMS) is the closest international airport nearby.  
-At the airport you take the   
-[train to station Amsterdam Bijlmer ArenA.](https://goo.gl/maps/fTn4esYEytH2)
+Double room individual use per night: 116 € *<br/>
+Double room per night: 127 € *<br/>
+Breakfast buffet INCLUDED<br/>
+Wi-Fi INCLUDED<br/>
+\* The rates could be revisable in the last months of 2018<br/>
+10% TAX INCLUDED<br/>
 
-When you reached train station Amsterdam Bijlmer ArenA, exit the station via the main entrance. You make a left turn towards ArenA Boulevard.  
-When you enter the ArenA Boulevard, please follow the street towards Villa ArenA. If
-you have the Villa ArenA in front of you take the right side and pass the Perry Sport.
-Next to the Febo Boulevard you can find our Main Entrance E. When you enter the
-building please register at the reception.  
+* **Rates AC Marriott Colón 4☆**
+  
+**25 rooms** with discount on prices.
+The attendants have to send and email to <accolon@ac-hotels.com> or phone them, indicating that they will attend the conference. **The time to make the reservation ends January 14th or until rooms are available.**
 
-### Via Public Transport
-<img class="b-image-left__img" src="/images/2019/general/amsterdam-arena.png"/>  
-Amsterdam ArenA is next to the Bijlmer ArenA station.  
-Metro Line 54 connects the Bijlmer ArenA directly to Amsterdam Central Station and offers suitable connections to other parts of the city.
-From the region you can travel by bus or train to the Amsterdam Bijlmer ArenA.  
-When you enter the ArenA Boulevard, please follow the street towards Villa ArenA. If
-you have the Villa ArenA in front of you take the right side and pass the Perry Sport.
-Next to the Febo Boulevard you can find our Main Entrance E. When you enter the
-building please register at the reception.
+Double room individual use per night: 132€<br/>
+Double room per night: 148,50€<br/>
+Wi-Fi FREE<br/>
+Breakfast buffet INCLUDED<br/>
+10% TAX INCLUDED<br/>
 
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
 &nbsp;  
 &nbsp;  

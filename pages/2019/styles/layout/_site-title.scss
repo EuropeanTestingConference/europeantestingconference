@@ -55,3 +55,9 @@
     font-size: 2.5rem; 
   }
 }
+
+@media screen and (max-width: $navi_mobile){
+  .b-site-title__location {
+    font-size: 1rem; 
+  }
+}

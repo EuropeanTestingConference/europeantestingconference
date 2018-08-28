@@ -15,7 +15,7 @@ section_type: "site-title"
                 <span>February 14-15th 2019</span>
             </div>
             <p></p>
-                <a href="https://ti.to/ETC/ETC19" class="btn" style="margin-bottom: 7px;">
+                <a href="https://ti.to/ETC/ETC19" class="btn btn-margin">
                 <svg width="277" height="62">
                     <defs>
                         <linearGradient id="grad1">
@@ -27,7 +27,7 @@ section_type: "site-title"
                 </svg>
                     <span>Buy Ticket</span>
                 </a> <span>or</span> 
-                <a href="/images/2019/sponsors/european_testing_conference2019_sponsorship.pdf" class="btn" style="margin-bottom: 7px;">
+                <a href="/images/2019/sponsors/european_testing_conference2019_sponsorship.pdf" class="btn btn-margin">
                 <svg width="277" height="62">
                     <defs>
                         <linearGradient id="grad1">
