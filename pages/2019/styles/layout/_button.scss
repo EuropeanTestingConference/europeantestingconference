@@ -74,6 +74,17 @@ form.hide-submit input[type="submit"] { display: none;}
         width: 200px;
         height: 40px;
     }
+
+    .btn svg rect {
+        -webkit-transition: none;
+        transition: none;
+    }
+
+    .btn:hover svg rect {
+        stroke-width: 4;
+        stroke-dasharray: 353, 0;
+        stroke-dashoffset: 0;
+    }
 }
 
 @media screen and (max-height: 375px) {
