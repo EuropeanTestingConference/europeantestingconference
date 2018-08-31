@@ -14,7 +14,7 @@ There are a couple of Hotels near the Fundación Bancaja where you can get Confe
 
 * **Hotel Vincci Palace 4☆**
   
-**10 rooms** with discount on price. **It ends at the same time as our Super Early Bird, September 15th.** You have to fill the [reservation document](/images/2019/sponsors/FORMULARIO RESERVAS Vincci Palace European Testing Conference 2019.pdf) and send it, explain you need the room to attend to the **European Testing Conference**. The contact email is: <grupos.valencia@vinccihoteles.com>. Rates can be overwritten.
+**10 rooms** with discount on price. **It ends at the same time as our Super Early Bird, September 15th.** You have to fill the [reservation document](/images/2019/sponsors/FORMULARIO RESERVAS Vincci Palace European Testing Conference 2019.pdf) and send it, explain you need the room to attend to the **European Testing Conference**. The contact email is: <grupos.valencia@vinccihoteles.com>. Rates could be written.
 
 Double room individual use per night: 116 € *<br/>
 Double room per night: 127 € *<br/>
@@ -27,7 +27,7 @@ Wi-Fi INCLUDED<br/>
   
 **25 rooms** with discount on price.
 You have to send an email to <accolon@ac-hotels.com> or phone them (+34 963 10 64 30), indicating that you will attend the conference
-**The time to make the reservation ends January 14th or until rooms are available.** Rates can be overwritten.
+**The time to make the reservation ends January 14th or until rooms are available.** Rates could be written.
 
 Double room individual use per night: 132€<br/>
 Double room per night: 148,50€<br/>
