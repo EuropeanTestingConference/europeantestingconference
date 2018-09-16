@@ -3,7 +3,7 @@ speaker: Martin Hynie
 title: Branding Your Transformation
 id: martin-hynie
 workshop: true
-topic-category: automation
+topic-category: exploratory
 ---
 "SHIFT LEFT!"
 "CI!"
