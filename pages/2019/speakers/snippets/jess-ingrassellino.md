@@ -1,6 +1,6 @@
 ---
 _name: Jess Ingrassellino
-keynote: true
+keynote: false
 id: jess-ingrassellino
 twitter: jess_ingrass
 image: /images/2019/people/jess-ingrassellino.jpg
