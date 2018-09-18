@@ -17,6 +17,13 @@
 			<a href="https:/twitter.com/{{ speaker.twitter }}"><img class="b-speaker__twitter-img" src="/images/twitter.png"> {{ speaker.twitter }}</a>
 			</div>
 		{% endif %}
+
+		{% if speaker.mastodon %}
+			<div class="b-speaker__twitter">
+			<a href="https://toot.thoughtworks.com/@{{ speaker.mastodon }}"><img class="b-speaker__twitter-img" src="/images/mastodon.png"> {{ speaker.mastodon }}</a>
+			</div>
+		{% endif %}
+
 		{% include 2019/pages/speakers/all_talks.md speaker=speaker %}
    	</div>
 	<div class="b-speaker__bio ">

@@ -2,7 +2,7 @@
 speaker: Sal Freudenberg
 title: Leaping back in to the code via Remote Mobbing
 id: sal-freudenberg
-workshop: false
+keynote: true
 topic-category: programming
 
 ---

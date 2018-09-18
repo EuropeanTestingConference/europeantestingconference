@@ -9,65 +9,65 @@ layout: index-2019
 <div class="container" id="topics">
   <section class="main-content text-center" id="topic-keynotes">
 
-  <!--<h2>High-Level Schedule</h2><img src="/images/2019/CondencedSchedule.png"> -->
+  <!-- <h2>High-Level Schedule</h2><img src="/images/2019/CondencedSchedule.png"> -->
 
-<h2 class="b-page-title">To be announced...</h2>
-<!-- <h2>Keynotes</h2> -->
+  <!-- <h2 class="b-page-title">To be announced...</h2> -->
+  <h2>Keynotes</h2>
 
-{% for page in site.pages %}
-{% if page.path contains snippet_path %}
-{% if page.keynote == true %}
- {% include 2019/pages/topic-page.md  topic=page%}
-{% endif %}
-{% endif %}
-{% endfor %}
+  {% for page in site.pages %}
+  {% if page.path contains snippet_path %}
+  {% if page.keynote == true %}
+  {% include 2019/pages/topic-page.md  topic=page%}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
 
-<!-- </section> -->
+  </section>
 
-  <!-- <section class="main-content text-center" id="topic-workshops"><h2>Workshops</h2> -->
+  <section class="main-content text-center" id="topic-workshops"><h2>Workshops</h2>
 
-{% for page in site.pages %}
-{% if page.path contains snippet_path %}
-{% if page.workshop == true %}
- {% include 2019/pages/topic-page.md  topic=page%}
-{% endif %}
-{% endif %}
-{% endfor %}
+  {% for page in site.pages %}
+  {% if page.path contains snippet_path %}
+  {% if page.workshop == true %}
+  {% include 2019/pages/topic-page.md  topic=page%}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
 
-<!-- </section> -->
+  </section>
 
-<!-- <section class="main-content text-center" id="topic-talks"><h2>Talks</h2> -->
+  <section class="main-content text-center" id="topic-talks"><h2>Talks</h2>
 
-{% for page in site.pages %}
-{% if page.path contains snippet_path %}
-{% if page.talk == true %}
-{% include 2019/pages/topic-page.md  topic=page%}
-{% endif %}
-{% endif %}
-{% endfor %}
+  {% for page in site.pages %}
+  {% if page.path contains snippet_path %}
+  {% if page.talk == true %}
+  {% include 2019/pages/topic-page.md  topic=page%}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
 
-<!-- </section> -->
+  <!-- </section>
 
-<!-- <section class="main-content text-center" id="topic-talks"><h2>Demo-Talks</h2> -->
+  <section class="main-content text-center" id="topic-talks"><h2>Demo-Talks</h2> -->
 
-{% for page in site.pages %}
-{% if page.path contains snippet_path %}
-{% if page.demo-talk == true %}
-{% include 2019/pages/topic-page.md  topic=page%}
-{% endif %}
-{% endif %}
-{% endfor %}
+  {% for page in site.pages %}
+  {% if page.path contains snippet_path %}
+  {% if page.demo-talk == true %}
+  {% include 2019/pages/topic-page.md  topic=page%}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
 
-<!-- </section> -->
+  <!-- </section>
 
-<!-- <section class="main-content text-center" id="topic-talks"><h2>Activities</h2> -->
+  <section class="main-content text-center" id="topic-talks"><h2>Activities</h2> -->
 
-{% for page in site.pages %}
-{% if page.path contains snippet_path %}
-{% if page.Activity == true %}
-{% include 2019/pages/topic-page.md  topic=page%}
-{% endif %}
-{% endif %}
-{% endfor %}
-</section>
-</div>
+  {% for page in site.pages %}
+  {% if page.path contains snippet_path %}
+  {% if page.Activity == true %}
+  {% include 2019/pages/topic-page.md  topic=page%}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+  <!-- </section> -->
+<!-- </div> -->
