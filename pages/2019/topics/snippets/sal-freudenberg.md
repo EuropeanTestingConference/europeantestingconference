@@ -4,7 +4,6 @@ title: Leaping back in to the code via Remote Mobbing
 id: sal-freudenberg
 keynote: true
 topic-category: programming
-
 ---
 After a 10+ year break from developing I dipped a toe back into the coding world through a series of two-day stops on a “coding tour". Before I knew it everything was turned up to 11 and I had become a permanent member of a team who Remote Mob Program every day.
 
