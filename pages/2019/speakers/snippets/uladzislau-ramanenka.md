@@ -2,7 +2,7 @@
 _name: Uladzislau Ramanenka
 keynote: false
 id: uladzislau-ramanenka
-twitter: URamanenka
+twitter: laechoppe
 image: /images/2019/people/uladzislau-ramanenka.jpg
 ---
 I work at Badoo as Senior iOS QA engineer. Before moving from Minsk to London and joining Badoo in 2018, I got some experience on various outsourcing projects. They included mobile applications, complex web projects and some backend testing.
