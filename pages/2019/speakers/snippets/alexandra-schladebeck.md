@@ -3,7 +3,7 @@ _name: Alexandra Schladebeck
 keynote: false
 id: alexandra-schladebeck
 twitter: alex_schl
-<!--image: /images/2019/people/alexandra-schladebeck.jpg-->
+image: /images/2019/people/alexandra-schladebeck.jpg
 ---
 Alex is an outgoing and passionate team leader, consultant, software tester and product owner. Communicating with people is her main focus – something she is fortunate to do frequently in her role as Head of Software Quality and Test Consulting at BREDEX GmbH.
 
