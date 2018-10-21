@@ -7,7 +7,7 @@ layout: index-2019
 {% capture snippet_path %}{{ page.permalink }}snippets/{% endcapture %}
 
 <div class="container" id="topics">
-  <section class="main-content text-center anchor" id="topic-keynotes">
+  <section class="main-content text-center" id="topic-keynotes">
 
   <!-- <h2>High-Level Schedule</h2><img src="/images/2019/CondencedSchedule.png"> -->
 
@@ -24,7 +24,7 @@ layout: index-2019
 
   </section>
 
-  <section class="main-content text-center anchor" id="topic-workshops"><h2>Workshops</h2>
+  <section class="main-content text-center" id="topic-workshops"><h2>Workshops</h2>
 
   {% for page in site.pages %}
   {% if page.path contains snippet_path %}
@@ -36,7 +36,7 @@ layout: index-2019
 
   </section>
 
-  <section class="main-content text-center anchor" id="topic-talks"><h2>Talks</h2>
+  <section class="main-content text-center" id="topic-talks"><h2>Talks</h2>
 
   {% for page in site.pages %}
   {% if page.path contains snippet_path %}
