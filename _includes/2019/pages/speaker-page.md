@@ -1,5 +1,5 @@
 {% assign speaker = include.speaker %}
-<article class="b-speaker fix-anchor" id="{{ speaker.id }}">
+<article class="b-speaker anchor" id="{{ speaker.id }}">
 
 	<div class="b-speaker__image ">
 		<div class="b-image-holder">

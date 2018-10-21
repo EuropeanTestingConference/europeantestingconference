@@ -66,3 +66,17 @@
   }
 
 }
+
+.anchor { 
+  padding-top: 70px; 
+  margin-top: -10px;
+}
+
+@media screen and (max-width: $navi_mobile) {
+
+  .anchor { 
+    padding-top: 120px; 
+    margin-top: -60px;
+  }
+
+}
