@@ -9,7 +9,7 @@ title: "Sponsors"
 <!-- <h3>Platinum sponsor </h3> -->
 <span class="b-sponsors__sponsor  b-sponsor">
   <a class="b-sponsor__link" href="https://www.thoughtworks.com/">
-    <img src="/images/2019/sponsors/ThoughtWorks-transparent.png" width="50%" height="50%">
+    <img src="/images/2019/sponsors/ThoughtWorks.png" width="50%" height="50%">
   </a>
 </span>
 
