@@ -1,7 +1,7 @@
 ---
 speaker: Romeu Moura
-title: 
+title: Property-Based Testing
 id: romeu-moura
-talk: 
-topic-category: 
+talk: true
+topic-category: programming
 ---

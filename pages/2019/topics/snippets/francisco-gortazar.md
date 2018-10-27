@@ -2,6 +2,6 @@
 speaker: Francisco Gortázar
 title: 
 id: francisco-gortazar
-talk: 
-topic-category: 
+talk: true
+topic-category: automation
 ---

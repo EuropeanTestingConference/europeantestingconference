@@ -3,7 +3,7 @@ speaker: Lisa Crispin & Melissa Eaden
 title: Using Dependency Mapping To Enhance Testing Techniques
 id: alisa-crispin
 workshop: true
-topic-category: 
+topic-category: exploratory
 ---
 Software teams often don’t control all the pieces and parts of their development or delivery environments.
 Especially in large organizations, multiple teams, each with different focuses and goals, are needed to deploy new and updated features.
