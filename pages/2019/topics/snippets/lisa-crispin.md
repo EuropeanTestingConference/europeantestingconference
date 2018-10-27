@@ -1,7 +1,7 @@
 ---
 speaker: Lisa Crispin & Melissa Eaden
 title: Using Dependency Mapping To Enhance Testing Techniques
-id: alisa-crispin
+id: lisa-crispin
 workshop: true
 topic-category: exploratory
 ---

@@ -1,7 +1,7 @@
 ---
 _name: Lisa Crispin
 keynote: false
-id: alisa-crispin
+id: lisa-crispin
 twitter: lisacrispin ‏
 image: /images/2019/people/lisa-crispin.jpg
 ---
