@@ -4,11 +4,27 @@ type: front
 section_type: "site-title"
 ---
 
-<section id="european-testing-conference-2019"
-         class="b-front "
->
+<section id="european-testing-conference-2019" class="b-front">
     <div class="b-front__img b-img_main b-site-title b-img_full-sized b-img_parallax b-img b-img_bw">
+        <img src="http://www.scandiafun.com/images/spiderweb-corner-right.png" class="web-left-bottom">
         <div class="b-img__text-content  b-site-title__info rectangle">
+            <div class="spider">
+                <div class="spiderweb"></div>
+                <div class="body">
+                    <div class="eye left"></div>
+                    <div class="eye right"></div>
+                </div>
+                <div class="legs left">
+                    <div class="leg"></div>
+                    <div class="leg"></div>
+                    <div class="leg"></div>
+                </div>
+                <div class="legs right">
+                    <div class="leg"></div>
+                    <div class="leg"></div>
+                    <div class="leg"></div>
+                </div>
+            </div>
             <p class="h1 b-site-title__h1">European Testing Conference 2019</p>
             <div class="b-site-title__location">
                 <span>Fundación Bancaja, Valencia, Spain</span> 
