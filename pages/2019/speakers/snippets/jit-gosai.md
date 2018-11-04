@@ -3,7 +3,7 @@ _name: Jit Gosai
 keynote: false
 id: jit-gosai
 twitter: JitGo
-<!--image: /images/2019/people/id:jit-gosai.jpg-->
+image: /images/2019/people/jit-gosai.jpg
 ---
 I’ve been a test professional for the past 15 years and have always strived to help software teams be the best they can be.
 
