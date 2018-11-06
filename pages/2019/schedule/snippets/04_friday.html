@@ -1,0 +1,103 @@
+---
+---
+<div class="bg-schedule">
+  <article class="b-day">
+    <p><span class="b-day__name">Friday</span>
+      <span class="b-day__date"> Feb 15<sup>th</sup></span>
+    </p>
+    <div class="fri schedule header">
+        <!-- Row 1 - Headings -->
+        <p class="room">Time/ Room</p>
+        <p class="room auditorium">Auditorium</p>
+        <p class="room ausia-1">Ausiàs March 1</p>
+        <p class="room ausia-2">Ausiàs March 2</p>
+        <p class="room ausia-3">Ausiàs March 3</p>
+        <p class="room navarro">Navarro Reverter</p>
+        <p class="room cupula no-border">Cúpula</p>
+    </div>
+    <div class="fri schedule first">
+        <!-- Times -->
+        <p class="time">9:00 - 9:45 AM (Keynote)</p>
+        <p class="time">9:45 - 10:05 AM</p>
+        <!-- Friday -->
+        <div class="slot fri auditorium keynote-1">
+            {% include 2019/pages/schedule-session.md  session="sal-freudenberg" %}
+        </div>
+        <div class="slot fri no-room coffee-brake-1">Coffee Break</div>
+    </div>
+    <div class="fri schedule workshops">
+        <p class="time workshops">10:05 - 11:35 AM (Workshops)</p>
+        <div class="slot fri auditorium workshop-5">
+            {% include 2019/pages/schedule-session.md  session="lisa-crispin" %}
+        </div>
+        <div class="slot fri ausia-1 workshop-1">
+            {% include 2019/pages/schedule-session.md  session="anne-marie-charrett" %}
+        </div>
+        <div class="slot fri ausia-2 workshop-2">
+            {% include 2019/pages/schedule-session.md  session="nicolas-steenhout" %}
+        </div>
+        <div class="slot fri ausia-3 workshop-3">
+            {% include 2019/pages/schedule-session.md  session="martin-hynie" %}
+        </div>
+        <div class="slot fri navarro workshop-4">
+            {% include 2019/pages/schedule-session.md  session="mark-winteringham" %}
+        </div>
+    </div>
+    <div class="fri schedule second">
+        <p class="time">11:35 AM - 12:35 PM</p>
+        <div class="slot fri cupula lunch">
+            <p>Lunch</p>
+        </div>
+    </div>
+    <div class="fri schedule talks-1">
+        <p class="time talks">12:35 - 13:05 PM (Talks)</p>
+        <div class="slot fri ausia-1 talk-1">
+            {% include 2019/pages/schedule-session.md  session="francisco-gortazar" %}
+        </div>
+        <div class="slot fri ausia-2 talk-2">
+            {% include 2019/pages/schedule-session.md  session="clare-sudbery" %}
+        </div>
+        <div class="slot fri ausia-3 talk-3">
+            {% include 2019/pages/schedule-session.md  session="jess-ingrassellino" %}
+        </div>
+    </div>
+    <div class="fri schedule third">
+        <p class="time">13:05 - 13:15 PM</p>
+        <div class="slot fri no-room brake-1">Break</div>
+    </div>
+    <div class="fri schedule talks-2">
+        <p class="time talks">13:15 - 13:45 PM (Talks)</p>
+        <div class="slot fri ausia-1 talk-4">
+            {% include 2019/pages/schedule-session.md  session="nadya-denisenko" %} 
+        </div>
+        <div class="slot fri ausia-2 talk-5">
+            {% include 2019/pages/schedule-session.md  session="moritz-heiber" %}        
+        </div>
+        <div class="slot fri ausia-3 talk-6">
+            {% include 2019/pages/schedule-session.md  session="alexandra-schladebeck" %}        
+        </div>
+    </div>
+    <div class="fri schedule fourth">
+        <p class="time">13:45 - 14:05 PM</p>
+        <p class="time">14:05 - 16:05 PM (Activities)</p>
+        <p class="time">16:05 - 16:20 PM</p>
+        <p class="time">16:20 - 17:05 PM (Keynote)</p>
+        <p class="time">17:05 - 17:20 PM</p>
+        <div class="slot fri no-room coffee-brake-2">
+            <p>Coffee Break</p>
+        </div>
+        <div class="slot fri no-room open-space">
+            {% include 2019/pages/schedule-session.md  session="open-space" %}
+        </div>
+        <div class="slot fri no-room brake-2">
+            <p>Break</p>
+        </div>
+        <div class="slot fri auditorium keynote-2">
+            {% include 2019/pages/schedule-session.md  session="ash-coleman" %}
+        </div>
+        <div class="slot fri auditorium retro">
+            <p>Conference Retro</p>
+        </div>
+    </div>
+  </article>
+</div>

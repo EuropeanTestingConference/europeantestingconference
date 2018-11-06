@@ -9,7 +9,7 @@
             <span class="b-talk__speaker"> {{ page.speaker }}</span>
         {% endif %}
             <span class="b-talk__title"> {{ page.title  }}</span>
-            <span class="b-talk__category"> ({{ page.topic-category }})</span>
+            <!-- <span class="b-talk__category"> ({{ page.topic-category }})</span> -->
         </a>
     {% endif %}
 {% endfor %}

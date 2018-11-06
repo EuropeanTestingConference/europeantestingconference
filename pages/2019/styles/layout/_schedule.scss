@@ -51,7 +51,7 @@
   }
 }
 .b-talk {
-  font-size: 2rem;
+  font-size: 1.5rem;
   min-width: 100%;
   -webkit-flex: 1 1 90%;
   display: flex;
@@ -61,8 +61,8 @@
   }
 
   &__speaker {
-    font-size: 0.6em;
-    color: $session_speaker;
+    font-size: 0.8em;
+    color: $white;
 
 
   }
@@ -72,5 +72,530 @@
 
   }
   &__title {
+  }
+}
+
+.bg-schedule {
+  background-image: url("/images/2019/general/valencia.jpg");
+  background-position: center;
+  background-size: cover;
+  min-width: 100vw;
+  min-height: 100vh;
+  width: 100%;
+  height: 100%;
+}
+
+.schedule {
+  display: grid;
+  margin-left: 4%;
+  max-width: calc(100% - 150px);
+}
+
+.thurs.schedule.header {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.thurs.schedule.first {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.thurs.schedule.talks-1 {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.thurs.schedule.second {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.thurs.schedule.workshops {
+  grid-template-columns: 150px 18% 18% 18% 18% 18%;
+}
+.thurs.schedule.third {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.thurs.schedule.talks-2 {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.thurs.schedule.fourth {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+
+.fri.schedule.header {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.fri.schedule.first {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.fri.schedule.workshops {
+  grid-template-columns: 150px 18% 18% 18% 18% 18%;
+}
+.fri.schedule.second {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.fri.schedule.talks-1 {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.fri.schedule.third {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.fri.schedule.talks-2 {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+.fri.schedule.fourth {
+  grid-template-columns: 150px 15% 15% 15% 15% 15% 15%;
+}
+
+.room {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: 'Source Sans Pro', sans-serif;
+  border-right: 1px solid #212121;
+  text-align: center;
+  padding: 0.5rem;
+}
+  
+.no-room{ background: rgba(255,255,255,0.9); }
+.auditorium { background: rgba(240, 185, 92, 0.9); }
+.ausia-1 { background: rgba(77, 171, 143, 0.9); }
+.ausia-2 { background: rgba(92, 189, 199, 0.9); }
+.ausia-3 { background: rgba(40, 133, 138, 0.9); }
+.navarro { background: rgba(70, 130, 180, 0.9); }
+.cupula { background: rgba(255, 160, 122, 0.9);}
+
+.thurs.no-room.registration { 
+  grid-row: 1 / span 1; 
+  grid-column: 2 / span 6; 
+}
+
+.thurs.auditorium.opening { 
+  grid-row: 2 / span 1; 
+  grid-column: 2 / span 6; 
+}
+
+.thurs.auditorium.keynote-1 { 
+  grid-row: 3 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.no-room.coffee-brake-1 {
+  grid-row: 4 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.ausia-1.talk-1 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 2; 
+}
+.thurs.ausia-2.talk-2 {
+  grid-row: 1 / span 1;
+  grid-column: 4 / span 2; 
+}
+.thurs.ausia-3.talk-3 {
+  grid-row: 1 / span 1;
+  grid-column: 6 / span 2; 
+}
+
+.thurs.no-room.brake {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.cupula.speed-meet {
+  grid-row: 2 / span 1;
+  grid-column: 2 / span 6; 
+}
+.thurs.cupula.lunch {
+  grid-row: 3 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.ausia-1.workshop-1 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 1; 
+}
+.thurs.ausia-2.workshop-2 {
+  grid-row: 1 / span 1;
+  grid-column: 3 / span 1; 
+}
+.thurs.ausia-3.workshop-3 {
+  grid-row: 1 / span 1;
+  grid-column: 4 / span 1; 
+}
+.thurs.navarro.workshop-4 {
+  grid-row: 1 / span 1;
+  grid-column: 5 / span 1; 
+}
+.thurs.auditorium.workshop-5 {
+  grid-row: 1 / span 1;
+  grid-column: 6 / span 1; 
+}
+.thurs.cupula.workshop-6 {
+  grid-row: 1 / span 1;
+  grid-column: 7 / span 1; 
+}
+
+.thurs.no-room.coffee-brake-2 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.ausia-1.talk-4 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 2; 
+}
+.thurs.ausia-2.talk-5 {
+  grid-row: 1 / span 1;
+  grid-column: 4 / span 2; 
+}
+.thurs.ausia-3.talk-6 {
+  grid-row: 1 / span 1;
+  grid-column: 6 / span 2; 
+}
+
+.thurs.no-room.brake-2 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.ausia-2.lean {
+  grid-row: 2 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.no-room.brake-3 {
+  grid-row: 3 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.auditorium.keynote-2 { 
+  grid-row: 4 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.auditorium.retro-1 { 
+  grid-row: 5 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.thurs.no-room.get-together {
+  grid-row: 6 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.fri.auditorium.keynote-1 { 
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.fri.no-room.coffee-brake-1 {
+  grid-row: 2 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.fri.ausia-1.workshop-1 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 1; 
+}
+.fri.ausia-2.workshop-2 {
+  grid-row: 1 / span 1;
+  grid-column: 3 / span 1; 
+}
+.fri.ausia-3.workshop-3 {
+  grid-row: 1 / span 1;
+  grid-column: 4 / span 1; 
+}
+.fri.navarro.workshop-4 {
+  grid-row: 1 / span 1;
+  grid-column: 5 / span 1; 
+}
+.fri.auditorium.workshop-5 {
+  grid-row: 1 / span 1;
+  grid-column: 6 / span 1; 
+}
+.fri.cupula.workshop-6 {
+  grid-row: 1 / span 1;
+  grid-column: 7 / span 1; 
+}
+
+.fri.cupula.lunch {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.fri.ausia-1.talk-1 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 2; 
+}
+.fri.ausia-2.talk-2 {
+  grid-row: 1 / span 1;
+  grid-column: 4 / span 2; 
+}
+.fri.ausia-3.talk-3 {
+  grid-row: 1 / span 1;
+  grid-column: 6 / span 2; 
+}
+
+.fri.no-room.brake-1 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.fri.ausia-1.talk-4 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 2; 
+}
+.fri.ausia-2.talk-5 {
+  grid-row: 1 / span 1;
+  grid-column: 4 / span 2; 
+}
+.fri.ausia-3.talk-6 {
+  grid-row: 1 / span 1;
+  grid-column: 6 / span 2; 
+}
+
+.fri.no-room.coffee-brake-2 {
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.fri.no-room.open-space {
+  grid-row: 2 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.fri.no-room.brake-2 {
+  grid-row: 3 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.fri.auditorium.keynote-2 { 
+  grid-row: 4 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.fri.auditorium.retro { 
+  grid-row: 5 / span 1;
+  grid-column: 2 / span 6; 
+}
+
+.time {
+  background: #212121;
+  color: white;
+  padding: 0.5rem;
+  text-transform: uppercase;
+  font-size: 1rem;
+  text-align: center;
+  grid-column: 1 / span 1;
+  border-top: 1px solid #aaa;
+  margin: 0;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.slot{
+  color: #003141;
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 0.5rem;
+  border-top: 1px solid #fff;
+  font-weight: 300;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: $navi_mobile){
+  .room {
+    margin: 0;
+  }
+  .schedule {
+    max-width: calc(100% - 80px);
+  }
+  .room.auditorium {
+    grid-row: 1 / span 1;
+    grid-column: 2 / span 3; 
+  }
+  .room.ausia-1 {
+    grid-row: 1 / span 1;
+    grid-column: 5 / span 3; 
+  }
+  .room.ausia-2 {
+    grid-row: 2 / span 1;
+    grid-column: 2 / span 3; 
+  }
+  .room.ausia-3 {
+    grid-row: 2 / span 1;
+    grid-column: 5 / span 3; 
+  }
+  .room.navarro {
+    grid-row: 3 / span 1;
+    grid-column: 2 / span 3; 
+  }
+  .room.cupula {
+    grid-row: 3 / span 1;
+    grid-column: 5 / span 3; 
+  }
+  .thurs.no-room.registration { 
+    grid-row: 1 / span 1; 
+    grid-column: 2 / span 6; 
+  }
+  
+  .thurs.auditorium.opening { 
+    grid-row: 2 / span 1; 
+    grid-column: 2 / span 6; 
+  }
+  
+  .thurs.auditorium.keynote-1 { 
+    grid-row: 3 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .thurs.schedule.header {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+    grid-template-rows: 30px 30px 30px;
+  }
+  .thurs.schedule.first {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .thurs.schedule.talks-1 {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .thurs.schedule.second {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .thurs.schedule.workshops {
+    grid-template-columns: 80px 18% 18% 18% 18% 18%;
+  }
+  .thurs.schedule.third {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .thurs.schedule.talks-2 {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .thurs.schedule.fourth {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+
+  .time.talks {
+    grid-row-start: span 3;
+  }
+  .time.workshops {
+    grid-row-start: span 5;
+  }
+
+  .thurs.ausia-1.talk-1 {
+    grid-row: 1 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .thurs.ausia-2.talk-2 {
+    grid-row: 2 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .thurs.ausia-3.talk-3 {
+    grid-row: 3 / span 1;
+    grid-column: 2 / span 6; 
+  }
+
+  .thurs.ausia-1.workshop-1 {
+    grid-row: 1 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .thurs.ausia-2.workshop-2 {
+    grid-row: 2 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .thurs.ausia-3.workshop-3 {
+    grid-row: 3 / span 1;
+    grid-column: 2 / span 6;
+  }
+  .thurs.navarro.workshop-4 {
+    grid-row: 4 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .thurs.auditorium.workshop-5 {
+    grid-row: 5 / span 1;
+    grid-column: 2 / span 6;
+  }
+
+  .thurs.ausia-1.talk-4 {
+    grid-row: 1 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .thurs.ausia-2.talk-5 {
+    grid-row: 2 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .thurs.ausia-3.talk-6 {
+    grid-row: 3 / span 1;
+    grid-column: 2 / span 6; 
+  }
+
+  .fri.schedule.header {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+    grid-template-rows: 30px 30px 30px;
+  }
+  .fri.schedule.first {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .fri.schedule.workshops {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .fri.schedule.second {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .fri.schedule.talks-1 {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .fri.schedule.third {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .fri.schedule.talks-2 {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+  .fri.schedule.fourth {
+    grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
+  }
+
+  .fri.ausia-1.workshop-1 {
+    grid-row: 1 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .fri.ausia-2.workshop-2 {
+    grid-row: 2 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .fri.ausia-3.workshop-3 {
+    grid-row: 3 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .fri.navarro.workshop-4 {
+    grid-row: 4 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .fri.auditorium.workshop-5 {
+    grid-row: 5 / span 1;
+    grid-column: 2 / span 6; 
+  }
+
+  .fri.ausia-1.talk-1 {
+    grid-row: 1 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .fri.ausia-2.talk-2 {
+    grid-row: 2 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .fri.ausia-3.talk-3 {
+    grid-row: 3 / span 1;
+    grid-column: 2 / span 6; 
+  }
+
+  .fri.ausia-1.talk-4 {
+    grid-row: 1 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .fri.ausia-2.talk-5 {
+    grid-row: 2 / span 1;
+    grid-column: 2 / span 6; 
+  }
+  .fri.ausia-3.talk-6 {
+    grid-row: 3 / span 1;
+    grid-column: 2 / span 6; 
   }
 }
