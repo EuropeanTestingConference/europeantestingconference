@@ -150,6 +150,10 @@
   padding: 0.5rem;
 }
   
+.no-border {
+  border: none;
+}
+
 .no-room{ background: rgba(255,255,255,0.9); }
 .auditorium { background: rgba(240, 185, 92, 0.9); }
 .ausia-1 { background: rgba(77, 171, 143, 0.9); }
@@ -448,7 +452,6 @@
   }
   .thurs.schedule.header {
     grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
-    grid-template-rows: 30px 30px 30px;
   }
   .thurs.schedule.first {
     grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
@@ -528,7 +531,6 @@
 
   .fri.schedule.header {
     grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
-    grid-template-rows: 30px 30px 30px;
   }
   .fri.schedule.first {
     grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
