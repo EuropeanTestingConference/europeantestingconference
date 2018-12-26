@@ -5,7 +5,7 @@ section_type: "block-content"
 title: "Latest Buzz"
 ---
 
-<div id="blog-container" class="b-block-content__block" data-resource="http://europeantestingconference.blogspot.com/feeds/posts/default?alt=json">
+<div id="blog-container" class="b-block-content__block" data-resource="https://europeantestingconference.blogspot.com/feeds/posts/default?alt=json">
 
   <p class="b-block-content__block-title">News</p>
   {% include 2019/news-excerpts.md %}

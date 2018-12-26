@@ -5,9 +5,9 @@ section_type: "block-content"
 ---
 <div style="background: white">
 	<h3 class="b-section__title">Our Blog</h3>
-	<div id="blog-container" class="b-block-content__block" data-resource="http://europeantestingconference.blogspot.com/feeds/posts/default?alt=json">
+	<div id="blog-container" class="b-block-content__block" data-resource="https://europeantestingconference.blogspot.com/feeds/posts/default?alt=json">
 		<p>We blog about testing, and the event
-			<a target="_blank" href="http://europeantestingconference.blogspot.com">here</a>. Below is an excerpt of the latest blog, and a list of the additional latest entries.</p>
+			<a target="_blank" href="https://europeantestingconference.blogspot.com">here</a>. Below is an excerpt of the latest blog, and a list of the additional latest entries.</p>
 	</div>
 	<div class="b-blog-content">
 		<div class="b-block-content__block">
