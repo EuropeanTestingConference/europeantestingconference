@@ -53,3 +53,11 @@ $navi_visible: $navi_screen;
     display: flex;
   }
 }
+
+@media screen and (max-width: $navi_mobile){
+  .b-nav{
+    &__list-item{
+      padding: 5px;
+    }
+  }
+}
