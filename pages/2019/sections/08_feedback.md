@@ -19,7 +19,7 @@ title: What others say about ETC
 			<p>Source: <a href="https://always-fearful.blogspot.com/2018/02/etc-2018-did-i-say-it-was-awesome.html">https://always-fearful.blogspot.com/2018/02/etc-2018-did-i-say-it-was-awesome.html</a></p>
 		</div> 
 		<div class="img1">
-			<p><b>Markus Tacker: (developer)</b></p>
+			<p><b>Markus Tacker:</b></p>
 			<p>“The European Testing Conference was a fantastic experience for me, even being in the minority as a developer I felt very included and welcome. The atmosphere was always very friendly and never hostile or too opinionated.”</p>
 			<p>Source: <a href="https://coderbyheart.com/european-testing-conference-2018/">https://coderbyheart.com/european-testing-conference-2018/</a></p></div> 
 		<div class="img1">
