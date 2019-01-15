@@ -13,5 +13,5 @@ The workshop will begin by focusing on exploratory testing at the GUI level and 
 
 We finish by performing some API exploratory testing to discover the worst bug!
 
-**Workshop Requirements**
+**Workshop Requirements:**
 This workshop requires you to bring your laptop, with [Postman](https://www.getpostman.com/downloads/) installed, as well as your favorite mind-mapping tool (for instance, [XMind](https://www.xmind.net/) or pen and paper).
