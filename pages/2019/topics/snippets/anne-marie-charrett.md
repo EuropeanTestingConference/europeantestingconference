@@ -12,3 +12,6 @@ This class is not only about learning a new skill, it’s about collaboration. B
 The workshop will begin by focusing on exploratory testing at the GUI level and developing a model and then questioning our model. We will then move to the API learning how to use chrome developer tools and postman to send and receive messages using a REST API.
 
 We finish by performing some API exploratory testing to discover the worst bug!
+
+**Workshop Requirements**
+This workshop requires you to bring your laptop, with [Postman](https://www.getpostman.com/downloads/) installed, as well as your favorite mind-mapping tool (for instance, [XMind](https://www.xmind.net/) or pen and paper).
