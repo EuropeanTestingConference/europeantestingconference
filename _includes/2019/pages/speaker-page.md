@@ -11,7 +11,7 @@
 		<h3 class="name">{{ speaker._name }}</h3>
 		{% if speaker.twitter %}
 			<div class="b-speaker__twitter">
-			<a href="https:/twitter.com/{{ speaker.twitter }}"><img class="b-speaker__twitter-img" src="/images/twitter.png"> {{ speaker.twitter }}</a>
+			<a href="https://twitter.com/{{ speaker.twitter }}"><img class="b-speaker__twitter-img" src="/images/twitter.png"> {{ speaker.twitter }}</a>
 			</div>
 		{% endif %}
 		{% if speaker.mastodon %}
