@@ -18,4 +18,4 @@ By the end of this workshop students will be able to:
 - Construct methods to ignore specific data during approval testing
 
 **Workshop Requirements:**
- You can either link to or copy into your own resources: [https://automationintesting.com/setup/settingupapprovaltests.html](https://automationintesting.com/setup/settingupapprovaltests.html)
+ Details on requirements are available here: [https://automationintesting.com/setup/settingupapprovaltests.html](https://automationintesting.com/setup/settingupapprovaltests.html)
