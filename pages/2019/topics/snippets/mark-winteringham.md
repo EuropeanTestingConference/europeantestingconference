@@ -16,3 +16,6 @@ By the end of this workshop students will be able to:
 - Describe how approval testing works and differs from traditional asserting
 - Construct approval tests for different interfaces ranging from API to Visual
 - Construct methods to ignore specific data during approval testing
+
+**Workshop Requirements:**
+ You can either link to or copy into your own resources: [https://automationintesting.com/setup/settingupapprovaltests.html](https://automationintesting.com/setup/settingupapprovaltests.html)

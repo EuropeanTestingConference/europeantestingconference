@@ -62,7 +62,7 @@
 
   &__speaker {
     font-size: 0.8em;
-    color: $white;
+    color: black;
 
 
   }
@@ -72,6 +72,7 @@
 
   }
   &__title {
+    color: black;
   }
 }
 
@@ -155,12 +156,12 @@
 }
 
 .no-room{ background: rgba(255,255,255,0.9); }
-.auditorium { background: rgba(240, 185, 92, 0.9); }
-.ausia-1 { background: rgba(77, 171, 143, 0.9); }
-.ausia-2 { background: rgba(92, 189, 199, 0.9); }
-.ausia-3 { background: rgba(40, 133, 138, 0.9); }
-.navarro { background: rgba(70, 130, 180, 0.9); }
-.cupula { background: rgba(255, 160, 122, 0.9);}
+.auditorium { background: rgba(230, 159, 0, 0.9); }
+.ausia-1 { background: rgba(0, 158, 115, 0.9); }
+.ausia-2 { background: rgba(240, 228, 66, 0.9); }
+.ausia-3 { background: rgba(0, 114, 178, 0.9); }
+.navarro { background: rgba(213, 94, 0, 0.9); }
+.cupula { background: rgba(86, 180, 233, 0.9);}
 
 .thurs.no-room.registration { 
   grid-row: 1 / span 1; 
@@ -257,9 +258,19 @@
   grid-column: 2 / span 6; 
 }
 
+.thurs.ausia-1.lean {
+  grid-row: 2 / span 1;
+  grid-column: 2 / span 2; 
+}
+
 .thurs.ausia-2.lean {
   grid-row: 2 / span 1;
-  grid-column: 2 / span 6; 
+  grid-column: 4 / span 2; 
+}
+
+.thurs.ausia-3.lean {
+  grid-row: 2 / span 1;
+  grid-column: 6 / span 2; 
 }
 
 .thurs.cupula.brake-3 {
@@ -277,9 +288,19 @@
   grid-column: 2 / span 6; 
 }
 
-.thurs.no-room.get-together {
+.thurs.ausia-1.get-together {
   grid-row: 6 / span 1;
-  grid-column: 2 / span 6; 
+  grid-column: 2 / span 2; 
+}
+
+.thurs.ausia-2.get-together {
+  grid-row: 6 / span 1;
+  grid-column: 4 / span 2; 
+}
+
+.thurs.ausia-3.get-together {
+  grid-row: 6 / span 1;
+  grid-column: 6 / span 2; 
 }
 
 .fri.auditorium.keynote-1 { 
@@ -358,9 +379,25 @@
   grid-column: 2 / span 6; 
 }
 
-.fri.no-room.open-space {
+.fri.ausia-1.open-space {
   grid-row: 2 / span 1;
-  grid-column: 2 / span 6; 
+  grid-column: 2 / span 1; 
+}
+.fri.ausia-2.open-space {
+  grid-row: 2 / span 1;
+  grid-column: 3 / span 1; 
+}
+.fri.ausia-3.open-space {
+  grid-row: 2 / span 1;
+  grid-column: 4 / span 2; 
+}
+.fri.navarro.open-space {
+  grid-row: 2 / span 1;
+  grid-column: 6 / span 1; 
+}
+.fri.auditorium.open-space {
+  grid-row: 2 / span 1;
+  grid-column: 7 / span 1; 
 }
 
 .fri.cupula.brake-2 {
