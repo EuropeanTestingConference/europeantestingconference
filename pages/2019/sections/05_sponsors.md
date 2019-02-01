@@ -15,7 +15,7 @@ title: "Sponsors"
     <img src="/images/2019/sponsors/logo-iti.svg" width="50%" height="50%">
   </a>
   <a class="b-sponsor__link b-itext-sponsor" href="https://www.iti.es/">
-    <img src="/images/2019/sponsors/DAZN_BoxedLogo_02_RGB.png" width="30%" height="30%">
+    <img src="/images/2019/sponsors/DAZN_BoxedLogo_02_RGB.png" width="35%" height="35%">
   </a>
   <h3>Supporter sponsors </h3>
   <a class="b-sponsor__link" href="https://applitools.com/?utm_source=trade-show&utm_medium=&utm_content=field-event&utm_campaign=2019-European-Testing-Conf">
