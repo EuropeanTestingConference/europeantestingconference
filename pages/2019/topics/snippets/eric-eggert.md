@@ -1,7 +1,7 @@
 ---
-speaker: Nicolas Steenhout
+speaker: Eric Eggert
 title: Practical Hands-On Accessibility Testing
-id: nicolas-steenhout
+id: eric-eggert
 workshop: true
 topic-category: exploratory
 ---
