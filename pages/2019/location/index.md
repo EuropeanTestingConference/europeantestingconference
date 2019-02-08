@@ -7,7 +7,8 @@ type: main-content
 
 
 ## Venue Address
-[Fundación Bancaja, Valencia, Spain, February 14-15th 2019](https://goo.gl/maps/w2tj4p11brw)
+[Fundación Bancaja, València, Spain, February 14-15th 2019](https://goo.gl/maps/w2tj4p11brw)<br/>
+Plaça de Tetuan, 23, 46003 València, Spain
 
 ## Hotels
 There are a couple of Hotels near the Fundación Bancaja where you can get Conference Prices. 
