@@ -11,10 +11,10 @@ title: "Sponsors"
   <a class="b-sponsor__link b-itext-sponsor" href="https://www.thoughtworks.com/">
     <img src="/images/2019/sponsors/ThoughtWorks.png" width="50%" height="50%">
   </a>
-  <a class="b-sponsor__link b-itext-sponsor" href="https://www.dazn.com">
+  <a class="b-sponsor__link b-itext-sponsor" href="https://www.iti.es/">
     <img src="/images/2019/sponsors/logo-iti.svg" width="50%" height="50%">
   </a>
-  <a class="b-sponsor__link b-itext-sponsor" href="https://www.iti.es/">
+  <a class="b-sponsor__link b-itext-sponsor" href="https://www.dazn.com">
     <img src="/images/2019/sponsors/DAZN_BoxedLogo_02_RGB.png" width="35%" height="35%">
   </a>
   <h3>Supporter sponsors </h3>
