@@ -17,3 +17,5 @@ Key learnings:
 - What is a conversational interface?
 - How can I build my testing approach for such an interface?
 - What from my current toolset can I use for this new context?
+
+Slides: to be added soon...

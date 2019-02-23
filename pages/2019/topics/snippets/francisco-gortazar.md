@@ -12,3 +12,5 @@ However, this information might be relevant as well at our testing environments.
 This talk will discuss tools and practices that we can leverage to acquire relevant information from the product and its tests,
 and how this information can be put together to facilitate a joint work between testers and developers not just finding bugs, but also finding the root-cause of those bugs,
 making everyone's work more effective.
+
+Slides: to be added soon...

@@ -12,3 +12,5 @@ Recently, Sal Freudenberg and I have been remote-pairing on an iOS puzzle app. I
 The reason I asked Sal to join me is that my testing strategy was getting increasingly lax, and the quality of the code was suffering. The increasing lack of tests made the code harder and harder to extend. 
 
 I stopped testing for bad reasons, but started again for good ones. The experience has allowed me to demonstrate in practice the impact it can have on your code base when you don't test, and also when you do. This talk, based on simple practical examples, will explain exactly why unit tests, a TDD approach and pairing can make all the difference to your code.
+
+Slides: to be added soon...

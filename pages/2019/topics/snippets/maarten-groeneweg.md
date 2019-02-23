@@ -12,3 +12,7 @@ Fortunately there is another solution: Contract Testing. A lean way of describin
 - What is contract testing?
 - Why do you want it?
 - My lessons learned
+
+Slides: to be added soon...
+
+Article: *[Using Contract Testing for Applications With Microservices](https://www.infoq.com/news/2019/02/contract-testing-microservices)*  by [Ben Linders](https://twitter.com/BenLinders)

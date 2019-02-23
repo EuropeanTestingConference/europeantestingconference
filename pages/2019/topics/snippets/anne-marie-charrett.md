@@ -15,3 +15,5 @@ We finish by performing some API exploratory testing to discover the worst bug!
 
 **Workshop Requirements:**
 This workshop requires you to bring your laptop, with [Postman](https://www.getpostman.com/downloads/) installed, as well as your favorite mind-mapping tool (for instance, [XMind](https://www.xmind.net/) or pen and paper).
+
+Slides: [Coaching & Learning about API Exploratory Testing](https://drive.google.com/drive/folders/1OQe-nYNxTOu7lWnRTPRXRNdHxlkKE3xg)

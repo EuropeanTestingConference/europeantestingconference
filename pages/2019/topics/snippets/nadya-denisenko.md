@@ -10,3 +10,7 @@ Mobile test automation was born at the beginning of mobile apps development and 
 - What are the tools being used and how are they different
 - Where mobile automation can go wrong
 - And finally, how to fix it
+
+Slides: to be added soon...
+
+Article: *[How to Avoid Failing at Mobile Test Automation](https://www.infoq.com/news/2019/02/no-failing-mobile-test-automate)*  by [Ben Linders](https://twitter.com/BenLinders)

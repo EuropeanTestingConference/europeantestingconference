@@ -16,3 +16,12 @@ Your production system is the only place the full complexity comes into play, so
 I'll be talking about the importance of observability of your system - building in log aggregation, metrics and tracing so you can tell what's up. I'll also be talking about business-focussed monitoring, including synthetic monitoring.
 
 I hope to show you why it's worth dealing with the additional complexity of microservices over the monolithic approach of before, and give you some ideas about how to make your complex distributed systems easier to build and to run with high quality and stability.
+
+Slides: [Quality for 'cloud natives' - what changes when your systems are complex and distributed?](https://speakerdeck.com/sarahjwells/european-test-conference-2019-quality-for-cloud-natives-what-changes-when-your-systems-are-complex-and-distributed)
+
+Video: [Quality for 'cloud natives' - what changes when your systems are complex and distributed?](https://www.pscp.tv/w/1dRJZOORpwaxB)
+
+Article: *[Testing Complex Distributed Systems at FT.com: Sarah Wells Shares Lessons Learned](https://www.infoq.com/news/2019/02/testing-distributed-systems)*  by [Ben Linders](https://twitter.com/BenLinders)
+
+Sketchnote by [Marianne Djust](https://twitter.com/marianneduijst):<br/>
+<img src="/images/2019/topics/natives.png" width="30%">

@@ -29,3 +29,10 @@ against. Am I making an impact on either side of this problem? What can I do to 
 Why should I care about diversity? In this talk you will be challenged to take a hard look at your
 own participation in these communities and gain understanding of how to recognize issues and
 support solutions.
+
+Slides: to be added soon...
+
+Video: [I Am Not A Cultural Fit - One Black Woman’s Account Through The Tech World](https://www.pscp.tv/w/1OdKrRRpbQvKX)
+
+Sketchnote by [Marianne Djust](https://twitter.com/marianneduijst):<br/>
+<img src="/images/2019/topics/fit.png" width="30%">

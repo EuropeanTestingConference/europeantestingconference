@@ -19,3 +19,5 @@ By the end of this workshop students will be able to:
 
 **Workshop Requirements:**
  Details on requirements are available here: [https://automationintesting.com/setup/settingupapprovaltests.html](https://automationintesting.com/setup/settingupapprovaltests.html)
+
+Slides: to be added soon...

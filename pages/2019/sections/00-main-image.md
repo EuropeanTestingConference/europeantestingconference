@@ -10,10 +10,11 @@ section_type: "site-title"
             <p class="h1 b-site-title__h1">European Testing Conference 2019</p>
             <div class="b-site-title__location">
                 <span>Fundación Bancaja, Valencia, Spain</span> 
-                <span>February 14-15th 2019</span>
+                <span>was on February 14-15th 2019</span>
+                <span>For slides and more info go to <a style="color:yellow" href="https://europeantestingconference.eu/2019/topics/">Topics</a> page. We will upload them gradually in the following period.</span>
             </div>
             <p></p>
-                <a href="https://ti.to/ETC/ETC19" class="btn btn-margin">
+                <!-- <a href="https://ti.to/ETC/ETC19" class="btn btn-margin">
                 <svg width="277" height="62">
                     <defs>
                         <linearGradient id="grad1">
@@ -24,7 +25,7 @@ section_type: "site-title"
                     <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="266" height="50"></rect>
                 </svg>
                     <span>Buy Ticket</span>
-                </a> <span>or</span> 
+                </a> <span>or</span>  -->
                 <a href="/images/2019/sponsors/european_testing_conference2019_sponsorship.pdf" class="btn btn-margin">
                 <svg width="277" height="62">
                     <defs>

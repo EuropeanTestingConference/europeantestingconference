@@ -10,3 +10,5 @@ Domain invariants are all around you. In every business rule your domain expert 
 You can do them with property-based tests (PBTs). If you think you cannot do PBTs on legacy code bases (or outside FP) this talk should show you otherwise.
 
 Let’s also use property-based tests to reduce test-debt. Create smaller, fewer tests that: test more, are more readable & document the problem. Challenge your understanding of the domain and communication with domain experts.
+
+Slides: to be added soon...
