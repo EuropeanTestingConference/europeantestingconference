@@ -23,5 +23,5 @@ Video: [Quality for 'cloud natives' - what changes when your systems are complex
 
 Article: *[Testing Complex Distributed Systems at FT.com: Sarah Wells Shares Lessons Learned](https://www.infoq.com/news/2019/02/testing-distributed-systems)*  by [Ben Linders](https://twitter.com/BenLinders)
 
-Sketchnote by [Marianne Djust](https://twitter.com/marianneduijst):<br/>
+Sketchnote by [Marianne Duijst](https://twitter.com/marianneduijst):<br/>
 <img src="/images/2019/topics/natives.png" width="30%">

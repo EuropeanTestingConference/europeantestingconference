@@ -19,5 +19,5 @@ Video: [Leaping back in to the code via Remote Mobbing](https://www.pscp.tv/w/1k
 
 Article: *[Experiences from Remote Mob Programming: Q&A with Sal Freudenberg](https://www.infoq.com/news/2019/02/mob-programming-freudenberg)*  by [Ben Linders](https://twitter.com/BenLinders)
 
-Sketchnote by [Marianne Djust](https://twitter.com/marianneduijst):<br/>
+Sketchnote by [Marianne Duijst](https://twitter.com/marianneduijst):<br/>
 <img src="/images/2019/topics/mobbing.png" width="30%">

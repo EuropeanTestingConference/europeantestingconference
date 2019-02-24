@@ -15,5 +15,5 @@ Slides: to be added soon...
 
 Video: [A Tale of Testing the Untestable](https://www.pscp.tv/w/1vOxwZZpzMbJB)
 
-Sketchnote by [Marianne Djust](https://twitter.com/marianneduijst):<br/>
+Sketchnote by [Marianne Duijst](https://twitter.com/marianneduijst):<br/>
 <img src="/images/2019/topics/untestable.png" width="30%">

@@ -34,5 +34,5 @@ Slides: to be added soon...
 
 Video: [I Am Not A Cultural Fit - One Black Woman’s Account Through The Tech World](https://www.pscp.tv/w/1OdKrRRpbQvKX)
 
-Sketchnote by [Marianne Djust](https://twitter.com/marianneduijst):<br/>
+Sketchnote by [Marianne Duijst](https://twitter.com/marianneduijst):<br/>
 <img src="/images/2019/topics/fit.png" width="30%">
