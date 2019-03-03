@@ -14,4 +14,5 @@ Participants will leave the workshop with a solid understanding of common access
 **Workshop Requirements:**
  Details on requirements are available here: [https://incl.ca/speaker/practical-hands-accessibility-testing-preparation/](https://incl.ca/speaker/practical-hands-accessibility-testing-preparation/)
 
-Slides: [Practical Hands-On Accessibility Testing](https://talks.yatil.net/gTXmwp/practical-hands-on-accessibility-testing)
+Slides: [Practical Hands-On Accessibility Testing - Thurday](https://talks.yatil.net/gTXmwp/practical-hands-on-accessibility-testing-thursday)  
+[Practical Hands-On Accessibility Testing - Friday](https://talks.yatil.net/InGapE/practical-hands-on-accessibility-testing-friday)

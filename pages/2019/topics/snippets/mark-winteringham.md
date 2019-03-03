@@ -20,4 +20,4 @@ By the end of this workshop students will be able to:
 **Workshop Requirements:**
  Details on requirements are available here: [https://automationintesting.com/setup/settingupapprovaltests.html](https://automationintesting.com/setup/settingupapprovaltests.html)
 
-Slides: to be added soon...
+Slides: [Approval testing - Superpower your automation feedback](https://europeantestingconference.eu/slides19/ApprovalTesting.pdf)
