@@ -42,3 +42,12 @@ bundle install
 ```
 bundle exec jekyll serve
 ```
+
+### Building the website
+
+It seems that when adding files to the site, `bundle exec jekyll serve` is not enough.
+We need to build the site:
+
+```
+bundle exec jekyll build
+```
