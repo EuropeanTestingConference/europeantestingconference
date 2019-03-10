@@ -18,4 +18,4 @@ Key learnings:
 - How can I build my testing approach for such an interface?
 - What from my current toolset can I use for this new context?
 
-Slides: to be added soon...
+Slides: [Conversational interfaces - Testing the bots!](https://europeantestingconference.eu/slides19/Conversational_interfaces-Testing_the_bots!.pdf)

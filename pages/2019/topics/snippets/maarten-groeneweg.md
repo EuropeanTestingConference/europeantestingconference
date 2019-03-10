@@ -13,6 +13,6 @@ Fortunately there is another solution: Contract Testing. A lean way of describin
 - Why do you want it?
 - My lessons learned
 
-Slides: to be added soon...
+Slides: [Contract Testing - bye-bye Testing Monolith?](https://www.slideshare.net/MaartenGroeneweg/contract-testing-byebye-testing-monolith)
 
 Article: *[Using Contract Testing for Applications With Microservices](https://www.infoq.com/news/2019/02/contract-testing-microservices)*  by [Ben Linders](https://twitter.com/BenLinders)
