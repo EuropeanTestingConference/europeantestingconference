@@ -11,4 +11,4 @@ Yes, we can. In this talk I’ll talk about the wide variety of heuristics we’
 
 Join this session if you want to improve your exploratory testing, get better at describing what you do, or want to find ways of teaching others about it.
 
-Slides: [Heuristics and hunches in exploratory testing](https://europeantestingconference.eu/slides19/Heuristics-and-hunches-in-exploratory-testing.pdf)
+Slides: [Heuristics and hunches in exploratory testing](https://europeantestingconference.eu/slides19/Heuristics.pdf)
