@@ -29,4 +29,4 @@ This talk is split into two parts with the first detailing our journey with test
     - Unit testing
     - Handling technical debt
 
-Slides: to be added soon...
+Slides: [Test automation - Cure Vs Prevention](https://drive.google.com/file/d/1nU9IwviLZdajjOb-wmo2HbJ0BzNuHGwe/view?usp=sharing)
