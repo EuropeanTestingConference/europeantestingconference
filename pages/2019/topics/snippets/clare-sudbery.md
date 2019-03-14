@@ -13,4 +13,4 @@ The reason I asked Sal to join me is that my testing strategy was getting increa
 
 I stopped testing for bad reasons, but started again for good ones. The experience has allowed me to demonstrate in practice the impact it can have on your code base when you don't test, and also when you do. This talk, based on simple practical examples, will explain exactly why unit tests, a TDD approach and pairing can make all the difference to your code.
 
-Slides: to be added soon...
+Slides: [How to Stop Testing and Break Your Code Base](https://www.slideshare.net/ClareSudbery/etc-european-testing-conf-2019-how-to-stop-testing-and-break-your-code-base)
