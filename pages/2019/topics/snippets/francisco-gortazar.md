@@ -14,3 +14,5 @@ and how this information can be put together to facilitate a joint work between 
 making everyone's work more effective.
 
 Slides: [Bringing production observability to your testing environments](https://www.slideshare.net/elastest/bringing-observability-to-your-testing-environments-135052207)
+
+Article: *[Observability in Testing with ElasTest](https://www.infoq.com/news/2019/03/observability-testing-elastest)*
