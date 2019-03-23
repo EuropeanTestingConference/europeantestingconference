@@ -30,7 +30,7 @@ Why should I care about diversity? In this talk you will be challenged to take a
 own participation in these communities and gain understanding of how to recognize issues and
 support solutions.
 
-Slides: to be added soon...
+Slides: [I Am Not A Cultural Fit - One Black Woman’s Account Through The Tech World](https://europeantestingconference.eu/slides19/IAmNotACultureFit.key)
 
 Video: [I Am Not A Cultural Fit - One Black Woman’s Account Through The Tech World](https://www.pscp.tv/w/1OdKrRRpbQvKX)
 
