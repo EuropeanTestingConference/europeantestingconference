@@ -13,7 +13,7 @@ Aren’t you autistic - how on earth did you cope with mobbing?
 
 Learn the answers to these questions and more, along with some hints and tips for learning, mobbing, working remotely and tuning for inclusivity.
 
-Slides: to be added soon...
+Slides: [Leaping back in to the code via Remote Mobbing](https://www.slideshare.net/SallyannFreudenberg/leaping-back-into-the-code-etc-2019-keynote)
 
 Video: [Leaping back in to the code via Remote Mobbing](https://www.pscp.tv/w/1kvKpEEklQQGE)
 
