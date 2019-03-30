@@ -11,7 +11,7 @@ Seems easy enough. Immediate tests that come to mind are around the advertiser b
 
 In this talk, Angie will share her story of trying to automate test scenarios that were essentially untestable due to various limitations and restrictions. Warning: this story is not filled with warm fuzzies and rainbows. No, it’s filled with challenge after challenge. Angie will discuss the technical challenges, and how coming up with solutions to these were still not enough. She’ll share the details of her harsh realization that the power to test the untestable was not in her hands alone, and that a “whole team” approach was the only way to truly be successful.
 
-Slides: to be added soon...
+Slides: [A Tale of Testing the Untestable](https://slides.com/angiejones/testing-the-untestable#/)
 
 Video: [A Tale of Testing the Untestable](https://www.pscp.tv/w/1vOxwZZpzMbJB)
 
