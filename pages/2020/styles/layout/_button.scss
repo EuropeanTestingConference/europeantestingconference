@@ -1,0 +1,112 @@
+a.btn:hover, a.btn:active { outline: 0; color: $hover-link-color; text-decoration: none;}
+
+.btn {
+    position: relative;
+    display: inline-block;
+    width: 277px;
+    height: 50px;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 900;
+    font-size: 17px;
+    letter-spacing: 0.045em;
+}
+
+.btn svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.btn svg rect {
+    //stroke: #EC0033;
+    stroke-width: 4;
+    stroke-dasharray: 353, 0;
+    stroke-dashoffset: 0;
+    -webkit-transition: all 600ms ease;
+    transition: all 600ms ease;
+}
+
+.btn span {
+    background: rgb(177, 99, 163);
+    background: -moz-linear-gradient(left, rgba(177, 99, 163, 1) 0%, rgba(255, 255, 255, 1) 100%);
+    background: -webkit-linear-gradient(left, rgba(177, 99, 163, 1) 0%, rgba(255, 255, 255, 1) 100%);
+    background: linear-gradient(to right, rgba(177, 99, 163, 1) 0%, rgba(255, 255, 255, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$orchid, endColorstr=$white,GradientType=1 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn:hover svg rect {
+    stroke-width: 4;
+    stroke-dasharray: 196, 543;
+    stroke-dashoffset: 437;
+}
+
+.btn-margin {
+    margin-bottom: 10px;
+}
+
+form.hide-submit input[type="submit"] { display: none;}
+
+@media screen and (max-width: $navi_mobile){
+    a.btn {
+        width: 200px;
+        height: 30px;
+        line-height: 40px;
+    }
+
+    a.btn svg {
+        width: 220px;
+        height: 50px;
+    }
+
+    a.btn svg rect {
+        x: 2;
+        y: 2;
+        width: 200px;
+        height: 40px;
+    }
+
+    .btn svg rect {
+        -webkit-transition: none;
+        transition: none;
+    }
+
+    .btn:hover svg rect {
+        stroke-width: 4;
+        stroke-dasharray: 353, 0;
+        stroke-dashoffset: 0;
+    }
+}
+
+@media screen and (max-height: 375px) {
+    .btn {
+        margin: -4px 14px;
+    }
+
+    a.btn {
+        width: 200px;
+        height: 30px;
+        line-height: 40px;
+    }
+
+    a.btn svg {
+        width: 220px;
+        height: 50px;
+    }
+
+    a.btn svg rect {
+        x: 2;
+        y: 2;
+        width: 200px;
+        height: 40px;
+    }
+}

@@ -1,0 +1,155 @@
+$spider-size: 100px;
+$leg-size: 40px;
+
+@mixin size($width, $height: $width) {
+  width: $width;
+  height: $height;
+}
+
+html {
+  &:hover .spider {
+    top: -120%;
+  }
+}
+
+.spider {
+  position: absolute;
+  display: inline-block;
+  top: 0;
+  left: 15%;
+  transition: 1s ease-in-out;
+  animation: swing 2s infinite;
+  transform-origin: top;
+}
+
+.spiderweb {
+  @include size(2px, 300px);
+  margin-left: $spider-size / 2 - 1px;
+  background-color: rgba(white, 0.3);
+}
+
+.body {
+  @include size($spider-size, $spider-size * 0.8);
+  position: relative;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.eye {
+  @include size($spider-size / 3);
+  position: absolute;
+  bottom: $spider-size / 5;
+  background-color: white;
+  border-radius: 50%;
+  
+  &:after {
+    @include size($spider-size / 15);
+    content: "";
+    display: block;
+    margin: 55%;
+    background-color: black;
+    border-radius: 50px;
+    animation: look 8s infinite;
+  }
+  
+  &.left {
+    left: $spider-size / 7;
+  }
+  
+  &.right {
+    right: $spider-size / 7;
+  }
+}
+
+.legs {
+  position: absolute;
+  bottom: -10%;
+  z-index: -1;
+  
+  &.left {
+    left: -70%;
+  }
+  
+  &.right {
+    right: -60%;
+  }
+}
+
+.leg {
+  @include size($leg-size * 2, $leg-size);
+  margin-top: -$leg-size / 2;
+  border: 5px solid transparent;
+  border-top-color: black;
+  border-radius: 50%/#{$leg-size} $leg-size 0 0;
+}
+
+@for $i from 1 through 3 {
+  .legs.left .leg:nth-child(#{$i}) {
+    transform: rotate(40deg - $i * 30deg);
+    margin-left: $i * 10px;
+  }
+  
+  .legs.right .leg:nth-child(#{$i}) {
+    transform: rotate(-40deg + $i * 30deg);
+    margin-left: $i * -10px;
+  }
+}
+
+@keyframes swing {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes look {
+  0% {
+    transform: translateX(0);
+  }
+  40% {
+    transform: translateX(0);
+  }
+  45% {
+    transform: translateX(-110%);
+  }
+  95% {
+    transform: translateX(-110%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.web-right {
+	position: absolute;
+	height: 200px;
+	width: auto;
+	right: -10px;
+	top: -10px;
+	z-index: 10;
+	opacity: 0.6;
+}
+
+.web-left-bottom {
+	position: absolute;
+	left: -10px;
+	bottom: 0px;
+	transform: (rotate(180deg));
+	z-index: 10;
+	opacity: 0.6;
+}
+
+@media screen and (max-width: $navi_mobile){
+    .web-left-bottom {
+        display: none;
+    }
+
+    .spider {
+        display: none;
+    }
+}

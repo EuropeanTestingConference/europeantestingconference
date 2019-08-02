@@ -1,0 +1,1 @@
+<li class="b-sponsor-list__sponsor b-sponsor"><a  class="b-sponsor__link" href="https://www.manning.com/"><img class="b-sponsor__img" src="/images/2020/sponsors/manning.png" width="30%" height="30%"/></a></li>

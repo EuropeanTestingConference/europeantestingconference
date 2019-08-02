@@ -1,0 +1,105 @@
+.b-header{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgba($shark, 0.85);
+  z-index: 1;
+
+  &__logo{
+    flex: 0;
+    padding: 0 20px;
+  }
+
+  &__nav{
+    flex: 1;
+    align-self: flex-end;
+    margin: 0;
+    z-index: 100;
+  }
+
+  &__mobile-trigger{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  &__link-to-nav{
+    float: right;
+    color: #fff;
+    background: #4e4e4e;
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 22px;
+    height: 22px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+
+    &:hover,
+    &:focus {
+      color: #1c1c1c;
+      background: #ccc;
+    }
+  }
+
+}
+
+.b-sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.b-logo{
+
+  &__img{
+    width: 10rem;
+    margin-top: 10px;
+  }
+}
+
+@media screen and (min-width: $mobile-navi-max) {
+  .b-header{
+    &__mobile-trigger{
+      display: none;
+    }
+  }
+}
+
+@media screen and (min-width: 960px ){
+  .b-header{
+    margin: auto;
+    justify-content: space-between;
+    z-index: 1;
+  }
+}
+
+@media screen and (max-width: 960px ) and (min-width: 760px){
+  .b-logo {
+    &__img{
+      width: 10rem;
+      margin-top: 10px;      
+    }
+  }
+}
+
+@media screen and (max-width: 840px ){
+  .b-logo{
+    &__img{
+      width: 10rem;
+      margin-top: 10px;
+    }
+  }
+
+}
+
+.rectangle {
+  margin-top: 1%;
+  background: rgba($shark, 0.6);
+  width: 100%;
+  height: 100%;
+}

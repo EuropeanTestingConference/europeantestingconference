@@ -1,0 +1,60 @@
+
+
+.b-cta{
+
+  &__main{
+    color: inherit;
+    font-size: 3.5em;
+    margin: auto;
+
+  }
+  &__support{
+    color: inherit;
+    font-size: 2.7em;
+    margin: auto;
+    padding: 10px;
+  }
+  &_wrappable{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.b-button{
+
+  background: $emerald;
+  padding: 10px;
+  border: 1px solid $emerald;
+  border-radius: 18px;
+  color: $white;
+
+  &__buy-ticket{
+    margin: 40px;
+  }
+
+  &__buy-ticket-link{
+    color: inherit;
+    padding: 0 40px;
+    font-size: x-large;
+
+    //LOVE - HATE
+    &:visited{
+      color: inherit;
+    }
+    &:hover{
+      color: inherit;
+    }
+  }
+
+  &__buy-ticket-text{
+    padding: 0 10px;
+    font-size: x-large;
+  }
+
+  //&__fa{
+  //  padding: 0 10px;
+  //}
+
+}
+
+

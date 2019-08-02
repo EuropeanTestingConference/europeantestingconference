@@ -1,0 +1,42 @@
+
+.b-topic{
+  padding: 20px;
+  text-align: left;
+
+  &__excerpt{
+    display: none;
+  }
+
+  &__full{
+    display: none;
+  }
+
+  &:nth-child(even) {
+    background: rgba($silver, 0.4);
+  }
+
+  .slides-enabled {
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: $navi_mobile) {
+
+  .b-topic{
+    &__info{
+      display: none;
+    }
+    &__excerpt{
+      display: block;
+    }
+
+    &__full{
+      display: block;
+    }
+
+    &__hidden{
+      display: none;
+    }
+  }
+
+}

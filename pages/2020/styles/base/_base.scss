@@ -1,0 +1,31 @@
+:root{
+  font-size: 0.875em;
+}
+
+body
+{
+  width: 100%;
+  background: rgba($shark, 0.1);
+
+  font-family: 'Source Sans Pro', sans-serif;
+  color: $main-text-color;
+  padding: 0;
+  margin: 0;
+}
+
+.main-content {
+  margin-top: 65px;
+}
+
+@media screen and (max-width: $navi_mobile){
+  .main-content {
+    margin-top: 123px;
+  }
+}
+
+@media screen and (max-width: 910px) {
+  body{
+    font-size: 14px;
+  }
+
+}

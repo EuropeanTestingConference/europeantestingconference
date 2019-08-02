@@ -1,0 +1,1 @@
+<li class="b-sponsor-list__sponsor b-sponsor"><a  class="b-sponsor__link" href="https://irdeto.com/"><img class="b-sponsor__img" src="/images/2020/sponsors/irdeto_logo_rgb-purple.png" width="40%" height="40%"/></a></li>
