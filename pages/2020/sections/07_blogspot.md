@@ -3,7 +3,7 @@ about: blog
 type: block-content
 section_type: "block-content"
 ---
-<div style="background: white">
+<div style="background: white; width: 100%">
 	<h3 class="b-section__title">Our Blog</h3>
 	<div id="blog-container" class="b-block-content__block" data-resource="https://europeantestingconference.blogspot.com/feeds/posts/default?alt=json">
 		<p>We blog about testing, and the event

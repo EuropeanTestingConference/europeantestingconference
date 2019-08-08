@@ -5,10 +5,10 @@ layout: content-2020
 type: text-content
 ---
 ## Venue Address
-[Amsterdam Arena, ArenA Boulevard 1, 1101 Amsterdam](https://goo.gl/maps/eMMM8KoGda82)
+[Johan Cruijff ArenA, ArenA Boulevard 1, 1101 Amsterdam](https://goo.gl/maps/eMMM8KoGda82)
 
 ## Hotels & How to get to the venue
-There are a couple of Hotels near the Amsterdam Arena. 
+There are a couple of Hotels near the Johan Cruijff ArenA. 
 
 ### Via Airplane
 Amsterdam Airport Schiphol (AMS) is the closest international airport nearby.  
@@ -23,7 +23,7 @@ building please register at the reception.
 
 ### Via Public Transport
 <img class="b-image-left__img" src="/images/2018/general/amsterdam-arena.png"/>  
-Amsterdam ArenA is next to the Bijlmer ArenA station.  
+Johan Cruijff ArenA is next to the Bijlmer ArenA station.  
 Metro Line 54 connects the Bijlmer ArenA directly to Amsterdam Central Station and offers suitable connections to other parts of the city.
 From the region you can travel by bus or train to the Amsterdam Bijlmer ArenA.  
 When you enter the ArenA Boulevard, please follow the street towards Villa ArenA. If
