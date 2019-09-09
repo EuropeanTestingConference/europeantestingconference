@@ -7,15 +7,15 @@ _title: "In Brief"
 
 <div id="" class="b-in-brief__item b-in-brief-text">
     <!-- <span class="b-in-brief-text__num">4</span> -->
-    <span class="b-in-brief-text__desc"><span>keynotes</span></span>
+    <span class="b-in-brief-text__desc"><span>4 keynotes</span></span>
 </div>
 <div id="" class="b-in-brief__item b-in-brief-text">
     <!-- <span class="b-in-brief-text__num">5</span> -->
-    <span class="b-in-brief-text__desc"><span>workshops</span><span>to choose 2 from</span></span>
+    <span class="b-in-brief-text__desc"><span>5 workshops</span><span>to choose 2 from</span></span>
 </div>
 <div id="" class="b-in-brief__item b-in-brief-text">
     <!-- <span class="b-in-brief-text__num">3</span> -->
-    <span class="b-in-brief-text__desc"><span>demo talks</span><span>of real life examples</span></span>
+    <span class="b-in-brief-text__desc"><span>12 demo talks</span><span>of real life examples</span></span>
 </div>
 <div id="" class="b-in-brief__item b-in-brief-text">
     <!-- <span class="b-in-brief-text__num">3</span> -->
