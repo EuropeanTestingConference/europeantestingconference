@@ -21,8 +21,7 @@ layout: index-2020
 
 </div>
 <div class="container speakers"  id="speakers">
- <h2 class="b-page-title">Additional speakers to be announced</h2>
-<!-- <h2>Other Speakers</h2> -->
+ <h2>Other Speakers</h2>
 {% for page in site.pages %}
 {% if page.path contains snippet_path %}
 {% if page.keynote == false %}
@@ -31,3 +30,5 @@ layout: index-2020
 {% endif %}
 {% endfor %}
 </div>
+
+ <h2 class="b-page-title">Additional speakers to be announced</h2>
