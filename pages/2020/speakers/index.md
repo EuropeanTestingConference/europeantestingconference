@@ -31,4 +31,4 @@ layout: index-2020
 {% endfor %}
 </div>
 
- <h2 class="b-page-title">Additional speakers to be announced</h2>
+ <!--<h2 class="b-page-title">Additional speakers to be announced</h2>-->

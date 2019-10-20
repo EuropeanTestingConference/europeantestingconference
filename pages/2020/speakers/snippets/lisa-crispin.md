@@ -4,6 +4,8 @@ keynote: false
 id: lisa-crispin
 twitter: lisacrispin ‏
 image: /images/2020/people/lisa-crispin.jpg
+talks:
+-  id: janet-gregory
 ---
 Lisa Crispin is the co-author, with Janet Gregory, of [Agile Testing Condensed](https://leanpub.com/agiletesting-condensed), More Agile Testing: Learning Journeys for the Whole Team, Agile Testing: A Practical Guide for Testers and Agile Teams, the LiveLessons Agile Testing Essentials video course, and “The Whole Team Approach to Agile Testing” 3-day training course.
 

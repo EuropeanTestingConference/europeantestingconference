@@ -4,6 +4,8 @@ keynote: false
 id: nelis-boucke
 twitter: nelisboucke ‏
 image: /images/2020/people/nelis-boucke.jpg
+talks:
+-  id: matteo-pierro
 ---
 Software crafter with a profound interest in defining environments where teams can thrive to build great products.
 Experience with agile, software architecture and technical excellence in both SME and corporate settings.
