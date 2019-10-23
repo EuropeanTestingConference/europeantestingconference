@@ -2,7 +2,7 @@
 _name: Gem Hill
 keynote: false
 id: gem-hill
-twitter: Gem_Hill ‏
+twitter: Gem_Hill
 image: /images/2020/people/gem-hill.jpeg
 ---
 Gem Hill is a Senior Tester in the Voice + AI team, working on BBC skills for Alexa and other voice platforms. She is

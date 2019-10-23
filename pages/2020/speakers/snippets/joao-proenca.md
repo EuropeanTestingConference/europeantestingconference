@@ -2,7 +2,7 @@
 _name: João Proença
 keynote: false
 id: joao-proenca
-twitter: jrosaproenca ‏
+twitter: jrosaproenca
 image: /images/2020/people/joao-proenca.jpg
 ---
 João Proença comes from Lisbon, Portugal, and is Quality Owner in R&D for OutSystems, a company that provides one of the

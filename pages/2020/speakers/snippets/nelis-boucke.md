@@ -2,7 +2,7 @@
 _name: Nelis Boucke
 keynote: false
 id: nelis-boucke
-twitter: nelisboucke ‏
+twitter: nelisboucke
 image: /images/2020/people/nelis-boucke.jpg
 talks:
 -  id: matteo-pierro

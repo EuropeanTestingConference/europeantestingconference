@@ -2,7 +2,7 @@
 _name: Bernardo Guerreiro
 keynote: false
 id: bernardo-guerreiro
-twitter: bernardobridge ‏
+twitter: bernardobridge
 image: /images/2020/people/bernardo-guerreiro.jpg
 ---
 Bernardo Guerreiro, from Portugal and living in London, is a Software Engineer with a focus on Release and Testing. He

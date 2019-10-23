@@ -2,7 +2,7 @@
 _name: Elizabeth Zagroba
 keynote: false
 id: elizabeth-zagroba
-twitter: ezagroba ‏
+twitter: ezagroba
 image: /images/2020/people/elizabeth-zagroba1.jpg
 ---
 Elizabeth tests software at Mendix in Rotterdam, The Netherlands. She was the keynote speaker at Let’s Test in South
