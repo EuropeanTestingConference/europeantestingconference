@@ -15,8 +15,9 @@ Teams need to adopt a relentless focus on Testability, eliminating anything that
 A whole team focus on Testability shortens feedback loops and accelerates learning while enabling more robust
 automation, as well as deep, meaningful testing.
 
-In this workshop, you'll work with core concepts and models used to explain and advocate for testability. Participants will work through a series of exercises that I have used through my career from Tester to Test Coach.
-The exercises will help to identify and address testing debt as well as establish a whole team focus on testability.
+In this workshop, you'll work with core concepts and models used to explain and advocate for Testability. Participants
+will work through a series of exercises that I have used through my career from Tester to Test Coach. The exercises will
+help to identify and address testing debt as well as establish a whole team focus on Testability.
 
 This workshop is aimed at anyone involved in software delivery but would be most beneficial for developers and testers.
 
@@ -24,8 +25,9 @@ This workshop is aimed at anyone involved in software delivery but would be most
 
 After the workshop you will:
 
-Understand and explain testability, the factors that influence testability and the impact testing debt has on a teams productivity.
+Understand and explain Testability, the factors that influence Testability and the impact testing debt has on a teams
+productivity.
 
-Identify and address architectural testability problems using a combination of models and practical exercises.
+Identify and address architectural Testability problems using a combination of models and practical exercises.
 
-Identify and address holistic, whole team testability problems using a combination of models and practical exercises.
+Identify and address holistic, whole team Testability problems using a combination of models and practical exercises.
