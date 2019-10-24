@@ -7,11 +7,11 @@ topic-category: exploratory
 ---
 Do you do these things with your team members?
 
-  x Challenge them to solve their own problems
+•	Challenge them to solve their own problems
 
-  x Motivate them with frequent feedback
+•	Motivate them with frequent feedback
 
-  x Empower them to make their own mistakes
+•	Empower them to make their own mistakes
 
 Leaders often base their daily interactions with team members on similar premises. But do they always work? 
 Good leaders know that no leadership practice is universally applicable. We don’t apply “standard” practices blindly.

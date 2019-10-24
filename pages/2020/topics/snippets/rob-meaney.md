@@ -25,9 +25,9 @@ This workshop is aimed at anyone involved in software delivery but would be most
 
 After the workshop you will:
 
-Understand and explain Testability, the factors that influence Testability and the impact testing debt has on a teams
+•	Understand and explain Testability, the factors that influence Testability and the impact testing debt has on a teams
 productivity.
 
-Identify and address architectural Testability problems using a combination of models and practical exercises.
+•	Identify and address architectural Testability problems using a combination of models and practical exercises.
 
-Identify and address holistic, whole team Testability problems using a combination of models and practical exercises.
+•	Identify and address holistic, whole team Testability problems using a combination of models and practical exercises.
