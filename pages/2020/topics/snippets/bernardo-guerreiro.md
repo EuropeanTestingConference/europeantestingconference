@@ -17,13 +17,13 @@ In this workshop, we are going to try to work as a company with teams looking to
 
 What can you look to gain from this workshop?
 
-A deeper understanding of Contract Testing through the use of Pact; 
+•	A deeper understanding of Contract Testing through the use of Pact; 
 
-Knowledge on important concepts like versioning, tagging and naming conventions; 
+•	Knowledge on important concepts like versioning, tagging and naming conventions; 
 
-Insight on Pact’s learning curve, and some mistakes people tend to make; 
+•	Insight on Pact’s learning curve, and some mistakes people tend to make; 
 
-An idea on how the Pact workflow works from a simulated hands-on situation.
+•	An idea on how the Pact workflow works from a simulated hands-on situation.
 
 You can get more out of this workshop if you already have some beginner/intermediate knowledge of Pact. However, we will
 briefly go through some basics, and at the very least you can pick up some important notes and tips along the way. So,
