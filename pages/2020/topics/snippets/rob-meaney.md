@@ -1,6 +1,6 @@
 ---
 speaker: Rob Meaney
-title: Exploring Architectural Testability, Testing Debit & Holistic Testability
+title: Exploring Testability
 id: rob-meaney
 workshop: true
 topic-category: automation
