@@ -1,5 +1,5 @@
 ---
-speaker: Joep Schuurkes & Elizabeth Zagroba
+speaker: Elizabeth Zagroba & Joep Schuurkes
 title: Mob testing; building good habits
 id: elizabeth-zagroba
 talk: true
