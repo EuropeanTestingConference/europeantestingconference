@@ -1,6 +1,6 @@
 ---
 speaker: Hilary Weaver-Robb
-title: Boost Your Leadership Capability with Heuristics
+title: The Hidden Treasure of Static Analysis - Finding Risks In Forgotten Places
 id: hilary-weaver-robb
 talk: true
 topic-category: automation 
