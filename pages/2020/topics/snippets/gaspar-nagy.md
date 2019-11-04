@@ -2,6 +2,6 @@
 speaker: Gáspár Nagy
 title: Breaking down problems with example mapping
 id: gaspar-nagy
-talk: true
+workshop: true
 topic-category: exploratory
 ---
