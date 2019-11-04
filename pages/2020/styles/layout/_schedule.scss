@@ -155,13 +155,13 @@
   border: none;
 }
 
-.no-room{ background: rgba(255,255,255,0.9); }
-.auditorium { background: rgba(230, 159, 0, 0.9); }
-.ausia-1 { background: rgba(0, 158, 115, 0.9); }
-.ausia-2 { background: rgba(240, 228, 66, 0.9); }
-.ausia-3 { background: rgba(0, 114, 178, 0.9); }
-.navarro { background: rgba(213, 94, 0, 0.9); }
-.cupula { background: rgba(86, 180, 233, 0.9);}
+.no-room{ background: rgba(255,255,255,0.85); }
+.auditorium { background: rgba(255, 140, 0, 0.85); }
+.ausia-1 { background: rgba(0, 128, 38, 0.85); }
+.ausia-2 { background: rgba(255, 237, 0, 0.85); }
+.ausia-3 { background: rgba(0, 77, 255, 0.85); }
+.navarro { background: rgba(228, 3, 3, 0.85); }
+.cupula { background: rgba(117, 7, 135, 0.85);}
 
 .thurs.no-room.registration { 
   grid-row: 1 / span 1; 
