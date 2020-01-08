@@ -1,6 +1,6 @@
 ---
 speaker: Crystal Onyeari Mbanefo
-title: Learning to give Uplifting feedback
+title: Exploring different ways of Giving and Receiving feedback
 id: crystal-onyeari-mbanefo
 talk: true
 topic-category: exploratory 
