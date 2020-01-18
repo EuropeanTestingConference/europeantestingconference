@@ -15,8 +15,13 @@ title: "Sponsors"
 
 <h3>Partners</h3>
 <span class="b-sponsors__sponsor  b-sponsor">
-  <a class="b-sponsor__link b-itext-sponsor" href="https://www.sli.do/">
+  <a class="b-sponsor__link b-itext-sponsor" href="https://www.manning.com/">
     <img src="/images/2020/sponsors/slido_green.png" width="50%" height="50%">
+  </a>
+</span>
+<span class="b-sponsors__sponsor  b-sponsor">
+  <a class="b-sponsor__link b-itext-sponsor" href="https://www.manning.com/">
+    <img src="/images/2020/sponsors/Manninglogo_outline.png" width="50%" height="50%">
   </a>
 </span>
 
