@@ -28,3 +28,5 @@ What can you look to gain from this workshop?
 You can get more out of this workshop if you already have some beginner/intermediate knowledge of Pact. However, we will
 briefly go through some basics, and at the very least you can pick up some important notes and tips along the way. So,
 all are welcome!
+
+**Requirements: Bring a laptop with node installed and NVM for package management.**
