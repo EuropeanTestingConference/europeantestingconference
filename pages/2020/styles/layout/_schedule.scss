@@ -157,11 +157,11 @@
 
 .no-room{ background: rgba(255,255,255,0.9); }
 .auditorium { background: rgba(145,191,219, 0.9); }
-.ausia-1 { background: rgba(224,243,248, 0.9); }
-.ausia-2 { background: rgba(254,224,144, 0.9); }
+.london { background: rgba(224,243,248, 0.9); }
+.belgrado { background: rgba(254,224,144, 0.9); }
 .ausia-3 { background: rgba(252,141,89, 0.9); }
-.navarro { background: rgba(215,48,39, 0.9); }
-.cupula { background: rgba(69,117,180, 0.9);}
+.straatsburg { background: rgba(215,48,39, 0.9); }
+.lobby { background: rgba(69,117,180, 0.9);}
 
 .thurs.no-room.registration { 
   grid-row: 1 / span 1; 
@@ -178,16 +178,16 @@
   grid-column: 2 / span 6; 
 }
 
-.thurs.cupula.coffee-brake-1 {
+.thurs.lobby.coffee-brake-1 {
   grid-row: 4 / span 1;
   grid-column: 2 / span 6; 
 }
 
-.thurs.ausia-1.talk-1 {
+.thurs.london.talk-1 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 2; 
 }
-.thurs.ausia-2.talk-2 {
+.thurs.belgrado.talk-2 {
   grid-row: 1 / span 1;
   grid-column: 4 / span 2; 
 }
@@ -196,25 +196,25 @@
   grid-column: 6 / span 2; 
 }
 
-.thurs.cupula.brake {
+.thurs.lobby.brake {
   grid-row: 1 / span 1;
   grid-column: 2 / span 6; 
 }
 
-.thurs.cupula.speed-meet {
+.thurs.lobby.speed-meet {
   grid-row: 2 / span 1;
   grid-column: 2 / span 6; 
 }
-.thurs.cupula.lunch {
+.thurs.lobby.lunch {
   grid-row: 3 / span 1;
   grid-column: 2 / span 6; 
 }
 
-.thurs.ausia-1.workshop-1 {
+.thurs.london.workshop-1 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 1; 
 }
-.thurs.ausia-2.workshop-2 {
+.thurs.belgrado.workshop-2 {
   grid-row: 1 / span 1;
   grid-column: 3 / span 1; 
 }
@@ -222,7 +222,7 @@
   grid-row: 1 / span 1;
   grid-column: 4 / span 1; 
 }
-.thurs.navarro.workshop-4 {
+.thurs.straatsburg.workshop-4 {
   grid-row: 1 / span 1;
   grid-column: 5 / span 1; 
 }
@@ -230,21 +230,21 @@
   grid-row: 1 / span 1;
   grid-column: 6 / span 1; 
 }
-.thurs.cupula.workshop-6 {
+.thurs.lobby.workshop-6 {
   grid-row: 1 / span 1;
   grid-column: 7 / span 1; 
 }
 
-.thurs.cupula.coffee-brake-2 {
+.thurs.lobby.coffee-brake-2 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 6; 
 }
 
-.thurs.ausia-1.talk-4 {
+.thurs.london.talk-4 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 2; 
 }
-.thurs.ausia-2.talk-5 {
+.thurs.belgrado.talk-5 {
   grid-row: 1 / span 1;
   grid-column: 4 / span 2; 
 }
@@ -253,17 +253,17 @@
   grid-column: 6 / span 2; 
 }
 
-.thurs.cupula.brake-2 {
+.thurs.lobby.brake-2 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 6; 
 }
 
-.thurs.ausia-1.lean {
+.thurs.london.lean {
   grid-row: 2 / span 1;
   grid-column: 2 / span 2; 
 }
 
-.thurs.ausia-2.lean {
+.thurs.belgrado.lean {
   grid-row: 2 / span 1;
   grid-column: 4 / span 2; 
 }
@@ -273,7 +273,7 @@
   grid-column: 6 / span 2; 
 }
 
-.thurs.cupula.brake-3 {
+.thurs.lobby.brake-3 {
   grid-row: 3 / span 1;
   grid-column: 2 / span 6; 
 }
@@ -288,12 +288,12 @@
   grid-column: 2 / span 6; 
 }
 
-.thurs.ausia-1.get-together {
+.thurs.london.get-together {
   grid-row: 6 / span 1;
   grid-column: 2 / span 2; 
 }
 
-.thurs.ausia-2.get-together {
+.thurs.belgrado.get-together {
   grid-row: 6 / span 1;
   grid-column: 4 / span 2; 
 }
@@ -308,16 +308,16 @@
   grid-column: 2 / span 6; 
 }
 
-.fri.cupula.coffee-brake-1 {
+.fri.lobby.coffee-brake-1 {
   grid-row: 2 / span 1;
   grid-column: 2 / span 6; 
 }
 
-.fri.ausia-1.workshop-1 {
+.fri.london.workshop-1 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 1; 
 }
-.fri.ausia-2.workshop-2 {
+.fri.belgrado.workshop-2 {
   grid-row: 1 / span 1;
   grid-column: 3 / span 1; 
 }
@@ -325,7 +325,7 @@
   grid-row: 1 / span 1;
   grid-column: 4 / span 1; 
 }
-.fri.navarro.workshop-4 {
+.fri.straatsburg.workshop-4 {
   grid-row: 1 / span 1;
   grid-column: 5 / span 1; 
 }
@@ -333,21 +333,21 @@
   grid-row: 1 / span 1;
   grid-column: 6 / span 1; 
 }
-.fri.cupula.workshop-6 {
+.fri.lobby.workshop-6 {
   grid-row: 1 / span 1;
   grid-column: 7 / span 1; 
 }
 
-.fri.cupula.lunch {
+.fri.lobby.lunch {
   grid-row: 1 / span 1;
   grid-column: 2 / span 6; 
 }
 
-.fri.ausia-1.talk-1 {
+.fri.london.talk-1 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 2; 
 }
-.fri.ausia-2.talk-2 {
+.fri.belgrado.talk-2 {
   grid-row: 1 / span 1;
   grid-column: 4 / span 2; 
 }
@@ -356,16 +356,16 @@
   grid-column: 6 / span 2; 
 }
 
-.fri.cupula.brake-1 {
+.fri.lobby.brake-1 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 6; 
 }
 
-.fri.ausia-1.talk-4 {
+.fri.london.talk-4 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 2; 
 }
-.fri.ausia-2.talk-5 {
+.fri.belgrado.talk-5 {
   grid-row: 1 / span 1;
   grid-column: 4 / span 2; 
 }
@@ -374,16 +374,16 @@
   grid-column: 6 / span 2; 
 }
 
-.fri.cupula.coffee-brake-2 {
+.fri.lobby.coffee-brake-2 {
   grid-row: 1 / span 1;
   grid-column: 2 / span 6; 
 }
 
-.fri.ausia-1.open-space {
+.fri.london.open-space {
   grid-row: 2 / span 1;
   grid-column: 2 / span 1; 
 }
-.fri.ausia-2.open-space {
+.fri.belgrado.open-space {
   grid-row: 2 / span 1;
   grid-column: 3 / span 1; 
 }
@@ -391,7 +391,7 @@
   grid-row: 2 / span 1;
   grid-column: 4 / span 2; 
 }
-.fri.navarro.open-space {
+.fri.straatsburg.open-space {
   grid-row: 2 / span 1;
   grid-column: 6 / span 1; 
 }
@@ -400,7 +400,7 @@
   grid-column: 7 / span 1; 
 }
 
-.fri.cupula.brake-2 {
+.fri.lobby.brake-2 {
   grid-row: 3 / span 1;
   grid-column: 2 / span 6; 
 }
@@ -453,11 +453,11 @@
     grid-row: 1 / span 1;
     grid-column: 2 / span 3; 
   }
-  .room.ausia-1 {
+  .room.london {
     grid-row: 1 / span 1;
     grid-column: 5 / span 3; 
   }
-  .room.ausia-2 {
+  .room.belgrado {
     grid-row: 2 / span 1;
     grid-column: 2 / span 3; 
   }
@@ -465,11 +465,11 @@
     grid-row: 2 / span 1;
     grid-column: 5 / span 3; 
   }
-  .room.navarro {
+  .room.straatsburg {
     grid-row: 3 / span 1;
     grid-column: 2 / span 3; 
   }
-  .room.cupula {
+  .room.lobby {
     grid-row: 3 / span 1;
     grid-column: 5 / span 3; 
   }
@@ -519,11 +519,11 @@
     grid-row-start: span 5;
   }
 
-  .thurs.ausia-1.talk-1 {
+  .thurs.london.talk-1 {
     grid-row: 1 / span 1;
     grid-column: 2 / span 6; 
   }
-  .thurs.ausia-2.talk-2 {
+  .thurs.belgrado.talk-2 {
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -532,11 +532,11 @@
     grid-column: 2 / span 6; 
   }
 
-  .thurs.ausia-1.workshop-1 {
+  .thurs.london.workshop-1 {
     grid-row: 1 / span 1;
     grid-column: 2 / span 6; 
   }
-  .thurs.ausia-2.workshop-2 {
+  .thurs.belgrado.workshop-2 {
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -544,7 +544,7 @@
     grid-row: 3 / span 1;
     grid-column: 2 / span 6;
   }
-  .thurs.navarro.workshop-4 {
+  .thurs.straatsburg.workshop-4 {
     grid-row: 4 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -553,11 +553,11 @@
     grid-column: 2 / span 6;
   }
 
-  .thurs.ausia-1.talk-4 {
+  .thurs.london.talk-4 {
     grid-row: 1 / span 1;
     grid-column: 2 / span 6; 
   }
-  .thurs.ausia-2.talk-5 {
+  .thurs.belgrado.talk-5 {
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -591,11 +591,11 @@
     grid-template-columns: 80px 15% 15% 15% 15% 15% 15%;
   }
 
-  .fri.ausia-1.workshop-1 {
+  .fri.london.workshop-1 {
     grid-row: 1 / span 1;
     grid-column: 2 / span 6; 
   }
-  .fri.ausia-2.workshop-2 {
+  .fri.belgrado.workshop-2 {
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -603,7 +603,7 @@
     grid-row: 3 / span 1;
     grid-column: 2 / span 6; 
   }
-  .fri.navarro.workshop-4 {
+  .fri.straatsburg.workshop-4 {
     grid-row: 4 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -612,11 +612,11 @@
     grid-column: 2 / span 6; 
   }
 
-  .fri.ausia-1.talk-1 {
+  .fri.london.talk-1 {
     grid-row: 1 / span 1;
     grid-column: 2 / span 6; 
   }
-  .fri.ausia-2.talk-2 {
+  .fri.belgrado.talk-2 {
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -625,11 +625,11 @@
     grid-column: 2 / span 6; 
   }
 
-  .fri.ausia-1.talk-4 {
+  .fri.london.talk-4 {
     grid-row: 1 / span 1;
     grid-column: 2 / span 6; 
   }
-  .fri.ausia-2.talk-5 {
+  .fri.belgrado.talk-5 {
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
