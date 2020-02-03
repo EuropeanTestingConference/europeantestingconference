@@ -159,7 +159,7 @@
 .auditorium { background: rgba(145,191,219, 0.9); }
 .london { background: rgba(224,243,248, 0.9); }
 .belgrado { background: rgba(254,224,144, 0.9); }
-.ausia-3 { background: rgba(252,141,89, 0.9); }
+.madrid { background: rgba(252,141,89, 0.9); }
 .straatsburg { background: rgba(215,48,39, 0.9); }
 .lobby { background: rgba(69,117,180, 0.9);}
 
@@ -191,7 +191,7 @@
   grid-row: 1 / span 1;
   grid-column: 4 / span 2; 
 }
-.thurs.ausia-3.talk-3 {
+.thurs.madrid.talk-3 {
   grid-row: 1 / span 1;
   grid-column: 6 / span 2; 
 }
@@ -218,7 +218,7 @@
   grid-row: 1 / span 1;
   grid-column: 3 / span 1; 
 }
-.thurs.ausia-3.workshop-3 {
+.thurs.madrid.workshop-3 {
   grid-row: 1 / span 1;
   grid-column: 4 / span 1; 
 }
@@ -248,7 +248,7 @@
   grid-row: 1 / span 1;
   grid-column: 4 / span 2; 
 }
-.thurs.ausia-3.talk-6 {
+.thurs.madrid.talk-6 {
   grid-row: 1 / span 1;
   grid-column: 6 / span 2; 
 }
@@ -268,7 +268,7 @@
   grid-column: 4 / span 2; 
 }
 
-.thurs.ausia-3.lean {
+.thurs.madrid.lean {
   grid-row: 2 / span 1;
   grid-column: 6 / span 2; 
 }
@@ -298,7 +298,7 @@
   grid-column: 4 / span 2; 
 }
 
-.thurs.ausia-3.get-together {
+.thurs.madrid.get-together {
   grid-row: 6 / span 1;
   grid-column: 6 / span 2; 
 }
@@ -321,7 +321,7 @@
   grid-row: 1 / span 1;
   grid-column: 3 / span 1; 
 }
-.fri.ausia-3.workshop-3 {
+.fri.madrid.workshop-3 {
   grid-row: 1 / span 1;
   grid-column: 4 / span 1; 
 }
@@ -351,7 +351,7 @@
   grid-row: 1 / span 1;
   grid-column: 4 / span 2; 
 }
-.fri.ausia-3.talk-3 {
+.fri.madrid.talk-3 {
   grid-row: 1 / span 1;
   grid-column: 6 / span 2; 
 }
@@ -369,7 +369,7 @@
   grid-row: 1 / span 1;
   grid-column: 4 / span 2; 
 }
-.fri.ausia-3.talk-6 {
+.fri.madrid.talk-6 {
   grid-row: 1 / span 1;
   grid-column: 6 / span 2; 
 }
@@ -387,7 +387,7 @@
   grid-row: 2 / span 1;
   grid-column: 3 / span 1; 
 }
-.fri.ausia-3.open-space {
+.fri.madrid.open-space {
   grid-row: 2 / span 1;
   grid-column: 4 / span 2; 
 }
@@ -461,7 +461,7 @@
     grid-row: 2 / span 1;
     grid-column: 2 / span 3; 
   }
-  .room.ausia-3 {
+  .room.madrid {
     grid-row: 2 / span 1;
     grid-column: 5 / span 3; 
   }
@@ -527,7 +527,7 @@
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
-  .thurs.ausia-3.talk-3 {
+  .thurs.madrid.talk-3 {
     grid-row: 3 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -540,7 +540,7 @@
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
-  .thurs.ausia-3.workshop-3 {
+  .thurs.madrid.workshop-3 {
     grid-row: 3 / span 1;
     grid-column: 2 / span 6;
   }
@@ -561,7 +561,7 @@
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
-  .thurs.ausia-3.talk-6 {
+  .thurs.madrid.talk-6 {
     grid-row: 3 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -599,7 +599,7 @@
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
-  .fri.ausia-3.workshop-3 {
+  .fri.madrid.workshop-3 {
     grid-row: 3 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -620,7 +620,7 @@
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
-  .fri.ausia-3.talk-3 {
+  .fri.madrid.talk-3 {
     grid-row: 3 / span 1;
     grid-column: 2 / span 6; 
   }
@@ -633,7 +633,7 @@
     grid-row: 2 / span 1;
     grid-column: 2 / span 6; 
   }
-  .fri.ausia-3.talk-6 {
+  .fri.madrid.talk-6 {
     grid-row: 3 / span 1;
     grid-column: 2 / span 6; 
   }
