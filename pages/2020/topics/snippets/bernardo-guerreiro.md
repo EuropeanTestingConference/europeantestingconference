@@ -29,4 +29,12 @@ You can get more out of this workshop if you already have some beginner/intermed
 briefly go through some basics, and at the very least you can pick up some important notes and tips along the way. So,
 all are welcome!
 
-**Requirements: Bring a laptop with node installed and NVM for package management.**
+**Requirements:** 
+
+If you wish, you can follow the workshop on your laptop. This works best if you have the following:
+- a GitHub account
+- git (or other source control tool)
+- Node + nvm
+- Docker (optional) 
+
+You will still be able to follow without a laptop.
