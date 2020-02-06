@@ -15,7 +15,7 @@ title: "Sponsors"
     <img src="/images/2020/sponsors/bx_logo.png" width="30%" height="30%">
   </a>
   <h3>Partners</h3>
-  <a class="b-sponsor__link b-itext-sponsor" href="https://www.manning.com/">
+  <a class="b-sponsor__link b-itext-sponsor" href="https://www.sli.do/">
     <img src="/images/2020/sponsors/slido_green.png" width="30%" height="30%">
   </a>
   <a class="b-sponsor__link b-itext-sponsor" href="https://www.manning.com/">
