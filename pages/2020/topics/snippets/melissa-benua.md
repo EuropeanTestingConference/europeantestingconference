@@ -16,3 +16,5 @@ organization. Learn from practical, real-world examples about how testing practi
 take advantage of the ad-hoc world of containerization. Come away with a real integration test plan that can reduce your
 cycle times by an order of magnitude while increasing overall product quality. Unlock the power of testing… with
 containers!
+
+Slides: [Continuous Testing with Containers](https://www.slideshare.net/MelissaBenua/continuous-testing-with-containers-2020)

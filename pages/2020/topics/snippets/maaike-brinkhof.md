@@ -16,3 +16,5 @@ This moment set a bunch of things in motion: I had to confront my own fear and u
 learn new skills to be able to contribute useful things to this new context. I had to let go of the old tester inside me
 and invent a new one. I will share what, in my opinion, a DevOps tester role is, and how it contrasts with older styles
 of testing. You can use this as fuel for your own journey to grow.
+
+Slides: [Using DevOps to Grow](https://www.maaikebrinkhof.nl/eutestingconf/Using_DevOps_to_Grow.pdf)

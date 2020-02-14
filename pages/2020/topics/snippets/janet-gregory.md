@@ -17,3 +17,5 @@ In this hands-on workshop, you'll learn techniques such as the 7 dimensions of q
 •	Techniques from agile business analysis and agile testing models that help teams scope each feature and deliver acceptable value to the business, considering all relevant quality attributes.
 
 •	How to use your testing mindset and conversation frameworks to help your whole team build shared understanding for each feature and story, shortening cycle time and reducing rejections.
+
+Slides: [Exploring Features and Stories - Help Your Team Build Shared Understanding](https://www.slideshare.net/janetgregoryca/exploring-features-and-stories-for-shared-understanding-workshop)

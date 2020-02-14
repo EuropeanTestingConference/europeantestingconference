@@ -38,3 +38,5 @@ If you wish, you can follow the workshop on your laptop. This works best if you 
 - Docker (optional) 
 
 You will still be able to follow without a laptop.
+
+Slides: [Get with the Pact - "Gotchas" of implementing Contract Testing the right way](https://www.slideshare.net/BernardoGuerreiro4/get-with-the-pact-gotchas-of-implementing-contract-testing-the-right-way-227294138)
