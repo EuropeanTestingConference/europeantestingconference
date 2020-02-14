@@ -31,3 +31,8 @@ productivity.
 •	Identify and address architectural Testability problems using a combination of models and practical exercises.
 
 •	Identify and address holistic, whole team Testability problems using a combination of models and practical exercises.
+
+
+Slides: [Exploring Testability (.key](https://europeantestingconference.eu/slides20/AmsterdamTestabilityWorkshop.key)
+
+Worksheet: [Exploring Testability - worksheet](https://europeantestingconference.eu/slides20/WORKSHEETv0.3.png)
