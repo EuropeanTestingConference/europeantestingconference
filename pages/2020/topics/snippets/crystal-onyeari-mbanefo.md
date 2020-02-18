@@ -7,3 +7,5 @@ topic-category: exploratory
 ---
 It is so easy to bring people down with feedback. However most of the time, this is not our intention. Instead, we want
 to deliver all feedback in a way that gives the best possible impact. Let's learn how to give uplifting feedback.
+
+Slides: [Exploring different ways of Giving and Receiving feedback](https://www.slideshare.net/OnyeariCrystalMbanef/the-full-presentation-giving-and-receiving-feedback)
