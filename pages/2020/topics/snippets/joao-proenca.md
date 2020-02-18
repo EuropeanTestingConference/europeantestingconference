@@ -18,3 +18,5 @@ We'll talk about the total cost of ownership of a test, and how it is a key anal
 feedback loops. I’ll bring some stories from the company I work for to support this. After all, we’ve gone from
 automated regression environments running thousands of tests overnight to a CI/CD reality. I love my delete key, I hope
 to share the love!
+
+Slides: [Should we just... delete it?!](https://drive.google.com/file/d/1XrSNJR8NOU5E5p93BVDBZWWrnWur03-Z/view)
