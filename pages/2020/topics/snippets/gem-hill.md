@@ -13,3 +13,5 @@ But I'd never had a job that was focused solely on the non-technical skills of t
 
 This talk will cover what I've learned in the past year and a half of this role, some successes, some failures, and some
 tools I discovered to help me.
+
+Slides: [Value and Visibility; How to figure out both when you don't do any hands on testing](https://docs.google.com/presentation/d/1eQz6U9rSNCOhjhU2tIuvme0Cv96PKC-XU4siWBOWWF4)
