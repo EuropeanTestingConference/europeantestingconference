@@ -17,3 +17,5 @@ This is our nightmare scenario. We feel inadequate. We feel it is our fault for 
 it really? And who really **was** to blame anyway? Whose head belongs on the proverbial chopping block?
 
 In this talk, I will answer all of these questions and provide a framework for preventing these incidents from happening again.
+
+Slides: There are no slides for this talk.

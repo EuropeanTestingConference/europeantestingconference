@@ -26,3 +26,5 @@ We’ll have fun exploring the practices of test leadership and developing a set
 all become more effective leaders in our daily work.
 
 This workshop is for testers, test managers, test leads — anyone who is or wants to become a test leader.
+
+Slides: There are no slides for this workshop.

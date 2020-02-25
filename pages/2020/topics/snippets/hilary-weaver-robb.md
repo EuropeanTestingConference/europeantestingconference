@@ -13,3 +13,5 @@ from bugs, duplications, code coverage (or lack thereof), and complexity. We can
 clearer picture of the actual risks, or take immediate action to reduce that risk by killing them off. And if you’re not
 using static analysis tools just yet, you’ll learn about just how invaluable they are to the entire team, not just
 management!
+
+Slides: [The Hidden Treasure of Static Analysis - Finding Risks In Forgotten Places](https://github.com/g33klady/HiddenTreasureOfStaticAnalysis_Talk/blob/master/HiddenTreasureOfStaticAnalysis_public.pptx)

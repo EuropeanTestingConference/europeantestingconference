@@ -10,3 +10,5 @@ In such a scenario, an iterative and cooperative way of working that focuses on 
 
 This talk aims to practically illustrate consumer driven testing using Pact. We will cover when this technique is appropriate and how to organise, define and evolve APIs while keeping in mind. The session will involve a mixture of presentation and live coding to illustrate on how this works in practice.
 
+Slides: [Consumer Driven Contract Testing with Pact](https://www.slideshare.net/supernelis/consumer-driven-contract-testing-with-pact-at-the-european-testing-conference-2020)
+
