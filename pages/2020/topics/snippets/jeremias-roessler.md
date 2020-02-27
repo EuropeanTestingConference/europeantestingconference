@@ -11,3 +11,5 @@ less fragile. And on top of that it can make your test almost unbreakable and el
 virtual id.
  
 Learn how recheck-web works and train hands-on with some examples.
+
+Slides: [Test Automation without Assertions](https://europeantestingconference.eu/slides20/testing without assertions.pdf)
